@@ -25,11 +25,11 @@ go语言是一门新的语言
 		Packer, a tool for creating identical machine images for multiple platforms from a single source configuration
 		Snappy, a package manager for Ubuntu phone developed by Canonical.
 		Syncthing, an open-source file synchronization client/server application
-   4. 创始人 
-该项目的三位领导者均是著名的 IT 工程师：
-罗伯特·格瑞史莫(Robert Griesemer)     Google V8引擎 & JVM HotSpot 开发者
-罗勃特·派克(Rob Pike)    Unix早期开发者 & UTF-8创始人
-肯尼斯·汤普逊(Ken Thompson)    Unix & C 创始人  1983图灵奖获得者 
+ 4. 创始人 
+该项目的三位领导者均是著名的 IT 工程师：<br>
+罗伯特·格瑞史莫(Robert Griesemer)     Google V8引擎 & JVM HotSpot 开发者<br>
+罗勃特·派克(Rob Pike)    Unix早期开发者 & UTF-8创始人<br>
+肯尼斯·汤普逊(Ken Thompson)    Unix & C 创始人  1983图灵奖获得者 <br>
  5. 国内使用go公司：七牛，阿里，百度，腾讯，头条，京东、、、
 
 
@@ -62,11 +62,9 @@ Go 作为一门语言致力于使事情简单化。它并未引入很多新概�
 
 
 # go进阶 （待补充..TODO）
-
 大家好！欢迎大家一起学习go语言。下面主要分享一些go语言进阶的资料。我们知道学习一门语言方式可能有很多，但是都离不开基本语法的了解和学习，并不断练习使用基本语法写出一些稍微复杂的程序，再就是慢慢了解这门语言的一些高级特性，并在工作和生活中不断运用，并不断复习总结，在使用过程中不断复盘，同时将自己所理解的和大家一份分享和学习交流，可能也许这就是费曼学习法吧。坚持下去我们就会慢慢掌握甚至精通这门语言。
 
 ## go进阶网站链接
-
 b站教程：[https://www.bilibili.com/video/av57512936?t=122 视频](https://www.bilibili.com/video/av57512936?t=122)
 
 
