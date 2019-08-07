@@ -22,7 +22,7 @@
 [Juju](https://github.com/juju/juju), a service orchestration tool by Canonical, packagers of Ubuntu Linux<br>
 [Packer](https://github.com/hashicorp/packer), a tool for creating identical machine images for multiple platforms from a single source configuration<br>
 [Snappy](https://github.com/golang/snappy), a package manager for Ubuntu phone developed by Canonical.<br>
-[Syncthing](https://github.com/syncthing/syncthing), an open-source file synchronization client/server application<br><br>
+[Syncthing](https://github.com/syncthing/syncthing), an open-source file synchronization client/server application<br>
 [beego](https://github.com/astaxie/beego),beego is an open-source, high-performance web framework for the Go programming language.<br>
  4. 创始人 
 该项目的三位领导者均是著名的 IT 工程师：<br>
