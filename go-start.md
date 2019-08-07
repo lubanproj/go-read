@@ -23,6 +23,7 @@
 [Packer](https://github.com/hashicorp/packer), a tool for creating identical machine images for multiple platforms from a single source configuration<br>
 [Snappy](https://github.com/golang/snappy), a package manager for Ubuntu phone developed by Canonical.<br>
 [Syncthing](https://github.com/syncthing/syncthing), an open-source file synchronization client/server application<br>
+[beego](https://github.com/astaxie/beego),beego is an open-source, high-performance web framework for the Go programming language.
  4. 创始人 
 该项目的三位领导者均是著名的 IT 工程师：<br>
 罗伯特·格瑞史莫(Robert Griesemer)     Google V8引擎 & JVM HotSpot 开发者<br>
@@ -37,6 +38,7 @@
 菜鸟教程：[https://www.runoob.com/go/go-tutorial.html 文档](https://www.runoob.com/go/go-tutorial.html)<br>
 慕课网教程：[https://www.imooc.com/learn/968 视频](https://www.imooc.com/learn/968)<br>
 b站教程：[https://www.bilibili.com/video/av57512936?t=122 视频](https://www.bilibili.com/video/av57512936?t=122)<br>
+go web框架beego使用入门:[https://beego.me/quickstart 文档](https://beego.me/quickstart)
 
 
 ##  go有什么优势呢，那为什么我们要学习go? 
