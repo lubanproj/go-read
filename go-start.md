@@ -38,9 +38,9 @@
 菜鸟教程：[https://www.runoob.com/go/go-tutorial.html 文档](https://www.runoob.com/go/go-tutorial.html)<br>
 慕课网教程：[https://www.imooc.com/learn/968 视频](https://www.imooc.com/learn/968)<br>
 b站教程：[https://www.bilibili.com/video/av57512936?t=122 视频](https://www.bilibili.com/video/av57512936?t=122)<br>
-go web框架beego使用入门:[https://beego.me/quickstart 文档](https://beego.me/quickstart)
-go 中文圣经： [https://docs.hacknode.org/gopl-zh/index.html 文档](https://docs.hacknode.org/gopl-zh/index.html)
-go 整合文档：[https://www.gettoby.com/p/vtclwh452p1w 文档](https://www.gettoby.com/p/vtclwh452p1w)
+go web框架beego使用入门:[https://beego.me/quickstart 文档](https://beego.me/quickstart)<br>
+go 中文圣经： [https://docs.hacknode.org/gopl-zh/index.html 文档](https://docs.hacknode.org/gopl-zh/index.html)<br>
+go 整合文档：[https://www.gettoby.com/p/vtclwh452p1w 文档](https://www.gettoby.com/p/vtclwh452p1w)<br>
 
 ##  go有什么优势呢，那为什么我们要学习go? 
  1.   学习曲线容易:Go语言语法简单，包含了类C语法。因为Go语言容易学习，所以一个普通的大学生花几个星期就能写出来可以上手的、高性能的应用。在国内大家都追求快，这也是为什么国内Go流行的原因之一。<br>   
