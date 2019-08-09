@@ -39,7 +39,8 @@
 慕课网教程：[https://www.imooc.com/learn/968 视频](https://www.imooc.com/learn/968)<br>
 b站教程：[https://www.bilibili.com/video/av57512936?t=122 视频](https://www.bilibili.com/video/av57512936?t=122)<br>
 go web框架beego使用入门:[https://beego.me/quickstart 文档](https://beego.me/quickstart)
-
+go 中文圣经： [https://docs.hacknode.org/gopl-zh/index.html 文档](https://docs.hacknode.org/gopl-zh/index.html)
+go 整合文档：[https://www.gettoby.com/p/vtclwh452p1w 文档](https://www.gettoby.com/p/vtclwh452p1w)
 
 ##  go有什么优势呢，那为什么我们要学习go? 
  1.   学习曲线容易:Go语言语法简单，包含了类C语法。因为Go语言容易学习，所以一个普通的大学生花几个星期就能写出来可以上手的、高性能的应用。在国内大家都追求快，这也是为什么国内Go流行的原因之一。<br>   
@@ -58,13 +59,6 @@ Go 作为一门语言致力于使事情简单化。它并未引入很多新概�
 创建 Goroutines 的成本很低，只需几千个字节的额外内存，正由于此，才使得同时运行数百个甚至数千个 goroutines 成为可能。可以借助通道实现 goroutines 之间的通信。Goroutines 以及基于通道的并发性方法使其非常容易使用所有可用的 CPU 内核，并处理并发的 IO。相较于 Python/Java，在一个 goroutine 上运行一个函数需要最小的代码。<br>
 ![图5](https://github.com/licslan/go_read/raw/master/goimages/go5.jpeg)<br>
  8. 稳定性：Go拥有强大的编译检查、严格的编码规范和完整的软件生命周期工具，具有很强的稳定性，稳定压倒一切。那么为什么Go相比于其他程序会更稳定呢？这是因为Go提供了软件生命周期（开发、测试、部署、维护等等）的各个环节的工具，如go tool、gofmt、go test。<br>
-# go进阶 Let`s go start
-大家好！欢迎大家一起学习go语言。下面主要分享一些go语言进阶的资料。我们知道学习一门语言方式可能有很多，但是都离不开基本语法的了解和学习，并不断练习使用基本语法写出一些稍微复杂的程序，再就是慢慢了解这门语言的一些高级特性，并在工作和生活中不断运用，并不断复习总结，在使用过程中不断复盘，同时将自己所理解的和大家一起分享，学习交流，可能也许这就是费曼学习法吧。坚持下去我们就会慢慢掌握甚至精通这门语言。<br>
-
-## go进阶网站链接
-b站教程：[https://www.bilibili.com/video/av57512936?t=122 视频](https://www.bilibili.com/video/av57512936?t=122)
-<br>
-（待补充..TODO）
 
 
 <br>
