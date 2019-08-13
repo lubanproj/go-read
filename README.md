@@ -1,9 +1,13 @@
-### Go 语言
-|入门文章|
-|---|
-|[go 入门教程](https://github.com/lubanproj/go_read/blob/master/go-start.md)|
-|[go源码阅读指南](https://github.com/lubanproj/go_read/blob/master/go源码阅读指南.md)|
+## gocn_news_2019
+### gocn_news_2019-08-13
+- 1. Go GC 算法真的比 Java 领先吗：https://mp.weixin.qq.com/s/eDd212DhjIRGpytBkgfzAg 
 
-|进阶文章|
-|---|
-||
+- 2. Go 文件解压缩：https://medium.com/learning-the-go-programming-language/working-with-compressed-tar-files-in-go-e6fe9ce4f51d 
+
+- 3. Go 开发者路线图：https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md
+
+- 4. 云原生生态周报：https://mp.weixin.qq.com/s/fQzFwcd-rduqLWceJdrxyw 
+
+- 5. DevOps 在唯品会的实践：https://mp.weixin.qq.com/s/OsVGhyUZfte1gRFLFhOd2Q
+
+- - - - - - - - - - 
