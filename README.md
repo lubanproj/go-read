@@ -133,6 +133,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2578,3 +2579,16 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 编辑: Razil  
 
 - - - - - - - - - - - 
+
+### gocn_news_2019-01-10
+- 1. 优雅的重新启动Golang web 服务 https://tomaz.lovrec.eu/posts/graceful-server-restart/
+
+- 2. Go实现的小型的服务检查仪表盘 https://github.com/mtojek/greenwall
+
+- 3. Golang跨平台自动化系统 https://github.com/go-vgo/robotgo
+
+- 4. Golang实现的人脸检测库 https://github.com/esimov/pigo
+
+- 5. 一个可以编写Excel文件的Golang库 https://dev.to/xuri/go-library-for-reading-and-writing-microsoft-excel-xlsx-files-57hi
+
+- - - - - - - - - - 
