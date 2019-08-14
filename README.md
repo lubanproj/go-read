@@ -51,6 +51,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1427,5 +1428,18 @@
 - 4. 缓存慢数据库查询 https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9
 
 - 5. 理解Go语言defer关键字的原理 https://draveness.me/golang-defer
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-09
+- 1. 使用 Ginkgo 写单元测试：https://medium.com/boldly-going/unit-testing-in-go-with-ginkgo-part-1-ce6ff06eb17f
+
+- 2. 用 Go 写一个 twitter 机器人： https://medium.freecodecamp.org/creating-a-twitter-bot-from-scratch-with-golang-e1f37a66741
+
+- 3. Hugo 0.55.0 发布：https://gohugo.io/news/0.55.0-relnotes/
+
+- 4. 边缘计算和云计算到底是什么关系？https://mp.weixin.qq.com/s/eOzeL5785rdUDDy_ta0QoQ
+
+- 5. 云原生（cloud native）方式指的是什么： https://medium.com/@sonujose993/what-it-means-to-be-cloud-native-approach-the-cncf-way-9e8ab99d4923
 
 - - - - - - - - - - 
