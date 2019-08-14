@@ -38,6 +38,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1245,5 +1246,18 @@
 - 4. 命令行界面的Wireshark https://github.com/gcla/termshark
 
 - 5. 并发编程导论 https://juejin.im/post/5cbd7e6a5188250a7c4c8b0d
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-23
+- 1. Go Module: 项目配置不再需要 GOPATH  https://blog.francium.tech/go-modules-go-project-set-up-without-gopath-1ae601a4e868
+
+- 2. Go REST API 单元测试：https://codeburst.io/unit-testing-for-rest-apis-in-go-86c70dada52d
+
+- 3. 深入理解 Go channel：https://itnext.io/diving-into-golang-channels-e9e610d586e8
+
+- 4. 深入理解 Go 语言 defer https://mp.weixin.qq.com/s/e2t3CMUqtIcEq-OhbWy5Hw 
+
+- 5. StackOverflow 2019 程序员调查：https://coolshell.cn/articles/19307.html
 
 - - - - - - - - - - 
