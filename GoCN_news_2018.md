@@ -15,6 +15,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -362,5 +363,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Istio 系列教程：https://medium.com/@nethminiromina/istio-step-by-step-part-04-traffic-routing-path-of-istio-service-mesh-part-a-ingress-routing-28e03cdaa048
 
 - 5. 什么是边缘计算：https://medium.com/@miccowang/what-is-edge-computing-f997c0ab39fc
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-03
+- 1. 在Go中构建Web服务 https://getgophish.com/blog/post/2018-12-02-building-web-servers-in-go
+
+- 2. 使用内容定义分块来拆分数据  https://blog.gopheracademy.com/advent-2018/split-data-with-cdc/
+
+- 3. 通过编程查找DNS记录 http://www.golangprograms.com/find-dns-records-programmatically.html
+
+- 4. 从PHP迁移至Golang - 热更新篇 https://segmentfault.com/a/1190000017228287
+
+- 5. Golang 项目之配置文件 https://juejin.im/post/5c04061bf265da61380ef7aa
 
 - - - - - - - - - - 
