@@ -2,6 +2,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -743,5 +744,18 @@
 - 4. Go中结构体的标记字段 https://itnext.io/creating-your-own-struct-field-tags-in-go-c6c86727eff
 
 - 5. Golang并发中犯的错误 https://dev.to/dannypsnl/the-go-concurrency-bug-i-made-3dma
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-29
+- 1. [译]Go如何优雅的处理异常 https://mp.weixin.qq.com/s/GEWy8AQg5WmlX3POearpZQ
+
+- 2. Micro源码系列 - Go-Micro服务的构造过程 https://gocn.vip/question/3379
+
+- 3. Go内存管理 https://povilasv.me/go-memory-management-part-2/
+
+- 4. gobox中的异常定义和杂项工具 https://mp.weixin.qq.com/s/F-T9aoo3-DMAEr8-dzsenQ
+
+- 5. Go 1.12 移植到 RISC-V 的进展 https://www.reddit.com/r/golang/comments/bu4l0p/progress_on_the_go_112_port_to_riscv/
 
 - - - - - - - - - - 
