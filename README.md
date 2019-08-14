@@ -15,6 +15,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -218,5 +219,18 @@
 - 4. Go GraphQL教程 https://juejin.im/post/5d4051985188255d803f8234
 
 - 5. Go gRPC Hello World https://juejin.im/post/5d3fa19c5188255d4d368ed1
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-25
+- 1. Go 语言十年而立，Go2 蓄势待发 https://mp.weixin.qq.com/s/wE_z7MxDJjIVDN16578tDw
+
+- 2. Go Context 使用和源码分析 https://segmentfault.com/a/1190000019862527
+
+- 3. [译] Go 代码诊断工具集合 https://cyningsun.github.io//07-21-2019/go-diagnostics-cn.html
+
+- 4. 高性能高扩展golang http路由库erouter https://juejin.im/post/5d390a9f6fb9a07edb398b6d
+
+- 5. Go 语言依赖管理的趋势：Go Module 以及 Go 仓库 https://mp.weixin.qq.com/s/NNUrVC6XFfUinshw5_4ehQ
 
 - - - - - - - - - - 
