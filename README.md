@@ -21,6 +21,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1009,5 +1010,18 @@
 - 4. Go驱动测试 https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 
 - 5. Go与Java、Python相比的优势 https://yourbasic.org/golang/advantages-over-java-python/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-10
+- 1. 进程、线程、协程和goroutine https://www.jianshu.com/p/4739d2cd72d7
+
+- 2. golang modules问题的理解与踩坑记 https://daozhao.goflytoday.com/2019/05/golang-modules/
+
+- 3. golang的熔断包hystrix的用例 http://baixiaoustc.com/2019/05/09/2019-05-09-golang-hystrix-examples
+
+- 4. Go 处理 JSON 教程 - 如何创建和解析 JSON 数据 https://bingohuang.com/go-json
+
+- 5. 高效管理 Elasticsearch 中基于时间的索引 https://mp.weixin.qq.com/s/TfbYmvxsi1Jegl6phBXl9A
 
 - - - - - - - - - - 
