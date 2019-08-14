@@ -102,6 +102,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2142,3 +2143,16 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 5.实现真正优雅的容器应用 https://mp.weixin.qq.com/s/D924A0s7_thq8gOXB85e7A
 
 - - - - - - - - - - - 
+
+### gocn_news_2019-02-13
+- 1. 用go处理websocket100万连接 https://speakerdeck.com/eranyanay/going-infinite-handling-1m-websockets-connections-in-go
+
+- 2. 始终管理你的goroutine https://medium.com/@yinoneliraz/always-manage-your-goroutines-7567fa5ec3da
+
+- 3. go在错误信息堆栈中添加代码片段 https://medium.com/@gztrue/increasing-go-errors-informativeness-by-adding-a-stack-trace-and-displaying-source-fragments-117f577e8df2
+
+- 4. go编写的小型、快速的脚本语言 https://github.com/d5/tengo
+
+- 5. kubernetes入门指南 https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6
+
+- - - - - - - - - - 
