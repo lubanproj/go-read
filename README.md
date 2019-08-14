@@ -134,6 +134,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2590,5 +2591,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Golang实现的人脸检测库 https://github.com/esimov/pigo
 
 - 5. 一个可以编写Excel文件的Golang库 https://dev.to/xuri/go-library-for-reading-and-writing-microsoft-excel-xlsx-files-57hi
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-09
+- 1. Go:开发前你应该知道的几个tips https://medium.com/@alexmaisiura/tips-that-you-should-know-before-start-writing-on-go-d30e681e2dd7
+
+- 2. Go经典库使用分析:高性能可扩展HTTP路由httprouter  https://mp.weixin.qq.com/s/Q2-60p_KU0AgbvtPu7CMRw
+
+- 3. 反射之reflect.Type方法查找和调用 https://blog.csdn.net/breaksoftware/article/details/86068788
+
+- 4. 编写自定义K8s调度器 https://banzaicloud.com/blog/k8s-custom-scheduler/
+
+- 5. Gloo——记一次失败的实验 https://mp.weixin.qq.com/s/WPmog5TgZr_W4QRVz4Dyhw
 
 - - - - - - - - - - 
