@@ -17,6 +17,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -626,5 +627,18 @@
 - 4. GO译文之并发模型二基于Context编程 https://zhuanlan.zhihu.com/p/60180409
 
 - 5. 原谅宝的数据真相与隐私埋葬 https://mp.weixin.qq.com/s/l0U2ffXEuW4nJPDuG8FlRw
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-08
+- 1. 利用gopackage进行包的捕获、注入和分析 https://colobu.com/2019/06/01/packet-capture-injection-and-analysis-gopacket/
+
+- 2. 配置sql.DB获得更好的性能 https://colobu.com/2019/05/27/configuring-sql-DB-for-better-performance/
+
+- 3. 如何写出优雅的Golang代码 https://draveness.me/golang-101
+
+- 4. Go中实现Flutter https://divan.dev/tags/dart/
+
+- 5. 2019年最火热的Golang项目 https://juejin.im/post/5cfa2cfef265da1bcc19333e
 
 - - - - - - - - - - 
