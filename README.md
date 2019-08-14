@@ -132,6 +132,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2562,3 +2563,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 5. 初次尝试Kubernetes https://www.youtube.com/watch?v=ZSuh_nNPGls
 
 - - - - - - - - - - 
+
+### gocn_news_2019-01-11
+- 1. GoCN每日新闻(2019-01-11)
+
+- 2. 1.使用Goreplay回放与测试Https请求 https://medium.com/a-layman/software-testing-design-a-dark-traffic-system-to-test-https-requests-with-goreplay-8d143ebc5497
+2.通过OPA实现Kubernetes的鉴权 https://medium.com/@sbueringer/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb
+3.FoxySim:Go实现的电流仿真库 https://github.com/Dreamy16101976/FoxySim
+4.gosh: Go实现的小型shell https://github.com/cezarmathe/gosh
+5.go-ycsb:数据库性能测试框架 https://github.com/pingcap/go-ycsb    
+
+- 3. GopherChina 2019@北京，早鸟票已开售 https://gopherchina.org/  
+
+- 4. 编辑: Razil  
+
+- - - - - - - - - - - 
