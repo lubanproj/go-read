@@ -33,6 +33,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -476,5 +477,18 @@
 - 4. Go中结构体的标记字段 https://itnext.io/creating-your-own-struct-field-tags-in-go-c6c86727eff
 
 - 5. Golang并发中犯的错误 https://dev.to/dannypsnl/the-go-concurrency-bug-i-made-3dma
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-02
+- 1. golang http/transport 代码分析 http://www.cnblogs.com/gaorong/p/10887021.html
+
+- 2. Kafka两级调度实现分布式协调微服务任务分配Golang版 https://segmentfault.com/a/1190000019244065
+
+- 3. 如何在 Go 中读取配置文件和环境变量 https://medium.com/@bnprashanth256/reading-configuration-files-and-environment-variables-in-go-golang-c2607f912b63
+
+- 4. mongoDB wiredTiger存储引擎总结 https://juejin.im/post/5ce29166f265da1bac3fe945
+
+- 5. 使用 Flagger，istio 和 GitOps Pipeline 自动管理 Kubernetes  https://www.weave.works/blog/automated-canary-management-to-kubernetes-with-flagger-istio-and-gitops-pipelines
 
 - - - - - - - - - - 
