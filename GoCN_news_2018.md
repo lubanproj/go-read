@@ -38,6 +38,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -698,5 +699,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Go管理虚拟机(hypervisor, qemu/kvm) https://github.com/intel/govmm
 
 - 5. 浅谈大型互联网的企业入侵检测及防护策略 https://mp.weixin.qq.com/s/1Iry620hCkJ8sHA626T3Dg
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-10
+- 1. 五个加速 Go 的特性 https://mp.weixin.qq.com/s/sKMlczFAKVdybUHZwSNkpw
+
+- 2. Consul负载均衡策略 https://juejin.im/post/5be4073df265da613b6f450a
+
+- 3. 用Go写一个简单简单的交互shell应用 https://hackernoon.com/today-i-learned-making-a-simple-interactive-shell-application-in-golang-aa83adcb266a
+
+- 4. 用Go编码乳腺癌数据分类器 https://medium.com/@italojs/knn-3-coding-our-breast-cancer-classifier-503b804988f8
+
+- 5. Apache ServiceComb架构演进：支持多数据中心微服务发现 https://juejin.im/post/5be4ebf4e51d452e7243ae16
 
 - - - - - - - - - - 
