@@ -112,6 +112,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2280,5 +2281,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go 时间交并集小工具 https://juejin.im/post/5c5407f9e51d457fca2e7b9f
 
 - 5. Golang写webassembly的乐趣 https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-01
+- 1. Go 代码简洁之道 https://youtu.be/kX-cYkto_Pk
+
+- 2. 渗透测试工具 Gorsair https://github.com/Ullaakut/Gorsair
+
+- 3. 如何实现一个函数调度器 https://medium.com/@sdeoras/a-go-func-scheduler-with-a-cap-360383f14875
+
+- 4. Go 语言编译过程概述 https://draveness.me/golang-compile-intro
+
+- 5. 微服务进化史 https://juejin.im/post/5c5ed33cf265da2dc6759392
 
 - - - - - - - - - - 
