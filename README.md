@@ -48,6 +48,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1385,5 +1386,18 @@
 - 4. 开源api网关tyk性能调优 https://medium.com/@ahmet_19567/performance-tuning-your-open-source-tyk-api-gateway-d48505c205a1
 
 - 5. Go 1.12.4和1.11.9版本发布 https://groups.google.com/forum/#!topic/golang-nuts/bMutB64oDi8
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-12
+- 1. Go的Heap深入分析 https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2
+
+- 2. Stack Overflow调研Go薪资全世界排名第二 https://insights.stackoverflow.com/survey/2019
+
+- 3. sync.RWMutex - 解决并发读写问题 https://mp.weixin.qq.com/s/kQEHt37Tr7x5CIfre9-Jbw
+
+- 4. 高并发编程知识体系 https://mp.weixin.qq.com/s/qaj37YYxz7afD-WfAZeN8Q
+
+- 5. Golang实现requests库 https://www.cnblogs.com/bener/p/10688294.html
 
 - - - - - - - - - - 
