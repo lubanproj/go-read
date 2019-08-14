@@ -49,6 +49,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1399,5 +1400,18 @@
 - 4. 高并发编程知识体系 https://mp.weixin.qq.com/s/qaj37YYxz7afD-WfAZeN8Q
 
 - 5. Golang实现requests库 https://www.cnblogs.com/bener/p/10688294.html
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-11
+- 1. 如何优化Golang中重复的错误处理 https://huoding.com/2019/04/11/728
+
+- 2. Go 的依赖注入https://mp.weixin.qq.com/s/xWP28BIto-UI8GwwN4_WCg
+
+- 3. Golang Slice技巧 https://juejin.im/post/5cad91956fb9a0687e3900c1
+
+- 4. Eureka-Client(Golang实现）http://www.cnblogs.com/bener/p/10683404.html
+
+- 5. 你真的需要用Kubernetes吗？ https://mp.weixin.qq.com/s/MNX7QG-TbHXe0OMOun5eWA https://mp.weixin.qq.com/s/1co_fK8wyEgrbIUtcymhLw
 
 - - - - - - - - - - 
