@@ -11,6 +11,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -306,5 +307,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Go errors处理从否定到接受 https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance
 
 - 5. 微软开源的Go跨平台网络诊断工具 https://github.com/Microsoft/Ethr
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-07
+- 1. golang持续测试工具 https://github.com/vdemeester/ram
+
+- 2. Kubernetes 1.13发布：利用Kubeadm简化集群管理，CSI以及作为默认DNS的CoreDNS全面实现普遍可用 https://mp.weixin.qq.com/s/m0S2rNla-csKLZgNauC_vQ
+
+- 3. Serverless Jenkins 和 Jenkins X https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870
+
+- 4. 美团DB数据同步到数据仓库的架构与实践 https://mp.weixin.qq.com/s/MrGSWXd1Oa3jSjYX87ObSg
+
+- 5. CentOS7官方Docker发行版现重大Bug可致Kubernetes中的健康检测探针失败并影响容器交互 https://mp.weixin.qq.com/s/z2BNbXff0YnLxrtGfa3djg
 
 - - - - - - - - - - 
