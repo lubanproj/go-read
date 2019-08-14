@@ -119,6 +119,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2378,5 +2379,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 聊聊新的Go语言错误处理方案 https://www.4async.com/2019/01/go-new-xerrors/
 
 - 5. Devs和Kubernetes之间存在差距 https://medium.com/@kent.rancourt/theres-a-gap-between-devs-and-kubernetes-f67f06c73454
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-25
+- 1. Go程序性能优化的两面观 https://docs.google.com/presentation/d/12ewqX5LEHyjUsPG5fcavGctTooxiiWTgRJ8cGH3ibzU/edit#slide=id.p 
+
+- 2. 为什么我们选择Badger而不是RocksDB https://blog.dgraph.io/post/badger-over-rocksdb-in-dgraph/ 
+
+- 3. Api服务开发,选择Rest还是GRPC https://blog.maddevs.io/go-rest-or-grpc-5eace88499bd 
+
+- 4. 使用go-telegram-flow构建我们的Telegram机器人 https://www.youtube.com/watch?v=nViw-knsfXA&feature=youtu.be 
+
+- 5. InfluxDB 2.0 Alpha版本发布 https://www.influxdata.com/blog/influxdb-2-0-alpha-release-and-the-road-ahead/ 
 
 - - - - - - - - - - 
