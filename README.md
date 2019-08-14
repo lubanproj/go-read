@@ -3,6 +3,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -414,3 +415,26 @@
 - 5. Go Modules踩坑总结 https://mp.weixin.qq.com/s/2v8kGm8T9BQFmpLfQE7-wg
 
 - - - - - - - - - - 
+
+### gocn_news_2019-06-27
+- 1. 走向Go 2的下一步 https://blog.golang.org/go2-next-steps
+
+- 2. 使用Go构建数据库密集型应用程序的终极指南 http://t.cn/AipRdZir
+
+- 3. 关于在gRPC中使用TLS的 http://gophersre.com/2019/06/21/grpc-dont-supply-a-client-cert/
+
+- 4. 经典并发模式 https://www.youtube.com/watch?v=5zXAHh5tJqQ
+
+- 5. 内存泄漏优化 https://segmentfault.com/a/1190000019591222
+
+- 6. 走向 Go 2 的下一步
+
+- 7. 使用 Go 构建数据库密集型应用程序的终极指南
+
+- 8. 关于在 gRPC 中使用 TLS 的
+
+- 9. 经典并发模式
+
+- 10. 内存泄漏优化
+
+- - - - - 
