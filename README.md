@@ -115,6 +115,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2322,5 +2323,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 将postgresql扩展到12亿条每月的经验 https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067
 
 - 5. 如何创建一个更小的docker镜像 https://medium.com/@gdiener/how-to-build-a-smaller-docker-image-76779e18d48a
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-29
+- 1. Golang中带有容量的函数调度程序的解析 https://medium.com/@sdeoras/a-go-func-scheduler-with-a-cap-360383f14875
+
+- 2. WebAssembly与Golang很有趣 https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02
+
+- 3. Go中的链表 https://medium.com/backendarmy/linked-lists-in-go-f7a7b27a03b9
+
+- 4. 才云Caicloud开源Nirvana：让API从对框架的依赖中涅槃重生 https://mp.weixin.qq.com/s/Nd2DrV6H0JN25ccHnuMRpQ
+
+- 5. 分享一个友好的Null类型帮助库 https://github.com/mattn/go-nulltype
 
 - - - - - - - - - - 
