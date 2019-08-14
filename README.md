@@ -117,6 +117,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2350,5 +2351,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 函数计算的基本概念和通用场景描述：https://zhuanlan.zhihu.com/p/27504661
 
 - 5. 2019 年开发大数据框架的语言选择：https://towardsdatascience.com/back-to-the-metal-top-3-programming-language-to-develop-big-data-frameworks-in-2019-69a44a36a842
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-27
+- 1. cacheline 对 Go 程序的影响 https://colobu.com/2019/01/24/cacheline-affects-performance-in-go/
+
+- 2. 使用 defer 还是不使用 defer https://colobu.com/2019/01/22/Runtime-overhead-of-using-defer-in-go/
+
+- 3. 错误处理与自动重试 http://www.zenlife.tk/error-retry.md
+
+- 4. 同时支持SAP、ASE、RS、IQ的Go驱动库 https://github.com/thda/tds
+
+- 5. GopherCon UK 2018 使用Go构建弹性流水线 https://www.youtube.com/watch?v=gm34Aph9v0M
 
 - - - - - - - - - - 
