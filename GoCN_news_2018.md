@@ -27,6 +27,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -534,5 +535,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Go 内置库第一季：net/url  https://juejin.im/post/5bf42ac0f265da61616e50b9
 
 - 5. 美团容器平台架构及容器技术实践 https://mp.weixin.qq.com/s/FGMkNexqKvFXmOTjqJZkfA
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-21
+- 1. GO HTTP性能调优 https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca
+
+- 2. Go编写的服务器让PHP应用更加便捷高效 https://blog.spiralscout.com/php-was-never-meant-to-die-830de87915ee
+
+- 3. GO HTTP中context的传递 https://medium.com/@rakyll/context-propagation-over-http-in-go-d4540996e9b0
+
+- 4. Tcl和Raft发明人的软件设计哲学 https://mp.weixin.qq.com/s/l_xnOd2gmTSbj3WqZAL7aQ
+
+- 5. 进阶的Redis之数据持久化RDB与AOF https://mp.weixin.qq.com/s/BrgGxVDPR08Wd8TVVpYQkw
 
 - - - - - - - - - - 
