@@ -34,6 +34,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -490,5 +491,18 @@
 - 4. mongoDB wiredTiger存储引擎总结 https://juejin.im/post/5ce29166f265da1bac3fe945
 
 - 5. 使用 Flagger，istio 和 GitOps Pipeline 自动管理 Kubernetes  https://www.weave.works/blog/automated-canary-management-to-kubernetes-with-flagger-istio-and-gitops-pipelines
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-01
+- 1. 快速测试:包装*testing.T以提高效率 https://rogpeppe.wordpress.com/2019/05/15/quicktest-wrap-testing-t-for-fun-and-profit/
+
+- 2. 基于2PC和延迟更新完成分布式消息队列多条事务 https://juejin.im/post/5cde20f3f265da7e7b3c91aa
+
+- 3. 谈一谈 Go 和 Syscall https://juejin.im/post/5cdd56f6e51d456e8b07de5e
+
+- 4. Go 模糊测试 https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit
+
+- 5. GO小知识之如何做JSON美化 https://zhuanlan.zhihu.com/p/65905512
 
 - - - - - - - - - - 
