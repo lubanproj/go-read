@@ -99,6 +99,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2099,5 +2100,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 面向开发者的机器学习基础设施 https://github.com/cortexlabs/cortex
 
 - 5. 详解Golang中间代码生成 https://draveness.me/golang-ir-ssa
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-17
+- 1. go mod官方的module管理工具 https://github.com/googege/blog/blob/master/go/tool/goMod/README.md
+
+- 2. k8s中定时任务的实现 https://www.jianshu.com/p/83eb85d53382
+
+- 3. Go内存模型&Happen-Before（一） http://ifeve.com/go-memhappen-before%ef%bc%88%e4%b8%80%ef%bc%89/
+
+- 4. 用Go处理json https://www.reddit.com/r/golang/comments/aradot/working_with_json_in_go_tutorial/
+
+- 5. Linkerd与Istio主导服务网格之战 https://searchitoperations.techtarget.com/news/252457734/Linkerd-vs-Istio-fray-dominates-service-mesh-battle
 
 - - - - - - - - - - 
