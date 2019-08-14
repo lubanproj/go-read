@@ -1,6 +1,7 @@
 ## gocn_news__2018
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -166,5 +167,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 什么是 Service Mesh: https://medium.com/ravirdv/micro-services-what-is-service-mesh-and-how-does-it-help-you-65e38377acdb
 
 - 5. 使用 Grafana 和 Prometheus 进行混合云监控： https://medium.com/@anupam.ncsu/grafana-prometheus-hybrid-cloud-monitoring-19907e52c4a1
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-17
+- 1. NSQ 与 Go https://medium.com/@jawadahmadd/nsq-with-go-77ca1b69c4ec
+
+- 2. Golang Context 是好的设计吗？https://segmentfault.com/a/1190000017394302
+
+- 3. Go 变量 http://www.golangprograms.com/go-language/variables.html
+
+- 4. beego 框架代码分析 https://juejin.im/post/5c16f65ff265da61441ff343
+
+- 5. 万亿级数据洪峰下的分布式消息引擎 https://mp.weixin.qq.com/s/FuUICaNihx1PPKfxRTN1Fg
 
 - - - - - - - - - - 
