@@ -39,6 +39,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -712,5 +713,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 用Go编码乳腺癌数据分类器 https://medium.com/@italojs/knn-3-coding-our-breast-cancer-classifier-503b804988f8
 
 - 5. Apache ServiceComb架构演进：支持多数据中心微服务发现 https://juejin.im/post/5be4ebf4e51d452e7243ae16
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-09
+- 1. 使用expvar测试go代码性能 https://sysdig.com/blog/golang-expvar-custom-metrics/
+
+- 2. GO源代码三维可视化城市模型 https://go-city.github.io/
+
+- 3. MAC beats开发环境搭建 https://www.jianshu.com/p/396e3902ed9b
+
+- 4. 在浏览器中WASM中使用go模块Otto运行JavaScript https://github.com/donatj/gojs
+
+- 5. 参加2018年Go用户调查 https://blog.golang.org/survey2018
 
 - - - - - - - - - - 
