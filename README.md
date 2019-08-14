@@ -27,6 +27,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -384,5 +385,18 @@
 - 4. net/http输出context引起的map panic http://xiaorui.cc/?p=5919
 
 - 5. []byte和string类型相互转换时的性能分析和优化 https://www.pengrl.com/p/31544/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-02
+- 1. Go 实现的广告拦截工具：https://github.com/kaepora/resilience 
+
+- 2. Go 压缩/解压缩文件: https://github.com/mholt/archiver
+
+- 3. Go vs Python: 选择适合你的语言 https://medium.com/swlh/python-vs-golang-select-the-best-one-to-level-up-your-business-1a6d0fb32991
+
+- 4. 企业构建 Serverless 团队的五个建议：https://thenewstack.io/five-tips-building-serverless-teams-enterprise
+
+- 5. 使用 AWS Lambda 构建 PDF 生成器：https://medium.com/@_rich/richard-keller-61d9cb0f430 
 
 - - - - - - - - - - 
