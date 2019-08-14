@@ -106,6 +106,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2196,5 +2197,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go 语言编译过程概述 https://draveness.me/golang-compile-intro
 
 - 5. 微服务进化史 https://juejin.im/post/5c5ed33cf265da2dc6759392
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-09
+- 1. 使用Go构建OAuth2服务 https://hackernoon.com/build-your-own-oauth2-server-in-go-7d0f660732c3  
+
+- 2. 指令集架构、机器码与 Go 语言 https://draveness.me/golang-machinecode  
+
+- 3. k8s的workqueue机制:简化Kubernetes的批量作业 https://techblog.appnexus.com/k8s-workqueue-simplified-kubernetes-batch-jobs-a748500ebd49  
+
+- 4. Gitbook:通过 Go 语言学习测试驱动开发 https://github.com/quii/learn-go-with-tests  
+
+- 5. fzf: 一款强大的命令行查找工具 https://github.com/junegunn/fzf   
 
 - - - - - - - - - - 
