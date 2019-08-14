@@ -12,6 +12,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -556,5 +557,18 @@
 - 4. Service Mesh 简介：https://medium.com/@arjunrc143/introduction-to-service-mesh-4fc2b872d4f9 
 
 - 5. 系统架构系列（一）：如何用公式定义该概念? https://www.infoq.cn/article/fwhQ-dIN2xTUH6zNLYZp
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-18
+- 1. 曹大谈内存重排 https://mp.weixin.qq.com/s/r9yC78exkDbXs7Et2pC5PA
+
+- 2. Go语言调度器[译] https://pengrl.com/p/22729
+
+- 3. Go面向对象编程（译） https://juejin.im/post/5d065cad51882523be6a92f2
+
+- 4. 什么是缓存false sharing以及如何解决(Go示例)[译] https://juejin.im/post/5d0519e05188257a78764d5d
+
+- 5. Go增删改查TCP服务器 https://medium.com/xxxvenom/go-tcp-crud-server-61fc34469640
 
 - - - - - - - - - - 
