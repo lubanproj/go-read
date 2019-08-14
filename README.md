@@ -6,6 +6,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -464,5 +465,18 @@
 - 4. Go 和 WebRTC https://viscarra.dev/post/webrtc-gspeech/
 
 - 5. Go 简略体验 https://www.tbray.org/ongoing/When/201x/2019/06/12/Go-Creeping-In
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-24
+- 1. Go与Python/R语言通讯 https://opendatagroup.github.io/development/2019/06/13/go-ffi.html
+
+- 2. 利用Go实现gRPC拦截器 https://davidsbond.github.io/2019/06/14/creating-grpc-interceptors-in-go.html
+
+- 3. circl: Cloudflare开源的加密库 https://blog.cloudflare.com/introducing-circl/
+
+- 4. go-xmpp: Go实现的XMPP库 https://github.com/FluuxIO/go-xmpp
+
+- 5. 如果在Go中使用context.Context https://medium.com/the-polyglot-programmer/how-to-use-the-context-context-package-with-the-go-language-7114878bbed9
 
 - - - - - - - - - - 
