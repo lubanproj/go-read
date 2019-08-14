@@ -26,6 +26,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -520,5 +521,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Envoy service mesh、Prometheus和Grafana下的微服务监控 https://mp.weixin.qq.com/s/cQd2hi0SAlFkQTEOOX8oVw
 
 - 5. 阿里如何做到百万量级硬件故障自愈？ https://mp.weixin.qq.com/s/G6qgI37RHzANpl2fyRUg0Q
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-22
+- 1. Go基础系列：互斥锁Mutex和读写锁RWMutex用法详述 http://www.cnblogs.com/f-ck-need-u/p/9998729.html
+
+- 2. Golang并发原理及GPM调度策略（一） http://www.cnblogs.com/mokafamily/p/9975980.html
+
+- 3. 区块链技术语言（三十）：Go语言常用工具包 http://www.youjiatuanjian.com/index/news_details/id/4175.html
+
+- 4. Go 内置库第一季：net/url  https://juejin.im/post/5bf42ac0f265da61616e50b9
+
+- 5. 美团容器平台架构及容器技术实践 https://mp.weixin.qq.com/s/FGMkNexqKvFXmOTjqJZkfA
 
 - - - - - - - - - - 
