@@ -57,6 +57,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1511,5 +1512,18 @@
 - 4. 使用chrome和docker从HTML页面创建PDF https://github.com/FireFart/gochro
 
 - 5. Golang中的方法 https://go101.org/article/method.html
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-03
+- 1. 高性能 Go 服务的内存优化(译) https://www.jianshu.com/p/63404461e520
+
+- 2. 使用chi编写rest api https://www.youtube.com/watch?v=zeme_TmXyBk&feature=youtu.be
+
+- 3. Go troubleshoot工具 https://github.com/jondot/goweight
+
+- 4. 一个示例阐述 Go 应用的优雅中止 https://jingwei.link/2019/03/31/golang-graceful-ending.html
+
+- 5. 使用 Goroutines 池来处理基于任务的操作 https://mp.weixin.qq.com/s/lPB4k9npnpb7RVYn_tvsyA
 
 - - - - - - - - - - 
