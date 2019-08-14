@@ -42,6 +42,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1301,5 +1302,18 @@
 - 4. 查找Go项目过时依赖项的简便方法 https://github.com/psampaz/go-mod-outdated
 
 - 5. 高性能可扩展 HTTP 路由 httprouter https://www.flysnow.org/2019/01/07/golang-classic-libs-httprouter.html
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-19
+- 1. Uber M3存储优化实践 https://eng.uber.com/optimizing-m3/
+
+- 2. 从头开始学习go的并发 http://www.doxsey.net/blog/go-concurrency-from-the-ground-up
+
+- 3. bet365开源更快的json序列化库jingo https://bet365techblog.com/open-sourcing-jingo-a-faster-json-encoder-for-go
+
+- 4. 利用二分法思想找出Go性能退化原因 https://medium.com/@fzambia/bisecting-go-performance-degradation-4d4a7ee83a63
+
+- 5. SQLite网络查询服务器 https://github.com/assafmo/SQLiteQueryServer
 
 - - - - - - - - - - 
