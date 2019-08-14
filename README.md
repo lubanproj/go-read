@@ -86,6 +86,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1916,5 +1917,19 @@
 - 4. 理解真实世界中Go的并发BUG https://songlh.github.io/paper/go-study.pdf
 
 - 5. derek: Go实现的Github仓库管理机器人 https://github.com/alexellis/derek
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-02
+- 1. Golang操作GraphQL：从基础到高级的深度探索 https://medium.freecodecamp.org/deep-dive-into-graphql-with-golang-d3e02a429ac3
+
+- 2. gRPC-web现状及测试 https://mp.weixin.qq.com/s/lIcNB6_69exfciiRQd7rGQ
+
+- 3. 为什么已有 Elasticsearch，我们还要重造实时分析引擎 AresDB？
+https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
+
+- 4. Go高级并发模型Part2-定时器 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/
+
+- 5. 在Kubernetes中创建动态测试环境 https://engineering.dollarshaveclub.com/acyl-is-open-source-beea9db66116
 
 - - - - - - - - - - 
