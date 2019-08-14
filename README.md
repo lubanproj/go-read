@@ -94,6 +94,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2029,5 +2030,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Windows上Go GUI应用程序的通用库 https://github.com/tadvi/winc
 
 - 5. 云原生微服务演示应用程序 https://github.com/GoogleCloudPlatform/microservices-demo
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-22
+- 1. 可视化学习Go的内存分配器 https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed 
+
+- 2. WebAssembly实践 https://medium.com/@didil/practice-your-go-webassembly-with-a-game-7195dabbfc44 
+
+- 3. 用Go搭建商城系统 https://morioh.com/p/3d1f6febc8b4/a-guide-to-golang-e-commerce 
+
+- 4. Cds:一款企业级CI/CD平台 https://github.com/ovh/cds  
+
+- 5. glTF 2.0 序列化反序列化库: https://github.com/qmuntal/gltf 
 
 - - - - - - - - - - 
