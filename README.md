@@ -63,6 +63,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1595,5 +1596,18 @@
 - 4. 六年打磨！阿里开源混沌工程工具 ChaosBlade https://mp.weixin.qq.com/s/QLlCeYq_j0EwVzEMHHTwPg
 
 - 5. Kubernetes 1.14发布：对Windows节点的生产级支持、Kubectl更新与持久本地卷通用版本已全面到来 https://mp.weixin.qq.com/s/eQRpRfMVs9G2lfdk5rdAEg
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-27
+- 1. 深入理解 Go map：初始化和访问元素 https://gocn.vip/article/1683
+
+- 2. 调试在Go 1.12中部署的内容 https://blog.golang.org/debugging-what-you-deploy
+
+- 3. Go代码优化 https://docs.google.com/presentation/d/1cUVp8OuzOW4lzClsiptgacW7nSFkcgvhLRVAOgVPpYg/edit
+
+- 4. Go借助PProf的一次性能优化 https://juejin.im/post/5c987d8ce51d45516437b20f
+
+- 5. 适用于Go项目的Makefile https://juejin.im/post/5c98edb56fb9a070d75585e3
 
 - - - - - - - - - - 
