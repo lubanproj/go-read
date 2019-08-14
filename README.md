@@ -1,62 +1,4 @@
 
-### gocn_news_2019-08-07
-- 1. 深度剖析 Go 中的 Go 协程 (goroutines) -- Go 的并发 https://mp.weixin.qq.com/s/mYQUoWy9bZBbivFMKLqN8g
-
-- 2. Go 译文之如何构建并发 Pipeline https://segmentfault.com/a/1190000019984518
-
-- 3. kubernetes 组件: kube-scheduler源码分析 https://segmentfault.com/a/1190000019997015
-
-- 4. 深入Go的异常错误处理机制 https://gocn.vip/article/1882
-
-- 5. 预设 slice 长度的性能测试 https://blog.simon-frey.eu/known-length-slice-initialization-speed-golang-benchmark-wednesday
-
-- - - - - - - - - - 
-
-### gocn_news_2019-08-09
-- 1. Go提案处理流程：清晰&透明  https://research.swtch.com/proposals-clarity
-
-- 2. 来自百度的7层负载均衡器BFE https://github.com/baidu/bfe
-3.[译]TCP Socket 是如何工作的? https://colobu.com/2019/07/27/How-TCP-Sockets-Work/
-
-- 3. Dgraph中的Datetime索引 https://blog.dgraph.io/post/datetime-indexes-dgraph/
-
-- 4. 连接跟踪模块导致的网络不可用 https://colobu.com/2019/07/30/network-issue-because-of-nf-conntrack/
-
-- - - - - - - - - - - 
-
-### gocn_news_2019-08-11
-- 1. Go 监视模式 https://medium.com/@blanchon.vincent/go-monitor-pattern-9decd26fb28
-
-- 2. 在 Go 中 Mock gRPC https://rogchap.com/2019/06/25/mocking-grpc-in-go/
-
-- 3. 优化过的 Go 压缩库 https://github.com/klauspost/compress
-
-- 4. 理解分布式系统的可靠性 https://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability 
-
-- 5. 异步、编排、分布式系统的容错性  https://medium.com/@mail_50938/fault-tolerance-in-asynchronous-choreographed-distributed-system-36b1cae037d1
-
-- - - - - - - - - - 
-
-
-### gocn_news_2019-08-12
-- 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
-
-- 2. Go 问答汇总篇 二 https://juejin.im/post/5d4f05565188250e42582a7d
-
-- 3. Goroutine和Channel的的使用和一些坑以及案例分析 https://studygolang.com/articles/22681
-
-- 4. Golang内存分配 https://mp.weixin.qq.com/s/izjdImIZGvfGaSO-N_aCUA
-
-- 5. 一个监控 git 仓库更新，自动合并的工具 https://github.com/muesli/gitomatic
-
-- - - - - - - - - - 
-
-#
-
-
-
-
-## gocn_news__2019
 ### gocn_news_2019-08-06
 - 1. 请问sync.Pool有什么缺点？https://mp.weixin.qq.com/s/2ZC1BWTylIZMmuQ3HwrnUg
 
@@ -120,6 +62,78 @@
 
 
 
+
+
+
+
+
+## gocn_news__2019
+### gocn_news_2019-08-05
+- 1. Go Modules包管理务实手册 https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31
+
+- 2. Golang CI/CD 5条最佳实践 https://jfrog.com/blog/5-best-practices-for-golang-ci-cd/
+
+- 3. 利用git hooks优化你的Golang开发流程 https://tutorialedge.net/golang/improving-go-workflow-with-git-hooks/
+
+- 4. Go：为何带来泛型 https://github.com/llgoer/go-generics
+
+- 5. 为什么你应该使用Go Module代理 https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-08-07
+- 1. 深度剖析 Go 中的 Go 协程 (goroutines) -- Go 的并发 https://mp.weixin.qq.com/s/mYQUoWy9bZBbivFMKLqN8g
+
+- 2. Go 译文之如何构建并发 Pipeline https://segmentfault.com/a/1190000019984518
+
+- 3. kubernetes 组件: kube-scheduler源码分析 https://segmentfault.com/a/1190000019997015
+
+- 4. 深入Go的异常错误处理机制 https://gocn.vip/article/1882
+
+- 5. 预设 slice 长度的性能测试 https://blog.simon-frey.eu/known-length-slice-initialization-speed-golang-benchmark-wednesday
+
+- - - - - - - - - - 
+
+### gocn_news_2019-08-09
+- 1. Go提案处理流程：清晰&透明  https://research.swtch.com/proposals-clarity
+
+- 2. 来自百度的7层负载均衡器BFE https://github.com/baidu/bfe
+3.[译]TCP Socket 是如何工作的? https://colobu.com/2019/07/27/How-TCP-Sockets-Work/
+
+- 3. Dgraph中的Datetime索引 https://blog.dgraph.io/post/datetime-indexes-dgraph/
+
+- 4. 连接跟踪模块导致的网络不可用 https://colobu.com/2019/07/30/network-issue-because-of-nf-conntrack/
+
+- - - - - - - - - - - 
+
+### gocn_news_2019-08-11
+- 1. Go 监视模式 https://medium.com/@blanchon.vincent/go-monitor-pattern-9decd26fb28
+
+- 2. 在 Go 中 Mock gRPC https://rogchap.com/2019/06/25/mocking-grpc-in-go/
+
+- 3. 优化过的 Go 压缩库 https://github.com/klauspost/compress
+
+- 4. 理解分布式系统的可靠性 https://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability 
+
+- 5. 异步、编排、分布式系统的容错性  https://medium.com/@mail_50938/fault-tolerance-in-asynchronous-choreographed-distributed-system-36b1cae037d1
+
+- - - - - - - - - - 
+
+
+### gocn_news_2019-08-12
+- 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
+
+- 2. Go 问答汇总篇 二 https://juejin.im/post/5d4f05565188250e42582a7d
+
+- 3. Goroutine和Channel的的使用和一些坑以及案例分析 https://studygolang.com/articles/22681
+
+- 4. Golang内存分配 https://mp.weixin.qq.com/s/izjdImIZGvfGaSO-N_aCUA
+
+- 5. 一个监控 git 仓库更新，自动合并的工具 https://github.com/muesli/gitomatic
+
+- - - - - - - - - - 
+
+#
 
 
 
