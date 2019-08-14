@@ -7,6 +7,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -813,5 +814,18 @@
 - 4. 深入理解Go中panic和recover http://t.cn/E9d04Bm
 
 - 5. Go字符串格式教程 https://medium.com/rungo/string-formatting-in-go-dd752ff7f60
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-24
+- 1. Go正朝着成为下一种企业编程语言的方向发展 https://hackernoon.com/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e
+
+- 2. 小米开源数据库中间件gaea https://mp.weixin.qq.com/s/krA3cqvpOgPkte3PBM3e-Q
+
+- 3. Rancher发布Rio：为Kubernetes打造极简MicroPaaS平台 https://mp.weixin.qq.com/s/xsFvPLH_6kP3_ukj3Rf2xg
+
+- 4. HTTP/2 in GO(五)--大结局 https://mp.weixin.qq.com/s/qaqN4Eqndjg95TPBOC4d_g
+
+- 5. Istio 庖丁解牛四：pilot discovery  https://mp.weixin.qq.com/s/navKSzbQnkN8r0GZSPM7aQ
 
 - - - - - - - - - - 
