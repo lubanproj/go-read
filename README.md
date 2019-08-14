@@ -21,6 +21,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -682,5 +683,18 @@
 - 4. Golang 闭包内的外部变量 https://jingwei.link/2019/06/01/golang-outer-variable-in-clousure.html
 
 - 5. MySQL 索引的原理与应用：索引类型，存储结构与锁 https://zhuanlan.zhihu.com/p/67832788
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-04
+- 1. Go module机制下升级major版本号的实践：https://tonybai.com/2019/06/03/the-practice-of-upgrading-major-version-under-go-module/
+
+- 2. Go 代码可视化：https://divan.dev/posts/visual_programming_go/
+
+- 3. Go 错误处理：http://blogs.remotepanda.com/error-handling-in-golang/ 
+
+- 4. 边缘计算能给银行带来什么改变？：https://www.raconteur.net/finance/edge-computing-banking 
+
+- 5. MongoDB 十分钟入门教程：https://medium.com/free-code-camp/learn-mongodb-a4ce205e7739 
 
 - - - - - - - - - - 
