@@ -23,6 +23,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -478,5 +479,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. sexp：连接R语言与Go的工具包 https://overthinkdciscores.com/2018/11/20/introducing-sexp-a-package-connecting-r-and-go/
 
 - 5. srchx：一个Go实现的轻量级全文搜索工具 https://github.com/alash3al/srchx
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-25
+- 1. Golang实现OpenID认证的OAuth2服务器 https://github.com/ory/hydra
+
+- 2. Golang编码技巧 https://juejin.im/post/5bf9610e6fb9a04a027a040d
+
+- 3. Dromara:高性能异步响应Gateway https://github.com/Dromara/soul
+
+- 4. OS性能之殇系列 https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/492.html 
+
+- 5. 中台是什么 https://insights.thoughtworks.cn/what-is-zhongtai/
 
 - - - - - - - - - - 
