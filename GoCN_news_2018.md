@@ -30,6 +30,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -576,5 +577,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 使用 Go 和 Kubernetes 构建可横向扩展的 API 视频教程 https://www.youtube.com/watch?v=pkZrgHxJ130
 
 - 5. 一个列出和查找许可证的 Go 类库 https://github.com/mitchellh/go-spdx
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-18
+- 1. 关于 Go1.11 module 和语义版本 http://www.zenlife.tk/go-module-semantic-version.md
+
+- 2. 在调试时替代fmt包的lib https://github.com/y0ssar1an/q
+
+- 3. 基于时间的定制分配器 http://www.zenlife.tk/time-based-allocator.md
+
+- 4. CockroachDB实习项目:将一些交错表删除率提高100亿  https://emsal.me/blog/5
+
+- 5. 重构的时机和原因 https://medium.com/@audi17.2/refactoring-when-and-why-b5262ae92fcb
 
 - - - - - - - - - - 
