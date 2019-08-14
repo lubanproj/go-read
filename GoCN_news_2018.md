@@ -10,6 +10,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -292,5 +293,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 利用Gitlab CI构建Go程序CI pipeline https://medium.com/@Extrawurst/golang-and-gitlab-ci-da97d11bafe1
 
 - 5. 微服务设计指南 https://mp.weixin.qq.com/s/nYDSZJ-N7ECitDF3AFGgRw
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-08
+- 1. Go调度刨析Part III:并发  https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+
+- 2. Go验证ecdsa签名算法 https://thanethomson.com/2018/11/30/validating-ecdsa-signatures-golang/
+
+- 3. 在浏览器中运行Go程序 https://blog.gopheracademy.com/advent-2018/go-in-the-browser/
+
+- 4. Go errors处理从否定到接受 https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance
+
+- 5. 微软开源的Go跨平台网络诊断工具 https://github.com/Microsoft/Ethr
 
 - - - - - - - - - - 
