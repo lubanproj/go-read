@@ -90,6 +90,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1973,5 +1974,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go异常与返回值 https://blog.hltbra.net/2019/02/26/exceptions-vs-returns.html
 
 - 5. 使用Go和llvm的WebAssembly高效前端开发 https://medium.com/@richardanaya/hyper-efficient-front-end-development-with-web-assembly-using-go-and-llvm-8e6a1ccdd2bc
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-26
+- 1. Go 1.12 发布：https://blog.golang.org/go1.12
+
+- 2. Go 设计模式：https://blogtitle.github.io/some-useful-patterns/
+
+- 3. Go 内存缓存的故事：https://medium.com/@arriqaaq/latency-need-not-always-require-scaling-your-microservice-a-story-of-an-in-memory-cache-384419174ef3
+
+- 4. 百万 Go TCP 连接的思考：https://colobu.com/2019/02/23/1m-go-tcp-connection/
+
+- 5. 使用 cgroup-parent 限制容器资源利用率：https://medium.com/@asishrs/docker-limit-resource-utilization-using-cgroup-parent-72a646651f9d
 
 - - - - - - - - - - 
