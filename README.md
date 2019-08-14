@@ -44,6 +44,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1329,5 +1330,18 @@
 - 4. 基于HA LDAP的键/值解决方案，用于存储具有多主复制支持的项目配置 https://github.com/Mnwa/Recon
 
 - 5. 可恢复文件上传器系列文章 https://golangbot.com/resumable-file-uploader/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-16
+- 1. Micro 构建微服务 https://github.com/micro-in-cn/tutorials/tree/master/microservice-in-micro
+
+- 2. Go 工具链概述 https://www.alexedwards.net/blog/an-overview-of-go-tooling
+
+- 3. Goroutine 使代码变慢 https://appliedgo.net/concurrencyslower/
+
+- 4. Gomobile 系列文章 https://blog.koundinya.xyz/series/gomobile/
+
+- 5. 聊一聊 golang 结构体标签 https://mp.weixin.qq.com/s/ueaxNjSmIPZRsqjMCRrJ5w
 
 - - - - - - - - - - 
