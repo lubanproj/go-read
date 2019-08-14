@@ -118,6 +118,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2364,5 +2365,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 同时支持SAP、ASE、RS、IQ的Go驱动库 https://github.com/thda/tds
 
 - 5. GopherCon UK 2018 使用Go构建弹性流水线 https://www.youtube.com/watch?v=gm34Aph9v0M
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-26
+- 1. 提议: Go 2错误检查 https://go.googlesource.com/proposal/+/master/design/29934-error-values.md
+
+- 2. Golang UnitTest单元测试 http://helight.info/2019-01-25/1177
+
+- 3. GoMock测试框架 http://blog.51cto.com/9291927/2346777
+
+- 4. 聊聊新的Go语言错误处理方案 https://www.4async.com/2019/01/go-new-xerrors/
+
+- 5. Devs和Kubernetes之间存在差距 https://medium.com/@kent.rancourt/theres-a-gap-between-devs-and-kubernetes-f67f06c73454
 
 - - - - - - - - - - 
