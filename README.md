@@ -41,6 +41,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1287,5 +1288,18 @@
 - 4. [译]使用Go语言读写Redis协议  https://colobu.com/2019/04/16/Reading-and-Writing-Redis-Protocol-in-Go/
 
 - 5. 使用nomad在weave网络中部署工作负载 https://tonybai.com/2019/04/20/deploy-workload-in-weave-network-using-nomad/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-20
+- 1. 如何客观评价 Go 语言 https://mp.weixin.qq.com/s/WOvjEQc6Tr3hcZlCu5aLkA
+
+- 2. 依赖注入的美 https://dimes.github.io/blog/the-beauty-of-di
+
+- 3. 使用GoReleaser发送Rust二进制文件 https://medium.com/@jondot/shipping-rust-binaries-with-goreleaser-d5aa42a46be0
+
+- 4. 查找Go项目过时依赖项的简便方法 https://github.com/psampaz/go-mod-outdated
+
+- 5. 高性能可扩展 HTTP 路由 httprouter https://www.flysnow.org/2019/01/07/golang-classic-libs-httprouter.html
 
 - - - - - - - - - - 
