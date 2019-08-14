@@ -20,6 +20,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -668,5 +669,18 @@
 - 4. golang cobra的一些笔记  https://zhangguanzhang.github.io/2019/06/02/cobra/
 
 - 5. 从 GFS 失败的架构设计来看一致性的重要性 https://mp.weixin.qq.com/s/GuJ6VqZJy3ONaVOWvQT9kg
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-05
+- 1. 东南亚的超级APP是如何用Go打造Grab的路径规划和ETA引擎 https://mp.weixin.qq.com/s/AH3CmxnL-bploROCXu5KBQ
+
+- 2. Apache Dubbo Go 语言实现 https://mp.weixin.qq.com/s/UmPfo0sqTTRGaT3kMh2biw
+
+- 3. 深度解密Go语言之unsafe https://mp.weixin.qq.com/s/OO-kwB4Fp_FnCaNXwGJoEw
+
+- 4. Golang 闭包内的外部变量 https://jingwei.link/2019/06/01/golang-outer-variable-in-clousure.html
+
+- 5. MySQL 索引的原理与应用：索引类型，存储结构与锁 https://zhuanlan.zhihu.com/p/67832788
 
 - - - - - - - - - - 
