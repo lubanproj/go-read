@@ -5,6 +5,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -450,5 +451,18 @@
 - 4. 带你理解Go结构体 https://medium.com/@victorsteven/understanding-data-structures-in-golang-f55205afdcaa
 
 - 5. bettercap:一款强大的网络抓包器 https://github.com/bettercap/bettercap
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-25
+- 1. 理解 Go 的 Array 和 Slice https://www.sohamkamani.com/blog/golang/arrays-vs-slices/
+
+- 2. Docker on RISC-V 部署 Go https://medium.com/@carlosedp/docker-containers-on-risc-v-architecture-5bc45725624b
+
+- 3. encoding/json 真的慢吗？https://medium.com/@blanchon.vincent/go-is-the-encoding-json-package-really-slow-62b64d54b148
+
+- 4. Go 和 WebRTC https://viscarra.dev/post/webrtc-gspeech/
+
+- 5. Go 简略体验 https://www.tbray.org/ongoing/When/201x/2019/06/12/Go-Creeping-In
 
 - - - - - - - - - - 
