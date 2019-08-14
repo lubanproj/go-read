@@ -80,6 +80,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1832,5 +1833,18 @@
 - 4. 通过Istio指标实现k8s的自动扩展 https://medium.com/google-cloud/kubernetes-autoscaling-with-istio-metrics-76442253a45a  
 
 - 5. athena2csv: AWS Athena查询工具 https://github.com/flowerinthenight/athena2csv  
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-09
+- 1. 使用Goland调试Go程序之高级调试特性介绍 https://blog.jetbrains.com/go/2019/03/04/debugging-with-goland-advanced-debugging-features/
+
+- 2. gopass管理团队密钥 https://blog.codecentric.de/en/2019/02/manage-team-passwords-gopass/
+
+- 3. 企业级持续交付&开发运维自动化平台 https://github.com/ovh/cds
+
+- 4. 图解 Go 内存分配器 https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed
+
+- 5. system-design-primer 学习如何设计大型系统 https://github.com/donnemartin/system-design-primer
 
 - - - - - - - - - - 
