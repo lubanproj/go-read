@@ -39,6 +39,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1259,5 +1260,18 @@
 - 4. 深入理解 Go 语言 defer https://mp.weixin.qq.com/s/e2t3CMUqtIcEq-OhbWy5Hw 
 
 - 5. StackOverflow 2019 程序员调查：https://coolshell.cn/articles/19307.html
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-22
+- 1. 如何在应用实例中实现数据同步 https://medium.com/@Mnwa/how-to-syncing-data-between-application-instances-easy-fbe929f131e2
+
+- 2. 一个奇怪的 Golang 对切片的竞争检测问题 https://mp.weixin.qq.com/s/-hY8AqMJ0bhKkQn2s03SsA
+
+- 3. Golang 实现 ForkJoin 小文 https://juejin.im/post/5cbc0b3051882532be1bf63c
+
+- 4. 什么是 Protobuf? https://medium.com/@Mnwa/what-the-hell-is-protobuf-4aff084c5db4
+
+- 5. 一个可以通过 SSH 远程运行 VS Code 的工具 https://github.com/codercom/sshcode
 
 - - - - - - - - - - 
