@@ -44,6 +44,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -782,5 +783,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Golab 2018 总结 https://butenas.com/blog/golab2018
 
 - 5. 可减少修复 I/O 开销的纠删码类库 https://github.com/templexxx/xrs
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-04
+- 1. Go1.11.2及1.10.5 发布 https://groups.google.com/forum/#!topic/golang-dev/GPsCAZMO1MA
+
+- 2. 如何在Go的函数中得到调用者函数名? https://colobu.com/2018/11/03/get-function-name-in-go/
+
+- 3. 使用WebAssembly和Go编写前端Web框架 https://tutorialedge.net/golang/writing-frontend-web-framework-webassembly-go/
+
+- 4. Uber的统一资源调度程序 https://eng.uber.com/peloton/
+
+- 5. 带有中间件的超高性能 API 网关 krakend  https://github.com/devopsfaith/krakend
 
 - - - - - - - - - - 
