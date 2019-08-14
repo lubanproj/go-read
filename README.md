@@ -3,17 +3,18 @@
 
 
 
+
 ## gocn_news_2019
-### gocn_news_2019-08-08
-- 1. 通过在300行Golang编写简单的RPC框架来解释RPC https://github.com/ankur-anand/simple-go-rpc
+### gocn_news_2019-08-12
+- 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
-- 2. Golang的作用于健康检查的库go-sundheit https://medium.com/appsflyer/health-checks-like-a-pro-3fa362942883
+- 2. Go 问答汇总篇 二 https://juejin.im/post/5d4f05565188250e42582a7d
 
-- 3. 如何使用go mod测试本地改动 https://medium.com/@teivah/how-to-test-a-local-branch-with-go-mod-54df087fc9cc
+- 3. Goroutine和Channel的的使用和一些坑以及案例分析 https://studygolang.com/articles/22681
 
-- 4. 在Go中检查字符的大小写，包括0和1 https://ervinbarta.com/2019/08/06/upcase-in-go-the-long-way-around/
+- 4. Golang内存分配 https://mp.weixin.qq.com/s/izjdImIZGvfGaSO-N_aCUA
 
-- 5. vgo教程 https://research.swtch.com/vgo-tour
+- 5. 一个监控 git 仓库更新，自动合并的工具 https://github.com/muesli/gitomatic
 
 - - - - - - - - - - 
 
