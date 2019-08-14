@@ -2,6 +2,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -180,5 +181,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. beego 框架代码分析 https://juejin.im/post/5c16f65ff265da61441ff343
 
 - 5. 万亿级数据洪峰下的分布式消息引擎 https://mp.weixin.qq.com/s/FuUICaNihx1PPKfxRTN1Fg
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-16
+- 1. 深入理解 Go Slice https://gocn.vip/article/1074
+
+- 2. Go2错误处理的部分试验性实现 https://godoc.org/golang.org/x/exp/errors
+
+- 3. 微服务断路器实现 Istio vs Hystrix https://www.exoscale.com/syslog/istio-vs-hystrix-circuit-breaker/
+
+- 4. Netfix 从适应 GraphQL 中学到的东西 https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
+
+- 5. 理解分布式事务 https://zhuanlan.zhihu.com/p/51684618
 
 - - - - - - - - - - 
