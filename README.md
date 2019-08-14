@@ -85,6 +85,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1902,5 +1903,18 @@
 - 4. Go 中心化代码源校验提议 https://go.googlesource.com/proposal/+/master/design/25530-notary.md
 
 - 5. 我的 HTTP/3 学习笔记 https://mp.weixin.qq.com/s/bD8C0oR34ZKUEZjN9yBSJg
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-04
+- 1. 基于hashicorp/raft的分布式一致性实战教学 https://zhuanlan.zhihu.com/p/58048906
+
+- 2. 再见，微服务: 从一百多个问题孩子到一个巨星 https://segment.com/blog/goodbye-microservices
+
+- 3. Go Windows编程教程 https://github.com/hallazzang/go-windows-programming
+
+- 4. 理解真实世界中Go的并发BUG https://songlh.github.io/paper/go-study.pdf
+
+- 5. derek: Go实现的Github仓库管理机器人 https://github.com/alexellis/derek
 
 - - - - - - - - - - 
