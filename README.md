@@ -152,6 +152,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2840,5 +2841,19 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 阿里云MySQL及Redis灵异断连现象：安全组静默丢包解决方法 https://mp.weixin.qq.com/s/eSkyDlmQXJ1MY9ampPTsQw
 
 - 5. 京东到家订单中心 Elasticsearch 演进历程 https://mp.weixin.qq.com/s/TrCJJtvhjB2m29fOOa3Rzg
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-20
+- 1. Go Modules in 2019  https://blog.golang.org/modules2019
+
+- 2. 同态加密算法解析（附Paillier算法的go语言实现）
+https://zhuanlan.zhihu.com/p/52808772
+
+- 3. 重新思考Go HTTP Client https://docs.google.com/presentation/d/e/2PACX-1vTTFQjMSxai7TvhBJgkJf4K3RrT3tJrP7KUQ3rZB8e4UL7grCnxQh7o4yYYvyYugnkcfVwvTrwA23B0/pub 
+
+- 4. 个推基于Docker和Kubernetes的微服务实践  https://mp.weixin.qq.com/s/UY6FdbiwPcxs7hGbXkYMVw
+
+- 5. MySQL PK MongoDB：多文档事务支持，谁更友好？ https://mp.weixin.qq.com/s/dloujdsOHy87cPQkY2oGzg
 
 - - - - - - - - - - 
