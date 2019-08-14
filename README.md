@@ -74,6 +74,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1748,5 +1749,18 @@
 - 4. Goroutines原理和它的工作模式 https://medium.com/@joaoh82/what-are-goroutines-and-how-do-they-actually-work-f2a734f6f991
 
 - 5. Go开发的嵌入式、快速持久化队列 https://github.com/grandecola/bigqueue
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-15
+- 1. GopherChina 2019 第二阶段购票今天结束了，明天涨价了 gocn5th.bagevent.com 
+
+- 2. 在NodeSource中使用Go作为平台基础语言 https://nodesource.com/blog/using-go-infrastructure-language
+
+- 3. SlimTrie：战胜Btree单机百亿文件的极致索引-实现篇 https://mp.weixin.qq.com/s/QSnKJCtbZCbW0ymsvY8IFQ
+
+- 4. PouchContainer 集成测试覆盖率统计 https://mp.weixin.qq.com/s/oUBbj2ZNnAhdY9bOhIBKiw
+
+- 5. Golang Dep 依赖冲突处理 https://ms2008.github.io/2019/03/14/golang-dep/
 
 - - - - - - - - - - 
