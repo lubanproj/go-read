@@ -36,6 +36,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1217,5 +1218,18 @@
 - 4. Heroku上部署原生go二进制应用 https://preslav.me/2019/04/20/deploying-native-go-binary-on-heroku/
 
 - 5. sonarqube SonarGo 搭建和golang代码检视的使用教程 https://studygolang.com/articles/20028
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-25
+- 1. 深入分析Go语言之关于interface的10个问题 https://www.cnblogs.com/qcrao-2018/p/10766091.html
+
+- 2. Go 并发 -- 信道 https://juejin.im/post/5cbd05f95188250a7a67ab11
+
+- 3. Go语言的奇特语法，你怎么看？ http://developer.51cto.com/art/201904/595470.htm
+
+- 4. part 7: golang 包 https://juejin.im/post/5cbdf9076fb9a0321141ae0b
+
+- 5. Docker开发者现在可以在自己的桌面上构建Arm容器 https://mp.weixin.qq.com/s/AOfUwCTD5X1su4VSTJIHGw
 
 - - - - - - - - - - 
