@@ -25,6 +25,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -506,5 +507,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 如何用Go写业务的表达式引擎 https://medv.io/how-to-write-an-expression-engine/
 
 - 5. Go开发跨平台任天堂游戏仿真器 https://github.com/Humpheh/goboy
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-23
+- 1. GO上开发高负载WebSocket服务器https://medium.com/%40alexmais ... 2e248
+
+- 2. Go语言YAML配置文件库，类似于spring-boot https://github.com/flyleft/gprofile
+
+- 3. Go基础系列：双层channel用法示例 https://www.cnblogs.com/f-ck-need-u/p/9994496.html
+
+- 4. Envoy service mesh、Prometheus和Grafana下的微服务监控 https://mp.weixin.qq.com/s/cQd2hi0SAlFkQTEOOX8oVw
+
+- 5. 阿里如何做到百万量级硬件故障自愈？ https://mp.weixin.qq.com/s/G6qgI37RHzANpl2fyRUg0Q
 
 - - - - - - - - - - 
