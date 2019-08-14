@@ -49,6 +49,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -852,5 +853,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Go语言字符串高效拼接 https://mp.weixin.qq.com/s/kPhDVOew7QNAPP5x1LZisA
 
 - 5. 利用Kubernetes优雅地处理HTTP请求 https://mp.weixin.qq.com/s/uIseZZC9KQpYN6gQAjHnoA
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-30
+- 1. Go Modules 学习范例 https://github.com/go-modules-by-example/index
+
+- 2. Go 开始试验分代 GC https://go-review.googlesource.com/c/go/+/137476
+
+- 3. 使用 Go 扩展 Python 3 https://hackernoon.com/extending-python-3-in-go-78f3a69552ac
+
+- 4. 一个GO语言性能问题的发现和解决  https://my.oschina.net/u/3675312/blog/2254090
+
+- 5. Kubernetes网络模型原理  https://juejin.im/post/5bd6c14be51d455b7461cb46
 
 - - - - - - - - - - 
