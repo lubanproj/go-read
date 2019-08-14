@@ -2,6 +2,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -398,5 +399,18 @@
 - 4. 减少类型层次 https://www.ardanlabs.com/blog/2016/10/reducing-type-hierarchies.html
 
 - 5. 分布式时序数据库 LinDB https://zhuanlan.zhihu.com/p/35998778
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-28
+- 1. 关于内置catch函数捕获错误的讨论 https://github.com/golang/go/issues/32811
+
+- 2. Go单元测试 https://levelup.gitconnected.com/unit-testing-in-go-205ada2b9d7c
+
+- 3. Go defer 会有性能损耗，尽量不要用？https://github.com/EDDYCJY/blog/blob/master/golang/pkg/2019-06-16-Go-defer-loss.md
+
+- 4. 如何快速提升 Go 程序性能？ https://mp.weixin.qq.com/s/rta0Prdc5xq7Zd7mLzvcWA
+
+- 5. Go Modules踩坑总结 https://mp.weixin.qq.com/s/2v8kGm8T9BQFmpLfQE7-wg
 
 - - - - - - - - - - 
