@@ -100,6 +100,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2113,5 +2114,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 用Go处理json https://www.reddit.com/r/golang/comments/aradot/working_with_json_in_go_tutorial/
 
 - 5. Linkerd与Istio主导服务网格之战 https://searchitoperations.techtarget.com/news/252457734/Linkerd-vs-Istio-fray-dominates-service-mesh-battle
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-15
+- 1. filecoin已开源 https://filecoin.io/blog/opening-filecoin-project-repos/ 
+
+- 2. Go程序性能分析 http://blog.51cto.com/steed/2349944
+
+- 3. 新近爆出的runc容器逃逸漏洞，用户如何面对？ https://mp.weixin.qq.com/s/fJyrLxR4EtPuqOt18LAINA
+
+- 4. runc容器逃逸漏洞最强后续：应对之策汇总与热点疑问解答 https://mp.weixin.qq.com/s/1gaJJz-271qq-YuOPsNo1Q
+
+- 5. 革命性新特性 | 单一应用跨多Kubernetes集群的部署与管理 https://mp.weixin.qq.com/s/yfE22D04D98r8e7BAlD3qg 
 
 - - - - - - - - - - 
