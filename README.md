@@ -147,6 +147,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2770,5 +2771,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 解析MySQL binlog推送到不同的接收器 https://github.com/bytewatch/dolphinbeat
 
 - 5. Go实现的数据压缩 https://github.com/flanglet/kanzi-go
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-26
+- 1. go-runtime/debug分析 https://www.jianshu.com/p/0b3d11f7af57
+
+- 2. 一次读锁重入导致的死锁故障 https://blog.thinkeridea.com/201812/go/yi_ci_du_suo_chong_ru_dao_zhi_de_si_suo_gu_zhang.html
+
+- 3. linux 内存管理初探 https://mp.weixin.qq.com/s/NChkQI0SBeroyR4yY5-qDg
+
+- 4. 大堆中避免大量的GC开销 https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/
+
+- 5. makisu 无需特权模式的，快速灵活的 Docker Image构建工具 https://github.com/uber/makisu
 
 - - - - - - - - - - 
