@@ -61,6 +61,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -1020,5 +1021,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. mercure:一款支持消息从服务端推送到客户端新协议 https://github.com/dunglas/mercure
 
 - 5. sha256-simd:高速sha256计算库 https://github.com/minio/sha256-simd
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-18
+- 1. Golang基于MQTT协议实现的现代化的消息平台MeQ https://github.com/mafanr/meq
+
+- 2. 通过一些错误的代码学习Go https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-1-2dbb96ce079a
+
+- 3. Go的垃圾回收处理 https://engineering.linecorp.com/en/blog/detail/342　
+
+- 4. Go中的函数变量 https://medium.com/rungo/variadic-function-in-go-5d9b23f4c01a
+
+- 5. 关于Golang包的所有信息 https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
 
 - - - - - - - - - - 
