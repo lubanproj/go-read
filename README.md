@@ -97,6 +97,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2071,5 +2072,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Golang — C++ 互通性 https://medium.com/mysterium-network/golang-c-interoperability-caf0ba9f7bf3
 
 - 5. mysql集群自动管理工具 https://github.com/radondb/xenon
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-19
+- 1. Gopher China 2019 大会讲师及议题揭晓 https://mp.weixin.qq.com/s/RZRx-1aUmqnpzCMRLq-fTA
+
+- 2. Go 的泛型还未准备好 https://drewdevault.com/2019/02/18/Generics-arent-ready-for-Go.html
+
+- 3. Go 协程池设计 https://segmentfault.com/a/1190000018193161
+
+- 4. TiDB 在摩拜单车的深度实践及应用 https://mp.weixin.qq.com/s/tXlli0-egrzXiX1__GuMPA
+
+- 5. 使用 Drone 搭建本地 CI/CD 服务 https://itnext.io/setting-up-simple-self-hosted-fast-ci-cd-solution-with-drone-ca0fbb176925
 
 - - - - - - - - - - 
