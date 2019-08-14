@@ -138,6 +138,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2646,5 +2647,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 游戏服务器缓存库举例 https://www.jianshu.com/p/aeb505ef55cd
 
 - 5. http.DefaultTransport原生支持SOCKS5代理 https://www.reddit.com/r/golang/comments/acqhxu/fun_fact_httpdefaulttransport_natively_supports/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-05
+- 1. 开源一个千万级多组Raft库-Dragonboat https://zhuanlan.zhihu.com/p/52487803
+
+- 2. Golang并发：除了channel，你还有其他选择 https://segmentfault.com/a/1190000017770416
+
+- 3. 从微服务治理的角度看RSocket、Envoy和Istio http://t.cn/EGf3lei
+
+- 4. 50+ 顶级开源 Kubernetes 工具列表 https://www.infoq.cn/article/RPA-wswoEyjuRZfTMcut
+
+- 5. 再谈 Go 语言在前端的应用前景 https://mp.weixin.qq.com/s/v0-d-qPQFlV0CxttFpzC5w
 
 - - - - - - - - - - 
