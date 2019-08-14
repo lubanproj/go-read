@@ -32,6 +32,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1161,5 +1162,18 @@
 - 4. Go 个人博客系统 https://github.com/broqiang/mdblog
 
 - 5. 使用 WebAssembly 运行 Go 命令行程序 https://github.com/wcchoi/go-wasm-pdfcpu/blob/master/article.md
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-29
+- 1. GopherChina 2019 北京大会PPT下载 https://mp.weixin.qq.com/s/_oVpIcBMVIKVzQn6YrkAJw
+
+- 2. GopherChina 2019 Workshop: 高性能Go语言 https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html
+
+- 3. 如何组织你的goroutine和channel https://medium.com/@owlwalks/how-would-you-organize-your-goroutine-and-channel-p1-e6e3c698f90c
+
+- 4. 一个简单、符合使用习惯的Websocket库 https://github.com/nhooyr/websocket
+
+- 5. Go并发编程小测验： 你能答对几道题？ https://colobu.com/2019/04/28/go-concurrency-quizzes/
 
 - - - - - - - - - - 
