@@ -1,6 +1,7 @@
 ## gocn_news__2019
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -729,5 +730,18 @@
 - 4. unioffice: office三大件操作库 https://github.com/unidoc/unioffice
 
 - 5. wasmer:最快的WebAssembly运行库 https://medium.com/wasmer/announcing-the-fastest-webassembly-runtime-for-go-wasmer-19832d77c050
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-30
+- 1. Go，Google Functions和Gitlab-ci完美结合 https://dev.to/renatosuero/go-google-functions-and-gitlab-ci-a-perfect-combination-4lao
+
+- 2. Go实现的编译和计算表达式的引擎 https://github.com/antonmedv/expr
+
+- 3. Go的内存管理 https://povilasv.me/go-memory-management-part-2/
+
+- 4. Go中结构体的标记字段 https://itnext.io/creating-your-own-struct-field-tags-in-go-c6c86727eff
+
+- 5. Golang并发中犯的错误 https://dev.to/dannypsnl/the-go-concurrency-bug-i-made-3dma
 
 - - - - - - - - - - 
