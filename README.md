@@ -24,6 +24,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -342,5 +343,18 @@
 - 4. Go中句法糖的成本 https://medium.com/@asilvr/the-cost-of-syntactic-sugar-in-go-5aa9dc307fe0
 
 - 5. Go编写的高性能、自我托管的通讯及邮件列表管理器 https://github.com/knadh/listmonk
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-05
+- 1. 关于 Go 'Try' 的一封公开信：https://www.ardanlabs.com/blog/2019/07/an-open-letter-to-the-go-team-about-try.html 
+
+- 2. 使在 Go 编写类似 shell 的脚本: https://github.com/bitfield/script
+
+- 3. Go Map 常见操作: http://www.golangprograms.com/go-language/golang-maps.html 
+
+- 4. 微服务架构和设计模式：https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a 
+
+- 5. 你真的需要微服务吗：https://itnext.io/do-you-really-need-microservices-e85d7711c78b
 
 - - - - - - - - - - 
