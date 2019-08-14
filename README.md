@@ -103,6 +103,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2154,5 +2155,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. go编写的小型、快速的脚本语言 https://github.com/d5/tengo
 
 - 5. kubernetes入门指南 https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-12
+- 1. Go 即时通讯服务：https://github.com/tinode/chat
+
+- 2. Go 切片讲解：https://blog.gojekengineering.com/grab-a-slice-on-the-go-c606344186c1
+
+- 3. Go 2D 游戏引擎：https://github.com/faiface/pixel
+
+- 4. MongoDB 十分钟入门：https://medium.freecodecamp.org/learn-mongodb-a4ce205e7739
+
+- 5. 2019年物联网九大趋势及预测：http://www.qianjia.com/html/2019-02/01_323385.html
 
 - - - - - - - - - - 
