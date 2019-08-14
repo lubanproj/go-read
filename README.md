@@ -30,6 +30,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -428,3 +429,24 @@
 - 5. 性能持续测试工具 performabot https://github.com/saschagrunert/performabot
 
 - - - - - - - - - - 
+
+### gocn_news_2019-06-02
+- 1. GopherChina 2019 所有视频全部发布了: https://www.bilibili.com/video/av56099952
+
+- 2. go/Java 国密sm2签名验签：  https://segmentfault.com/a/1190000019528217
+
+- 3. 深入理解defer（上）defer基础：https://www.cnblogs.com/abozhang/p/11049304.html
+4.银行业中台系统建设思路：https://mp.weixin.qq.com/s/QEic_WcpmBcwSdM1sIjIYg
+
+- 4. 容器、微服务与服务网格: https://mp.weixin.qq.com/s/nCeFHO857C_0TzC4xeJdvg
+
+- 5. GopherChina 2019 所有视频全部发布了: https://www.bilibili.com/video/av56099952
+
+- 6. go/Java 国密sm2签名验签：  https://segmentfault.com/a/1190000019528217
+
+- 7. 深入理解defer（上）defer基础：https://www.cnblogs.com/abozhang/p/11049304.html
+4.银行业中台系统建设思路：https://mp.weixin.qq.com/s/QEic_WcpmBcwSdM1sIjIYg
+
+- 8. 容器、微服务与服务网格: https://mp.weixin.qq.com/s/nCeFHO857C_0TzC4xeJdvg
+
+- - - - - - - 
