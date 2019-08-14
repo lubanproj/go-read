@@ -17,6 +17,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -390,5 +391,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. raft协议作者:软件设计的哲学 https://www.youtube.com/watch?v=bmSAYlu0NcY
 
 - 5. 我为什么关掉了超线程 https://mp.weixin.qq.com/s/GvPxLXLF2bNuVTXaPVM3Ww
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-01
+- 1. Go 2 提上日程，官方团队呼吁社区给新特性提案提交反馈 https://www.infoq.cn/article/hi*VJ3POswCiQc7dUZXM
+
+- 2. Rust语言恰巧是一门解决了Go语言所有问题的语言 http://www.cocoachina.com/programmer/20181130/25650.html
+
+- 3. Go语言项目集成CAS单点登录 https://blog.csdn.net/leftfist/article/details/84630320
+
+- 4. 验证ECDSA签名 https://thanethomson.com/2018/11/30/validating-ecdsa-signatures-golang/
+
+- 5. 3D中可视化Go City https://github.com/rodrigo-brito/gocity
 
 - - - - - - - - - - 
