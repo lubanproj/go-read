@@ -150,6 +150,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2812,5 +2813,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 尝试将preact移植到Go WASM https://github.com/gernest/greact
 
 - 5. athens与微软 https://medium.com/@arschles/athens-and-microsoft-1b11a316bc23
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-23
+- 1. 如何用GO语言编写缓存服务 https://www.epubit.com/selfpublish/article/5105
+
+- 2. Golang TLS双向身份认证DoS漏洞分析 https://www.anquanke.com/post/id/168383
+
+- 3. Golang非CSP并发模型外的其他并行方法总结 https://i6448038.github.io/2018/12/18/Golang-no-csp
+
+- 4. gpio-and-go https://blog.gopheracademy.com/advent-2018/gpio-and-go/
+
+- 5. netcap:基于安全和可伸缩流量分析的框架 https://github.com/dreadl0ck/netcap
 
 - - - - - - - - - - 
