@@ -139,6 +139,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2660,5 +2661,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 50+ 顶级开源 Kubernetes 工具列表 https://www.infoq.cn/article/RPA-wswoEyjuRZfTMcut
 
 - 5. 再谈 Go 语言在前端的应用前景 https://mp.weixin.qq.com/s/v0-d-qPQFlV0CxttFpzC5w
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-04
+- 1. GO语言主流框架排名分析 https://redmonk.com/fryan/2018/02/07/language-framework-popularity-a-look-at-go/
+
+- 2. 七年后我如何编写Go HTTP服务 https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831 
+
+- 3. 使用mget提取网页元数据 https://medium.com/@mremond/extracting-web-page-metadata-with-mget-9ce1aefc6579
+
+- 4. 测试Kubernetes Go应用程序  https://itnext.io/testing-kubernetes-go-applications-f1f87502b6ef
+
+- 5. Go Docker开发环境使用Go Modules和实时代码实现重载    https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/
 
 - - - - - - - - - - 
