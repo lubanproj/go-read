@@ -19,6 +19,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -654,5 +655,18 @@
 - 4. 当我们在谈论高并发的时候究竟在谈什么? https://segmentfault.com/a/1190000019360335
 
 - 5. 做数据分析不得不看的书有哪些？https://www.zhihu.com/question/19640095/answer/585334541
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-06
+- 1. Go语言开发-过程式编程-Panic和Recover https://plumwine.me/programming-in-go-procedural-programming-panic-recover/
+
+- 2. 基于Go SDK操作京东云对象存储OSS的入门指南  http://mp.weixin.qq.com/s?__biz=MzU1OTgxMTg2Nw==&mid=2247484967&idx=1&sn=b85abe2d4162c77cd527d18bd4f6d235
+
+- 3. Goroutine 泄露排查  https://ms2008.github.io/2019/06/02/golang-goroutine-leak/
+
+- 4. golang cobra的一些笔记  https://zhangguanzhang.github.io/2019/06/02/cobra/
+
+- 5. 从 GFS 失败的架构设计来看一致性的重要性 https://mp.weixin.qq.com/s/GuJ6VqZJy3ONaVOWvQT9kg
 
 - - - - - - - - - - 
