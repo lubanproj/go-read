@@ -46,6 +46,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1357,5 +1358,18 @@
 - 4. dihedral：另一个编译时依赖注入框架 https://github.com/dimes/dihedral
 
 - 5. Cloud Next'19的Go语言作者访谈 https://www.youtube.com/watch?v=3yghHvvZQmA
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-14
+- 1. Raycasting引擎转换为Go https://www.reddit.com/r/golang/comments/bcpeyc/raycasting_engine_converted_to_go/
+
+- 2. GOLANG API中避免内存泄露 http://www.gaoxuan1989.com/2019/04/13/avoiding-memory-leak-in-golang-ap
+
+- 3. 谈谈panic和recover的原理 https://draveness.me/golang-panic-recover
+
+- 4. 分布式系统关注点—缓存背后的“毁灭种子” https://mp.weixin.qq.com/s/okI71mBjwmt85OtHYVC1Hw
+
+- 5. 你是否需要区块链：多种决策模型  https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1
 
 - - - - - - - - - - 
