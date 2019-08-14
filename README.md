@@ -35,6 +35,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1203,5 +1204,18 @@
 - 4. Go 高级测试模型 https://scene-si.org/2019/04/15/next-level-go-testing/
 
 - 5. 使用Istio的可观察性工具来监控Go开发的微服务 https://itnext.io/istio-observability-with-go-grpc-and-protocol-buffers-based-microservices-d09e34c1255a
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-26
+- 1. ChanBroker goroutine实现类似Kafka的消息队列 https://github.com/myself659/chanbroker
+
+- 2. 为 Envoy 构建控制面指南第4部分：构建的可扩展性 https://mp.weixin.qq.com/s/nPy47R2zjgVU_3YUg2pHbA
+
+- 3. php swoole 协程 与 go 的协程比较 https://studygolang.com/articles/20036
+
+- 4. Heroku上部署原生go二进制应用 https://preslav.me/2019/04/20/deploying-native-go-binary-on-heroku/
+
+- 5. sonarqube SonarGo 搭建和golang代码检视的使用教程 https://studygolang.com/articles/20028
 
 - - - - - - - - - - 
