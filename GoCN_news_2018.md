@@ -1,5 +1,6 @@
 ## gocn_news__2018
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -152,5 +153,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 自动kubernetes部署 https://medium.com/@michelvocks/automatic-kubernetes-deployment-with-gaia-and-hashicorp-vault-73b882e40741
 
 - 5. 万字长文揭秘：阿里如何实现海量数据实时分析？ https://mp.weixin.qq.com/s/kt-xtvM77UZ3kD-3dpU7sw
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-18
+- 1. Go 接口与反射的关联： https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/
+
+- 2. MongoDB 官方 Go Driver 与 Protobuf 结合工作：https://medium.com/@amsokol.com/new-official-mongodb-go-driver-and-google-protobuf-making-them-work-together-6357b0118f3f
+
+- 3. 解读 2018 之 Go 语言篇：https://infoq.cn/article/4LsxhHGpAG1Gq-q4KVO4
+
+- 4. 什么是 Service Mesh: https://medium.com/ravirdv/micro-services-what-is-service-mesh-and-how-does-it-help-you-65e38377acdb
+
+- 5. 使用 Grafana 和 Prometheus 进行混合云监控： https://medium.com/@anupam.ncsu/grafana-prometheus-hybrid-cloud-monitoring-19907e52c4a1
 
 - - - - - - - - - - 
