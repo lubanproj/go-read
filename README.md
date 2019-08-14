@@ -11,6 +11,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -544,3 +545,16 @@
 - 8. 容器、微服务与服务网格: https://mp.weixin.qq.com/s/nCeFHO857C_0TzC4xeJdvg
 
 - - - - - - - 
+
+### gocn_news_2019-06-19
+- 1. Go 中 Defer, Panic 和 Recover: https://medium.com/rungo/defer-panic-and-recover-in-go-689dfa7f8802
+
+- 2. Go 错误处理：https://medium.com/rungo/error-handling-in-go-f0125de052f0 
+
+- 3. 优化 Go 程序的简单技巧：https://stephen.sh/posts/quick-go-performance-improvements
+
+- 4. Service Mesh 简介：https://medium.com/@arjunrc143/introduction-to-service-mesh-4fc2b872d4f9 
+
+- 5. 系统架构系列（一）：如何用公式定义该概念? https://www.infoq.cn/article/fwhQ-dIN2xTUH6zNLYZp
+
+- - - - - - - - - - 
