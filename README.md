@@ -66,6 +66,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1637,5 +1638,18 @@
 - 4. 关于 Go 应该知晓的事 https://medium.com/@ginnyfahs/staying-in-the-know-with-go-9bf719ccc3d1
 
 - 5. 练习：Unix 系统常用基础工具 Go 实现版本 https://github.com/aporcupine/GoUnix
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-24
+- 1. Go 1.13 规划 https://groups.google.com/forum/#!topic/golang-dev/jln8MwFpATc
+
+- 2. MySQL 连接的处理和扩展 https://mysqlserverteam.com/mysql-connection-handling-and-scaling/
+
+- 3. 描述命令行界面的声明性语言 https://github.com/celicoo/docli
+
+- 4. 如何为大型 Go 程序构建微型 Docker 镜像 https://medium.com/@valyala/stripping-dependency-bloat-in-victoriametrics-docker-image-983fb5912b0d
+
+- 5. 使用 Go 和 RabbitMQ 的工作队列 https://medium.com/@masnun/work-queue-with-go-and-rabbitmq-b8c295cde861
 
 - - - - - - - - - - 
