@@ -6,6 +6,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -799,5 +800,18 @@
 - 4. gopl 反射2 https://blog.51cto.com/steed/2398744
 
 - 5. 知乎千万级高性能长连接网关揭秘 https://mp.weixin.qq.com/s/DVsH9rNQS4DQHuXoRixalQ
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-25
+- 1. 近期一个Golang项目的测试实践全记录 https://mp.weixin.qq.com/s/3Sngh1Y_HPpttp64Pxm6uw
+
+- 2. 理解Go中的布尔类型 https://www.digitalocean.com/community/tutorials/understanding-boolean-logic-in-go
+
+- 3. 开源代码protoactor-go源码分析-async schedule https://mp.weixin.qq.com/s/aHJScjcrrJyYlIDcA00P0g
+
+- 4. 深入理解Go中panic和recover http://t.cn/E9d04Bm
+
+- 5. Go字符串格式教程 https://medium.com/rungo/string-formatting-in-go-dd752ff7f60
 
 - - - - - - - - - - 
