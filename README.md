@@ -141,6 +141,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2688,5 +2689,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. go中的array和slice https://medium.com/@marty.stepien/arrays-vs-slices-bonanza-in-golang-fa8d32cd2b7c
 
 - 5. 2019年值得关注的23个开发者博客 https://zhuanlan.zhihu.com/p/53729304
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-01
+- 1. 理解 channel range 操作：https://imil.net/blog/2018/12/31/Understanding-golang-channel-range/ 
+
+- 2. 通过插图学习 Go 并发：https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
+
+- 3. Go 函数讲解系列文章：https://pythonnotes.com/functions-in-go/
+
+- 4. 2019 年值得关注的工业技术：https://staceyoniot.com/the-industrial-tech-to-watch-in-2019/
+
+- 5. 2019 边缘计算和IoT 展望：https://www.rfidjournal.com/articles/view?18111/
 
 - - - - - - - - - - 
