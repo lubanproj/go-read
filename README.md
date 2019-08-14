@@ -69,6 +69,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1680,3 +1681,16 @@
 - 4. 使用排队论做容量规划 https://hackernoon.com/why-capacity-planning-needs-queueing-theory-without-the-hard-math-342a851e215c
 
 - - - - - - - - - - - 
+
+### gocn_news_2019-03-21
+- 1. Go实现的具有动态分片策略的高级HTTP反向代理器Weaver https://github.com/gojektech/weaver
+
+- 2. 回到Traefik 2.0 https://blog.containo.us/back-to-traefik-2-0-2f9aa17be305
+
+- 3. 使用Go Modules https://blog.golang.org/using-go-modules
+
+- 4. Go-Gin-React-GORM的结合使用  https://nichorivera.blog/
+
+- 5. 从PHP到Go：Arrays https://asanchez.dev/blog/from-php-to-go-arrays/
+
+- - - - - - - - - - 
