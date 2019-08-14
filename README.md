@@ -26,6 +26,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -752,5 +753,18 @@
 - 4. mongoDB wiredTiger存储引擎总结 https://juejin.im/post/5ce29166f265da1bac3fe945
 
 - 5. 使用 Flagger，istio 和 GitOps Pipeline 自动管理 Kubernetes  https://www.weave.works/blog/automated-canary-management-to-kubernetes-with-flagger-istio-and-gitops-pipelines
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-20
+- 1. Sockets：Go 连接的起源——Golang net包 https://medium.com/martinomburajr/sockets-the-genesis-of-golang-connections-golang-net-pkg-1-586d8a02da13
+
+- 2. Go1.13 中可以期待什么 https://medium.com/@blanchon.vincent/go-what-to-expect-in-go-1-13-de8ad96e8ee2
+
+- 3. 以简单例子讲解 Go 中包的创建和分享 https://ednsquare.com/story/how-to-create-share-libraries-in-go-projects-with-example------YR7PQG
+
+- 4. Go1到Go1.10的语法变迁 https://mp.weixin.qq.com/s/_ihUzJ7rOVQJCkXhqm7ccA
+
+- 5. 开源项目：一个查找IP地址的简单服务 https://github.com/alifarah9/echoip
 
 - - - - - - - - - - 
