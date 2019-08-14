@@ -47,6 +47,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -824,5 +825,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 理解k8s资源限制系列:cpu time https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b
 
 - 5. go-mysql-server:一款类MySQL的SQL引擎 https://github.com/src-d/go-mysql-server
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-01
+- 1. Golang包的新特性对于Mysql查询操作 https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30
+
+- 2. Go微控制器编译器 https://github.com/aykevl/tinygo
+
+- 3. Go的RESTful APIs和路由框架gorouter https://github.com/xujiajun/gorouter
+
+- 4. Go的依赖注入 https://github.com/i-love-flamingo/dingo
+
+- 5. 不同的视角解读Docker和Kubernetes https://dzone.com/articles/docker-containers-and-kubernetes-an-architectural
 
 - - - - - - - - - - 
