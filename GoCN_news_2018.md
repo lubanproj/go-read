@@ -64,6 +64,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -1062,5 +1063,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. Go 的栈空间管理 https://zhuanlan.zhihu.com/p/46532477
 
 - 5. [视频] Go 如何布局项目结构 https://www.youtube.com/watch?v=B5oQnECDJ8g&t=
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-15
+- 1. Go语言编写的TLS协议说明 https://github.com/syncsynchalt/illustrated-tls
+
+- 2. Go+React+GraphQL教程 https://medium.com/@logi.infotech/graphql-subscription-with-golang-and-react-js-part-1-ffd8e9f54417
+
+- 3. 为什么Go是我的下一个编程语言 https://medium.com/@AndroidAdvance/why-go-is-my-next-programming-language-baafad895d50
+
+- 4. Gomock让单元测试更容易 https://medium.com/@duythhuynh/gomock-unit-testing-made-easy-b59a0e947ba7
+
+- 5. Go实现的备份/恢复Memcache工具 https://github.com/me-io/memcached-util
 
 - - - - - - - - - - 
