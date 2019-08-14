@@ -107,6 +107,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2210,5 +2211,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Gitbook:通过 Go 语言学习测试驱动开发 https://github.com/quii/learn-go-with-tests  
 
 - 5. fzf: 一款强大的命令行查找工具 https://github.com/junegunn/fzf   
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-06
+- 1. 在2019年 Golang要做的几件事情 https://thenewstack.io/whats-coming-to-golang-in-2019-modules-generics-better-error-handling/
+
+- 2. 配置管理已死，配置管理CAMP永存 https://opensource.com/article/19/2/configuration-management-camp
+
+- 3. 代码搜索引擎分析 https://michael.stapelberg.de/posts/2019-02-05-turbopfor-analysis/
+
+- 4. Etcd Raft使用入门及原理解析 https://github.com/aCoder2013/blog/issues/30
+
+- 5. 使用init()的难堪之处  https://twitter.com/sheremetat/status/1092738741209321472
 
 - - - - - - - - - - 
