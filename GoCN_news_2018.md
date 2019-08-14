@@ -43,6 +43,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -768,5 +769,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 边缘计算运用于物联网的六个关键点：https://internetofthingsagenda.techtarget.com/feature/6-significant-issues-that-edge-computing-in-IoT-solves
 
 - 5. 使用 IPFS 安全地共享区块链上的文件：https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-05
+- 1. 使用 scratch Docker 镜像部署 Go 应用 https://weberc2.bitbucket.io/posts/golang-docker-scratch-app.html
+
+- 2. Go 1.12 带来哪些变化 raw.githubusercontent.com/mvdan/talks/master/2018/go1.12-pre.slide
+
+- 3. Go 的并发实现 https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca
+
+- 4. Golab 2018 总结 https://butenas.com/blog/golab2018
+
+- 5. 可减少修复 I/O 开销的纠删码类库 https://github.com/templexxx/xrs
 
 - - - - - - - - - - 
