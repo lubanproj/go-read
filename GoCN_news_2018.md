@@ -13,6 +13,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -334,5 +335,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 多云时代：云网融合的多云网络 https://mp.weixin.qq.com/s/a_-Dp5vcRWPSy5ovHP0pQA
 
 - 5. 致传统企业朋友：不够痛就别微服务，有坑！ https://mp.weixin.qq.com/s/NUDdVfP0KOnpjXyZjj_IVg 
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-05
+- 1. golang本地存储 https://blog.gopheracademy.com/advent-2018/disk-datastores/ 
+
+- 2. 实时的机器学习 https://blog.zen.ly/real-time-machine-learning-in-go-at-zenly-5fece526b2ac 
+
+- 3. 触手可及的负载均衡器 https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82 
+
+- 4. slice内部是怎么工作的 https://medium.com/@riteeksrivastava/how-slices-internally-work-in-golang-a47fcb5d42ce 
+
+- 5. golang后台服务设计 http://litang.me/post/golang-server-design 
 
 - - - - - - - - - - 
