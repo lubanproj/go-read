@@ -56,6 +56,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1497,5 +1498,18 @@
 - 4. go-tagexpr：用于结构体字段校验的标签表达式语法库 https://github.com/bytedance/go-tagexpr  
 
 - 5. core: 轻量级CMS系统 https://github.com/backpulse/core  
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-04
+- 1. 使用Drone和GoReleaser自动化发布到Github https://dev.to/mstrsobserver/painless-github-releases-with-drone-and-goreleaser-45b7
+
+- 2. Golang中使用sql.Rows错误的诊断来帮助发现错误 https://github.com/gostaticanalysis/sqlrows
+
+- 3. 企业级持续交付和DevOps自动化开源平台 https://github.com/ovh/cds
+
+- 4. 使用chrome和docker从HTML页面创建PDF https://github.com/FireFart/gochro
+
+- 5. Golang中的方法 https://go101.org/article/method.html
 
 - - - - - - - - - - 
