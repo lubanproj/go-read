@@ -73,6 +73,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1734,5 +1735,18 @@
 - 4. 通过pprof修复bug https://nicholasjackson.io/2019/03/01/fixing-bugs-with-pprof
 
 - 5. 从技术演变的角度看互联网后台架构 https://mp.weixin.qq.com/s/ybQd4zXyfQlUdbvbQl0h9A
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-16
+- 1. GoLand 2019.1Beta版发布（内置堆、CPU、锁等分析器）https://blog.jetbrains.com/go/2019/03/14/goland-2019-1-goes-beta/
+
+- 2. 百万 Go TCP 连接的思考3: 正常连接下的吞吐率和延迟  https://colobu.com/2019/02/28/1m-go-tcp-connection-3/
+
+- 3. Golang中使用高阶函数实现依赖注入  https://stein.wtf/posts/2019-03-12/inject/
+
+- 4. Goroutines原理和它的工作模式 https://medium.com/@joaoh82/what-are-goroutines-and-how-do-they-actually-work-f2a734f6f991
+
+- 5. Go开发的嵌入式、快速持久化队列 https://github.com/grandecola/bigqueue
 
 - - - - - - - - - - 
