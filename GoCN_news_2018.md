@@ -51,6 +51,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -880,5 +881,19 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 使用Go构建pipeline架构 https://labs.bawi.io/building-a-pipeline-architecture-in-golang-4c154b8cdcff
 
 - 5. Golang反射深入理解 https://www.jianshu.com/p/1cf328cfe82b
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-28
+- 1. Go Web框架特性比较 http://www.cnblogs.com/joyswings/p/9864521.html
+
+- 2. TLS连接图解 https://tls.ulfheim.net
+
+- 3. 一种Golang实现的分布式KV存储 https://github.com/namreg/godown
+
+- 4. Golang实现basic编译器 https://github.com/skx/gobasic
+
+- 5. 由散列表到BitMap的概念与应用（一）
+http://blueskykong.com/2018/10/24/hash-bitmap/
 
 - - - - - - - - - - 
