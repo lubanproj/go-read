@@ -143,6 +143,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2716,5 +2717,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. OpenEdge：开放的边缘计算平台 https://github.com/baidu/openedge
 
 - 5. 从微服务的角度看，如何 Be Cloud Native：http://t.cn/Ebq3QlD
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-30
+- 1. Go并发：一招掌握无阻塞通道读写 https://segmentfault.com/a/1190000017537297
+
+- 2. 探索Go解析Byte的API https://blog.gopheracademy.com/advent-2018/exploring-byte-parsing-apis-in-go/
+
+- 3. 基于Redis协议的持久化NoSQL数据库redix https://github.com/alash3al/redix
+
+- 4. 设计弹性系统：断路器或重试 https://engineering.grab.com/designing-resilient-systems-part-1
+
+- 5. 分布式系统的基石：深入浅出共识算法 https://zhuanlan.zhihu.com/p/52617675
 
 - - - - - - - - - - 
