@@ -136,6 +136,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2618,5 +2619,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 《经济学人》使用 Go 搭建微服务 https://www.infoq.com/articles/golang-the-economist
 
 - 5. Go 使用 Docker 进行实时开发更新 https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-07
+- 1. 让Raft变快100倍 - Dragonboat的写优化 https://zhuanlan.zhihu.com/p/52620657
+
+- 2. 用Go实现一个JSON解析器 https://hackernoon.com/create-a-go-json-parser-batteries-included-9d02d09fe508
+
+- 3. 综述：微服务化解决的问题和引出的问题 https://jingwei.link/2019/01/06/summary-of-microservices-k8s.html
+
+- 4. Beaver: 一个实时消息服务端 https://github.com/Clivern/Beaver
+
+- 5. GolangExample: Go代码示例 https://golangexample.com/
 
 - - - - - - - - - - 
