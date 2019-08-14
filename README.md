@@ -81,6 +81,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1846,5 +1847,18 @@
 - 4. 图解 Go 内存分配器 https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed
 
 - 5. system-design-primer 学习如何设计大型系统 https://github.com/donnemartin/system-design-primer
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-08
+- 1. Go Channels完全指南 https://go101.org/article/channel.html
+
+- 2. Go 缓存实现的最新水平 https://blog.dgraph.io/post/caching-in-go/  
+
+- 3. Uber开源了P2P镜像仓库Kraken https://eng.uber.com/introducing-kraken/  
+
+- 4. go-tflite:TensorFlow Lite的Go语言链接库 https://github.com/mattn/go-tflite
+
+- 5. pipe-to-me:使用curl实现流式交互 https://github.com/jpschroeder/pipe-to-me
 
 - - - - - - - - - - 
