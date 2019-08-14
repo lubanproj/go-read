@@ -111,6 +111,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2266,5 +2267,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. bettercap:Go实现网络军刀 https://github.com/bettercap/bettercap
 
 - 5. AresDB:uber开源基于GPU驱动的实时分析引擎 https://eng.uber.com/aresdb/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-02
+- 1. Kubernetes 调度器实现初探 https://segmentfault.com/a/1190000018084243
+
+- 2. 开发者需要知道的10个Go开的工具 https://golang.works-hub.com/learn/10-tools-written-in-go-that-every-developer-needs-to-know-6d45d
+
+- 3. Go优雅的读取http请求或响应的数据-续 https://segmentfault.com/a/1190000018089512
+
+- 4. Go 时间交并集小工具 https://juejin.im/post/5c5407f9e51d457fca2e7b9f
+
+- 5. Golang写webassembly的乐趣 https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02
 
 - - - - - - - - - - 
