@@ -121,6 +121,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2406,5 +2407,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go中的云功能 https://medium.com/yakka/cloud-functions-in-go-94c1014a6fe4
 
 - 5. 使用Golang在Kubernetes中创建自己的控制器 https://itnext.io/creating-your-own-admission-controller-in-kubernetes-using-golang-3fad3b3e0c81
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-23
+- 1. 理解 Golang 中函数调用的原理 https://draveness.me/golang-funciton-call
+
+- 2. 使用Go语言开发必备的5大开源工具 http://developer.51cto.com/art/201901/590952.htm
+
+- 3. 如何设计api https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a
+
+- 4. tidb-lightning 高效率的数据导入工具 https://github.com/pingcap/tidb-lightning
+
+- 5. [译]经济学人使用Golang构建微服务历程回顾 http://www.cnblogs.com/davidwang456/p/10305382.html
 
 - - - - - - - - - - 
