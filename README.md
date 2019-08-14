@@ -4,6 +4,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -771,5 +772,18 @@
 - 4. go-micro之源码剖析: Registry https://juejin.im/post/5cebafe6f265da1bb80c0cc7
 
 - 5. Go 的 PDF 处理库 https://github.com/unidoc/unipdf
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-27
+- 1. 《Go 同步和并发设计模式》培训会后整理 https://mp.weixin.qq.com/s/LSWICPpGcRaKUBtLzgOz_Q
+
+- 2. VictoriaMetrics高效时序数据库 https://github.com/VictoriaMetrics/VictoriaMetrics
+
+- 3. meshRPC: 一个面向Go语言的Service Mesh RPC框架 https://github.com/astranet/meshRPC
+
+- 4. gotree: 一个垂直分布式框架 https://github.com/8treenet/gotree
+
+- 5. 深入Go并发编程研讨课Workshop https://github.com/smallnest/dive-to-gosync-workshop
 
 - - - - - - - - - - 
