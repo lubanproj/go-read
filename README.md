@@ -131,6 +131,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2546,5 +2547,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. K8s服务快速开发迭代工具telepresence https://github.com/telepresenceio/telepresence
 
 - 5. 使用go-ycsb对不同的数据库做压测 https://medium.com/@siddontang/use-go-ycsb-to-benchmark-different-databases-8850f6edb3a7
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-12
+- 1. 世界可能缺少一种编程语言 https://medium.com/@the1mills/the-world-might-be-missing-a-programming-language-4ce43e212277
+
+- 2. 如何在Go中编写好的单元测试 https://medium.com/@jens.neuse/want-to-write-good-unit-tests-in-go-dont-panic-or-should-you-ba3eb5bf4f51
+
+- 3. 为什么我在Go中使用接口 https://medium.com/@kent.rancourt/go-pointers-why-i-use-interfaces-in-go-338ae0bdc9e4
+
+- 4. 验证结构字段工具 https://medium.com/@shivarajvarali/validating-struct-fields-made-easy-in-go-language-7ea9c49bba3b
+
+- 5. 初次尝试Kubernetes https://www.youtube.com/watch?v=ZSuh_nNPGls
 
 - - - - - - - - - - 
