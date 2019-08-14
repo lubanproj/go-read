@@ -50,6 +50,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1413,5 +1414,18 @@
 - 4. Eureka-Client(Golang实现）http://www.cnblogs.com/bener/p/10683404.html
 
 - 5. 你真的需要用Kubernetes吗？ https://mp.weixin.qq.com/s/MNX7QG-TbHXe0OMOun5eWA https://mp.weixin.qq.com/s/1co_fK8wyEgrbIUtcymhLw
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-10
+- 1. 用一句话描述Go语言的命令 https://juejin.im/post/5cab0e885188250b251e5152
+
+- 2. 编写一个多态引擎 https://medium.com/syscall59/writing-a-polymorphic-engine-73ec56a2353e
+
+- 3. Go编写的现代文本索引库 https://github.com/blevesearch/bleve
+
+- 4. 缓存慢数据库查询 https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9
+
+- 5. 理解Go语言defer关键字的原理 https://draveness.me/golang-defer
 
 - - - - - - - - - - 
