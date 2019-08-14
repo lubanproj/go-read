@@ -37,6 +37,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1231,5 +1232,18 @@
 - 4. part 7: golang 包 https://juejin.im/post/5cbdf9076fb9a0321141ae0b
 
 - 5. Docker开发者现在可以在自己的桌面上构建Arm容器 https://mp.weixin.qq.com/s/AOfUwCTD5X1su4VSTJIHGw
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-24
+- 1. bilibili开源的微服务框架kratos https://github.com/bilibili/kratos
+
+- 2. Golang 1.x版本泛型编程 https://mp.weixin.qq.com/s/omh3CmItJiOQ7i-dE0dUxA
+
+- 3. 从goim定制, 浅谈 golang 的 interface 解耦合与gRPC https://juejin.im/post/5cbd380c5188250a97133649
+
+- 4. 命令行界面的Wireshark https://github.com/gcla/termshark
+
+- 5. 并发编程导论 https://juejin.im/post/5cbd7e6a5188250a7c4c8b0d
 
 - - - - - - - - - - 
