@@ -145,6 +145,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2746,3 +2747,14 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 5. 什么是区块链预言机 https://juejin.im/post/5c236f456fb9a049c965b9e4
 
 - - - - - - - - - - 
+
+### gocn_news_2018-12-28
+- 1. Golang实现的存储文件树 https://github.com/dc0d/fstash
+
+- 2. 使用go运行mysql docker容器进行集成测试 https://itnext.io/mysql-docker-container-for-integration-testing-using-go-f784b70a03b
+
+- 3. Go实现的音频识别库 https://github.com/kisasexypantera94/khalzam
+
+- 4. 将curl命令转换为浏览器中的Go代码 https://github.com/mholt/curl-to-go
+
+- - - - - - - - - - - 
