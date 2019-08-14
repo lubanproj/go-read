@@ -28,6 +28,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -398,5 +399,18 @@
 - 4. 企业构建 Serverless 团队的五个建议：https://thenewstack.io/five-tips-building-serverless-teams-enterprise
 
 - 5. 使用 AWS Lambda 构建 PDF 生成器：https://medium.com/@_rich/richard-keller-61d9cb0f430 
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-01
+- 1. Dave Cheney: 清晰比聪明更重要 https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
+
+- 2. istio 最佳实践: Service Mesh 性能测试 https://istio.io/blog/2019/performance-best-practices/
+
+- 3. GO语言变量逃逸分析 https://www.jianshu.com/p/7571d3d0c12d
+
+- 4. 使用Go和TLS 加密链接GRPC https://medium.com/@nleiva/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-1-f63058e9d6d1
+
+- 5. [译] Go语言如何使用条件编译 https://pengrl.com/p/41852/
 
 - - - - - - - - - - 
