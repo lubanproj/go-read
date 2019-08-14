@@ -19,6 +19,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -981,5 +982,18 @@
 - 4. Go语言性能工具快速教程 https://github.com/samonzeweb/profilinggo
 
 - 5. 配置基于Windows WSL+VSCode的开发环境 https://medium.com/@betakuang/setup-go-development-environment-with-vs-code-and-wsl-on-windows-62bd4625c6a7
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-12
+- 1. 浅谈 Golang 中数据的并发同步问题（三）https://jingwei.link/2019/05/12/golang-concurrency-03-map.html
+
+- 2. API设计最佳实践的思考 https://mp.weixin.qq.com/s/qWrSyzJ54YEw8sLCxAEKlA
+
+- 3. 引入Go风格的C版并发库 http://libmill.org
+
+- 4. 《Go 101》发布 https://github.com/go101/go101/releases/tag/v1.12.c
+
+- 5. 一个真实的现网mySql死锁问题处理 https://mp.weixin.qq.com/s/rLdHuwEb7gKjgpbsh1ioSA
 
 - - - - - - - - - - 
