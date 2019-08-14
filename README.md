@@ -13,6 +13,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -897,5 +898,18 @@
 - 4. goss:快速和简单的服务器测试/验证工具 https://github.com/SimonBaeumer/goss
 
 - 5. 2019 InfluxDB 权威指南 https://medium.com/schkn/the-definitive-guide-to-influxdb-in-2019-devconnected-23f5661002c8
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-18
+- 1. 谈谈Go语言字符串 https://mp.weixin.qq.com/s/pjv1FNl0bxl3dwk6hYhzBg
+
+- 2. 了解Go中的实际并发错误 https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/
+
+- 3. 实战Go内存泄露 https://mp.weixin.qq.com/s/d0olIiZgZNyZsO-OZDiEoA
+
+- 4. 微服务工具包 https://github.com/Clivern/Hippo
+
+- 5. 一个mysql死锁场景分析 https://segmentfault.com/a/1190000019221604
 
 - - - - - - - - - - 
