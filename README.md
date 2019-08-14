@@ -22,6 +22,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1025,3 +1026,14 @@
 - 5. 高效管理 Elasticsearch 中基于时间的索引 https://mp.weixin.qq.com/s/TfbYmvxsi1Jegl6phBXl9A
 
 - - - - - - - - - - 
+
+### gocn_news_2019-05-09
+- 1. 协程初步讨论  https://segmentfault.com/a/1190000019114754
+
+- 2. go框架-beego基础 https://c.isme.pub/2019/03/25/go-beego/
+
+- 3. 在 struct 內的 pointers 跟 values 差异 https://blog.wu-boy.com/2019/05/what-is-different-between-pointer-and-value-in-golang/
+
+- 4. 从零开始搭建创业公司后台技术栈 https://mp.weixin.qq.com/s/jQ0X66DK1DDW9DFlyd9bdw
+
+- - - - - - - - - - - 
