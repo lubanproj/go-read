@@ -8,6 +8,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -827,5 +828,18 @@
 - 4. HTTP/2 in GO(五)--大结局 https://mp.weixin.qq.com/s/qaqN4Eqndjg95TPBOC4d_g
 
 - 5. Istio 庖丁解牛四：pilot discovery  https://mp.weixin.qq.com/s/navKSzbQnkN8r0GZSPM7aQ
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-23
+- 1. Wide时隔2年发布新版 https://www.oschina.net/news/106912/wide-1-6-0-released
+
+- 2. zinx：基于Golang的轻量级TCP并发服务器框架 https://www.jianshu.com/p/23d07c0a28e5
+
+- 3. Golang项目的测试实践 https://studygolang.com/articles/20602
+
+- 4. GIN的TIMEOUT MIDDLEWARE实现(续) http://vearne.cc/archives/39135
+
+- 5. 到处是map、flatMap，啥意思？ https://mp.weixin.qq.com/s/sOAq_QNgVSsZ2nvikiMFBA
 
 - - - - - - - - - - 
