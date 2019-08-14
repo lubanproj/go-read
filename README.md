@@ -127,6 +127,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2490,5 +2491,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 10大工具汇总，多维度简化Kubernetes部署 https://mp.weixin.qq.com/s/pb4Tsth_c4kg2itvUU-76A 
 
 - 5. Go的快速脚本语言 https://github.com/d5/tengo
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-16
+- 1. 使用go和tensorflow进行拟合 https://medium.com/@sdeoras/poly-fit-using-tensorflow-and-go-dba53fc7c4e2
+
+- 2. 5个Go开源工具推荐 https://jaxenter.com/golang-open-source-tools-154472.html
+
+- 3. go使用X-Ray分析与调试分布式生产应用程序 https://medium.com/@kaperys/instrumenting-go-using-aws-x-ray-10952aff00cc
+
+- 4. 在kubernetes上运行istio https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
+
+- 5. 编译go到webassembly https://www.sitepen.com/blog/compiling-go-to-webassembly/
 
 - - - - - - - - - - 
