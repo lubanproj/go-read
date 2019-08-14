@@ -34,6 +34,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1189,5 +1190,18 @@
 - 4. GopherChina第一天小结 https://mp.weixin.qq.com/s/nHcj2yxscD5WA2mOuTCnzw
 
 - 5. Golang中实现枚举类型 https://www.hexiangyu.me/2019/04/14/go-enums-md/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-27
+- 1. 在 Go 中发现竞态条件 (Race Conditions) https://mp.weixin.qq.com/s/RPdtslg2L-SuhU0fdi3QQg
+
+- 2. 用 Go 和Consul构建一个简单的分布式系统  https://medium.com/@didil/building-a-simple-distributed-system-with-go-consul-39b08ffc5d2c
+
+- 3. Go 语言 Excel 类库 Excelize 2.0.0 版本发布 https://gocn.vip/article/1716
+
+- 4. Go 高级测试模型 https://scene-si.org/2019/04/15/next-level-go-testing/
+
+- 5. 使用Istio的可观察性工具来监控Go开发的微服务 https://itnext.io/istio-observability-with-go-grpc-and-protocol-buffers-based-microservices-d09e34c1255a
 
 - - - - - - - - - - 
