@@ -59,6 +59,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -992,5 +993,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. 性能分析方法论 http://www.zenlife.tk/performance-analysis.md
 
 - 5. 关键路径驱动开发 https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-20
+- 1. gRPC客户端身份验证 https://jbrandhorst.com/post/grpc-auth/
+
+- 2. 掌握Golang世界 https://www.getrevue.co/profile/golang/issues/master-the-world-of-golang-issue-25-139614
+
+- 3. GoLand中的重构：更改签名 https://blog.jetbrains.com/go/2018/10/19/refactorings-change-signature/
+
+- 4. 微服务架构组件分析 https://segmentfault.com/a/1190000016744430
+
+- 5. 可组合的GIF效应CLI https://github.com/sgreben/yeetgif
 
 - - - - - - - - - - 
