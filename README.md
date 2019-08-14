@@ -95,6 +95,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2043,5 +2044,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Cds:一款企业级CI/CD平台 https://github.com/ovh/cds  
 
 - 5. glTF 2.0 序列化反序列化库: https://github.com/qmuntal/gltf 
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-21
+- 1. 使用Go和Kubernetes进行数据库迁移 https://dev.to/plutov/database-migrations-with-go-and-kubernetes-266a
+
+- 2. Go嵌入式队列Goblero https://medium.com/@didil/introducing-goblero-a-go-embedded-job-queue-6dfec8e24d4c
+
+- 3. 如何编写Go API https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-1-webserver-with-iris
+
+- 4. 关于Go2的草案 http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
+
+- 5. Go的精炼Web框架 air https://github.com/aofei/air
 
 - - - - - - - - - - 
