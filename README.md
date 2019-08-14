@@ -47,6 +47,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1371,5 +1372,18 @@
 - 4. 分布式系统关注点—缓存背后的“毁灭种子” https://mp.weixin.qq.com/s/okI71mBjwmt85OtHYVC1Hw
 
 - 5. 你是否需要区块链：多种决策模型  https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-13
+- 1. 使用tus协议实现http断点续传文件功能 https://golangbot.com/resumable-file-uploader/
+
+- 2. 如何利用pprof在大量代码库中定位内存泄漏 https://medium.freecodecamp.org/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192
+
+- 3. 源码剖析golang中sync.Mutex https://purewhite.io/2019/03/28/golang-mutex-source/
+
+- 4. 开源api网关tyk性能调优 https://medium.com/@ahmet_19567/performance-tuning-your-open-source-tyk-api-gateway-d48505c205a1
+
+- 5. Go 1.12.4和1.11.9版本发布 https://groups.google.com/forum/#!topic/golang-nuts/bMutB64oDi8
 
 - - - - - - - - - - 
