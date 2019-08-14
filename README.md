@@ -142,6 +142,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2702,5 +2703,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 2019 年值得关注的工业技术：https://staceyoniot.com/the-industrial-tech-to-watch-in-2019/
 
 - 5. 2019 边缘计算和IoT 展望：https://www.rfidjournal.com/articles/view?18111/
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-31
+- 1. Go 入门简介：http://t.cn/EbjzeSt
+
+- 2. Go GraphQL 新手指南： https://tutorialedge.net/golang/go-graphql-beginners-tutorial/
+
+- 3. 你需要 Go web 框架吗：https://medium.com/@tusharsoni/do-you-need-a-web-framework-for-go-51171bb0ea8c
+
+- 4. OpenEdge：开放的边缘计算平台 https://github.com/baidu/openedge
+
+- 5. 从微服务的角度看，如何 Be Cloud Native：http://t.cn/Ebq3QlD
 
 - - - - - - - - - - 
