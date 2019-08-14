@@ -15,6 +15,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -925,5 +926,18 @@
 - 4. Go 模糊测试 https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit
 
 - 5. GO小知识之如何做JSON美化 https://zhuanlan.zhihu.com/p/65905512
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-16
+- 1. 高可用分布式存储etcd的实现原理 https://draveness.me/etcd-introduction
+
+- 2. Go中的HTTP请求处理概述 https://www.alexedwards.net/blog/a-recap-of-request-handling
+
+- 3. Go和TensorFlow实现的个人照片管理工具 https://dev.to/lastzero/photoprism-personal-photo-management-powered-by-go-tensorflow-vuetify-3pl4
+
+- 4. Go中类型断言的错误处理 https://golang.works-hub.com/learn/rest-api-error-handling-in-go-behavioural-type-assertion-b13f8
+
+- 5. 深入理解mysql-innodb_ruby工具 https://juejin.im/post/5cd3cbfb518825358f3e5914
 
 - - - - - - - - - - 
