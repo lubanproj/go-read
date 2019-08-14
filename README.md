@@ -26,6 +26,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -370,5 +371,18 @@
 - 4. 向GO内部编译器添加新语句 https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/
 
 - 5. 专注于web应用的Golang模板引擎 https://github.com/gobuffalo/plush 
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-03
+- 1. Go并发编程与同步原语 https://draveness.me/golang-sync-primitives.html
+
+- 2. Go Modules踩坑总结 https://juejin.im/post/5d1ae1b2f265da1b8466fecb
+
+- 3. 彻底弄懂return和defer的微妙关系 https://juejin.im/post/5d173ce16fb9a07ea803df75
+
+- 4. net/http输出context引起的map panic http://xiaorui.cc/?p=5919
+
+- 5. []byte和string类型相互转换时的性能分析和优化 https://www.pengrl.com/p/31544/
 
 - - - - - - - - - - 
