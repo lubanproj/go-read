@@ -27,6 +27,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1091,5 +1092,18 @@
 - 4. 知乎部署系统演进 https://zhuanlan.zhihu.com/p/60627311
 
 - 5. Google Cloud Run 一瞥 https://blog.fleeto.us/post/a-first-look-at-google-cloud-run/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-04
+- 1. 如何掌握并用好defer（延迟执行） https://segmentfault.com/a/1190000019063371
+
+- 2. GO: sync.Mutex 的实现与演进 https://www.jianshu.com/p/ce1553cc5b4f
+
+- 3. Golang的map并发安全 https://www.jianshu.com/p/f2e7650da938
+
+- 4. Go中的垃圾收集：第一部分 - 语义 https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+
+- 5. 1万属性，100亿数据，每秒10万吞吐，架构如何设计？ https://juejin.im/post/5ccc3a1af265da03a436dfde
 
 - - - - - - - - - - 
