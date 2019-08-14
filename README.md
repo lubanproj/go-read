@@ -76,6 +76,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1776,5 +1777,18 @@
 - 4. Uber开源P2P容器仓库Kraken，每秒分布TB级数据：https://mp.weixin.qq.com/s/MUUlIKDC6LExWOCWUmossg
 
 - 5. 微服务测试及镜像化提测全流程实践：https://mp.weixin.qq.com/s/ao3BojXIeWjuC2_K8ObNZg
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-13
+- 1. 图解Go语言内存分配 http://www.cnblogs.com/qcrao-2018/p/10520785.html
+
+- 2. 让我们用Go来写一个简单的事件处理总线 https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997
+
+- 3. 当Go遇上了Lua https://segmentfault.com/a/1190000018482369
+
+- 4. 我应该用Go还是Node.js来开发我下一个APP https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e
+
+- 5. 《Go语言四十二章经》 https://github.com/ffhelicopter/Go42
 
 - - - - - - - - - - 
