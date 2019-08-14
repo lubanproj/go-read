@@ -140,6 +140,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2674,5 +2675,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 测试Kubernetes Go应用程序  https://itnext.io/testing-kubernetes-go-applications-f1f87502b6ef
 
 - 5. Go Docker开发环境使用Go Modules和实时代码实现重载    https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-03
+- 1. 为什么goroutine存在泄露，如何避免？ https://medium.com/jexia/why-goroutines-leaks-exist-and-how-to-avoid-these-dfc572bdad08
+
+- 2. Go静态错误分析工具 https://staticcheck.io/
+
+- 3. 基于Raft的分布式Mysql binlog存储系统 https://github.com/flike/kingbus
+
+- 4. go中的array和slice https://medium.com/@marty.stepien/arrays-vs-slices-bonanza-in-golang-fa8d32cd2b7c
+
+- 5. 2019年值得关注的23个开发者博客 https://zhuanlan.zhihu.com/p/53729304
 
 - - - - - - - - - - 
