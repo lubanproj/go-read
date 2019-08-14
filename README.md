@@ -25,6 +25,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -356,5 +357,18 @@
 - 4. 微服务架构和设计模式：https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a 
 
 - 5. 你真的需要微服务吗：https://itnext.io/do-you-really-need-microservices-e85d7711c78b
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-04
+- 1. 基于gin构建企业级golang web脚手架 https://github.com/e421083458/gin_scaffold
+
+- 2. Istio多集群管理方案详解 https://mp.weixin.qq.com/s/Hwp62XMBvMT0NAk3RM928w
+
+- 3. 使用Elasticsearch Operator 快速部署Elasticsearch集群 https://mp.weixin.qq.com/s/Zmxdvv_zkTnSY3lP7CtzoQ
+
+- 4. 向GO内部编译器添加新语句 https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/
+
+- 5. 专注于web应用的Golang模板引擎 https://github.com/gobuffalo/plush 
 
 - - - - - - - - - - 
