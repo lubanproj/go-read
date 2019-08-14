@@ -128,6 +128,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2504,5 +2505,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 在kubernetes上运行istio https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
 
 - 5. 编译go到webassembly https://www.sitepen.com/blog/compiling-go-to-webassembly/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-15
+- 1. 阅读挑战：Go中的堆排 https://blog.bitsrc.io/reading-challenge-heap-sort-in-go-93115239accd
+
+- 2. 思想实验：Flutter与Go集成 http://divan.github.io/posts/flutter_go
+
+- 3. Golang并发：再也不愁选channel还是选锁 https://segmentfault.com/a/1190000017890174
+
+- 4. Hyperledger Fabric的Chaincode测试教程 https://medium.com/coinmonks/tutorial-on-hyperledger-fabrics-chaincode-testing-44c3f260cb2b
+
+- 5. coredhcp：一个Go编写的高效、多线程、模块化、可扩展的DHCP服务器 https://github.com/coredhcp/coredhcp
 
 - - - - - - - - - - 
