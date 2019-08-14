@@ -124,6 +124,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2448,5 +2449,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. tgo：方便追踪程序执行情况的库 https://github.com/ks888/tgo
 
 - 5. Go使用定制的Flutter引擎编写桌面应用 https://github.com/Drakirus/go-flutter-desktop-embedder
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-20
+- 1. Task:go运行/构建工具 https://taskfile.org/
+
+- 2. Golang:堆排序  https://blog.bitsrc.io/reading-challenge-heap-sort-in-go-93115239accd
+
+- 3. Golang:面向对象 https://zhuanlan.zhihu.com/p/55255987
+
+- 4. 推荐系统融合排序之LR https://mp.weixin.qq.com/s/8XInV5LbIwo3kS4nvmZDDw
+
+- 5. 谷歌等推出基于机器学习的新型数据库SageDB https://www.infoq.cn/article/KgiSMf2zYYKdvRYSw*FI
 
 - - - - - - - - - - 
