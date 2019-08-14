@@ -123,6 +123,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2434,5 +2435,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go 简单表达式执行库 https://github.com/antonmedv/expr
 
 - 5. Dear Go https://vernonkeenan.com/index.php/2019/01/21/dear-go-thank-you-for-teaching-me-php-was-a-waste-of-my-time/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-21
+- 1. 如何生成和阅读Go的profile文件 https://medium.com/@wanderson.olivs/generating-and-reading-go-golang-profiles-part-1-db33905decee
+
+- 2. 知乎容器化构建系统设计和实践 https://zhuanlan.zhihu.com/p/45694823
+
+- 3. Go中打包静态文件 https://c.isme.pub/2019/01/10/go-static/
+
+- 4. tgo：方便追踪程序执行情况的库 https://github.com/ks888/tgo
+
+- 5. Go使用定制的Flutter引擎编写桌面应用 https://github.com/Drakirus/go-flutter-desktop-embedder
 
 - - - - - - - - - - 
