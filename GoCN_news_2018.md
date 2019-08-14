@@ -9,6 +9,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -278,5 +279,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. [译] 代码审查之最佳实践 https://mp.weixin.qq.com/s/p_CNasQxzdni4G2eD0xUrQ
 
 - 5. 我们如何利用WASM让krakend运行在Javascript环境上 https://medium.com/devops-faith/how-we-run-krakend-on-javascript-with-webassembly-f100ac2efd67
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-09
+- 1. Go安全更新预告：1.11.3 和 1.10.6 https://groups.google.com/forum/#!topic/golang-dev/Yk09_1ktph8
+
+- 2. Starlight：帮助Python代码在Go中运行的工具 https://npf.io/2018/12/starlight/
+
+- 3. fmt包使用深入解析 https://blog.gopheracademy.com/advent-2018/fmt/
+
+- 4. 利用Gitlab CI构建Go程序CI pipeline https://medium.com/@Extrawurst/golang-and-gitlab-ci-da97d11bafe1
+
+- 5. 微服务设计指南 https://mp.weixin.qq.com/s/nYDSZJ-N7ECitDF3AFGgRw
 
 - - - - - - - - - - 
