@@ -122,6 +122,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2420,5 +2421,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. tidb-lightning 高效率的数据导入工具 https://github.com/pingcap/tidb-lightning
 
 - 5. [译]经济学人使用Golang构建微服务历程回顾 http://www.cnblogs.com/davidwang456/p/10305382.html
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-22
+- 1. 来，控制一下 goroutine 的并发数量 https://gocn.vip/article/1541
+
+- 2. Go：指针能优化性能吗？ https://segmentfault.com/a/1190000017969820
+
+- 3. 一个高效的配置管理库 https://github.com/lalamove/konfig
+
+- 4. Go 简单表达式执行库 https://github.com/antonmedv/expr
+
+- 5. Dear Go https://vernonkeenan.com/index.php/2019/01/21/dear-go-thank-you-for-teaching-me-php-was-a-waste-of-my-time/
 
 - - - - - - - - - - 
