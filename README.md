@@ -16,6 +16,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -612,5 +613,18 @@
 - 4. 在Go中实现高效位图索引 https://badootech.badoo.com/bitmap-indexes-in-go-unbelievable-search-speed-bb4a6b00851
 
 - 5. Klog: 受Google Stadia启发的Go云游戏引擎 https://github.com/giongto35/cloud-game
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-09
+- 1. Golang并发编程与Context https://draveness.me/golang-context
+
+- 2. Golang网络编程丝绸之路TCP/UDP地址解析 https://www.jianshu.com/p/7d1652242805
+
+- 3. GO译文之并发模型一Pipeline和Cancellation https://zhuanlan.zhihu.com/p/59295820
+
+- 4. GO译文之并发模型二基于Context编程 https://zhuanlan.zhihu.com/p/60180409
+
+- 5. 原谅宝的数据真相与隐私埋葬 https://mp.weixin.qq.com/s/l0U2ffXEuW4nJPDuG8FlRw
 
 - - - - - - - - - - 
