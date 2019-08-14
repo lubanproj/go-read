@@ -56,6 +56,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -950,5 +951,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. cilium支持envoy go 扩展 https://cilium.io/blog/2018/10/23/cilium-13-envoy-go/
 
 - 5. go内外部包之争 https://medium.com/@vthallam/the-myth-about-golang-frameworks-and-external-libraries-93cb4b7da50f
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-23
+- 1. 编写可维护的 Go 程序  https://dave.cheney.net/practical-go/presentations/qcon-china.html
+
+- 2. 为什么我们用 Go 重写 Pydio：https://medium.com/@charles_93287/why-we-rewrote-pydio-in-golang-723d6071d30c
+
+- 3. 你可能不熟悉的 Go 的优点：https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a
+
+- 4. 云计算与雾计算的区别：https://www.educba.com/cloud-computing-vs-fog-computing/
+
+- 5. 通过 k8s 和 Istio 管理微服务：https://medium.com/kreuzwerker-gmbh/managing-microservices-with-kubernetes-and-istio-76efea547b28
 
 - - - - - - - - - - 
