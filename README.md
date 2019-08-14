@@ -91,6 +91,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1987,5 +1988,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 百万 Go TCP 连接的思考：https://colobu.com/2019/02/23/1m-go-tcp-connection/
 
 - 5. 使用 cgroup-parent 限制容器资源利用率：https://medium.com/@asishrs/docker-limit-resource-utilization-using-cgroup-parent-72a646651f9d
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-25
+- 1. 使用Go和WebSockets构建实时的YouTube监控系统 https://www.youtube.com/watch?v=n3BQLHtsrkM
+
+- 2. 了解真实世界中Go并发相关的Bug https://songlh.github.io/paper/go-study.pdf
+
+- 3. go语言实现自己的RPC：go rpc codec https://juejin.im/post/5c4d7005f265da61223ab198
+
+- 4. 一键解决 go get golang.org/x 包失败 https://segmentfault.com/a/1190000018264719
+
+- 5. Kubernetes中的GPU共享调度扩展程序 https://github.com/AliyunContainerService/gpushare-scheduler-extender
 
 - - - - - - - - - - 
