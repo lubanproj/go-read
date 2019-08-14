@@ -31,6 +31,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1147,5 +1148,18 @@
 - 4. 从Go的角度看LLVM https://aykevl.nl/2019/04/llvm-from-go
 
 - 5. helm chart 模板开发技巧 https://mp.weixin.qq.com/s/-W3ekLSNmSsbVUjP55JQZw
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-30
+- 1. Go 官方 proxy 进入 Alpha 阶段 https://proxy.golang.org/
+
+- 2. Go 1.13: xerrors https://crawshaw.io/blog/xerrors
+
+- 3. 微服务开发中的数据架构设计分析 https://juejin.im/post/5cc702ab6fb9a03204595660
+
+- 4. Go 个人博客系统 https://github.com/broqiang/mdblog
+
+- 5. 使用 WebAssembly 运行 Go 命令行程序 https://github.com/wcchoi/go-wasm-pdfcpu/blob/master/article.md
 
 - - - - - - - - - - 
