@@ -46,6 +46,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -810,5 +811,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Golang通道的无阻塞读写 https://www.jianshu.com/p/3b24e909905f
 
 - 5. C和Go相互调用 https://yq.aliyun.com/articles/663688
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-02
+- 1. Grpc Mock与测试实践 https://medium.com/@lukexng/mocking-grpc-services-and-tests-in-golang-7a83771f1b21
+
+- 2. gitbase:使用SQL语句查询git的repo https://medium.com/sourcedtech/gitbase-exploring-git-repos-with-sql-95ec0986386c
+
+- 3. Go的值对象使用 https://medium.com/@cn007b/go-valueobject-19ea273f9056
+
+- 4. 理解k8s资源限制系列:cpu time https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b
+
+- 5. go-mysql-server:一款类MySQL的SQL引擎 https://github.com/src-d/go-mysql-server
 
 - - - - - - - - - - 
