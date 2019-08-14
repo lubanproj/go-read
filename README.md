@@ -144,6 +144,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2730,5 +2731,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 设计弹性系统：断路器或重试 https://engineering.grab.com/designing-resilient-systems-part-1
 
 - 5. 分布式系统的基石：深入浅出共识算法 https://zhuanlan.zhihu.com/p/52617675
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-29
+- 1. 得到Go程序的汇编代码的方法 https://colobu.com/2018/12/29/get-assembly-output-for-go-programs/
+
+- 2. GO千万级消息推送服务 https://yuerblog.cc/2018/06/26/go-push-service/
+
+- 3. 如何基于Golang设计一套微服务架构 https://lattecake.com/post/20115
+
+- 4. 在 Go 中恰到好处的内存对齐 https://gocn.vip/m/article/1096
+
+- 5. 什么是区块链预言机 https://juejin.im/post/5c236f456fb9a049c965b9e4
 
 - - - - - - - - - - 
