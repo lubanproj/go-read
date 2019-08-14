@@ -24,6 +24,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -724,5 +725,18 @@
 - 4. Go 是不是只属于 Google https://developers.slashdot.org/story/19/05/24/2349236/is-go-googles-programming-language-not-ours
 
 - 5. SSH Web 管理工具 felix https://github.com/dejavuzhou/felix
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-01
+- 1. Golang Configor 配置文件工具 https://www.jianshu.com/p/f826d2cc361b
+
+- 2. Go 小知识之 Go 中如何使用 set https://juejin.im/post/5ceffeddf265da1bc8540df5
+
+- 3. 如何使用运算符进行数学运算 https://www.digitalocean.com/community/tutorials/how-to-do-math-in-go-with-operators
+
+- 4. 在OKD中创建Source-to-Image构建管道 https://opensource.com/article/19/5/creating-source-image-build-pipeline-okd
+
+- 5. 我不知道cpu是如何工作的，所以我用代码模拟了一个 https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/
 
 - - - - - - - - - - 
