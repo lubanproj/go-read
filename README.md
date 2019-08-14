@@ -15,6 +15,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -598,5 +599,18 @@
 - 4. Go 对象健美操 https://dev.to/eminetto/object-calisthenics-in-golang-1h75
 
 - 5. 类型系统的数学之美 https://mp.weixin.qq.com/s/ieEewizkN7H-11z-PexkGw
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-10
+- 1. 理解Go sync.Pool设计 https://medium.com/@blanchon.vincent/go-understand-the-design-of-sync-pool-2dde3024e277
+
+- 2. Go语言之美 https://telescope.ac/battlefield/the-beauty-of-go-1
+
+- 3. 一种新的在Go中实现DI的方式 https://medium.com/@elliotchance/a-new-simpler-way-to-do-dependency-injection-in-go-9e191bef50d5
+
+- 4. 在Go中实现高效位图索引 https://badootech.badoo.com/bitmap-indexes-in-go-unbelievable-search-speed-bb4a6b00851
+
+- 5. Klog: 受Google Stadia启发的Go云游戏引擎 https://github.com/giongto35/cloud-game
 
 - - - - - - - - - - 
