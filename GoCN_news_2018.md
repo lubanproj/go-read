@@ -40,6 +40,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -726,5 +727,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 在浏览器中WASM中使用go模块Otto运行JavaScript https://github.com/donatj/gojs
 
 - 5. 参加2018年Go用户调查 https://blog.golang.org/survey2018
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-08
+- 1. Go语言字符串高效拼接（一）  https://juejin.im/post/5be23a01518825697344f05e
+
+- 2. Cilium 1.3：支持Envoy、Cassandra和Memcached的Go语言扩展 https://juejin.im/post/5be11a1f6fb9a049d7472580
+
+- 3. 《快学 Go 语言》第 4 课 —— 低调的数组   https://yq.aliyun.com/articles/665925
+
+- 4. go结构体(struct)和方法(method)  https://blog.csdn.net/u013255127/article/details/83824434
+
+- 5. Kubernetes何时才会消于无形却又无处不在？ https://mp.weixin.qq.com/s/80_uryVtlHnIFlgZDPy2Kw
 
 - - - - - - - - - - 
