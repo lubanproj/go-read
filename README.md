@@ -16,6 +16,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -939,5 +940,18 @@
 - 4. Go中类型断言的错误处理 https://golang.works-hub.com/learn/rest-api-error-handling-in-go-behavioural-type-assertion-b13f8
 
 - 5. 深入理解mysql-innodb_ruby工具 https://juejin.im/post/5cd3cbfb518825358f3e5914
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-15
+- 1. ConnectLoop模型 https://alex.dzyoba.com/blog/go-connect-loop/
+
+- 2. 在Go中使用PostgreSQL的JSONB https://www.alexedwards.net/blog/using-postgresql-jsonb
+
+- 3. 性能优化之罪 http://t.cn/EKKhpYY
+
+- 4. ktop: Kubernetes可视化监控工具 https://github.com/ynqa/ktop
+
+- 5. radix:高性能字符串排序库 https://github.com/yourbasic/radix
 
 - - - - - - - - - - 
