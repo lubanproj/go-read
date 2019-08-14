@@ -30,6 +30,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1133,5 +1134,18 @@
 - 4. Go中的string包解析 https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
 
 - 5. Go的基础库，用于命令行程序的管道 https://academic.oup.com/gigascience/article/8/5/giz044/5480570
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-01
+- 1. C++/Golang的数组类型异同 https://www.jianshu.com/p/12ec17408836
+
+- 2. 如何分析golang程序的内存使用情况 https://www.jianshu.com/p/43b0e12043b9
+
+- 3. 编译时依赖注入与运行时依赖注入 https://dimes.github.io/blog/compile-time-di-vs-run-time-di
+
+- 4. 从Go的角度看LLVM https://aykevl.nl/2019/04/llvm-from-go
+
+- 5. helm chart 模板开发技巧 https://mp.weixin.qq.com/s/-W3ekLSNmSsbVUjP55JQZw
 
 - - - - - - - - - - 
