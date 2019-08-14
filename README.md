@@ -89,6 +89,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1959,5 +1960,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. golang中的slice操作 https://juejin.im/post/5c74ed0fe51d450ba1486195
 
 - 5. 容器云在证券行业的探索与实践 https://mp.weixin.qq.com/s/yz2DC4Sl4z6-fchF5-Wmfw
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-27
+- 1. 重磅！会前一天培训讲师揭晓：Dave&William https://mp.weixin.qq.com/s/alXVCTI_T9PwrgBjselVIA
+
+- 2. Go 1.12 版本的新特性 https://juejin.im/post/5c753a17f265da2d8c7dd715
+
+- 3. Golang之轻松化解defer的温柔陷阱 https://mp.weixin.qq.com/s/txj7jQNki_8zIArb9kSHeg
+
+- 4. Go异常与返回值 https://blog.hltbra.net/2019/02/26/exceptions-vs-returns.html
+
+- 5. 使用Go和llvm的WebAssembly高效前端开发 https://medium.com/@richardanaya/hyper-efficient-front-end-development-with-web-assembly-using-go-and-llvm-8e6a1ccdd2bc
 
 - - - - - - - - - - 
