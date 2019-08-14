@@ -8,7 +8,21 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-08-03
+- 1. Go2试验、简化探索之路 https://blog.golang.org/experiment
+
+- 2. Go并发设计模式之 Half-Sync/Half-Async https://colobu.com/2019/07/21/concurrency-design-patterns-half-sync-half-async/
+
+- 3. 通过profiling定位golang性能问题-内存篇 https://mp.weixin.qq.com/s/B8lJI_2BfMcz-Rd1bNjkyg
+
+- 4. Go cond 源码学习 https://segmentfault.com/a/1190000019957459
+
+- 5. Go安全编码实践指南 https://github.com/OWASP/Go-SCP
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-04
 - 1. Golang文件上传下载 https://www.jianshu.com/p/fc5cf0a0bff5
 
