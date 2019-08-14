@@ -26,6 +26,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1077,5 +1078,18 @@
 - 4. Golang Failpoint 的设计与实现 https://mp.weixin.qq.com/s/PpAW1a-sx1yf2rzKbmYCAQ
 
 - 5. 一个使用标记语言美化命令行终端输出的轻量级库 https://github.com/liamg/tml
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-05
+- 1. Go正走在成为下一个企业级编程语言的轨道上 https://tonybai.com/2019/05/03/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language/
+
+- 2. Go 项目任务运行工具 gilbert https://github.com/go-gilbert/gilbert
+
+- 3. ebay 开源的图存储系统 beam https://github.com/eBay/beam
+
+- 4. 知乎部署系统演进 https://zhuanlan.zhihu.com/p/60627311
+
+- 5. Google Cloud Run 一瞥 https://blog.fleeto.us/post/a-first-look-at-google-cloud-run/
 
 - - - - - - - - - - 
