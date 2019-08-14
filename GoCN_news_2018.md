@@ -3,6 +3,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -194,5 +195,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Netfix 从适应 GraphQL 中学到的东西 https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
 
 - 5. 理解分布式事务 https://zhuanlan.zhihu.com/p/51684618
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-15
+- 1. Go 1.11.4和Go 1.10.6发布 https://groups.google.com/forum/#!topic/golang-dev/7v2i4A9M_pI
+
+- 2. 内存管理 https://juejin.im/post/5c137f35f265da616f6fda3a
+
+- 3. 并发与安全 https://juejin.im/post/5c1315b0e51d4558bf392053
+
+- 4. 使用HAProxy和Consul构建服务网格 https://www.haproxy.com/blog/building-a-service-mesh-with-haproxy-and-consul/
+
+- 5. 在Go中探索字节解析API  https://blog.gopheracademy.com/advent-2018/exploring-byte-parsing-apis-in-go/
 
 - - - - - - - - - - 
