@@ -14,6 +14,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -348,5 +349,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. slice内部是怎么工作的 https://medium.com/@riteeksrivastava/how-slices-internally-work-in-golang-a47fcb5d42ce 
 
 - 5. golang后台服务设计 http://litang.me/post/golang-server-design 
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-04
+- 1. 使用 Delve 对 Go 程序进行调试： https://blog.gopheracademy.com/advent-2018/postmortem-debugging-delve/
+
+- 2. 使用 Mage 搭建 Go 项目的最佳实践：https://blog.gopheracademy.com/advent-2018/mage-best-practices/
+
+- 3. AWS 周报:  reInvent 2018 Releases   https://lastweekinaws.com/blog/reinvent-2018-releases.html
+
+- 4. Istio 系列教程：https://medium.com/@nethminiromina/istio-step-by-step-part-04-traffic-routing-path-of-istio-service-mesh-part-a-ingress-routing-28e03cdaa048
+
+- 5. 什么是边缘计算：https://medium.com/@miccowang/what-is-edge-computing-f997c0ab39fc
 
 - - - - - - - - - - 
