@@ -148,6 +148,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2784,5 +2785,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 大堆中避免大量的GC开销 https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/
 
 - 5. makisu 无需特权模式的，快速灵活的 Docker Image构建工具 https://github.com/uber/makisu
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-25
+- 1. Using Go in Devops https://blog.gopheracademy.com/advent-2018/go-devops/
+
+- 2. 知乎推荐系统的实践及重构之路 https://zhuanlan.zhihu.com/p/53130925
+
+- 3. Go 堆栈的理解 https://segmentfault.com/a/1190000017498101
+
+- 4. Go 设计 API 版本化 https://dev.to/geosoft1/versioning-your-api-in-go-1g4h
+
+- 5. Go 的服务对象模式 https://itnext.io/using-service-objects-in-go-d899dc599335
 
 - - - - - - - - - - 
