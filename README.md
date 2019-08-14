@@ -9,6 +9,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -841,5 +842,18 @@
 - 4. GIN的TIMEOUT MIDDLEWARE实现(续) http://vearne.cc/archives/39135
 
 - 5. 到处是map、flatMap，啥意思？ https://mp.weixin.qq.com/s/sOAq_QNgVSsZ2nvikiMFBA
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-22
+- 1. 深度解密Go语言之map https://mp.weixin.qq.com/s/2CDpE5wfoiNXm1agMAq4wA
+
+- 2. [译] 我是如何在大型代码库上使用 pprof 调查 Go 中的内存泄漏 https://juejin.im/post/5ce11d1ee51d4510601117fd
+
+- 3. Golang 多版本管理器 https://github.com/voidint/g
+
+- 4. Go面试必考题目之method篇 https://mp.weixin.qq.com/s/US7MnIJfekJRazioxyWQhg
+
+- 5. 异常检测的N种方法，阿里工程师都盘出来了 https://mp.weixin.qq.com/s/w7SbAHxZsmHqFtTG8ZAXNg
 
 - - - - - - - - - - 
