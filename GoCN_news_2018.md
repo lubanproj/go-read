@@ -41,6 +41,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -740,5 +741,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. go结构体(struct)和方法(method)  https://blog.csdn.net/u013255127/article/details/83824434
 
 - 5. Kubernetes何时才会消于无形却又无处不在？ https://mp.weixin.qq.com/s/80_uryVtlHnIFlgZDPy2Kw
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-07
+- 1. Go语言最佳实战[一] https://mp.weixin.qq.com/s/BbZcp5OJSQHNi6nlnu3_eA
+
+- 2. 容器化你的Go应用 https://medium.com/eaciit-engineering/dockerized-your-golang-application-37e9067ad6dd
+
+- 3. 谷歌对话机器人dialogflow的Go对接教程 https://medium.com/@robeceiro/golang-dialogflow-d32c4be5e124
+
+- 4. Go处理SOAP-WSDLhttps://medium.com/eaciit-engi ... 5949e
+
+- 5. 如何给女朋友解释什么是并发和并行 https://mp.weixin.qq.com/s/dfAKnpeLKPymULL7vRSYUA
 
 - - - - - - - - - - 
