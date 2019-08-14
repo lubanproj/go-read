@@ -8,6 +8,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -492,5 +493,18 @@
 - 4. Golang性能提高技术----基础编码原则 https://www.jianshu.com/p/0dafe1059fdc
 
 - 5. 每秒千万级的实时数据处理是怎么实现的？https://mp.weixin.qq.com/s/6IXi9DnYclurBmrwSNOCSQ
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-22
+- 1. 内存屏障介绍 https://github.com/cch123/golang-notes/blob/master/memory_barrier.md
+
+- 2. 使用树莓派和Golang开发实时地图 https://developer.here.com/blog/real-time-maps-with-a-raspberry-pi-golang-and-here-xyz
+
+- 3. 编写更干净的Go代码 https://github.com/Pungyeon/clean-go-article
+
+- 4. Go Web 新手教程 https://juejin.im/post/5d0bb02ae51d455070226fb2
+
+- 5. 编译和部署Go程序到k8s https://github.com/google/ko
 
 - - - - - - - - - - 
