@@ -21,6 +21,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -450,5 +451,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 用go语言给lua/openresty写扩展 https://zhuanlan.zhihu.com/p/50937409
 
 - 5. Go 编译器 nil 指针检查 https://www.ardanlabs.com/blog/2014/09/go-compiler-nil-pointer-checks.html
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-27
+- 1. Go 使用小内存上传大文件 https://medium.com/@owlwalks/sending-big-file-with-minimal-memory-in-golang-8f3fc280d2c
+
+- 2. Titan 分布式 Redis 兼容 NoSQL 数据库 https://medium.com/@shafreeck/titan-a-distributed-redis-protocol-compatible-nosql-database-4379a1307661
+
+- 3. 微服务的接入层设计与动静资源隔离 https://segmentfault.com/a/1190000017147575
+
+- 4. Kubernetes在上汽集团云平台及AI方面的应用 https://segmentfault.com/a/1190000017150455
+
+- 5. Docker 的简单实现 dock https://github.com/philchia/dock
 
 - - - - - - - - - - 
