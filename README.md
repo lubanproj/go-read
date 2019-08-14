@@ -12,6 +12,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -883,5 +884,18 @@
 - 4. Go1到Go1.10的语法变迁 https://mp.weixin.qq.com/s/_ihUzJ7rOVQJCkXhqm7ccA
 
 - 5. 开源项目：一个查找IP地址的简单服务 https://github.com/alifarah9/echoip
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-19
+- 1. Go有什么，没有什么 https://medium.com/@amritpandey/what-go-programming-language-does-and-does-not-have-ed6a9f83ab2d
+
+- 2. 理解 Go map https://www.digitalocean.com/community/tutorials/understanding-maps-in-go
+
+- 3. 我应该使用指针而不是结构体的拷贝吗 https://medium.com/@blanchon.vincent/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
+
+- 4. goss:快速和简单的服务器测试/验证工具 https://github.com/SimonBaeumer/goss
+
+- 5. 2019 InfluxDB 权威指南 https://medium.com/schkn/the-definitive-guide-to-influxdb-in-2019-devconnected-23f5661002c8
 
 - - - - - - - - - - 
