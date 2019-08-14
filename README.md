@@ -93,6 +93,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2015,5 +2016,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. SRE可观察性设计：https://medium.com/dm03514-tech-blog/sre-observability-metric-namespaces-and-structures-12ffcf5a5bdc
 
 - 5. 如何正确使用异步将吞吐量提高4倍 https://mahdytech.com/2019/02/22/async-throughput-4x/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-23
+- 1. 转到接口并键入断言 https://marcofranssen.nl/go-interfaces-and-type-assertions/
+
+- 2. 解读为什么GoLang与其他语言不同 https://www.mindinventory.com/blog/what-makes-golang-stand-apart-from-other-languages/
+
+- 3. AppsFlyer 将 API 网关服务从 Clojure 迁移到 Golang https://www.infoq.com/articles/api-gateway-clojure-golang
+
+- 4. Windows上Go GUI应用程序的通用库 https://github.com/tadvi/winc
+
+- 5. 云原生微服务演示应用程序 https://github.com/GoogleCloudPlatform/microservices-demo
 
 - - - - - - - - - - 
