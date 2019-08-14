@@ -57,6 +57,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -964,5 +965,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. 云计算与雾计算的区别：https://www.educba.com/cloud-computing-vs-fog-computing/
 
 - 5. 通过 k8s 和 Istio 管理微服务：https://medium.com/kreuzwerker-gmbh/managing-microservices-with-kubernetes-and-istio-76efea547b28
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-22
+- 1. 如何让 Go panic https://medium.com/@greut/how-to-make-go-panic-ee61e29c6f64
+
+- 2. Go 语言性能优化 - For Range 性能研究 http://www.flysnow.org/2018/10/20/golang-for-range-slice-map.html
+
+- 3. 通过做坏事学的更好之用 Go 编写错误的代码第二部分 https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-2-e270d305c9f7
+
+- 4. Medium 的微服务架构 https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f
+
+- 5. 分享一个图片转 ASCII 的工具 https://github.com/qeesung/image2ascii
 
 - - - - - - - - - - 
