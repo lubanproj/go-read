@@ -16,6 +16,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -376,5 +377,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 从PHP迁移至Golang - 热更新篇 https://segmentfault.com/a/1190000017228287
 
 - 5. Golang 项目之配置文件 https://juejin.im/post/5c04061bf265da61380ef7aa
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-02
+- 1. Hello, Go module proxy https://tonybai.com/2018/11/26/hello-go-module-proxy/
+
+- 2. Go 2 泛型: 接口不是类型约束的正确模型 https://utcc.utoronto.ca/~cks/space/blog/programming/Go2GenericsNotWithInterfaces
+
+- 3. 从xx语言到Go文章合集 https://github.com/golang/go/wiki/FromXToGo
+
+- 4. raft协议作者:软件设计的哲学 https://www.youtube.com/watch?v=bmSAYlu0NcY
+
+- 5. 我为什么关掉了超线程 https://mp.weixin.qq.com/s/GvPxLXLF2bNuVTXaPVM3Ww
 
 - - - - - - - - - - 
