@@ -14,6 +14,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -206,3 +207,16 @@
 - 4. 基于Istio的灰度平台实践 https://mp.weixin.qq.com/s/uDxC9QIj2fd783McHHWcLA
 
 - - - - - - - - - - - 
+
+### gocn_news_2019-07-31
+- 1. 探索Go中字节解析 API https://mp.weixin.qq.com/s/g_-jIwCC2dAXmr3Ai3x4dA
+
+- 2. fasthttp中运用哪些Go优化技巧？ https://mp.weixin.qq.com/s/7zNw3nEWozArJLFVmTjn0A
+
+- 3. Go HTTP api接口实现方法 https://medium.com/@govinda.attal/an-approach-to-simplify-http-api-implementation-in-go-c742923351af
+
+- 4. Go GraphQL教程 https://juejin.im/post/5d4051985188255d803f8234
+
+- 5. Go gRPC Hello World https://juejin.im/post/5d3fa19c5188255d4d368ed1
+
+- - - - - - - - - - 
