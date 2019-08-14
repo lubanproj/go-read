@@ -43,6 +43,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1315,5 +1316,18 @@
 - 4. 利用二分法思想找出Go性能退化原因 https://medium.com/@fzambia/bisecting-go-performance-degradation-4d4a7ee83a63
 
 - 5. SQLite网络查询服务器 https://github.com/assafmo/SQLiteQueryServer
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-18
+- 1. Go 2和Go的未来 https://changelog.com/gotime/80
+
+- 2. 如何在Windows 10上安装Go并设置本地编程环境 https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-windows-10
+
+- 3. Go实现的Web服务器Space Cloud 可以提供即时Realtime API https://github.com/spaceuptech/space-cloud
+
+- 4. 基于HA LDAP的键/值解决方案，用于存储具有多主复制支持的项目配置 https://github.com/Mnwa/Recon
+
+- 5. 可恢复文件上传器系列文章 https://golangbot.com/resumable-file-uploader/
 
 - - - - - - - - - - 
