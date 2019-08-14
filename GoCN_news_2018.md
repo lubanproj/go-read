@@ -34,6 +34,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -634,3 +635,26 @@ https://zhuanlan.zhihu.com/p/52808772
 - 5. 悉尼Golang Meetup Go2草案规范 https://www.youtube.com/watch?feature=youtu.be&v=RIvL2ONhFBI
 
 - - - - - - - - - - 
+
+### gocn_news_2018-11-14
+- 1. 使用 GraphQL 和 Go 创建 API https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356
+
+- 2. Goroutine 泄露-忘记 channel 发送 https://www.ardanlabs.com/blog/2018/11/goroutine-leaks-the-forgotten-sender.html
+
+- 3. Golang Plugins 使用注意 https://medium.com/@alperkose/things-to-avoid-while-using-golang-plugins-f34c0a636e8
+
+- 4. 使用GopherJS实现的一个Hacker News的client端 https://github.com/GoogleChromeLabs/go-hackernews
+
+- 5. Golang 中实现禁止拷贝 https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html
+
+- 6. 使用 GraphQL 和 Go 创建 API
+
+- 7. Goroutine 泄露-忘记 channel 发送
+
+- 8. Golang Plugins 使用注意
+
+- 9. 使用GopherJS实现的一个Hacker News的client端
+
+- 10. Golang 中实现禁止拷贝
+
+- - - - - 
