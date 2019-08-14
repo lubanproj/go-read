@@ -126,6 +126,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2476,5 +2477,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 停止写无用的Go库 https://0x46.net/thoughts/2018/12/29/go-libraries/
 
 - 5. 保障IDC安全：分布式HIDS集群架构设计 https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-18
+- 1. 建议:Go 2 Number Literal更改https://github.com/golang/prop ... ls.md
+
+- 2. 如何在go中创建ssh隧道 http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go
+
+- 3. 迁移到mod只需3个步骤 https://studygolang.com/articles/17780
+
+- 4. 10大工具汇总，多维度简化Kubernetes部署 https://mp.weixin.qq.com/s/pb4Tsth_c4kg2itvUU-76A 
+
+- 5. Go的快速脚本语言 https://github.com/d5/tengo
 
 - - - - - - - - - - 
