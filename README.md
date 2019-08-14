@@ -104,6 +104,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2168,5 +2169,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. MongoDB 十分钟入门：https://medium.freecodecamp.org/learn-mongodb-a4ce205e7739
 
 - 5. 2019年物联网九大趋势及预测：http://www.qianjia.com/html/2019-02/01_323385.html
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-11
+- 1. 使用 AWS Lambda 将图像转化为 Ascii 图像 https://cantasaurus.github.io/post/goimagetoascii
+
+- 2. Golang 的 <-time.After() 在触发之前不会被垃圾回收 https://medium.com/@oboturov/golang-time-after-is-not-garbage-collected-4cbc94740082
+
+- 3. 由 Ron Evans 带来的 TinyGo 视频分享 https://www.youtube.com/watch?v=KY8u9yZ97Tc
+
+- 4. webrpc 一个轻量的客户端+服务端的 RPC 框架 https://github.com/webrpc/webrpc
+
+- 5. 如何成为一名优秀的开源社区成员 https://spf13.com/post/how-to-be-a-good-open-source-community-member
 
 - - - - - - - - - - 
