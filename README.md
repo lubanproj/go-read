@@ -17,6 +17,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -246,5 +247,18 @@
 - 4. 通过在Golang中构建一个简单的RPC框架来学习RPC https://github.com/ankur-anand/simple-go-rpc
 
 - 5. Go中的Vanity导入路径 https://sagikazarmark.hu/blog/vanity-import-paths-in-go/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-23
+- 1. 深度解密Go语言之channel https://segmentfault.com/a/1190000019839546
+
+- 2. Go: Finalizers https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
+
+- 3. Go 结构体持久化库 https://golang.objectbox.io/
+
+- 4. 使用 Supervisor 运行 Go 程序 https://medium.com/@monirz/deploy-golang-app-in-5-minutes-ff354954fa8e
+
+- 5. Go 的 QML 绑定库 https://github.com/RadhiFadlillah/qamel
 
 - - - - - - - - - - 
