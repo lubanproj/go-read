@@ -3,6 +3,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -757,5 +758,18 @@
 - 4. gobox中的异常定义和杂项工具 https://mp.weixin.qq.com/s/F-T9aoo3-DMAEr8-dzsenQ
 
 - 5. Go 1.12 移植到 RISC-V 的进展 https://www.reddit.com/r/golang/comments/bu4l0p/progress_on_the_go_112_port_to_riscv/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-28
+- 1. 是否使用 ORM  https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/
+
+- 2. 谈谈 Golang 中的 Data Race（续）https://ms2008.github.io/2019/05/22/golang-data-race-cont/
+
+- 3. GO小知识之如何做JSON美化 https://juejin.im/post/5ceb3f6df265da1b7401da5e
+
+- 4. go-micro之源码剖析: Registry https://juejin.im/post/5cebafe6f265da1bb80c0cc7
+
+- 5. Go 的 PDF 处理库 https://github.com/unidoc/unipdf
 
 - - - - - - - - - - 
