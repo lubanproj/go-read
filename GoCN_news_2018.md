@@ -45,6 +45,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -796,5 +797,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Uber的统一资源调度程序 https://eng.uber.com/peloton/
 
 - 5. 带有中间件的超高性能 API 网关 krakend  https://github.com/devopsfaith/krakend
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-03
+- 1. 打包Golang并在Android环境下运行 https://blog.csdn.net/lszy24/article/details/78948130
+
+- 2. 宏观看 Go 语言中的 Map 内部 https://www.ardanlabs.com/blog/2013/12/macro-view-of-map-internals-in-go.html
+
+- 3. 构建交互式提示的golang库 https://github.com/AlecAivazis/survey
+
+- 4. Golang通道的无阻塞读写 https://www.jianshu.com/p/3b24e909905f
+
+- 5. C和Go相互调用 https://yq.aliyun.com/articles/663688
 
 - - - - - - - - - - 
