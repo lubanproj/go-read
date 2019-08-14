@@ -63,6 +63,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -1048,5 +1049,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. K8S中Deployment和StatefulSet的使用理念和区别 https://mp.weixin.qq.com/s/TyzjH0cVcJ1EcE-60WxIOA
 
 - 5. Go语言性能优化-两数之和算法性能研究 https://juejin.im/post/5bc68b8cf265da0ae92a9b46
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-16
+- 1. Golang的反射reflect深入理解和示例 https://www.jianshu.com/p/b46b1ccd2757
+
+- 2. Go 基础学习记录 https://segmentfault.com/blog/gowhich
+
+- 3. [译]使用Go Cloud的Wire进行编译时依赖注入  https://juejin.im/post/5bbefa496fb9a05d082a430d
+
+- 4. Go 的栈空间管理 https://zhuanlan.zhihu.com/p/46532477
+
+- 5. [视频] Go 如何布局项目结构 https://www.youtube.com/watch?v=B5oQnECDJ8g&t=
 
 - - - - - - - - - - 
