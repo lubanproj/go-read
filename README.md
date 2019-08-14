@@ -40,6 +40,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1273,5 +1274,18 @@
 - 4. 什么是 Protobuf? https://medium.com/@Mnwa/what-the-hell-is-protobuf-4aff084c5db4
 
 - 5. 一个可以通过 SSH 远程运行 VS Code 的工具 https://github.com/codercom/sshcode
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-21
+- 1. 并发陷阱之未完成的工作 https://www.ardanlabs.com/blog/2019/04/concurrency-trap-2-incomplete-work.html
+
+- 2. 为什么你应该喜欢 sync.Pool https://medium.com/@Mnwa/why-you-should-like-sync-pool-2c7960c023ba
+
+- 3. 为Go模拟枚举类型 https://stein.wtf/posts/2019-04-16/enums/
+
+- 4. [译]使用Go语言读写Redis协议  https://colobu.com/2019/04/16/Reading-and-Writing-Redis-Protocol-in-Go/
+
+- 5. 使用nomad在weave网络中部署工作负载 https://tonybai.com/2019/04/20/deploy-workload-in-weave-network-using-nomad/
 
 - - - - - - - - - - 
