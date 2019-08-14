@@ -10,6 +10,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -855,5 +856,18 @@
 - 4. Go面试必考题目之method篇 https://mp.weixin.qq.com/s/US7MnIJfekJRazioxyWQhg
 
 - 5. 异常检测的N种方法，阿里工程师都盘出来了 https://mp.weixin.qq.com/s/w7SbAHxZsmHqFtTG8ZAXNg
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-21
+- 1. golang http/transport 代码分析 http://www.cnblogs.com/gaorong/p/10887021.html
+
+- 2. Kafka两级调度实现分布式协调微服务任务分配Golang版 https://segmentfault.com/a/1190000019244065
+
+- 3. 如何在 Go 中读取配置文件和环境变量 https://medium.com/@bnprashanth256/reading-configuration-files-and-environment-variables-in-go-golang-c2607f912b63
+
+- 4. mongoDB wiredTiger存储引擎总结 https://juejin.im/post/5ce29166f265da1bac3fe945
+
+- 5. 使用 Flagger，istio 和 GitOps Pipeline 自动管理 Kubernetes  https://www.weave.works/blog/automated-canary-management-to-kubernetes-with-flagger-istio-and-gitops-pipelines
 
 - - - - - - - - - - 
