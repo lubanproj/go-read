@@ -29,6 +29,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1119,5 +1120,18 @@
 - 4. Go m3u8库 https://github.com/grafov/m3u8
 
 - 5. Go 指定类型SyncMap代码生成器: https://github.com/a8m/syncmap
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-02
+- 1. GoLang中的单链表 https://medium.com/@michael.ginalick/singly-linked-lists-in-golang-5ae8c61e5e2e
+
+- 2. Go的测试 https://jimmyislive.dev/posts/testing/
+
+- 3. 一个基本的游戏模拟器，支持终端“云游戏 https://github.com/HFO4/gameboy.live
+
+- 4. Go中的string包解析 https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
+
+- 5. Go的基础库，用于命令行程序的管道 https://academic.oup.com/gigascience/article/8/5/giz044/5480570
 
 - - - - - - - - - - 
