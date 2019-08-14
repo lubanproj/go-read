@@ -110,6 +110,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2252,5 +2253,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go语言实现KV数据库对比BoltDB vs Badger https://tech.townsourced.com/post/boltdb-vs-badger/
 
 - 5. Go中的光线追踪 https://github.com/hunterloftis/oneweekend/blob/master/readme.md
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-03
+- 1. Golang State:2019-02 https://speakerdeck.com/campoy/the-state-of-go-feb-2019
+
+- 2. Golang实现websocket服务 https://www.jianshu.com/p/a235665b49de
+
+- 3. brew2.0发布:支持windows和linux https://brew.sh/2019/02/02/homebrew-2.0.0/
+
+- 4. bettercap:Go实现网络军刀 https://github.com/bettercap/bettercap
+
+- 5. AresDB:uber开源基于GPU驱动的实时分析引擎 https://eng.uber.com/aresdb/
 
 - - - - - - - - - - 
