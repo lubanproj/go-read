@@ -28,6 +28,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1105,5 +1106,18 @@
 - 4. Go中的垃圾收集：第一部分 - 语义 https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
 
 - 5. 1万属性，100亿数据，每秒10万吞吐，架构如何设计？ https://juejin.im/post/5ccc3a1af265da03a436dfde
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-03
+- 1. 使用Github+TravisCI+DockerHub实现Go项目的持续集成 https://medium.com/@kainlite_32799/go-continuous-integration-with-travis-ci-and-docker-4b26379e54b7
+
+- 2. 部署一个gobuffalo应用到Google应用引擎 https://golangtesting.com/posts/gobuffalo-app-engine
+
+- 3. 使用IntellJ或Goland加速Go代码开发的5个tips https://medium.com/@keperry/5-tips-to-speed-up-golang-development-with-intellij-or-goland-6646110e9c5e
+
+- 4. Go m3u8库 https://github.com/grafov/m3u8
+
+- 5. Go 指定类型SyncMap代码生成器: https://github.com/a8m/syncmap
 
 - - - - - - - - - - 
