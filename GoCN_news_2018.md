@@ -58,6 +58,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -978,5 +979,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. Medium 的微服务架构 https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f
 
 - 5. 分享一个图片转 ASCII 的工具 https://github.com/qeesung/image2ascii
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-21
+- 1. 小米开源的SQL优化工具 https://github.com/XiaoMi/soar
+
+- 2. 关于使用Go二进制包的讨论 https://groups.google.com/forum/#!msg/golang-nuts/juPzaRDVB9c/6PYP56-0CAAJ
+
+- 3. 用Go编写的TCP连接监视器库 https://github.com/gihnius/monconn
+
+- 4. 性能分析方法论 http://www.zenlife.tk/performance-analysis.md
+
+- 5. 关键路径驱动开发 https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4
 
 - - - - - - - - - - 
