@@ -29,6 +29,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -562,5 +563,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 如何在 Ubuntu 上安装 Hyperledger Fabric：https://medium.com/@techgeek628/how-to-install-hyperledger-fabric-on-ubuntu-92d777dcf6a7
 
 - 5. HTTP/3 学习笔记：https://blog.erratasec.com/2018/11/some-notes-about-http3.html#.W_NkHpMzbUI
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-19
+- 1. Go 微服务之 Go kit 介绍 https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183
+
+- 2. redis个人理解----hyperloglog（golang实现）https://juejin.im/post/5bef9c706fb9a049c23204a3
+
+- 3. golang 之树的遍历 https://segmentfault.com/a/1190000017052768
+
+- 4. 使用 Go 和 Kubernetes 构建可横向扩展的 API 视频教程 https://www.youtube.com/watch?v=pkZrgHxJ130
+
+- 5. 一个列出和查找许可证的 Go 类库 https://github.com/mitchellh/go-spdx
 
 - - - - - - - - - - 
