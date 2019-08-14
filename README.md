@@ -130,6 +130,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2532,5 +2533,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go并发调用的超时处理 https://juejin.im/post/5c3aeffde51d4551140d96cf
 
 - 5. 开源代码部署工具syncd https://github.com/dreamans/syncd
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-13
+- 1. dropbox是如何迁移到gRPC的 https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/
+
+- 2. 避免使用base、utils、common来给包命名 https://dave.cheney.net/2019/01/08/avoid-package-names-like-base-util-or-common
+
+- 3. 时间模拟库 https://github.com/jonboulle/clockwork
+
+- 4. K8s服务快速开发迭代工具telepresence https://github.com/telepresenceio/telepresence
+
+- 5. 使用go-ycsb对不同的数据库做压测 https://medium.com/@siddontang/use-go-ycsb-to-benchmark-different-databases-8850f6edb3a7
 
 - - - - - - - - - - 
