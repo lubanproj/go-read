@@ -113,6 +113,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2294,5 +2295,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go 语言编译过程概述 https://draveness.me/golang-compile-intro
 
 - 5. 微服务进化史 https://juejin.im/post/5c5ed33cf265da2dc6759392
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-31
+- 1. Golang 需要避免踩的 50 个坑（三） http://blueskykong.com/2019/01/29/go-mistakes-3/
+
+- 2. golang如何使用sarama访问kafka  https://studygolang.com/articles/18013
+
+- 3. 无符号Golang程序逆向方法解析 https://www.anquanke.com/post/id/170332
+
+- 4. 得到App的容器及Kubernetes实践 https://mp.weixin.qq.com/s/9c6M7B_sI2HlB1ifwLNDeg
+
+- 5. 如何将ffmpeg封装golang/cgo库 https://studygolang.com/articles/17855
 
 - - - - - - - - - - 
