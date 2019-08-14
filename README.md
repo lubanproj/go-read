@@ -10,6 +10,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -149,5 +150,18 @@
 - 4. Go：为何带来泛型 https://github.com/llgoer/go-generics
 
 - 5. 为什么你应该使用Go Module代理 https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-08-04
+- 1. Golang文件上传下载 https://www.jianshu.com/p/fc5cf0a0bff5
+
+- 2. Golang的REST API的单元测试 https://www.jianshu.com/p/1a0ce8ce062a
+
+- 3. Golang Context包详解 https://www.cnblogs.com/guangze/p/11296822.html
+
+- 4. fasthttp概述与Hello World https://studygolang.com/articles/22451 
+
+- 5. 架构师知识图谱 https://github.com/toutiaoio/awesome-architecture
 
 - - - - - - - - - - 
