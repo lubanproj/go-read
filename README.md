@@ -70,6 +70,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1692,5 +1693,18 @@
 - 4. Go-Gin-React-GORM的结合使用  https://nichorivera.blog/
 
 - 5. 从PHP到Go：Arrays https://asanchez.dev/blog/from-php-to-go-arrays/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-20
+- 1. 从python到Go https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c
+
+- 2. [译] Go数据结构-接口 http://www.cnblogs.com/MnCu8261/p/10561348.html
+
+- 3. Go语言变量逃逸分析 https://www.linuxidc.com/Linux/2019-03/157572.htm
+
+- 4. Prometheus: 自定义你的应用指标 https://sysdig.com/blog/prometheus-metrics/
+
+- 5. 深入Go的底层，带你走近一群有追求的人 https://mp.weixin.qq.com/s/obnnVkO2EiFnuXk_AIDHWw
 
 - - - - - - - - - - 
