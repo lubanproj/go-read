@@ -32,6 +32,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -462,5 +463,18 @@
 - 4. Go 对象健美操 https://dev.to/eminetto/object-calisthenics-in-golang-1h75
 
 - 5. 类型系统的数学之美 https://mp.weixin.qq.com/s/ieEewizkN7H-11z-PexkGw
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-03
+- 1. Go，Google Functions和Gitlab-ci完美结合 https://dev.to/renatosuero/go-google-functions-and-gitlab-ci-a-perfect-combination-4lao
+
+- 2. Go实现的编译和计算表达式的引擎 https://github.com/antonmedv/expr
+
+- 3. Go的内存管理 https://povilasv.me/go-memory-management-part-2/
+
+- 4. Go中结构体的标记字段 https://itnext.io/creating-your-own-struct-field-tags-in-go-c6c86727eff
+
+- 5. Golang并发中犯的错误 https://dev.to/dannypsnl/the-go-concurrency-bug-i-made-3dma
 
 - - - - - - - - - - 
