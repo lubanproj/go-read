@@ -30,6 +30,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -808,5 +809,18 @@
 - 4. Go 模糊测试 https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit
 
 - 5. GO小知识之如何做JSON美化 https://zhuanlan.zhihu.com/p/65905512
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-03
+- 1. Go，Google Functions和Gitlab-ci完美结合 https://dev.to/renatosuero/go-google-functions-and-gitlab-ci-a-perfect-combination-4lao
+
+- 2. Go实现的编译和计算表达式的引擎 https://github.com/antonmedv/expr
+
+- 3. Go的内存管理 https://povilasv.me/go-memory-management-part-2/
+
+- 4. Go中结构体的标记字段 https://itnext.io/creating-your-own-struct-field-tags-in-go-c6c86727eff
+
+- 5. Golang并发中犯的错误 https://dev.to/dannypsnl/the-go-concurrency-bug-i-made-3dma
 
 - - - - - - - - - - 
