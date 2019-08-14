@@ -151,6 +151,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2826,5 +2827,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. gpio-and-go https://blog.gopheracademy.com/advent-2018/gpio-and-go/
 
 - 5. netcap:基于安全和可伸缩流量分析的框架 https://github.com/dreadl0ck/netcap
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-21
+- 1. 有点不安全却又一亮的 Go unsafe.Pointer https://gocn.vip/article/1077
+
+- 2. LLVM IR and Go https://blog.gopheracademy.com/advent-2018/llvm-ir-and-go/ 
+
+- 3. 数据包在 Istio 网格中的生命周期 https://mp.weixin.qq.com/s/AmuqmEYOwp4Giv-FEwGUbg
+
+- 4. 阿里云MySQL及Redis灵异断连现象：安全组静默丢包解决方法 https://mp.weixin.qq.com/s/eSkyDlmQXJ1MY9ampPTsQw
+
+- 5. 京东到家订单中心 Elasticsearch 演进历程 https://mp.weixin.qq.com/s/TrCJJtvhjB2m29fOOa3Rzg
 
 - - - - - - - - - - 
