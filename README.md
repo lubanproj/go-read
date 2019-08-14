@@ -77,6 +77,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1790,5 +1791,18 @@
 - 4. 我应该用Go还是Node.js来开发我下一个APP https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e
 
 - 5. 《Go语言四十二章经》 https://github.com/ffhelicopter/Go42
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-12
+- 1. Go gRPC 简介：https://blog.lelonek.me/a-brief-introduction-to-grpc-in-go-e66e596fe244
+
+- 2. Go interface 不适用的场景：https://medium.com/@kent.rancourt/go-pointers-when-i-dont-use-interfaces-in-go-1888ea6e9bb5
+
+- 3. Go 生态圈的 K/V 数据库 benchmark： https://colobu.com/2019/03/05/go-kv-databases-benchmark/
+
+- 4. 基于 k8s 的边缘计算框架：https://github.com/kubeedge/kubeedge
+
+- 5. 借助外部工具分析 Prometheus 数据：https://medium.com/@valyala/analyzing-prometheus-data-with-external-tools-5f3e5e147639
 
 - - - - - - - - - - 
