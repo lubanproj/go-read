@@ -108,6 +108,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2224,5 +2225,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Etcd Raft使用入门及原理解析 https://github.com/aCoder2013/blog/issues/30
 
 - 5. 使用init()的难堪之处  https://twitter.com/sheremetat/status/1092738741209321472
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-05
+- 1. Go strings.Replace 与 bytes.Replace 调优 https://blog.thinkeridea.com/201902/go/replcae_you_hua.html
+
+- 2. 如何解决紧耦合的 Go 代码 https://www.sage42.org/2019/01/30/how-to-fix-tightly-coupled-go-code/
+
+- 3. Go 调试 TiKV 中的 GRPC https://medium.com/@siddontang/build-grpc-assembly-for-tikv-in-go-a5f38192f73f
+
+- 4. 从 WebAssembly 学习 Go https://www.aaron-powell.com/posts/2019-02-04-golang-wasm-1-introduction/
+
+- 5. Go 编写 Git 仓库浏览工具 https://github.com/isacikgoz/gitin
 
 - - - - - - - - - - 
