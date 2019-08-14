@@ -87,6 +87,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1931,5 +1932,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go高级并发模型Part2-定时器 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/
 
 - 5. 在Kubernetes中创建动态测试环境 https://engineering.dollarshaveclub.com/acyl-is-open-source-beea9db66116
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-01
+- 1. Go重写clohure 编写的API gateway https://www.infoq.com/articles/api-gateway-clojure-golang
+
+- 2. 如何用Go编写一个kv存储  https://medium.com/@naqvi.jafar91/how-i-built-a-key-value-store-in-go-bd89f68062a8
+
+- 3. containerd正式从CNCF毕业 https://mp.weixin.qq.com/s/sQ0n-daFxXI60zHWGTghmA
+
+- 4. K3s初探：Rancher架构师带你尝鲜史上最轻量Kubernetes发行版 https://mp.weixin.qq.com/s/ZFiLwHbgdldkT9ZW26baNg
+
+- 5. Istio——企业级微服务解决方案 https://blog.aquasec.com/istio-kubernetes-service-mesh
 
 - - - - - - - - - - 
