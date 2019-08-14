@@ -4,6 +4,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -210,3 +211,16 @@ https://zhuanlan.zhihu.com/p/52808772
 - 5. 在Go中探索字节解析API  https://blog.gopheracademy.com/advent-2018/exploring-byte-parsing-apis-in-go/
 
 - - - - - - - - - - 
+
+### gocn_news_2018-12-14
+- 1. GoCN每日新闻(2018-12-14)  
+
+- 2. 1.Go 1.11.3 和 Go 1.10.6 发布 https://groups.google.com/forum/#!topic/golang-nuts/Gz_KNmdXbn0
+2.Go与Vim编辑器的和谐组合 https://medium.com/@joemeli51/go-and-vim-in-harmony-12026b942691
+3.带你轻松玩转text/template包 https://medium.com/@awkwardferny/golang-templating-made-easy-4d69d663c558
+4.String interning:提升string性能的大杀器 https://artem.krylysov.com/blog/2018/12/12/string-interning-in-go/
+5.Docker和Go Modules的搭配使用 https://medium.com/@pliutau/docker-and-go-modules-4265894f9fc  
+
+- 3. 编辑: Razil  
+
+- - - - - - - - - - - - 
