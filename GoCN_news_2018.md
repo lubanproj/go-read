@@ -7,6 +7,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -250,5 +251,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. K8S漏洞报告|近期bug fix解读&1.11主要bug fix汇总 https://mp.weixin.qq.com/s/Yru-nOdVs5oOj9DICoApww
 
 - 5. CNCF托管etcd https://mp.weixin.qq.com/s/QXIRpbYAAPEirjqf3bJeEQ
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-11
+- 1. Go与WebAssembly https://zhuanlan.zhihu.com/p/51335026
+
+- 2. 使用 Prometheus 监控 Go 程序 https://scot.coffee/2018/12/monitoring-go-applications-with-prometheus/
+
+- 3. 微服务核心架构梳理 https://segmentfault.com/a/1190000017323429
+
+- 4. 使用 Go 创建 WebGL 应用 https://blog.gopheracademy.com/advent-2018/go-webgl/
+
+- 5. Go 实现为 SEO 优化的服务端渲染库 https://github.com/rendora/rendora
 
 - - - - - - - - - - 
