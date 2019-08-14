@@ -149,6 +149,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2798,5 +2799,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Go 设计 API 版本化 https://dev.to/geosoft1/versioning-your-api-in-go-1g4h
 
 - 5. Go 的服务对象模式 https://itnext.io/using-service-objects-in-go-d899dc599335
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-24
+- 1. 性能优化：优化一个已经很快了的Go程序 https://boyter.org/posts/sloc-cloc-code-performance/
+
+- 2. 构建弹性系统：断路器还是重试？ https://engineering.grab.com/designing-resilient-systems-part-1
+
+- 3. loki: 为日志而生的类Prometheus https://github.com/grafana/loki
+
+- 4. 尝试将preact移植到Go WASM https://github.com/gernest/greact
+
+- 5. athens与微软 https://medium.com/@arschles/athens-and-microsoft-1b11a316bc23
 
 - - - - - - - - - - 
