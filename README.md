@@ -13,6 +13,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -570,5 +571,18 @@
 - 4. 什么是缓存false sharing以及如何解决(Go示例)[译] https://juejin.im/post/5d0519e05188257a78764d5d
 
 - 5. Go增删改查TCP服务器 https://medium.com/xxxvenom/go-tcp-crud-server-61fc34469640
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-17
+- 1. 又一个 MongoDB Golang 教程 https://blog.eduardohitek.com/posts/ya-mongodb-tutorial 
+
+- 2. Golang RabbitMQ 故障排查一例 https://ms2008.github.io/2019/06/16/golang-rabbitmq
+
+- 3. 造轮子 | golang | 简易 http2 拨测工具 https://www.jianshu.com/p/b61aaeecb895
+
+- 4. Go defer 会有性能损耗，尽量不要用？ https://segmentfault.com/a/1190000019490834
+
+- 5. 轻量级 go 业务框架 sniper https://github.com/bilibili/sniper
 
 - - - - - - - - - - 
