@@ -28,6 +28,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -548,5 +549,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. Tcl和Raft发明人的软件设计哲学 https://mp.weixin.qq.com/s/l_xnOd2gmTSbj3WqZAL7aQ
 
 - 5. 进阶的Redis之数据持久化RDB与AOF https://mp.weixin.qq.com/s/BrgGxVDPR08Wd8TVVpYQkw
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-20
+- 1. 360 开源 K8S 多集群管理平台 Wayne（后端采用 beego）：https://github.com/Qihoo360/wayne
+
+- 2. Go Channel 剖析：https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb
+
+- 3. Go 同步状态方式比较：Mutex VS Channel  https://medium.com/mindorks/https-medium-com-yashishdua-synchronizing-states-using-mutex-vs-channel-in-go-25e646c83567
+
+- 4. 如何在 Ubuntu 上安装 Hyperledger Fabric：https://medium.com/@techgeek628/how-to-install-hyperledger-fabric-on-ubuntu-92d777dcf6a7
+
+- 5. HTTP/3 学习笔记：https://blog.erratasec.com/2018/11/some-notes-about-http3.html#.W_NkHpMzbUI
 
 - - - - - - - - - - 
