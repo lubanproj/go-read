@@ -25,6 +25,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -738,5 +739,18 @@
 - 4. 在OKD中创建Source-to-Image构建管道 https://opensource.com/article/19/5/creating-source-image-build-pipeline-okd
 
 - 5. 我不知道cpu是如何工作的，所以我用代码模拟了一个 https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-21
+- 1. golang http/transport 代码分析 http://www.cnblogs.com/gaorong/p/10887021.html
+
+- 2. Kafka两级调度实现分布式协调微服务任务分配Golang版 https://segmentfault.com/a/1190000019244065
+
+- 3. 如何在 Go 中读取配置文件和环境变量 https://medium.com/@bnprashanth256/reading-configuration-files-and-environment-variables-in-go-golang-c2607f912b63
+
+- 4. mongoDB wiredTiger存储引擎总结 https://juejin.im/post/5ce29166f265da1bac3fe945
+
+- 5. 使用 Flagger，istio 和 GitOps Pipeline 自动管理 Kubernetes  https://www.weave.works/blog/automated-canary-management-to-kubernetes-with-flagger-istio-and-gitops-pipelines
 
 - - - - - - - - - - 
