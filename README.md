@@ -98,6 +98,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2085,5 +2086,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. TiDB 在摩拜单车的深度实践及应用 https://mp.weixin.qq.com/s/tXlli0-egrzXiX1__GuMPA
 
 - 5. 使用 Drone 搭建本地 CI/CD 服务 https://itnext.io/setting-up-simple-self-hosted-fast-ci-cd-solution-with-drone-ca0fbb176925
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-18
+- 1. Go高级性能测试指南 https://blogtitle.github.io/go-advanced-benchmarking/
+
+- 2. MongoDB官方驱动介绍 https://www.avcosystems.com/blog/mongo-go/
+
+- 3. 组织可测试的Go微服务 https://medium.com/@cdyer1980/structuring-testable-microservices-with-golang-cf5c4d39be50
+
+- 4. 面向开发者的机器学习基础设施 https://github.com/cortexlabs/cortex
+
+- 5. 详解Golang中间代码生成 https://draveness.me/golang-ir-ssa
 
 - - - - - - - - - - 
