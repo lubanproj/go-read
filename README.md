@@ -137,6 +137,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2632,5 +2633,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. Beaver: 一个实时消息服务端 https://github.com/Clivern/Beaver
 
 - 5. GolangExample: Go代码示例 https://golangexample.com/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-06
+- 1. 如何做好单元测试 https://medium.com/@jens.neuse/want-to-write-good-unit-tests-in-go-dont-panic-or-should-you-ba3eb5bf4f51
+
+- 2. Go语言Base58实现 https://github.com/mr-tron/base58
+
+- 3. Go语言链表实现 http://blog.51cto.com/steed/2339367
+
+- 4. 游戏服务器缓存库举例 https://www.jianshu.com/p/aeb505ef55cd
+
+- 5. http.DefaultTransport原生支持SOCKS5代理 https://www.reddit.com/r/golang/comments/acqhxu/fun_fact_httpdefaulttransport_natively_supports/
 
 - - - - - - - - - - 
