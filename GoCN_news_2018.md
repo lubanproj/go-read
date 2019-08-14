@@ -32,6 +32,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -606,3 +607,16 @@ https://zhuanlan.zhihu.com/p/52808772
 - 5. 如何使用GitHub操作和编织云创建GitOps管道 https://www.weave.works/blog/how-to-create-gitops-pipelines-with-github-actions-and-weave-cloud
 
 - - - - - - - - - - 
+
+### gocn_news_2018-11-16
+- 1. GoCN每日新闻(2018-11-16)
+
+- 2. 1.Harbor晋升为CNCF孵化级（Incubating）项目！ https://mp.weixin.qq.com/s/Nhe5DM0S8mAZuCMZryo9-Q
+2.在Go中大量使用内存空间的风险 https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
+3.Go代码一致性检测方法 https://medium.com/@alexmaisiura/the-control-of-code-consistency-in-go-ede8ad9d9e3
+4.Windows下的Go文件权限 https://medium.com/@MichalPristas/go-and-file-perms-on-windows-3c944d55dd44
+5.beku:三行代码发布你的应用到K8s https://github.com/yulibaozi/beku  
+
+- 3. 编辑: Razil
+
+- - - - - - - - - - - - 
