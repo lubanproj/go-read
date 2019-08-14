@@ -18,6 +18,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -260,5 +261,18 @@
 - 4. 使用 Supervisor 运行 Go 程序 https://medium.com/@monirz/deploy-golang-app-in-5-minutes-ff354954fa8e
 
 - 5. Go 的 QML 绑定库 https://github.com/RadhiFadlillah/qamel
+
+- - - - - - - - - - 
+
+### gocn_news_2019-07-22
+- 1. Go中的ORM和Query Builder https://andrewpillar.com/programming/2019/07/13/orms-and-query-building-in-go
+
+- 2. ignite: 基于Firecracker实现微内核工具 https://github.com/weaveworks/ignite
+
+- 3. Monday工具如何使用Go的经验分享 https://vincent.composieux.fr/article/how-does-monday-use-go-and-how-does-it-work
+
+- 4. pike: Go实现的类varnish服务 https://github.com/vicanso/pike
+
+- 5. Go学习资料整理 https://barbra.io/collection/36cc5e8a-c094-47da-b8f7-8e01a2dc12aa
 
 - - - - - - - - - - 
