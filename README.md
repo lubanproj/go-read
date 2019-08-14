@@ -78,6 +78,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1804,5 +1805,18 @@
 - 4. 基于 k8s 的边缘计算框架：https://github.com/kubeedge/kubeedge
 
 - 5. 借助外部工具分析 Prometheus 数据：https://medium.com/@valyala/analyzing-prometheus-data-with-external-tools-5f3e5e147639
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-11
+- 1. 针对 Go 开发者的 GraphQL 工作台 https://graphql-go.wesovilabs.com
+
+- 2. 测试驱动开发和 Go https://medium.com/@AnwarHidayat/test-driven-development-with-golang-1a21a2f491bc
+
+- 3. Go 调度源码浅析 https://www.jianshu.com/p/3071738503ee
+
+- 4. 5分钟部署 Golang 包到 AWS Lambda https://medium.com/@daniel.woods/deploying-a-golang-package-to-aws-lambda-in-5-minutes-cd11685f576
+
+- 5. 20分钟入门 LLVM 对Go编译器实时编码 https://github.com/pwaller/go2ll-talk
 
 - - - - - - - - - - 
