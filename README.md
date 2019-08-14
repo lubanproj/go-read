@@ -9,6 +9,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -135,5 +136,18 @@
 - 4. 详解Go语言的内存模型及堆的分配管理 https://juejin.im/post/5d47b1f16fb9a06aec2623ff
 
 - 5. GopherCon 观后亮点 https://blog.process-one.net/gophercon-2019-highlights/
+
+- - - - - - - - - - 
+
+### gocn_news_2019-08-05
+- 1. Go Modules包管理务实手册 https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31
+
+- 2. Golang CI/CD 5条最佳实践 https://jfrog.com/blog/5-best-practices-for-golang-ci-cd/
+
+- 3. 利用git hooks优化你的Golang开发流程 https://tutorialedge.net/golang/improving-go-workflow-with-git-hooks/
+
+- 4. Go：为何带来泛型 https://github.com/llgoer/go-generics
+
+- 5. 为什么你应该使用Go Module代理 https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
 
 - - - - - - - - - - 
