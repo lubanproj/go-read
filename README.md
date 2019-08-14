@@ -146,6 +146,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2758,3 +2759,16 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 将curl命令转换为浏览器中的Go代码 https://github.com/mholt/curl-to-go
 
 - - - - - - - - - - - 
+
+### gocn_news_2018-12-27
+- 1. Go构建Docker容器 https://www.callicoder.com/docker-golang-image-container-example/
+
+- 2. 在Go中对API进行版本控制 https://dev.to/geosoft1/versioning-your-api-in-go-1g4h
+
+- 3. Golang安全资源 https://github.com/guardrailsio/awesome-golang-security
+
+- 4. 解析MySQL binlog推送到不同的接收器 https://github.com/bytewatch/dolphinbeat
+
+- 5. Go实现的数据压缩 https://github.com/flanglet/kanzi-go
+
+- - - - - - - - - - 
