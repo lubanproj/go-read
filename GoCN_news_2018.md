@@ -12,6 +12,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -320,5 +321,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 美团DB数据同步到数据仓库的架构与实践 https://mp.weixin.qq.com/s/MrGSWXd1Oa3jSjYX87ObSg
 
 - 5. CentOS7官方Docker发行版现重大Bug可致Kubernetes中的健康检测探针失败并影响容器交互 https://mp.weixin.qq.com/s/z2BNbXff0YnLxrtGfa3djg
+
+- - - - - - - - - - 
+
+### gocn_news_2018-12-06
+- 1. 最好用的编辑器之一：Vim-Go环境搭建 https://www.cnblogs.com/qcloud1001/p/10072325.html
+
+- 2. golang设计模式之备忘录模式 https://juejin.im/post/5c075105e51d45598b76f4b0
+
+- 3. 使用 Gomock 进行单元测试 https://yq.aliyun.com/articles/675095
+
+- 4. 多云时代：云网融合的多云网络 https://mp.weixin.qq.com/s/a_-Dp5vcRWPSy5ovHP0pQA
+
+- 5. 致传统企业朋友：不够痛就别微服务，有坑！ https://mp.weixin.qq.com/s/NUDdVfP0KOnpjXyZjj_IVg 
 
 - - - - - - - - - - 
