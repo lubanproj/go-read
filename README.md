@@ -58,6 +58,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1525,5 +1526,18 @@
 - 4. 一个示例阐述 Go 应用的优雅中止 https://jingwei.link/2019/03/31/golang-graceful-ending.html
 
 - 5. 使用 Goroutines 池来处理基于任务的操作 https://mp.weixin.qq.com/s/lPB4k9npnpb7RVYn_tvsyA
+
+- - - - - - - - - - 
+
+### gocn_news_2019-04-01
+- 1. Go，企业开发过程的关键语言？ https://www.infoq.com/presentations/go-lang-design
+
+- 2. 关于技术选型方法论的探索 https://mp.weixin.qq.com/s/Z7jK8XnKnoY-FiP4inGjsA
+
+- 3. 近期性能优化案例 http://baixiaoustc.com/2019/03/27/2019-03-27-recent-server-performance-optimizaiton/
+
+- 4. 使用sqlmock进行gorm单元测试 https://medium.com/@rosaniline/unit-testing-gorm-with-go-sqlmock-in-go-93cbce1f6b5b
+
+- 5. Golang 轻量级-高并发socket框架——chitchat https://www.jianshu.com/p/956c04a9310b
 
 - - - - - - - - - - 
