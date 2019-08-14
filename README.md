@@ -14,6 +14,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -584,5 +585,18 @@
 - 4. Go defer 会有性能损耗，尽量不要用？ https://segmentfault.com/a/1190000019490834
 
 - 5. 轻量级 go 业务框架 sniper https://github.com/bilibili/sniper
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-16
+- 1. Go 代码简洁之道 https://github.com/Pungyeon/clean-go
+
+- 2. Go 流处理库 https://github.com/reugn/go-streams
+
+- 3. 基于 Envoy、Cilium 和 eBPF 实现透明的混沌测试 https://arthurchiao.github.io/blog/transparent-chaos-testing-with-envoy-cilium-ebpf-zh/
+
+- 4. Go 对象健美操 https://dev.to/eminetto/object-calisthenics-in-golang-1h75
+
+- 5. 类型系统的数学之美 https://mp.weixin.qq.com/s/ieEewizkN7H-11z-PexkGw
 
 - - - - - - - - - - 
