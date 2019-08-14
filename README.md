@@ -13,6 +13,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -193,3 +194,15 @@
 - 5. 一文理解微服务高可用的常用手段 https://mp.weixin.qq.com/s/oky8g1Nisdr2T4kYG-DFhg
 
 - - - - - - - - - - 
+
+### gocn_news_2019-08-01
+- 1. Go 语言面向对象编程系列教程（八） —— 接口篇：接口和类型查询及转化  https://laravelacademy.org/post/19858.html
+2.使用Elasticsearch(附Golang代码) https://strconv.com/posts/use-elastic/
+
+- 2. 给 Golang 日志打印加点糖——sugar https://jingwei.link/2019/06/10/golang-logger-sugar.html
+
+- 3. Golang 是否有必要内存对齐？ https://ms2008.github.io/2019/08/01/golang-memory-alignment/
+
+- 4. 基于Istio的灰度平台实践 https://mp.weixin.qq.com/s/uDxC9QIj2fd783McHHWcLA
+
+- - - - - - - - - - - 
