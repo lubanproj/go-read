@@ -23,6 +23,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -330,3 +331,16 @@
 - 4. 深入研究goroutine栈  http://www.huamo.online/2019/06/25/%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6goroutine%E6%A0%88/
 
 - - - - - - - - - - - 
+
+### gocn_news_2019-07-17
+- 1. Go try 提议被拒 https://github.com/golang/go/issues/32437#issuecomment-512035919
+
+- 2. Go 编程：那些隐晦的操作符 https://www.gitdig.com/go-operators/
+
+- 3. [译] 使用 Gomobile 和 Gopherjs 的动态二维码数据传输 https://juejin.im/post/5d2bfccef265da1bb77699e8
+
+- 4. Go中句法糖的成本 https://medium.com/@asilvr/the-cost-of-syntactic-sugar-in-go-5aa9dc307fe0
+
+- 5. Go编写的高性能、自我托管的通讯及邮件列表管理器 https://github.com/knadh/listmonk
+
+- - - - - - - - - - 
