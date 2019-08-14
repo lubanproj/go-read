@@ -82,6 +82,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1860,5 +1861,18 @@
 - 4. go-tflite:TensorFlow Lite的Go语言链接库 https://github.com/mattn/go-tflite
 
 - 5. pipe-to-me:使用curl实现流式交互 https://github.com/jpschroeder/pipe-to-me
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-07
+- 1. 用Hugo重写我的个人网站 https://dev.to/restoreddev/rewriting-my-personal-site-with-hugo-1708
+
+- 2. 基于WebAssembly的实验 https://dev.to/jeremylikness/gopher-meet-plasma-a-webassembly-experiment-4anl
+
+- 3. 学习写Golang代码的测试 https://dev.to/taylorsilva/learning-tests-11fe 
+
+- 4. 优雅的关闭Go webserver https://marcofranssen.nl/go-webserver-with-gracefull-shutdown/
+
+- 5. Go高级并发模式 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/
 
 - - - - - - - - - - 
