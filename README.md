@@ -64,6 +64,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1609,5 +1610,18 @@
 - 4. Go借助PProf的一次性能优化 https://juejin.im/post/5c987d8ce51d45516437b20f
 
 - 5. 适用于Go项目的Makefile https://juejin.im/post/5c98edb56fb9a070d75585e3
+
+- - - - - - - - - - 
+
+### gocn_news_2019-03-26
+- 1. Dave Cheney - Absolute Unit (Test) : https://www.youtube.com/watch?v=UKe5sX1dZ0k
+
+- 2. 使用 Go 和 Flutter 搭建 App：https://divan.dev/talks/2019/gdgbcn/FlutterGomobile.pdf
+
+- 3. Istio 基础：https://medium.com/devopslinks/microservices-mesh-part-ii-istio-basics-b9c343594a05
+
+- 4. 谷歌开源 k8s 原生 CI/CD 构建框架 Tekton：https://mp.weixin.qq.com/s/zP1u8ulwtIVbPOlnK4ttjQ
+
+- 5. 打造高效的工作环境 - SHELL 篇：https://coolshell.cn/articles/19219.html
 
 - - - - - - - - - - 
