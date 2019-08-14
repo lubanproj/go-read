@@ -22,6 +22,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -696,5 +697,18 @@
 - 4. 边缘计算能给银行带来什么改变？：https://www.raconteur.net/finance/edge-computing-banking 
 
 - 5. MongoDB 十分钟入门教程：https://medium.com/free-code-camp/learn-mongodb-a4ce205e7739 
+
+- - - - - - - - - - 
+
+### gocn_news_2019-06-03
+- 1. TDD 基础：红绿重构模式 https://medium.com/@syukri.mullia/basic-tdd-red-green-refactor-pattern-4046381b95a6
+
+- 2. 红黑树原理详解及 Golang 实现 https://www.cnblogs.com/ailumiyana/p/10963658.html
+
+- 3. 如何在 Go 中优雅关闭子进程 http://www.songjiayang.com/posts/go-zhong-you-ya-guan-bi-zi-jin-cheng
+
+- 4. 结合自己的经历谈谈怎么更好地学习Go语言 https://juejin.im/post/5cf0cce8e51d45777b1a3d2d
+
+- 5. k8s 环境部署镜像回滚工具 https://github.com/Trendyol/easy-rollback
 
 - - - - - - - - - - 
