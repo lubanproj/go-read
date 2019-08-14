@@ -29,6 +29,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -794,5 +795,18 @@
 - 4. 微服务工具包 https://github.com/Clivern/Hippo
 
 - 5. 一个mysql死锁场景分析 https://segmentfault.com/a/1190000019221604
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-17
+- 1. 快速测试:包装*testing.T以提高效率 https://rogpeppe.wordpress.com/2019/05/15/quicktest-wrap-testing-t-for-fun-and-profit/
+
+- 2. 基于2PC和延迟更新完成分布式消息队列多条事务 https://juejin.im/post/5cde20f3f265da7e7b3c91aa
+
+- 3. 谈一谈 Go 和 Syscall https://juejin.im/post/5cdd56f6e51d456e8b07de5e
+
+- 4. Go 模糊测试 https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit
+
+- 5. GO小知识之如何做JSON美化 https://zhuanlan.zhihu.com/p/65905512
 
 - - - - - - - - - - 
