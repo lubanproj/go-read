@@ -88,6 +88,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -1945,5 +1946,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. K3s初探：Rancher架构师带你尝鲜史上最轻量Kubernetes发行版 https://mp.weixin.qq.com/s/ZFiLwHbgdldkT9ZW26baNg
 
 - 5. Istio——企业级微服务解决方案 https://blog.aquasec.com/istio-kubernetes-service-mesh
+
+- - - - - - - - - - 
+
+### gocn_news_2019-02-28
+- 1. Gopher China 2019 讲师专访 -晁岳攀 https://mp.weixin.qq.com/s/HET7DvJ79iMkzfRpD1bdbQ
+
+- 2. 百万 Go TCP 连接的思考2: 百万连接的吞吐率和延迟   https://colobu.com/2019/02/27/1m-go-tcp-connection-2/
+
+- 3. 腾讯 Tars-Go 服务获取自定义模版（配置）值 https://segmentfault.com/a/1190000018271503
+
+- 4. golang中的slice操作 https://juejin.im/post/5c74ed0fe51d450ba1486195
+
+- 5. 容器云在证券行业的探索与实践 https://mp.weixin.qq.com/s/yz2DC4Sl4z6-fchF5-Wmfw
 
 - - - - - - - - - - 
