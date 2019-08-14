@@ -50,6 +50,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -866,5 +867,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 一个GO语言性能问题的发现和解决  https://my.oschina.net/u/3675312/blog/2254090
 
 - 5. Kubernetes网络模型原理  https://juejin.im/post/5bd6c14be51d455b7461cb46
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-29
+- 1. Go语言并发模式 https://blog.afoolishmanifesto.com/posts/golang-concurrency-patterns/
+
+- 2. einx: 一个用Go构建的游戏服务器 https://github.com/Cyinx/einx
+
+- 3. 应用容器化优化指南 - Golang篇 https://yq.aliyun.com/articles/658456
+
+- 4. 使用Go构建pipeline架构 https://labs.bawi.io/building-a-pipeline-architecture-in-golang-4c154b8cdcff
+
+- 5. Golang反射深入理解 https://www.jianshu.com/p/1cf328cfe82b
 
 - - - - - - - - - - 
