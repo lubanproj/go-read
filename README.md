@@ -12,6 +12,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -177,5 +178,18 @@
 - 4. Go cond 源码学习 https://segmentfault.com/a/1190000019957459
 
 - 5. Go安全编码实践指南 https://github.com/OWASP/Go-SCP
+
+- - - - - - - - - - 
+
+### gocn_news_2019-08-02
+- 1. Golang为什么需要泛型 https://blog.golang.org/why-generics
+
+- 2. Go实现ORM及构建查询 https://mp.weixin.qq.com/s/XbtSamp7I6HwvRO_OweqJg
+
+- 3. 链表-删除排序链表中的重复元素，你能想到几种解法？https://mp.weixin.qq.com/s/K4nQOvv0LKkgny-nIk6RNQ
+
+- 4. Golang：数据库ORM框架GoMybatis详解 https://studygolang.com/topics/9755
+
+- 5. 一文理解微服务高可用的常用手段 https://mp.weixin.qq.com/s/oky8g1Nisdr2T4kYG-DFhg
 
 - - - - - - - - - - 
