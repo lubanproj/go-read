@@ -18,6 +18,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -967,5 +968,18 @@
 - 4. Go Channel 实现原理 https://segmentfault.com/a/1190000019172554
 
 - 5. 纯 Go 实现 WebRTC 库 https://github.com/pion/webrtc
+
+- - - - - - - - - - 
+
+### gocn_news_2019-05-13
+- 1. Go工具之编译器：汇编语言与Go https://medium.com/martinomburajr/go-tools-the-compiler-part-1-assembly-language-and-go-ffc42cbf579d
+
+- 2. 学习Go语言测试 https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
+
+- 3. 理解Go中的数据类型 https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go
+
+- 4. Go语言性能工具快速教程 https://github.com/samonzeweb/profilinggo
+
+- 5. 配置基于Windows WSL+VSCode的开发环境 https://medium.com/@betakuang/setup-go-development-environment-with-vs-code-and-wsl-on-windows-62bd4625c6a7
 
 - - - - - - - - - - 
