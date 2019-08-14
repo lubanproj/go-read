@@ -116,6 +116,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2336,5 +2337,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 才云Caicloud开源Nirvana：让API从对框架的依赖中涅槃重生 https://mp.weixin.qq.com/s/Nd2DrV6H0JN25ccHnuMRpQ
 
 - 5. 分享一个友好的Null类型帮助库 https://github.com/mattn/go-nulltype
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-28
+- 1. Go2 Error Inspection 前瞻：https://tonybai.com/2019/01/27/perspective-study-on-go2-error-inspection/
+
+- 2. GoMock 测试框架：https://mp.weixin.qq.com/s/DQ3zLQNatC6A6xQnkqMMPA
+
+- 3. Go 数据结构：https://github.com/Workiva/go-datastructures
+
+- 4. 函数计算的基本概念和通用场景描述：https://zhuanlan.zhihu.com/p/27504661
+
+- 5. 2019 年开发大数据框架的语言选择：https://towardsdatascience.com/back-to-the-metal-top-3-programming-language-to-develop-big-data-frameworks-in-2019-69a44a36a842
 
 - - - - - - - - - - 
