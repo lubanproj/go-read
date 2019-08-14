@@ -125,6 +125,7 @@
 
 
 
+
 ### gocn_news_2019-08-14
 - 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
 
@@ -2462,5 +2463,18 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 - 4. 推荐系统融合排序之LR https://mp.weixin.qq.com/s/8XInV5LbIwo3kS4nvmZDDw
 
 - 5. 谷歌等推出基于机器学习的新型数据库SageDB https://www.infoq.cn/article/KgiSMf2zYYKdvRYSw*FI
+
+- - - - - - - - - - 
+
+### gocn_news_2019-01-19
+- 1. Go存储怎么写?深度解析etcd存储设计 https://mp.weixin.qq.com/s/qvqpUtTFI0cFf9LtTH4JfA
+
+- 2. Gccgo 2019 https://meltware.com/2019/01/16/gccgo-benchmarks-2019.html
+
+- 3. 用Go调用windows api https://medium.com/jettech/breaking-all-the-rules-using-go-to-call-windows-api-2cbfd8c79724
+
+- 4. 停止写无用的Go库 https://0x46.net/thoughts/2018/12/29/go-libraries/
+
+- 5. 保障IDC安全：分布式HIDS集群架构设计 https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
 
 - - - - - - - - - - 
