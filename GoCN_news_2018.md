@@ -36,6 +36,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -670,5 +671,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. 七分钟读懂 Go 的临时对象池pool及其应用场景 https://segmentfault.com/a/1190000016987629
 
 - 5. serverless框架,可伸缩部署你的应用到AWS: https://github.com/apex/up
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-12
+- 1. 使用Go构建实时消息系统 https://medium.com/@fzambia/building-real-time-messaging-server-in-go-5661c0a45248
+
+- 2. apidiff：API兼容性检查工具 https://go.googlesource.com/exp/+/master/apidiff
+
+- 3. argo: K8s容器Workflow https://github.com/argoproj/argo
+
+- 4. Vuego：基于WASM的Vue封装 https://github.com/chanwit/vuego
+
+- 5. litfs：Go实现的FUSE文件系统 https://github.com/anaskhan96/litfs 
 
 - - - - - - - - - - 
