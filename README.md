@@ -31,6 +31,7 @@
 
 
 
+
 ### gocn_news_2019-08-12
 - 1. 基于hprose-golang创建RPC微服务 https://www.cnblogs.com/52fhy/p/11185895.html
 
@@ -450,3 +451,16 @@
 - 8. 容器、微服务与服务网格: https://mp.weixin.qq.com/s/nCeFHO857C_0TzC4xeJdvg
 
 - - - - - - - 
+
+### gocn_news_2019-06-01
+- 1. Go 代码简洁之道 https://github.com/Pungyeon/clean-go
+
+- 2. Go 流处理库 https://github.com/reugn/go-streams
+
+- 3. 基于 Envoy、Cilium 和 eBPF 实现透明的混沌测试 https://arthurchiao.github.io/blog/transparent-chaos-testing-with-envoy-cilium-ebpf-zh/
+
+- 4. Go 对象健美操 https://dev.to/eminetto/object-calisthenics-in-golang-1h75
+
+- 5. 类型系统的数学之美 https://mp.weixin.qq.com/s/ieEewizkN7H-11z-PexkGw
+
+- - - - - - - - - - 
