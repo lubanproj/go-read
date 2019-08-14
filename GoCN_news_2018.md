@@ -24,6 +24,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -492,5 +493,18 @@ https://zhuanlan.zhihu.com/p/52808772
 - 4. OS性能之殇系列 https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/492.html 
 
 - 5. 中台是什么 https://insights.thoughtworks.cn/what-is-zhongtai/
+
+- - - - - - - - - - 
+
+### gocn_news_2018-11-24
+- 1. 五种语言五个故事 https://medium.com/@kari.marttila/five-languages-five-stories-1afd7b0b583f
+
+- 2. 快学Go语言 第8课 程序大厦是如何构建起来的 https://juejin.im/post/5bf76783e51d45599d422a2b
+
+- 3. Go channel学习教程 https://tutorialedge.net/golang/go-channels-tutorial/
+
+- 4. 如何用Go写业务的表达式引擎 https://medv.io/how-to-write-an-expression-engine/
+
+- 5. Go开发跨平台任天堂游戏仿真器 https://github.com/Humpheh/goboy
 
 - - - - - - - - - - 
