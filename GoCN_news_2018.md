@@ -60,6 +60,7 @@
 
 
 
+
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
@@ -1006,5 +1007,18 @@ http://blueskykong.com/2018/10/24/hash-bitmap/
 - 4. 微服务架构组件分析 https://segmentfault.com/a/1190000016744430
 
 - 5. 可组合的GIF效应CLI https://github.com/sgreben/yeetgif
+
+- - - - - - - - - - 
+
+### gocn_news_2018-10-19
+- 1. 使用RSpec对Go应用进行黑盒测试 https://medium.freecodecamp.org/how-to-black-box-test-a-go-app-with-rspec-421e786f4103
+
+- 2. 使用Go进行声音处理 https://medium.com/@serg.dudk/lets-go-7f51fbde36e4
+
+- 3. 实践编写一个Prometheus的exporter https://blog.callr.tech/kamailio-exporter-for-prometheus/
+
+- 4. mercure:一款支持消息从服务端推送到客户端新协议 https://github.com/dunglas/mercure
+
+- 5. sha256-simd:高速sha256计算库 https://github.com/minio/sha256-simd
 
 - - - - - - - - - - 
