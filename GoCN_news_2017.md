@@ -1,5 +1,5 @@
+## gocn_news__2017
 
-- - - - - - - - - 
 ### gocn_news_2017-12-31
 - 1. 分布式系统下的Go channels https://medium.com/@matryer/introducing-vice-go-channels-across-many-machines-bcac1147d7e2
 
