@@ -2,10 +2,34 @@
 
 ## [gocn_news__2018](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2018.md)
 
-
-
-
 ## gocn_news__2019
+
+### gocn_news_2019-08-18
+- 1. Golang译文之竞态检测器race https://juejin.im/post/5d5851aee51d4561c6784079
+
+- 2. Golang踩坑分析 https://segmentfault.com/a/1190000020103403
+
+- 3. Go调度器介绍和容易忽视的问题 https://www.cnblogs.com/CodeWithTxT/p/11370215.html
+
+- 4. 仔细研究Go类型系统 https://mp.weixin.qq.com/s/2Q6dN5mvW4y0drkZ8ptCJQ
+
+- 5. 零基础学Flink：状态与容错 https://toutiao.io/k/xcbtmgt
+
+- - - - - - - - - - 
+
+### gocn_news_2019-08-17
+- 1. Go 1.12.9 发布 https://groups.google.com/forum/#!msg/golang-announce/oeMaeUnkvVE/a49yvTLqAAAJ
+
+- 2. zap日志包是如何高性能优化 https://medium.com/@blanchon.vincent/go-how-zap-package-is-optimized-dbf72ef48f2d
+
+- 3. Go终极学习指导手册 https://github.com/hoanhan101/ultimate-go
+
+- 4. 开源的Go解释器项目Yaegi  https://blog.containo.us/announcing-yaegi-263a1e2d070a
+
+- 5. Go测试题考察 https://golangbot.com/june-2019-quiz-results/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-16
 - 1. Go 资源大全中文版 https://mlog.club/topic/239
 
