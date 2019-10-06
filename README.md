@@ -48,7 +48,29 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-06
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐
+
+- 2. GoCN每日新闻(2019-10-06)
+
+- 3. 1. Go 1.14 有什么新变化 http://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE
+
+- 4. 2. 优雅地关闭 goroutine  https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/
+
+- 5. 3. 实现并发版本的 Each,Map,Select 方法 https://www.beenverified.com/engineering/writing-concurrent-methods-in-go/
+
+- 6. 4. 使用 Go 和 Kafka 实现有状态的流处理 https://mux.com/blog/stateful-stream-processing-with-kafka-and-go/
+
+- 7. 5. 提供无逃逸 Read 和 Write 的库 noescape https://github.com/lukechampine/noescape
+
+- 8. * 编辑: lwhile
+
+- 9. * 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2019-10-05
 - 1. 国庆专辑：GopherChina祝大家国庆节快乐GoCN每日新闻(2019-10-05)1. Gophercon UK 2019 https://www.bilibili.com/video/av701273562. Golang 接口与反射知识要点 https://www.cnblogs.com/guangze/p/11621277.html3. Gophers的安全性 https://changelog.com/gotime/1014. 龙芯 & Golang https://mzh.io/loongson-go5. 通过实例快速掌握k8s（Kubernetes）核心概念 https://segmentfault.com/a/1190000020595811编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
 
