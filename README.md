@@ -49,7 +49,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-08
+- 1. GoCN每日新闻(2019-10-08)1. Go 构建高性能数据库中间件: https://mp.weixin.qq.com/s/gzjFt9zi4trMzFi92WqF-A1. Go 编写的代码计数器： https://github.com/boyter/scc/ 2. Go 闭包理解：https://mp.weixin.qq.com/s/GJnvPgW7IONK9LVw-i34hQ4. AWS Lambda 使用简介：https://www.rosie.dev/post/hello-lambda/5. 单例设计模式：https://segmentfault.com/a/1190000020608216编辑: 薛锦订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-06
 - 1. 国庆专辑：GopherChina祝大家国庆节快乐
 
