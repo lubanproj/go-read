@@ -51,7 +51,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-10
+- 1. GoCN每日新闻(2019-10-10)
+
+- 2. 1. Go语言源码阅读之bytes.Buffer http://www.pengrl.com/p/60618/
+
+- 3. 2. Go gRPC 系列一：相关介绍 https://juejin.im/post/5d99af86f265da5b555f59dc
+
+- 4. 3. 干货满满的 Go Modules 和 goproxy.cn https://juejin.im/post/5d8ee2db6fb9a04e0b0d9c8b
+
+- 5. 4. 原来这才是 Golang Interface https://juejin.im/post/5d8877f1f265da03986c311c
+
+- 6. 5. 云原生可观察性之日志管理 https://mp.weixin.qq.com/s/E7bFp58OL6gjvBxLTKpbJQ
+
+- 7. 编辑: 崔广章
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2019-10-09
 - 1. GoCN每日新闻(2019-10-09)1. 我们如何将服务延迟减少了98% https://blog.gojekengineering.com/the-need-for-speed-how-we-reduced-service-latency-by-98-5c45d1acdc812. Go RPC实践 https://mp.weixin.qq.com/s/ScsB0VH8tvlaNK_d6a6AMQ3. Go中使用Seed得到重复随机数的问题 https://juejin.im/post/5d9c7c736fb9a04df57de0744. 高效生成JSON串 https://juejin.im/post/5d9c96ff518825095c3c5f795. Istio熔断器解析 https://mp.weixin.qq.com/s/95DVrg6oeaGFZi64r7LSLQ编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
 
