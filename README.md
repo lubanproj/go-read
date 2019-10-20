@@ -59,7 +59,40 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-20
+- 1. GoCN每日新闻(2019-10-20)
+
+- 2. 1. slakc是如何构建共享频道的 https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f
+
+- 3. 2. 关于缓存的一切 https://www.youtube.com/watch?v=pjV0Nfcle9A
+
+- 4. 3. Netflix如何处理数据集的发布订阅 https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a
+
+- 5. 4. csv比较工具csvdiff https://github.com/aswinkarthik/csvdiff
+
+- 6. 5. 如何构建自定义的k8s ingress控制器 http://www.doxsey.net/blog/how-to-build-a-custom-kubernetes-ingress-controller-in-go
+
+- 7. * 第二季go hack黑客马拉松来啦！ http://gohack2019.sxl.cn/
+
+- 8. 编辑: lwhile
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- 10. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+- - - - - 
+
 ### gocn_news_2019-10-19
 - 1. GoCN每日新闻(2019-10-19)1. Go 1.13中的错误处理 https://tonybai.com/2019/10/18/errors-handling-in-go-1-132. golang核心原理-协程栈 https://juejin.im/post/5da7385ae51d45782a478d2d3. 使用 Go 处理中间件 https://segmentfault.com/a/11900000207296594. Gocache:一个强大可扩展的Go缓存库 https://github.com/eko/gocache5. Vearch:用于深度学习向量的高效相似性搜索的分布式系统 https://github.com/vearch/vearch编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
 
