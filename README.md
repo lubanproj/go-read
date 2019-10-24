@@ -61,7 +61,29 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-24
+- 1. GoCN每日新闻(2019-10-24)
+
+- 2. 1. 学习Golang之服务器框架编写 – CS网络通信 http://1t.click/aJag
+
+- 3. 2. 如何实现 Go Module 依赖关系的可视化 https://juejin.im/post/5dafe742e51d45249465cd9a
+
+- 4. 3. Go gRPC 系列七：让服务同时提供 HTTP 接口https://juejin.im/post/5dafedd8f265da5b86014357
+
+- 5. 4. 如何写出优雅的 Golang 代码 https://juejin.im/entry/5db018c3f265da4d4a30569e
+
+- 6. 5. [译]用Golang编写一个简易聊天室 https://juejin.im/post/5dafb4435188256290692f05
+
+- 7. 第二季go hack黑客马拉松来啦！ http://gohack2019.sxl.cn/
+
+- 8. 编辑: 崔广章
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2019-10-23
 - 1. GoCN每日新闻(2019-10-23)1. 从0开始，用Go实现Lexer和Parser https://mp.weixin.qq.com/s/cFGJX2IeGZOifqaLh5YYYA2. 在grpc中使用pprof https://medium.com/@gurasis/profiling-a-golang-grpc-server-using-pprof-b6de1371fdd3. Go依赖关系 https://medium.com/@2hamed/dependency-isolation-in-go-afab00b5e4c94. Go使用信号来处理Unix命令 https://medium.com/better-programming/using-signals-to-handle-unix-commands-in-golang-f09e9efb77695. Go使用https https://juejin.im/post/5daeb504f265da5b7e2406a4第二季go hack黑客马拉松来啦！ http://gohack2019.sxl.cn/编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
 
