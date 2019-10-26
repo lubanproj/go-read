@@ -62,7 +62,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-26
+- 1. 1. GateKeeper：滴滴开源的使用Go编写的不依赖分布式数据库的API网关 https://mp.weixin.qq.com/s/gpQSPJ-uRpI-k1j97K1waw2. Go panic处理 https://www.digitalocean.com/community/tutorials/handling-panics-in-go3. Go实现TCP扫描器 https://developer20.com/tcp-scanner-in-go/4. 两分钟让你明白Go中如何继承 https://segmentfault.com/a/11900000208002855. 花椒服务端Kubernetes技术实践  https://mp.weixin.qq.com/s/zviiMElp54HyxI8GsKfBjg编辑: samurai 订阅新闻: http://tinyletter.com/gocn  
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-24
 - 1. GoCN每日新闻(2019-10-24)
 
