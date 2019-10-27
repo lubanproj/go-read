@@ -63,7 +63,15 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-27
+- 1. 1. Golab(意大利GopherCon)2019见闻 http://fedepaol.github.io/blog/2019/10/23/golab-2019/2. pkg/errors迁移到go1.13 error处理 https://mycodesmells.com/post/migrating-pkg-errors-to-go-113-errors3. Golang慎用Update函数 https://www.jianshu.com/p/1380b004e7894. effective-go之map、fmt、append https://jingwei.link/2019/10/26/effectivego-map-fmt-append.html5. gin-api路由中间件-签名验证 https://www.cnblogs.com/xinliangcoder/p/11743815.html
+
+- 2. - 编辑: 罗发宣
+
+- - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-26
 - 1. 1. GateKeeper：滴滴开源的使用Go编写的不依赖分布式数据库的API网关 https://mp.weixin.qq.com/s/gpQSPJ-uRpI-k1j97K1waw2. Go panic处理 https://www.digitalocean.com/community/tutorials/handling-panics-in-go3. Go实现TCP扫描器 https://developer20.com/tcp-scanner-in-go/4. 两分钟让你明白Go中如何继承 https://segmentfault.com/a/11900000208002855. 花椒服务端Kubernetes技术实践  https://mp.weixin.qq.com/s/zviiMElp54HyxI8GsKfBjg编辑: samurai 订阅新闻: http://tinyletter.com/gocn  
 
