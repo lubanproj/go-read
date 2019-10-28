@@ -64,7 +64,52 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-28
+- 1. 1. 理解和攻击Go DSA验证漏洞 https://paul.querna.org/articles/2019/10/24/dsa-verify-poc/
+
+- 2. 2. Go中进行Fuzz测试 https://medium.com/a-journey-with-go/go-fuzz-testing-in-go-deb36abc971f
+
+- 3. 3. 用Go克隆Memcached https://healeycodes.com/go/tutorial/beginners/showdev/2019/10/21/cloning-memcached-with-go.html
+
+- 4. 4. Go实现的scrapyd替代品 https://github.com/alash3al/scrapyd-go
+
+- 5. 5. TamaGo：为ARM SoC提供的Go https://github.com/inversepath/tamago
+
+- 6. 编辑: 李俱顺Kevin
+
+- 7. 订阅新闻: http://tinyletter.com/gocn
+
+- 8. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 9. GoCN归档：https://gocn.vip/question/6452
+
+- - - - - - 
+
 ### gocn_news_2019-10-27
 - 1. 1. Golab(意大利GopherCon)2019见闻 http://fedepaol.github.io/blog/2019/10/23/golab-2019/2. pkg/errors迁移到go1.13 error处理 https://mycodesmells.com/post/migrating-pkg-errors-to-go-113-errors3. Golang慎用Update函数 https://www.jianshu.com/p/1380b004e7894. effective-go之map、fmt、append https://jingwei.link/2019/10/26/effectivego-map-fmt-append.html5. gin-api路由中间件-签名验证 https://www.cnblogs.com/xinliangcoder/p/11743815.html
 
