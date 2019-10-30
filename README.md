@@ -65,7 +65,50 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-10-30
+- 1. GoCN每日新闻(2019-10-30)
+
+- 2. 1. Asta Xie: 玩转Go语言，从beego开始 https://mp.weixin.qq.com/s/Iof1hA1JUJg9S_gfI6kGQQ
+
+- 3. 2. [译]Uber Go 语言代码风格指南 http://fivezh.github.io/2019/10/17/uber-go-style-guide
+
+- 4. 3. 何处安放我们的 Go 代码 https://liujiacai.net/blog/2019/10/24/go-modules
+
+- 5. 4. [译]Go使用封装返回模式回收被goroutines占用的内存 https://juejin.im/post/5db7c1a4e51d452a1340f36f
+
+- 6. 5. Sqreen: Go语言应用程序安全管理组件 https://github.com/sqreen/go-agent
+
+- 7. 编辑: yulibaozi 
+
+- 8. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2019-10-28
 - 1. 1. 理解和攻击Go DSA验证漏洞 https://paul.querna.org/articles/2019/10/24/dsa-verify-poc/
 
