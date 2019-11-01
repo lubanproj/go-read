@@ -67,7 +67,40 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-01
+- 1. GoCN每日新闻(2019-11-01)
+
+- 2. 
+
+
+- 3. 
+1. Rob Pike 认为 Go 成功的 5 个因素 https://changelog.com/posts/5-things-rob-pike-attributes-to-gos-success
+
+- 4. 
+2. 提案:扩展 Go 内存分页机制 https://go.googlesource.com/proposal/+/refs/changes/57/202857/2/design/35112-scaling-the-page-allocator.md#proposal_scaling-the-go-page-allocator
+
+- 5. 
+3. Podcast: 关于缓存的一切 https://changelog.com/gotime/103
+
+- 6. 
+4. Go TCP 库 gev https://github.com/Allenxuxu/gev
+
+- 7. 
+5. ldflags 使用教程 https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications
+
+- 8. 
+
+
+- 9. 
+编辑: lwhile
+
+- 10. 
+订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2019-10-31
 - 1. GoCN每日新闻(2019-10-31)1. Go语言继承的其他语言的优秀之处 https://spf13.com/presentation/the-legacy-of-go/2. Golang图灵机库 https://madeddu.xyz/posts/golang-turing-machine/3. Go中的反射 https://medium.com/better-programming/understand-reflect-in-go-24a68fcf10114. 给Go程序加入编译版本时间等信息 https://pengrl.com/p/37397/5. BigCache如何避免GC周期并加速Go中的并发访问 https://dev.to/douglasmakey/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go-12bb编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
