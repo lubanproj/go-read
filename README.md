@@ -68,7 +68,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-02
+- 1. GoCN每日新闻(2019-11-02)1. Go 1.13.4 and Go 1.12.13 are released https://groups.google.com/forum/#!msg/golang-announce/YVXawNxmEBw/pju_oNyaAQAJ2. Go map数据结构和源码详解 https://www.cnblogs.com/JoZSM/p/11784037.html3. 理解 Go 的空接口 https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec724. Golang限流器time/rate使用介绍 https://www.cyhone.com/articles/usage-of-golang-rate5. 为Golang API设置Swagger文档 https://towardsdatascience.com/setting-up-swagger-docs-for-golang-api-8d0442263641编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-01
 - 1. GoCN每日新闻(2019-11-01)
 
