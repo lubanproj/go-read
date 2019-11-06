@@ -70,7 +70,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-06
+- 1. GoCN每日新闻(2019-11-06)1. 使用构建标签分离你的测试文件 https://mickey.dev/posts/go-build-tags-testing/2. 使用 Go 添加 Nginx 代理 https://juejin.im/post/5dc0c3905188255faf60b3c53. 为什么要使用 goroutines 取代 threads https://juejin.im/post/5dc144c05188255f695be5f84. Go语言教程之工程管理 https://mp.weixin.qq.com/s/yMcX5yWlBr8azg1-TEjG_g5. 让数据库运行在浏览器里？TiDB + WebAssembly 告诉你答案 https://mp.weixin.qq.com/s/EhKw2mEMZ69sU4Zn4_JhZw【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: 周云轩订阅新闻: http://tinyletter.com/gocn 
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-05
 - 1. GoCN每日新闻(2019-11-05)1. Protobuf 终极教程 https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/ 2. 何处安放我们的 Go 代码 https://liujiacai.net/blog/2019/10/24/go-modules/ 3. 为什么使用通信来共享内存？ https://draveness.me/whys-the-design-communication-shared-memory 4. Go 结构体定义 https://www.digitalocean.com/community/tutorials/defining-structs-in-go5. UNIX 50 年：KEN THOMPSON 的密码 https://coolshell.cn/articles/19996.html - 编辑: 薛锦 - 订阅新闻: http://tinyletter.com/gocn  
 
