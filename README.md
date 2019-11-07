@@ -71,7 +71,25 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-07
+- 1. GoCN每日新闻(2019-11-07)1. [译] 排序运行时间能否做到 O(n)？让 Go 语言来告诉你 https://mp.weixin.qq.com/s/dHp-OJ0v9yNTazdYSsEKGw  
+
+- 2. 2. go语言学习（十一）package简介 http://www.cnblogs.com/wangshuyang/p/11807454.html
+
+- 3. 3. [译]Golang template 小抄 https://colobu.com/2019/11/05/Golang-Templates-Cheatsheet/
+
+- 4. 4.  
+
+理解Go的reflect https://juejin.im/post/5dc03c466fb9a04a9a08655e 
+
+- 5. 5. 
+
+通过 深入对比 Arrays 和 Slices 学习GO  【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: 崔广章 
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-11-06
 - 1. GoCN每日新闻(2019-11-06)1. 使用构建标签分离你的测试文件 https://mickey.dev/posts/go-build-tags-testing/2. 使用 Go 添加 Nginx 代理 https://juejin.im/post/5dc0c3905188255faf60b3c53. 为什么要使用 goroutines 取代 threads https://juejin.im/post/5dc144c05188255f695be5f84. Go语言教程之工程管理 https://mp.weixin.qq.com/s/yMcX5yWlBr8azg1-TEjG_g5. 让数据库运行在浏览器里？TiDB + WebAssembly 告诉你答案 https://mp.weixin.qq.com/s/EhKw2mEMZ69sU4Zn4_JhZw【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: 周云轩订阅新闻: http://tinyletter.com/gocn 
 
