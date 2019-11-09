@@ -72,7 +72,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-09
+- 1. 1. Go语言发行10周年庆祝 https://blog.golang.org/10years2. 容器中某Go服务GC停顿经常超过100ms排查 https://mp.weixin.qq.com/s/Lk1EbiT7WprVOyX_dXYMyg3. 详细介绍Go中如何实现bitset https://juejin.im/post/5dc409b2f265da4cfd2966354. Go项目安全评估 https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/5. 几种部署Goku API Gateway的方式 https://segmentfault.com/a/1190000020948193【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: samurai订阅新闻: http://tinyletter.com/gocn 
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-07
 - 1. GoCN每日新闻(2019-11-07)1. [译] 排序运行时间能否做到 O(n)？让 Go 语言来告诉你 https://mp.weixin.qq.com/s/dHp-OJ0v9yNTazdYSsEKGw  
 
