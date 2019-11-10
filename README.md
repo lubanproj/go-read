@@ -73,7 +73,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-10
+- 1. 1. Go Netpoll I/O多路复用构建原生网络模型之源码深度解析 https://taohuawu.club/go-netpoll-io-multiplexing-reactor2. Go垃圾回收：第三部分-GC的步调 https://studygolang.com/articles/245623. Go语言协程池模型－图数据库(Neo4j)写入 https://www.jianshu.com/p/d27504514c174. 使用Go创建一个简单的LoadBalancer https://kasvith.github.io/posts/lets-create-a-simple-lb-go/5. Golang单元测试入门实践总结 https://www.jianshu.com/p/331c432dc036 - 编辑: 罗发宣
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-09
 - 1. 1. Go语言发行10周年庆祝 https://blog.golang.org/10years2. 容器中某Go服务GC停顿经常超过100ms排查 https://mp.weixin.qq.com/s/Lk1EbiT7WprVOyX_dXYMyg3. 详细介绍Go中如何实现bitset https://juejin.im/post/5dc409b2f265da4cfd2966354. Go项目安全评估 https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/5. 几种部署Goku API Gateway的方式 https://segmentfault.com/a/1190000020948193【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: samurai订阅新闻: http://tinyletter.com/gocn 
 
