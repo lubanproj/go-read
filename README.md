@@ -74,7 +74,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-11
+- 1. GoCN每日新闻(2019-11-11)1. Go的内存管理与回收 https://medium.com/a-journey-with-go/go-memory-management-and-memory-sweep-cc71b484de052. protoc-gen-struct-transformer：帮助将gRPC生成模型与编写的数据模型进行关联的工具 https://speakerdeck.com/ekhabarov/protoc-gen-struct-transformer3. 构建可持续微服务，我们的看法和建议 https://building.echo.co.uk/microservices-opinions-and-advice/4. Staticcheck工具实战 https://superhighway.dev/staticcheck-in-action5. lungo：兼容MongoDB协议的嵌入式数据库 https://github.com/256dpi/lungo【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: 李俱顺Kevin订阅新闻: http://tinyletter.com/gocnGoCN归档：https://gocn.vip/question/6603
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-10
 - 1. 1. Go Netpoll I/O多路复用构建原生网络模型之源码深度解析 https://taohuawu.club/go-netpoll-io-multiplexing-reactor2. Go垃圾回收：第三部分-GC的步调 https://studygolang.com/articles/245623. Go语言协程池模型－图数据库(Neo4j)写入 https://www.jianshu.com/p/d27504514c174. 使用Go创建一个简单的LoadBalancer https://kasvith.github.io/posts/lets-create-a-simple-lb-go/5. Golang单元测试入门实践总结 https://www.jianshu.com/p/331c432dc036 - 编辑: 罗发宣
 
