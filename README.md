@@ -76,7 +76,50 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-13
+- 1. GoCN每日新闻(2019-11-13)
+
+- 2. 1. System Design 分享 https://www.youtube.com/watch?v=mhUQe4BKZXs&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV
+
+- 3. 2. Go实现简单TCP扫描器 https://mp.weixin.qq.com/s/OhS_RQZojJbkenOSS_tEng
+
+- 4. 3. 闪电网络——BTC小额支付解决方案 https://mp.weixin.qq.com/s/_xVnljUbz7GMGS0pPIlwpA
+
+- 5. 4. 斗鱼基于 Golang 在高并发场景下的日志系统实践 http://100000p.com/article/2c9f60ef6e5884e0016e58875e4e0000
+
+- 6. 5. 我的 Promtheus 到底啥时候报警？ https://aleiwu.com/post/prometheus-alert-why/?from=singlemessage&isappinstalled=0
+
+- 7. 编辑: yulibaozi
+
+- 8. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2019-11-12
 - 1. GoCN每日新闻(2019-11-12)
 
