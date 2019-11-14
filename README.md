@@ -77,7 +77,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-14
+- 1. GoCN每日新闻(2019-11-14)1. sourcegraph的Go代码风格指南 https://about.sourcegraph.com/handbook/engineering/go_style_guide2. 减少内存分配开销 https://www.markphelps.me/2019/11/profiling-to-reduce-memory-allocations/3. Error的堆栈跟踪 https://github.com/romanyx/stack4. Go实现的终端的天气应用 https://github.com/schachmat/wego5. 扩展Go页面分配器提案 https://go.googlesource.com/proposal/+/refs/changes/57/202857/2/design/35112-scaling-the-page-allocator.md*【活动】北京meetup https://www.bagevent.com/event/6150831*【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: 李森森订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-13
 - 1. GoCN每日新闻(2019-11-13)
 
