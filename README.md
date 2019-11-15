@@ -78,7 +78,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-15
+- 1. GoCN每日新闻(2019-11-15)
+
+- 2. 1. go.dev新的Go开发门户网站上线啦 https://www.i-programmer.info/news/98-languages/13250-go-dev-portal-now-online.html
+
+- 3. 2. kubeedge源码分析系列之edgecore（一) https://juejin.im/post/5dcd374ee51d45080d2bdd36 
+
+- 4. 3. 用Go语言实现pdf的合成 https://xdg.me/blog/go-as-glue-json-xml-png-pdf/    
+
+- 5. 4. musig:像shazam那样实现音乐识别 https://github.com/sfluor/musig    
+
+- 6. 5. Dcron:基于redis与一致性哈希算法的分布式定时任务库 https://github.com/LibiChai/dcron    
+
+- 7. 编辑: Razil  
+
+- 8. 订阅新闻: http://tinyletter.com/gocn  
+
+- - - - - - - 
+
 ### gocn_news_2019-11-14
 - 1. GoCN每日新闻(2019-11-14)1. sourcegraph的Go代码风格指南 https://about.sourcegraph.com/handbook/engineering/go_style_guide2. 减少内存分配开销 https://www.markphelps.me/2019/11/profiling-to-reduce-memory-allocations/3. Error的堆栈跟踪 https://github.com/romanyx/stack4. Go实现的终端的天气应用 https://github.com/schachmat/wego5. 扩展Go页面分配器提案 https://go.googlesource.com/proposal/+/refs/changes/57/202857/2/design/35112-scaling-the-page-allocator.md*【活动】北京meetup https://www.bagevent.com/event/6150831*【活动】杭州meetup https://www.bagevent.com/event/6129212编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
