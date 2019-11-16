@@ -79,7 +79,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-16
+- 1. GoCN每日新闻(2019-11-16)1. Go的text/template源码解析 https://bigpigeon.org/post/go-text-template2. Go中的数据结构字典-map https://www.cnblogs.com/33debug/p/11851585.html3. Uber Go 语言编码规范 https://segmentfault.com/a/11900000210116494. Golang rabbitmq的使用（一） https://segmentfault.com/a/11900000210180465. fastzip：快速创建和读取zip的库 https://github.com/saracen/fastzip编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-15
 - 1. GoCN每日新闻(2019-11-15)
 
