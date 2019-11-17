@@ -80,7 +80,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-17
+- 1. GoCN每日新闻(2019-11-17)
+
+- 2. 1. 解决增量并发的问题 https://medium.com/@claudiojm92/solving-increment-concurrency-problems-a788f75ae68d
+
+- 3. 2. 如何有选择得导出包内的标识符 https://engineering.kablamo.com.au/posts/2019/export-test
+
+- 4. 3. 为什么说代码质量是一个很主观的评判 https://medium.com/the-developers-journey/code-quality-not-required-707520627efb
+
+- 5. 4. 适用于测试的内存 SQL 引擎 ramsql https://github.com/proullon/ramsql
+
+- 6. 5. 流事件处理框架 firebolt https://github.com/digitalocean/firebolt
+
+- 7. 编辑: lwhile
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2019-11-16
 - 1. GoCN每日新闻(2019-11-16)1. Go的text/template源码解析 https://bigpigeon.org/post/go-text-template2. Go中的数据结构字典-map https://www.cnblogs.com/33debug/p/11851585.html3. Uber Go 语言编码规范 https://segmentfault.com/a/11900000210116494. Golang rabbitmq的使用（一） https://segmentfault.com/a/11900000210180465. fastzip：快速创建和读取zip的库 https://github.com/saracen/fastzip编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
 
