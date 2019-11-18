@@ -81,7 +81,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-18
+- 1. GoCN每日新闻(2019-11-18)
+
+- 2. 1. 借助 OpenFaaS和Golang 实现 Serverless https://towardsdatascience.com/going-serverless-with-openfaas-and-golang-the-ultimate-setup-and-workflow-52a4a85a7951 
+
+- 3. 2. 我在 C# 中实现了 Goroutines 和 Channels https://medium.com/@nolanmudge/i-implemented-goroutines-and-channels-in-c-why-dbd4a269bfbe
+
+- 4. 3. 深入理解 Golang 之 http server https://juejin.im/post/5dd11baff265da0c0c1fe813
+
+- 5. 4. 谷歌软件工程师：我为什么喜欢用Go语言？https://news.51cto.com/art/201911/606121.htm
+
+- 6. 5. 用 Go 编写的 UNIX ed (line editor) 克隆版本 https://github.com/prologic/ed
+
+- 7. 编辑: 宋佳洋
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2019-11-17
 - 1. GoCN每日新闻(2019-11-17)
 
