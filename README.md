@@ -83,7 +83,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-20
+- 1. GoCN每日新闻(2019-11-20)1. 测试驱动开发中百分百测试覆盖的命令行应用 https://itnext.io/how-to-tdd-a-console-application-to-achieve-100-coverage-starting-from-main-test-go-934a617b080f2. Go学习笔记之咬文嚼字带你弄清楚defer延迟函数 https://mp.weixin.qq.com/s/t5tmqsjZ4y4Z_n6u4c9bMw3. 比较用Java、Swift和Go编写的后端框架 https://medium.com/comsystoreply/https-medium-com-max-comsysto-comparing-backend-frameworks-written-in-java-swift-and-go-70acd07d3a8a4. 利用强大的interface来模拟和测试外部接口 https://medium.com/@victorsteven/utilizing-the-power-of-interfaces-when-mocking-and-testing-external-apis-in-golang-1178b0db5a325. Go开发过程中总是要停下来编译：用它解决你的烦恼，快乐编程 https://mp.weixin.qq.com/s/4xwswOB17A-wup3Gqdlndw编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-19
 - 1. ## GoCN每日新闻(2019-11-19)1. Golang 容器部署: https://segmentfault.com/a/1190000021051021 2. 走进Golang之编译器原理: https://mp.weixin.qq.com/s/VtRIEpUHn1vavT_FYkL86w 3. Golang worker pool 实现：https://github.com/gammazero/workerpool    4. 混沌工程落地的六个阶段 https://mp.weixin.qq.com/s/UXiDerl6I3RrEoTlXpGwpg 5. 为什么 HTTPS 比 HTTP 安全：https://juejin.im/post/5dd23e556fb9a020350a88f6- 编辑: 薛锦 - 订阅新闻: http://tinyletter.com/gocn
 
