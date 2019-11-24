@@ -86,7 +86,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-24
+- 1. 1. DigitalOcean的How to code in go系列 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go2. uber-go漏桶限流器使用与原理分析 https://www.cyhone.com/articles/analysis-of-uber-go-ratelimit/3. WebSocket实现Web端即时通信 https://mp.weixin.qq.com/s/sbIWO7-2ELdHsekw7qxKjw4. nebula: 一个可扩展的overlay网络工具 https://github.com/slackhq/nebula5. 微博：大规模离线视频处理系统的架构设计 https://mp.weixin.qq.com/s/siqG3ePZ5jDsuYeC-_hAGg- 编辑: 罗发宣- 订阅新闻: http://tinyletter.com/gocn- GoCN归档：https://gocn.vip/question/
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-23
 - 1. 1. 70行Go代码打败C https://ajeetdsouza.github.io/blog/posts/beating-c-with-70-lines-of-go/2. Go中Goroutine、OS Thread和CPU管理  https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a3. Go后台定时任务执行 https://medium.com/@mkfeuhrer/running-periodic-background-tasks-in-golang-8baa1af9a1f64. 撮合引擎开发:对接黑箱 https://keeganlee.me/post/matching/20191121/5. 2019 Go Developer官方调查 https://blog.golang.org/survey2019编辑: samurai订阅新闻: http://tinyletter.com/gocn
 
