@@ -87,7 +87,17 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-25
+- 1. 1. golang 避坑指南(1)interface 之坑多多 https://mp.weixin.qq.com/s/bWsg-ZDBTp3Fp_3Lik83oA2. 利用Go开发布隆过滤器 https://medium.com/@meeusdylan/creating-a-bloom-filter-with-go-7d4e8d944cfa3. arachne：Go实现的丢包检测系统 https://github.com/uber/arachne4. Goroutine、系统线程和CPU管理 https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a5. NATS：过去，现在和未来 https://www.youtube.com/watch?v=lHQXEqyH57U【活动】北京meetup https://www.bagevent.com/event/6150831
+
+- 2. 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 3. 编辑: 李俱顺Kevin订阅新闻: http://tinyletter.com/gocnGoCN归档：https://gocn.vip/question/6626
+
+- - - - - - - - - - - - 
+
 ### gocn_news_2019-11-24
 - 1. 1. DigitalOcean的How to code in go系列 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go2. uber-go漏桶限流器使用与原理分析 https://www.cyhone.com/articles/analysis-of-uber-go-ratelimit/3. WebSocket实现Web端即时通信 https://mp.weixin.qq.com/s/sbIWO7-2ELdHsekw7qxKjw4. nebula: 一个可扩展的overlay网络工具 https://github.com/slackhq/nebula5. 微博：大规模离线视频处理系统的架构设计 https://mp.weixin.qq.com/s/siqG3ePZ5jDsuYeC-_hAGg- 编辑: 罗发宣- 订阅新闻: http://tinyletter.com/gocn- GoCN归档：https://gocn.vip/question/
 
