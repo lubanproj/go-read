@@ -88,7 +88,31 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-26
+- 1. GoCN每日新闻(2019-11-26)
+
+- 2. 1. 深入浅出 Go runtime https://mp.weixin.qq.com/s/ivO-USpxiyrL-9BzgE8Vcg
+
+- 3. 2. 给 K8s API “做减法”：阿里巴巴云原生应用管理的挑战和实践 https://yq.aliyun.com/articles/727914
+
+- 4. 3. 使用 Go AST 重构代码 https://xdg.me/blog/rewriting-go-with-ast-transformation/
+
+- 5. 4. Go 命令行解析 flag 包之快速上手 https://juejin.im/post/5dd8f61cf265da7dde7687cb
+
+- 6. 5. Go 命令行解析 flag 包之扩展新类型 https://juejin.im/post/5ddb74d951882573461819f5
+
+- 7. 【活动】北京meetup https://www.bagevent.com/event/6150831
+
+- 8. 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 9. 编辑: 傅小黑
+
+- 10. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2019-11-25
 - 1. 1. golang 避坑指南(1)interface 之坑多多 https://mp.weixin.qq.com/s/bWsg-ZDBTp3Fp_3Lik83oA2. 利用Go开发布隆过滤器 https://medium.com/@meeusdylan/creating-a-bloom-filter-with-go-7d4e8d944cfa3. arachne：Go实现的丢包检测系统 https://github.com/uber/arachne4. Goroutine、系统线程和CPU管理 https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a5. NATS：过去，现在和未来 https://www.youtube.com/watch?v=lHQXEqyH57U【活动】北京meetup https://www.bagevent.com/event/6150831
 
