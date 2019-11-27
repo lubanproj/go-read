@@ -89,7 +89,57 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-27
+- 1. GoCN每日新闻(2019-11-27)
+
+- 2. 1. 走进Golang之运行与Plan9汇编 https://mp.weixin.qq.com/s/5x7OV47dfOwwVvQCPkvFKg
+
+- 3. 2. 带你领略Go源码的魅力----Go内存原理详解 https://juejin.im/post/5ddcf31751882572d8212481
+
+- 4. 3. [译]Go：内存管理与内存分配 https://juejin.im/post/5ddcdc5df265da05c33fcad2
+
+- 5. 4. Go创建对象时，如何优雅的传递初始化参数 https://pengrl.com/p/60015/
+
+- 6. 5. k8s v1.17 新特性预告: 拓扑感知服务路由 https://mp.weixin.qq.com/s/B5W25DIn0o8V5XhDwbengg
+
+- 7. 【活动】北京meetup https://www.bagevent.com/event/6150831
+
+- 8. 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 9. 编辑: yulibaozi
+
+- 10. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 11. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - 
+
 ### gocn_news_2019-11-26
 - 1. GoCN每日新闻(2019-11-26)
 
