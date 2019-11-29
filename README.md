@@ -91,7 +91,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-29
+- 1. GoCN每日新闻(2019-11-29)1. 停止信任你的依赖包 https://itnext.io/golang-stop-trusting-your-dependencies-a4c916533b042. 你应该知道的Go漏洞之Top5 https://resources.whitesourcesoftware.com/blog-whitesource/top-5-go-vulnerabilities 3. Go的组合与继承 http://jim-mcbeath.blogspot.com/2019/11/go-composition-vs-inheritance.html    4. 蚂蚁金服 Service Mesh 大规模落地系列 - RPC 篇 https://mp.weixin.qq.com/s/E_CjNP90kFf2xrcGOE6Efg    5. reflow:字符串自动换行库 https://github.com/muesli/reflow    编辑: Razil  订阅新闻: http://tinyletter.com/gocn 
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-11-28
 - 1. GoCN每日新闻(2019-11-28)1. 基于gtop和vtop的基于终端的图形活动监视器 https://github.com/cjbassi/gotop2. 在Go中编写Qt应用程序,部署更加容易 https://github.com/therecipe/qt3. 详细解析Go的sync包 https://medium.com/better-programming/a-closer-look-at-go-sync-package-9f4e4a28c35a4. 在Go中重新实现Unix watch命令 https://github.com/antonmedv/watch5. Golang实现的分布式限流滑动窗口算法 https://github.com/RussellLuo/slidingwindow*【活动】北京meetup https://www.bagevent.com/event/6150831*【活动】上海meetup https://www.bagevent.com/event/6197112编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
