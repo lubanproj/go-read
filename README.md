@@ -92,7 +92,54 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-11-30
+- 1. GoCN每日新闻(2019-11-30)
+
+- 2. 1. Go 号称几行代码开启一个 HTTP Server，底层都做了什么？ https://mp.weixin.qq.com/s/n7mSUB6pxoYmr5u575Nqqg
+
+- 3. 2. 《Go in Action》第6章Concurrency https://www.jianshu.com/p/a0daafc4eb57
+
+- 4. 3. 浅谈go语言中的读写锁和互斥锁 https://segmentfault.com/a/1190000021153363
+
+- 5. 4. Go中的中断处理 https://embeddedgo.github.io/2019/11/29/interrupt_handling_in_go.html
+
+- 6. 5. 基于SQLite的轻量级分布式关系数据库 https://github.com/rqlite/rqlite
+
+- 7. * 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 8. 编辑: 马怀博 
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2019-11-29
 - 1. GoCN每日新闻(2019-11-29)1. 停止信任你的依赖包 https://itnext.io/golang-stop-trusting-your-dependencies-a4c916533b042. 你应该知道的Go漏洞之Top5 https://resources.whitesourcesoftware.com/blog-whitesource/top-5-go-vulnerabilities 3. Go的组合与继承 http://jim-mcbeath.blogspot.com/2019/11/go-composition-vs-inheritance.html    4. 蚂蚁金服 Service Mesh 大规模落地系列 - RPC 篇 https://mp.weixin.qq.com/s/E_CjNP90kFf2xrcGOE6Efg    5. reflow:字符串自动换行库 https://github.com/muesli/reflow    编辑: Razil  订阅新闻: http://tinyletter.com/gocn 
 
