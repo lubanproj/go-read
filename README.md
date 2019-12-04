@@ -96,7 +96,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-04
+- 1. GoCN每日新闻(2019-12-04)1. Go切片内存应用技巧 https://juejin.im/post/5de63b35f265da33df77d206 2. Go不需要泛型 https://medium.com/@meeusdylan/go-doesnt-need-generics-6cb9cf0da9c 3. Go kit入门 https://medium.com/@mark.sagikazar/getting-started-with-go-kit-f2ccf71d491f 4. [译]Go: 理解Sync.Pool的设计思想 https://juejin.im/post/5de4d8a05188256e8d33c7d1 5. Serverless Kubernetes 场景和架构剖析 https://mp.weixin.qq.com/s/WPEX4ETdbue5BrzYODupcw * 【活动】上海meetup https://www.bagevent.com/event/6197112 编辑: 周云轩 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-12-03
 - 1. GoCN每日新闻(2019-12-03)1. Go 编写友好的命令行应用程序: https://blog.gopheracademy.com/advent-2019/cmdline/2. Go 项目终极设置：https://dev.to/martinheinz/ultimate-setup-for-your-next-golang-project-5dae3. Protobuf 介绍：https://scene-si.org/2019/12/02/introduction-to-protobuf-services/ 4. 为什么基础服务不应该高可用 https://draveness.me/whys-the-design-unstable-infrastructure5. 配置 MySQL 主主复制: https://colobu.com/2019/12/02/How-to-Setup-MySQL-Master-Master-Replication/* 【活动】上海meetup https://www.bagevent.com/event/6197112* 编辑: 薛锦 * 订阅新闻: http://tinyletter.com/gocn
 
