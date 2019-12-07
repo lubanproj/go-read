@@ -98,7 +98,43 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-07
+- 1. 1. [译]Go语言的协程，系统线程以及CPU管理 https://pengrl.com/p/29953/
+
+- 2. 
+2. 为什么golang没有volatile https://mp.weixin.qq.com/s/4ZNHxpY3UvDescLO3swQMg
+
+- 3. 
+3. Gotty源码分析 https://qiankunli.github.io/2019/11/01/gotty_source.html
+
+- 4. 
+4. Go程序中嵌入静态资源方案选择 https://tech.townsourced.com/post/embedding-static-files-in-go/
+
+- 5. 
+5. 一文详解微服务架构 https://mp.weixin.qq.com/s/4sqarEWkqz4bi_Hj4ujR8Q
+
+- 6. 
+
+
+- 7. 
+【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 8. 
+【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 9. 
+
+
+- 10. 
+编辑: samurai
+
+- 11. 
+订阅新闻: http://tinyletter.com/gocn
+
+- - - - 
+
 ### gocn_news_2019-12-05
 - 1. GoCN每日新闻(2019-12-05)1.   Go Module探索第二部分: 工程、依赖与gopls https://www.ardanlabs.com/blog/2019/12/modules-02-projects-dependencies-gopls.html 2.  [译] Go语言的协程，系统线程以及CPU管理  http://www.pengrl.com/p/29953/3. Go中的版本控制原则 https://research.swtch.com/vgo-principles4. 万字长文带你深入浅出 Golang Runtime   http://1t.click/bvjg5. kubeedge源码分析系列之edgecore（四） https://juejin.im/post/5de0d5136fb9a071ac1a0b27* 【活动】上海meetup https://www.bagevent.com/event/6197112 编辑: 崔广章 订阅新闻: http://tinyletter.com/gocn  
 
