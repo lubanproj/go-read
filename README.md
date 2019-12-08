@@ -99,7 +99,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-08
+- 1. 1. GoAdvent2019:使用标准库中的flag包 https://blog.gopheracademy.com/advent-2019/flags/2. 在Go中使用Socket.IO https://www.jianshu.com/p/566a0e2456a93. Bazel构建Golang项目 https://www.qtmuniao.com/2019/12/07/bazel-build-golang4. Golang在runtime中的一些骚东西 https://purewhite.io/2019/11/28/runtime-hacking-translate/5. Go项目的GitlabCI缓存 https://imil.net/blog/2019/12/07/Gitlab-CI-caching-for-Go-projects/- 编辑: 罗发宣
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-12-07
 - 1. 1. [译]Go语言的协程，系统线程以及CPU管理 https://pengrl.com/p/29953/
 
