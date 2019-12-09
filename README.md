@@ -100,7 +100,21 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-09
+- 1. 使用Go，QUIC和Micro建立全球服务网络 https://blog.gopheracademy.com/advent-2019/building-a-microservices-network/
+
+- 2. Go运行时调度程序处理系统调用的巧妙方法 https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls
+
+- 3. Go动态作用域变量 https://dave.cheney.net/2019/12/08/dynamically-scoped-variables-in-go
+
+- 4. Cap’n Proto: Protobuf作者新开发的多语言通用数据交换格式 https://capnproto.org
+
+- 5. NATS内置持久化方案JetStream进入TP阶段 https://github.com/nats-io/nats-server/blob/jetstream/jetstream/README.md
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-12-08
 - 1. 1. GoAdvent2019:使用标准库中的flag包 https://blog.gopheracademy.com/advent-2019/flags/2. 在Go中使用Socket.IO https://www.jianshu.com/p/566a0e2456a93. Bazel构建Golang项目 https://www.qtmuniao.com/2019/12/07/bazel-build-golang4. Golang在runtime中的一些骚东西 https://purewhite.io/2019/11/28/runtime-hacking-translate/5. Go项目的GitlabCI缓存 https://imil.net/blog/2019/12/07/Gitlab-CI-caching-for-Go-projects/- 编辑: 罗发宣
 
