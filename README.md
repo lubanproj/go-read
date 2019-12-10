@@ -101,7 +101,31 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-10
+- 1. GoCN每日新闻（2019-12-10）
+
+- 2. 1. Go 项目结构最佳实践 https://tutorialedge.net/golang/go-project-structure-best-practices/
+
+- 3. 2. Go 性能测试惊奇 https://blog.gopheracademy.com/advent-2019/benchmark-magic/
+
+- 4. 3. Go 生成数据库结构体 https://scene-si.org/2019/12/09/database-first-struct-generation/
+
+- 5. 4. Go 打造 Flutter 多版本管理工具：fvm https://blog.befovy.com/2019/12/fvm-using-go/
+
+- 6. 5. go中defer的一个隐藏功能 https://segmentfault.com/a/1190000021239576
+
+- 7. 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 8. 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 9. - 编辑: 傅小黑
+
+- 10. - 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2019-12-09
 - 1. 使用Go，QUIC和Micro建立全球服务网络 https://blog.gopheracademy.com/advent-2019/building-a-microservices-network/
 
