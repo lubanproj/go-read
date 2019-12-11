@@ -102,7 +102,57 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-11
+- 1. GoCN每日新闻（2019-12-11）
+
+- 2. 1. Go语言国际电子表格文档格式标准实践 https://mp.weixin.qq.com/s/oJfDxpWkJCO5nV3phGLn_w
+
+- 3. 2. 使用Go解析180亿条JSON行 https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2
+
+- 4. 3. Go 标准库 encoding/json 真的慢吗？ https://mp.weixin.qq.com/s/U3QcbqOaRAABd-ESkzpI1Q
+
+- 5. 4. 译|并发不是并行 https://cyningsun.github.io/12-09-2019/concurrency-is-not-parallelism.html
+
+- 6. 5. 800字彻底理解Go指针 https://developer.51cto.com/art/201912/607512.htm
+
+- 7. 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 8. 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 9. - 编辑: yulibaozi
+
+- 10. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 11. - 订阅新闻: http://tinyletter.com/gocn
+
+- - - - 
+
 ### gocn_news_2019-12-10
 - 1. GoCN每日新闻（2019-12-10）
 
