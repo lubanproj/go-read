@@ -104,7 +104,31 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-13
+- 1. GoCN每日新闻(2019-12-13)
+
+- 2. 1. 通过TCP_NODELAY控制数据包流 https://blog.gopheracademy.com/advent-2019/control-packetflow-tcp-nodelay/    
+
+- 3. 2. 构建docker镜像时也需要考虑安全性 https://scene-si.org/2019/12/12/docker-images-and-security/  
+
+- 4. 3. golang服务开发平滑升级之优雅重启 https://mp.weixin.qq.com/s?__biz=MzU4ODgyMDI0Mg==&mid=2247487071&idx=1&sn=c0098f0ea50f6b1fc5c94ea9e68e8bfb    
+
+- 5. 4. gemini:Scylla和Cassandra集群测试工具 https://www.scylladb.com/2019/12/11/project-gemini-an-open-source-automated-random-testing-suite-for-scylla-and-cassandra-clusters/    
+
+- 6. 5. garble:Go程序混淆工具 https://github.com/mvdan/garble    
+
+- 7. * 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+- 8. * 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 9. 编辑: Razil  
+
+- 10. 订阅新闻: http://tinyletter.com/gocn  
+
+- - - - - 
+
 ### gocn_news_2019-12-12
 - 1. GoCN每日新闻(2019-12-12)1. 在Go中利用多线程更快地读取大文件 https://hackernoon.com/leveraging-multithreading-to-read-large-files-faster-in-go-lmn32t72. Go实现不发出信号的情况下连接两个WebRTC服务 https://github.com/pion/offline-browser-communication3. Go 生成数据库架构文档 https://scene-si.org/2019/12/10/generating-database-schema-documentation/4. Go的最小日志记录库 https://github.com/cdr/slog5. GOMAXPROCS和实时更新 https://medium.com/a-journey-with-go/go-gomaxprocs-live-updates-407ad08624e1* 【活动】上海meetup https://www.bagevent.com/event/6197112* 【活动】深圳meetup https://www.bagevent.com/event/6218960编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
