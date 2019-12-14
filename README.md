@@ -105,7 +105,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-14
+- 1. GoCN每日新闻(2019-12-14)1. Array和Slice https://golangbot.com/arrays-and-slices2. golang mail 实现ssl发送邮件 https://blog.51cto.com/860143/24582853. Golang和生产就绪型解决方案：第2部分 https://medium.com/@hippik80/golang-production-ready-solution-part-2-4a3d02ca645e4.【go语言系统调用】通用IO模型 https://segmentfault.com/a/11900000212850155. kubernetes 网络分析之四 开源网络组件 https://juejin.im/post/5df353b46fb9a0161d742cb3* 【活动】深圳meetup https://www.bagevent.com/event/6218960编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-12-13
 - 1. GoCN每日新闻(2019-12-13)
 
