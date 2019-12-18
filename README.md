@@ -108,7 +108,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-18
+- 1. GoCN每日新闻(2019-12-18)1. Go1.14beta1发布 https://groups.google.com/forum/#!msg/golang-announce/ocSS1fQHBCk/oIsy2EJXBgAJ2. 基于Go语言开发 Serverless 云原生应用 https://mp.weixin.qq.com/s/MmjaP94p-O8LhNCyOqDS8A3. Go远程执行程序 https://dev.to/dandyvica/a-remote-program-execution-in-go-pec4. Go中尾递归 https://medium.com/@meeusdylan/tail-recursion-in-go-fb5cf69a0f265. 使用redis和grpc构建微服务 https://medium.com/@felipe.infantino.moreno/microservice-in-golang-using-redis-and-grpc-865587aa260c【活动】深圳 Meetup https://www.bagevent.com/event/6218960编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-12-17
 - 1. GoCN每日新闻(2019-12-17)1. Go 服务开发平滑升级之优雅重启: https://mp.weixin.qq.com/s/T6Z0jmQxX10mRm5eQTvexg2. Go Gin 实战系列: https://www.flysnow.org/2019/12/15/golang-gin-query-parameters-source-code-analysis.html3. Go 高级并发模式：https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/ 4. 使用 Grafana 监控你的 Go channel： https://dev.to/ahmedash95/understand-golang-channels-and-how-to-monitor-with-grafana-part-2-2-3o425. 为什么 MySQL 使用 B+ 树: https://draven.co/whys-the-design-mysql-b-plus-tree 【活动】深圳 Meetup https://www.bagevent.com/event/6218960- 编辑: 薛锦- 订阅新闻: http://tinyletter.com/gocn
 
