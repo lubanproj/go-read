@@ -109,7 +109,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-19
+- 1. GoCN每日新闻(2019-12-19)1. Go 开发关键技术指南 | 为什么你要选择 Go？(内含超全知识大图） https://mp.weixin.qq.com/s/tXL_vXqIvHqafuwyGMofVw2. go语言浅析二叉树  https://segmentfault.com/a/11900000213264713.  Golang 在电商即时通讯服务建设中的实践  https://juejin.im/post/5df6f6476fb9a0164d460503  4.  goroutine究竟占用多少内存？https://juejin.im/post/5d9ff459f265da5b8a5160f5  5.  kubeedge源码分析系列之edgecore（六） edgemsh  https://juejin.im/post/5df22525f265da33f0302185  【活动】深圳 Meetup https://www.bagevent.com/event/6218960编辑: 崔广章订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-12-18
 - 1. GoCN每日新闻(2019-12-18)1. Go1.14beta1发布 https://groups.google.com/forum/#!msg/golang-announce/ocSS1fQHBCk/oIsy2EJXBgAJ2. 基于Go语言开发 Serverless 云原生应用 https://mp.weixin.qq.com/s/MmjaP94p-O8LhNCyOqDS8A3. Go远程执行程序 https://dev.to/dandyvica/a-remote-program-execution-in-go-pec4. Go中尾递归 https://medium.com/@meeusdylan/tail-recursion-in-go-fb5cf69a0f265. 使用redis和grpc构建微服务 https://medium.com/@felipe.infantino.moreno/microservice-in-golang-using-redis-and-grpc-865587aa260c【活动】深圳 Meetup https://www.bagevent.com/event/6218960编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
 
