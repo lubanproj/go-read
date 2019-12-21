@@ -110,7 +110,43 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-21
+- 1. 1. Go Serverless Functions https://blog.alexellis.io/faas-containerd-serverless-without-kubernetes/
+
+- 2. 
+2. Golang实现并发聊天室 https://studygolang.com/articles/25502
+
+- 3. 
+3. 私有代码仓库持续集成中使用go modules https://dev.to/7d1/using-go-modules-from-private-repositories-in-azure-devops-pipelines-44dk
+
+- 4. 
+4. Go语言程序设计读书笔记(二）函数 https://segmentfault.com/a/1190000021349530
+
+- 5. 
+5. Thanos简介和实践 https://mp.weixin.qq.com/s/m3IvMvoPMkN0DzqlUlmqaQ
+
+- 6. 
+
+
+- 7. 
+【活动】深圳 Meetup https://www.bagevent.com/event/6218960
+
+- 8. 
+
+
+- 9. 
+编辑: samurai
+
+- 10. 
+订阅新闻: http://tinyletter.com/gocn 
+
+- 11. 
+GoCN归档: https://gocn.vip/question/
+
+- - - - 
+
 ### gocn_news_2019-12-19
 - 1. GoCN每日新闻(2019-12-19)1. Go 开发关键技术指南 | 为什么你要选择 Go？(内含超全知识大图） https://mp.weixin.qq.com/s/tXL_vXqIvHqafuwyGMofVw2. go语言浅析二叉树  https://segmentfault.com/a/11900000213264713.  Golang 在电商即时通讯服务建设中的实践  https://juejin.im/post/5df6f6476fb9a0164d460503  4.  goroutine究竟占用多少内存？https://juejin.im/post/5d9ff459f265da5b8a5160f5  5.  kubeedge源码分析系列之edgecore（六） edgemsh  https://juejin.im/post/5df22525f265da33f0302185  【活动】深圳 Meetup https://www.bagevent.com/event/6218960编辑: 崔广章订阅新闻: http://tinyletter.com/gocn
 
