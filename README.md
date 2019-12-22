@@ -111,7 +111,49 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-22
+- 1. GoCN每日新闻(2019-12-22)
+
+- 2. 
+祝大家冬至快乐！！
+
+- 3. 
+
+
+- 4. 
+1. 可汗学院尝试用Go构建后端服务 https://engineering.khanacademy.org/posts/goliath.htm 
+
+- 5. 
+2. Go实战布谷过滤器 https://medium.com/@meeusdylan/implementing-a-cuckoo-filter-in-go-147a5f1f7a9  
+
+- 6. 
+3. Go 触发Panic与崩溃的情况 https://github.com/go101/go101/wiki/Panic-and-crash-cases    
+
+- 7. 
+4. Go modules：最小版本选择  https://tonybai.com/2019/12/21/go-modules-minimal-version-selection
+
+- 8. 
+5. harmony:基于WebRTC的开源语音文字聊天室 https://man.sr.ht/~tslocum/harmony/HOSTING.md    
+
+- 9. 
+
+
+- 10. 
+* 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 11. 
+
+
+- 12. 
+编辑: Razil  
+
+- 13. 
+订阅新闻: http://tinyletter.com/gocn  
+
+- - 
+
 ### gocn_news_2019-12-21
 - 1. 1. Go Serverless Functions https://blog.alexellis.io/faas-containerd-serverless-without-kubernetes/
 
