@@ -112,7 +112,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-23
+- 1. GoCN每日新闻(2019-12-23)1. 如何调试K8s中的DNS问题 https://cilium.io/blog/2019/12/18/how-to-debug-dns-issues-in-k8s/2. 在Go中实现简洁架构 https://medium.com/manato/clean-architecture-with-go-bce409427d313. buf：一种新的Protobuf处理库 https://github.com/bufbuild/buf4. 在Go中高效处理JSON https://medium.com/tourradar/working-efficiently-with-json-in-go-cb80dcca04665. Panic和崩溃例子集合 https://github.com/go101/go101/wiki/Panic-and-crash-cases* 编辑: 李俱顺Kevin* 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-12-22
 - 1. GoCN每日新闻(2019-12-22)
 
