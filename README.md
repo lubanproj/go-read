@@ -114,7 +114,54 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-25
+- 1. GoCN 每日新闻（2019-12-25）
+
+- 2. 1. [译] Go反射的三个原则 https://sevenyu.top/2019/12/21/laws-of-reflection.html
+
+- 3. 2. 你应该掌握的 Go 高级并发模式：计时器 https://developer.51cto.com/art/201912/608341.htm
+
+- 4. 3. 别告诉我这是真的？goroutine 可能使程序变慢 https://mp.weixin.qq.com/s/PkuspIWKQpL7awtpCg-rOA
+
+- 5. 4. Go 内存分配器可视化指南 https://mp.weixin.qq.com/s/RYtc5oZ4CmQZouLIcsloDw
+
+- 6. 5. Coca: 系统重构和系统分析工具箱 https://github.com/phodal/coca
+
+- 7. * 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 8. - 编辑: yulibaozi
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. - 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2019-12-24
 - 1. GoCN 每日新闻（2019-12-24）1. 基于 Go 的协同系统深度实践 https://mp.weixin.qq.com/s/Mvqr7ieIRTl58pQpmApoPA2. 迁移 REST APIs 到 GraphQL https://blog.spaceuptech.com/posts/migrating-existing-rest-apis-to-graphql/3. Go 读写锁与源码实现 http://www.sreguide.com/2019/12/20/go/sync_reader_writer/4. 图解 Go 互斥锁 mutex 核心实现源码 http://www.sreguide.com/2019/12/23/go/sync_mutex/5. GORM 之 ErrRecordNotFound 采坑记录 https://juejin.im/post/5dff33c7518825126131ce30* 【活动】深圳meetup https://www.bagevent.com/event/6218960- 编辑: 傅小黑- 订阅新闻: http://tinyletter.com/gocn
 
