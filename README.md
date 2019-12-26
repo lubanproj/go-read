@@ -115,7 +115,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-26
+- 1. GoCN每日新闻(2019-12-26)1. Java JIT vs Java AOT vs Go适用于短期的小型进程 http://macias.info/entry/201912201300_graal_aot.md2. LBADD：一个实验性的分布式SQL数据库 https://github.com/tomarrell/lbadd3. 将现有的Rest API迁移到Graphql https://blog.spaceuptech.com/posts/migrating-existing-rest-apis-to-graphql/4. 使用Go开发百万WebSockets https://gbws.io/articles/million-websocket-and-go/5. Eris处理跟踪和记录Go中的错误 https://github.com/rotisserie/eris编辑: 李森森订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-12-25
 - 1. GoCN 每日新闻（2019-12-25）
 
