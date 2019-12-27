@@ -116,7 +116,29 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-27
+- 1. GoCN每日新闻(2019-12-27)
+
+- 2. 1. Go 开发关键技术指南 | Go 面向失败编程 https://mp.weixin.qq.com/s/1zWdSV8FmwkduX4Hfbztgw 
+
+- 3. 2. Go 正则表达式入门指南 https://medium.com/@arindamroy/guide-to-using-regular-expressions-in-golang-18a821ba1c16  
+
+- 4. 3. Golang 错误处理最佳实践 https://medium.com/@dche423/golang-error-handling-best-practice-cn-42982bd72672    
+
+- 5. 4. go-term-markdown: Go Markdown终端渲染库  https://github.com/MichaelMure/go-term-markdown
+
+- 6. 5. 无需CGO的Go SQLite连接库 https://godoc.org/modernc.org/sqlite    
+
+- 7. * 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 8. 编辑: Razil  
+
+- 9. 订阅新闻: http://tinyletter.com/gocn  
+
+- - - - - - 
+
 ### gocn_news_2019-12-26
 - 1. GoCN每日新闻(2019-12-26)1. Java JIT vs Java AOT vs Go适用于短期的小型进程 http://macias.info/entry/201912201300_graal_aot.md2. LBADD：一个实验性的分布式SQL数据库 https://github.com/tomarrell/lbadd3. 将现有的Rest API迁移到Graphql https://blog.spaceuptech.com/posts/migrating-existing-rest-apis-to-graphql/4. 使用Go开发百万WebSockets https://gbws.io/articles/million-websocket-and-go/5. Eris处理跟踪和记录Go中的错误 https://github.com/rotisserie/eris编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
