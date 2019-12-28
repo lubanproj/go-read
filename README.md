@@ -117,7 +117,54 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2019-12-28
+- 1. GoCN每日新闻(2019-12-28)
+
+- 2. 1. 如何正确的开始用 Go 编程 https://segmentfault.com/a/1190000021426712
+
+- 3. 2. Golang内存分配 https://www.cnblogs.com/33debug/p/12068699.html
+
+- 4. 3. GOMAXPROCS 与容器的相处之道 http://gaocegege.com/Blog/maxprocs-cpu
+
+- 5. 4. 使用多阶段构建的精益Golang Docker镜像 https://medium.com/tourradar/lean-golang-docker-images-using-multi-stage-builds-1015a6b4d1d1
+
+- 6. 5. 您需要了解的有关Kubernetes服务质量（QoS） https://segmentfault.com/a/1190000021428126
+
+- 7. * 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+- 8. 编辑: 马怀博 
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2019-12-27
 - 1. GoCN每日新闻(2019-12-27)
 
