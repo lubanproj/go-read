@@ -120,7 +120,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-02
+- 1. GoCN每日新闻(2020-01-02)1. 我们为什么用GO语言来做区块链？ https://www.8btc.com/article/5411462.  golang实现依赖注入 https://www.cnblogs.com/yjf512/p/12121345.html3.  Gos: GO MODULE解决方案   https://juejin.im/post/5ce3f6ede51d455cd73b9fef  4.  理解 Golang 中函数调用的原理   https://www.infoq.cn/article/2iHjv1aTY2mcBulkAHRh  5.  微服务架构的 10个 最佳实践 ！https://mp.weixin.qq.com/s/-N_PC6t1iMAu3OgEKGOg1g【活动】深圳meetup https://www.bagevent.com/event/6218960编辑: 崔广章订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-01
 - 1. GoCN每日新闻(2020-01-01)祝大家2020元旦快乐！！1. Go中Linux管道 https://dev.to/napicella/linux-pipes-in-golang-2e8j2. 使用 Go 优化我们的接口 https://juejin.im/post/5e09e2d16fb9a016536ed0e53. 图解Go里面的sync.Map了解编程语言核心实现源码 https://juejin.im/post/5e08df67f265da33f11ae9e04. Go1.13错误处理 https://medium.com/gett-engineering/error-handling-in-go-1-13-5ee6d1e0a55c5. 【译】Go 语言实践：编写可维护的程序的建议 https://juejin.im/post/5e0ab70ef265da5d0f098988【活动】深圳meetup https://www.bagevent.com/event/6218960编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
 
