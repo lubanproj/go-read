@@ -125,7 +125,15 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-07
+- 1. GoCN 每日新闻（2020-01-07）
+
+- 2. 1. Go 开发关键技术指南 https://developer.aliyun.com/article/7398362. 我喜欢 Goroutine 和 Channel https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/3. rqlite, Go 实现分布式 SQLite http://www.philipotoole.com/rqlite-5-0-0-released/4. Go 的内存对齐和指针运算详解和实践 https://learnku.com/articles/39255 5. eBay邓明：dubbo-go 中 metrics 的设计 https://segmentfault.com/a/1190000021510904- 编辑: 傅小黑- 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-06
 - 1. 1. 高频 golang 服务接口超时排查&性能调优 https://mp.weixin.qq.com/s/rDjTqqR0q4VTSQrYFzbR7w2. Golang IO 手册 https://github.com/jesseduffield/notes/wiki/Golang-IO-Cookbook3. Go GC 20 问 https://mp.weixin.qq.com/s/o2oMMh0PF5ZSoYD0XOBY2Q4. 分析并解决遗留应用迁移至Kubernetes后延迟增加的问题 https://mp.weixin.qq.com/s/EsPHxO7c550kkcDqdmmRNQ5. 图解Event Sourcing https://arkwright.github.io/event-sourcing.html* 编辑: 李俱顺Kevin* 订阅新闻: http://tinyletter.com/gocn* GoCN归档：https://gocn.vip/question/6686
 
