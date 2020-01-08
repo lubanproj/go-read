@@ -126,7 +126,50 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-08
+- 1. GoCN 每日新闻（2020-01-08）
+
+- 2. 1. Go 编程: 对不起，你的 CPU 泄露了 https://www.gitdig.com/cpu-leak/
+
+- 3. 2. 小改动，大提升：Go 标准库的一次优化 https://colobu.com/2019/12/31/small-changes-big-improvement/
+
+- 4. 3. Go网络文件传输 https://www.cnblogs.com/itbsl/p/12161192.html 
+
+- 5. 4. Kubernetes设计的4个原则 https://mp.weixin.qq.com/s/2W_vJRxB7OWSqyF9CRQFYQ
+
+- 6. 5. 简明的 Go Protocol Buffer 教程 https://mp.weixin.qq.com/s/s_6H68RQ9JDiA6TGmiZyOQ
+
+- 7. - 编辑: yulibaozi
+
+- 8. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 9. - 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2020-01-07
 - 1. GoCN 每日新闻（2020-01-07）
 
