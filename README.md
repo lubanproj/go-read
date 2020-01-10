@@ -128,7 +128,40 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-10
+- 1. GoCN每日新闻(2020-01-10)
+
+- 2. 
+
+
+- 3. 
+1. Go1.13.6与1.12.15版本发布! https://groups.google.com/forum/#!topic/golang-announce/RLFrcJ_FZZs
+
+- 4. 
+2. Go并发模型实践 https://www.elastic.co/cn/blog/a-tour-of-go-concurrency-patterns-via-the-new-heartbeat-scheduler?blade=tw&hulk=social
+
+- 5. 
+3. Go实践事件驱动框架 https://medium.com/@hippik80/golang-event-driven-architecture-5dadc6587a29
+
+- 6. 
+4. Go编译器确定性研究 https://medium.com/samsara-engineering/a-chapter-in-the-life-of-gos-compiler-c89b9db74617
+
+- 7. 
+5. ditty: 基于终端的音频播放器 https://git.sr.ht/~tslocum/ditty
+
+- 8. 
+
+
+- 9. 
+编辑: Razil
+
+- 10. 
+订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2020-01-09
 - 1. GoCN每日新闻(2020-01-09)1. 使用Profefe在Go中进行连续分析 https://gianarb.it/blog/go-continuous-profiling-profefe2. 自动缓存：使用成员列表进行对等注册的组缓存 https://github.com/pomerium/autocache3. 如何在Go测试中进行mock模拟 https://medium.com/@ankur_anand/how-to-mock-in-your-go-golang-tests-b9eee7d7c2664. 用Go语言实现的JSON查询处理器 https://github.com/cube2222/jql5. Go编程语言规范 https://moego.me/golang_spec.html#id256编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
