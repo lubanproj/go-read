@@ -129,7 +129,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-11
+- 1. GoCN每日新闻(2020-01-11)1. Reflect-Go一分钟快速入门 https://studygolang.com/articles/259822. Channel的使用及源码解析 https://studygolang.com/articles/259713. 探探长链接项目的 Go 语言实践 https://mp.weixin.qq.com/s/XW1QHbKVGHAfX-iY8rnB5A4. Golang从零开发BitTorrent客户端 https://blog.jse.li/posts/torrent5. Go Get My/Vulnerabilities:深入分析Go语言运行时及其引入的新漏洞 https://www.youtube.com/watch?v=GGQcv7fK0JY编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-10
 - 1. GoCN每日新闻(2020-01-10)
 
