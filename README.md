@@ -130,7 +130,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-12
+- 1. GoCN每日新闻(2020-01-12)
+
+- 2. 1. 为什么我们使用 Go 而不是 Python 开发机器学习基础设施 https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76
+
+- 3. 2. 在 Go 中多路复用 channel https://katcipis.github.io/blog/mux-channels-go/
+
+- 4. 3. Go 是如何回收 Goroutine 的 https://medium.com/a-journey-with-go/go-how-does-go-recycle-goroutines-f047a79ab352
+
+- 5. 4. 6 个 Go 安全方面的最佳实践 https://blog.sqreen.com/top-6-security-best-practices-for-go/
+
+- 6. 5. Go time 包的测试友好型替代方案 timex https://github.com/cabify/timex
+
+- 7. 编辑: lwhile
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2020-01-11
 - 1. GoCN每日新闻(2020-01-11)1. Reflect-Go一分钟快速入门 https://studygolang.com/articles/259822. Channel的使用及源码解析 https://studygolang.com/articles/259713. 探探长链接项目的 Go 语言实践 https://mp.weixin.qq.com/s/XW1QHbKVGHAfX-iY8rnB5A4. Golang从零开发BitTorrent客户端 https://blog.jse.li/posts/torrent5. Go Get My/Vulnerabilities:深入分析Go语言运行时及其引入的新漏洞 https://www.youtube.com/watch?v=GGQcv7fK0JY编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
 
