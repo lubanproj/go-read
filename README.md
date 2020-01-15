@@ -132,7 +132,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-15
+- 1. GoCN每日新闻(2020-01-15)1. 理解并设计一个基础的日志系统 https://medium.com/@adeshinaHH/understanding-and-designing-logging-system-in-go-application-c85a28bb85262. 使用Docker Compose搭建一个全堆栈开发环境 https://medium.com/better-programming/get-a-full-stack-development-environment-ready-with-docker-compose-b88d4a56a7f23. net/http上制作一个中间件 https://dev.to/human/to-the-point-http-middleware-in-go-with-net-http-part-1-5b3l4. Go 中锁的那些姿势，估计你不知道 https://learnku.com/articles/395775. Go之灵活的slice https://mp.weixin.qq.com/s/r3ZJVdq0dTkA1xHinIVLUAGopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e编辑: 周云轩 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-14
 - 1. 1. 编写 Go API Client 最佳实践: https://blog.gopheracademy.com/advent-2019/api-clients-humans/2. 如何用 Go 和 React.js 开发 macOS 应用：https://dev.to/koddr/how-to-create-a-native-macos-app-on-go-golang-and-react-js-with-full-code-protection-part-1-463k3. Go 编写的 shell 工具：https://github.com/sqshq/sampler4. 2020年编程语言的发展方向: https://www.oreilly.com/radar/where-programming-languages-are-headed-in-2020/ 5. 2019年 Go 读者点击最多的十篇文章: https://colobu.com/2020/01/07/Top-Go-Links-of-2019/* GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e* 编辑: 薛锦 * 订阅新闻: http://tinyletter.com/gocn
 
