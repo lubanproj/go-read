@@ -133,7 +133,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-16
+- 1. GoCN每日新闻(2020-01-16)1. 探究sync.Mutex代码流程细节 https://juejin.im/post/5e1d8723f265da3e0535ef0c2. Go如何暂停世界 https://medium.com/a-journey-with-go/go-how-does-go-stop-the-world-1ffab8bc88463. 图解kubernetes调度器ScheduleAlgorithm核心实现学习框架设计 https://juejin.im/post/5e1e7d75f265da3e3b5c54174. 我怀疑Go标准库中的二分查找有bug！ https://pengrl.com/p/200115. for的所有形式 https://medium.com/golangspec/for-statement-and-its-all-faces-in-golang-abcbdc011f81GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e编辑: 周云轩 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-15
 - 1. GoCN每日新闻(2020-01-15)1. 理解并设计一个基础的日志系统 https://medium.com/@adeshinaHH/understanding-and-designing-logging-system-in-go-application-c85a28bb85262. 使用Docker Compose搭建一个全堆栈开发环境 https://medium.com/better-programming/get-a-full-stack-development-environment-ready-with-docker-compose-b88d4a56a7f23. net/http上制作一个中间件 https://dev.to/human/to-the-point-http-middleware-in-go-with-net-http-part-1-5b3l4. Go 中锁的那些姿势，估计你不知道 https://learnku.com/articles/395775. Go之灵活的slice https://mp.weixin.qq.com/s/r3ZJVdq0dTkA1xHinIVLUAGopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e编辑: 周云轩 订阅新闻: http://tinyletter.com/gocn
 
