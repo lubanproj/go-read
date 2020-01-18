@@ -135,7 +135,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-18
+- 1. 1. Golang异步并发模式 https://madeddu.xyz/posts/go-async-await/2. 使用go channels实现发布订阅 https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/3. Go net.DialContext()如何停止退出 https://utcc.utoronto.ca/~cks/space/blog/programming/GoDialCancellationHow4. Golang官方工具mock接口 https://segmentfault.com/a/11900000216137865. Go语言程序设计读书笔记-反射 https://segmentfault.com/a/1190000021611575* GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e编辑: samurai订阅新闻: http://tinyletter.com/gocn GoCN归档: https://gocn.vip/question/
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-17
 - 1. GoCN每日新闻(2020-01-17)
 
