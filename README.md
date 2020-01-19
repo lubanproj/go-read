@@ -136,7 +136,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-19
+- 1. 1. gout:Golang流式http client https://github.com/guonaihong/gout2. goroutine与并发模型 https://segmentfault.com/a/11900000216163273. 使用GoChannel及Goroutine時機 https://blog.wu-boy.com/2020/01/when-to-use-go-channel-and-goroutine4. 生产环境动态输出日志级别、文件 https://mp.weixin.qq.com/s/-5XKM7Cq7xhGY4d50QywIg5. 深入剖析Kafka https://mp.weixin.qq.com/s/CMPlIDl5RIIBVsvpKw_w9Q编辑: 罗发宣
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-18
 - 1. 1. Golang异步并发模式 https://madeddu.xyz/posts/go-async-await/2. 使用go channels实现发布订阅 https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/3. Go net.DialContext()如何停止退出 https://utcc.utoronto.ca/~cks/space/blog/programming/GoDialCancellationHow4. Golang官方工具mock接口 https://segmentfault.com/a/11900000216137865. Go语言程序设计读书笔记-反射 https://segmentfault.com/a/1190000021611575* GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e编辑: samurai订阅新闻: http://tinyletter.com/gocn GoCN归档: https://gocn.vip/question/
 
