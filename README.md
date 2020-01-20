@@ -137,7 +137,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-20
+- 1. 1. Go语言代码安全审计分享 https://mp.weixin.qq.com/s/8Ju05hYCYk6bOgkvjtP11A2. 详解 Samaritan——饿了么最新开源的透明代理 https://mp.weixin.qq.com/s/k_u84L5-Ws7v8RY8aIrlQw3. 一个调试Goroutine泄漏调试的例子 https://medium.com/@alenkacz/an-example-of-a-goroutine-leak-and-how-to-debug-one-a0697cf677a34. gimu：一个Go的新UI框架 https://github.com/AllenDang/gimu5. Go教程合集 https://github.com/TutorialEdge/go* 编辑: 李俱顺Kevin* 订阅新闻: http://tinyletter.com/gocn* GoCN归档：https://gocn.vip/question/6704
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-19
 - 1. 1. gout:Golang流式http client https://github.com/guonaihong/gout2. goroutine与并发模型 https://segmentfault.com/a/11900000216163273. 使用GoChannel及Goroutine時機 https://blog.wu-boy.com/2020/01/when-to-use-go-channel-and-goroutine4. 生产环境动态输出日志级别、文件 https://mp.weixin.qq.com/s/-5XKM7Cq7xhGY4d50QywIg5. 深入剖析Kafka https://mp.weixin.qq.com/s/CMPlIDl5RIIBVsvpKw_w9Q编辑: 罗发宣
 
