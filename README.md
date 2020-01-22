@@ -139,7 +139,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-22
+- 1. GoCN每日新闻(2020-01-22)1. Go 语言标准库中 atomic.Value 的前世今生 https://blog.betacat.io/post/golang-atomic-value-exploration/2. 一个智能、高效、开箱即用、可定制，适用于Gin和net/http的gzip中间件 https://github.com/nanmu42/gzip3. 使用Go，QUIC和Micro建立全球服务网络 https://micro.mu/blog/2019/12/05/building-a-microservices-network.html4. 从Golang源或目录生成PlantUML图 https://github.com/bykof/go-plantuml5. 用于golang的类型安全的Prometheus指标构建器库 https://github.com/cabify/gotoprom编辑: 李森森订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-21
 - 1. GoCN 每日新闻（2020-01-21）1. Go与算法在线教程 https://algorithmswithgo.com/2. 如果成为优秀的软件架构师 https://github.com/justinamiller/SoftwareArchitect3. Go项目中使用环境变量 https://towardsdatascience.com/use-environment-variable-in-your-next-golang-project-39e17c3aaa664. 编写高性能Go微服务的7个技巧 https://medium.com/@jake0malay3/7-tips-on-how-to-write-kick-ass-high-performance-golang-microservices-9f71d4c67a0a5. 类Express的Go Web框架 fiber https://github.com/gofiber/fiber- 编辑: 傅小黑- 订阅新闻: http://tinyletter.com/gocn
 
