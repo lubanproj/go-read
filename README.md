@@ -140,7 +140,53 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-23
+- 1. 武汉加油，武汉Gopher加油
+
+- 2. GoCN 每日新闻（2020-01-22）
+
+- 3. 1. Go 中内联延迟 https://rakyll.org/inlined-defers/
+
+- 4. 2. 为什么我喜欢Go的类型推断 https://utcc.utoronto.ca/~cks/space/blog/programming/GoLimitedTypeInferenceLike
+
+- 5. 3. Go 语言学习教程 https://github.com/shaipe/Go-Tutorial
+
+- 6. 4. Go中的Goroutine负载平衡 https://itnext.io/load-balancing-goroutines-in-go-57e0896c7f86
+
+- 7. 5. go-systemd 重载配置指令 https://github.com/coreos/go-systemd
+
+- 8. - 编辑: yulibaozi
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. - 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2020-01-22
 - 1. GoCN每日新闻(2020-01-22)1. Go 语言标准库中 atomic.Value 的前世今生 https://blog.betacat.io/post/golang-atomic-value-exploration/2. 一个智能、高效、开箱即用、可定制，适用于Gin和net/http的gzip中间件 https://github.com/nanmu42/gzip3. 使用Go，QUIC和Micro建立全球服务网络 https://micro.mu/blog/2019/12/05/building-a-microservices-network.html4. 从Golang源或目录生成PlantUML图 https://github.com/bykof/go-plantuml5. 用于golang的类型安全的Prometheus指标构建器库 https://github.com/cabify/gotoprom编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
