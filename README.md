@@ -141,7 +141,29 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-24
+- 1. 祝大家除夕快乐！ & 武汉加油，武汉Gopher加油
+
+- 2. GoCN每日新闻(2020-01-24)
+
+- 3. 1. gomobile现已支持Go modules https://github.com/golang/go/issues/27234#issuecomment-577481562
+
+- 4. 2. Go HTTP请求timeout入门讲解 https://itnext.io/http-request-timeouts-in-go-for-beginners-fe6445137c90
+
+- 5. 3. Go 图像处理 https://medium.com/mop-developers/image-processing-in-go-5ba9a9043bc2
+
+- 6. 4. Go 高级测试之Mocks https://medium.com/@tiago.queiroz/advanced-testing-in-golang-part-1-mocks-a2521591f599
+
+- 7. 5. termenv: 终端高级ANSI样式和颜色支持库 https://github.com/muesli/termenv
+
+- 8. 编辑: Razil
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2020-01-23
 - 1. 武汉加油，武汉Gopher加油
 
