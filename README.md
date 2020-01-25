@@ -142,7 +142,53 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-25
+- 1. 祝大家新年快乐！ & 武汉加油，武汉Gopher加油
+
+- 2. GoCN每日新闻(2020-01-25)
+
+- 3. 1. 新Golang开发人员的陷阱、常见错误 http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang
+
+- 4. 2. Go知识至上之战 https://go-battle.net/battle/disastrous-wombat-3-ef29
+
+- 5. 3. 用一个生产与消费例子学习go语言中goroutine，channel，select，time https://studygolang.com/articles/26266
+
+- 6. 4. x/vgo：go.mod格式不应采用定制语法 https://github.com/golang/go/issues/23966
+
+- 7. 5. Squzy是一个用Golang编写的高性能开源监控系统 https://github.com/squzy/squzy
+
+- 8. 编辑: 马怀博 
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2020-01-24
 - 1. 祝大家除夕快乐！ & 武汉加油，武汉Gopher加油
 
