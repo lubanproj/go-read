@@ -143,7 +143,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-26
+- 1. GoCN 每日新闻（2020-01-26）1. Go 算法入门 https://algorithmswithgo.com/2. 我们如何在Rockset上实时分析和可视化Kubernetes事件 https://segmentfault.com/a/11900000216481453. 清晰架构（Clean Architecture）的Go微服务: 事物管理 https://segmentfault.com/a/11900000216389904. 容器漏洞静态检测器 https://github.com/quay/clair5. 一些ops实战经验 https://www.netmeister.org/blog/ops-lessons.html- 编辑: astaxie- 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-25
 - 1. 祝大家新年快乐！ & 武汉加油，武汉Gopher加油
 
