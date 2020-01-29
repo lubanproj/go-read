@@ -145,7 +145,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-29
+- 1. GoCN每日新闻（2020-01-29）1. sqlc:将SQL查询编译成编译成类型安全的Go代码 https://conroy.org/introducing-sqlc2. 使用Go扩展python https://dev.to/astagi/extending-python-with-go-1deb3. 什么时候使用Go指针 https://medium.com/@kent.rancourt/go-pointers-when-to-use-pointers-4f29256ddff34. Go实现百万WebSocket连接 https://mp.weixin.qq.com/s/nukISdSBwnaCKeQSxep8dg5. 为什么你下一个项目应该选择用Go https://medium.com/softkraft/why-choose-go-for-your-next-project-b4165ef5bef8编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-27
 - 1. GoCN 每日新闻（2020-01-27）
 
