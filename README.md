@@ -146,7 +146,52 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-30
+- 1. GoCN 每日新闻（2020-01-30）
+
+- 2. 1. 内存管理玩法汇总汇 http://qiankunli.github.io/2020/01/28/memory_management.html
+
+- 3. 2. 解放数据库查询, 写一个 go 的查询构造器 https://www.jianshu.com/p/a5e9c0d16ed8
+
+- 4. 3. 为什么 Go 语言没有泛型  https://draveness.me/whys-the-design-go-generics
+
+- 5. 4. go语言并发原理和机制【一】 https://www.jianshu.com/p/18dd9ece6358
+
+- 6. 5. 饿了么“短平快”创新项目的架构取舍之道 https://mp.weixin.qq.com/s/87SA7FtWfV3XQkOTYQQkww
+
+- 7. 编辑: 崔广章
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - - - - - 
+
 ### gocn_news_2020-01-29
 - 1. GoCN每日新闻（2020-01-29）1. sqlc:将SQL查询编译成编译成类型安全的Go代码 https://conroy.org/introducing-sqlc2. 使用Go扩展python https://dev.to/astagi/extending-python-with-go-1deb3. 什么时候使用Go指针 https://medium.com/@kent.rancourt/go-pointers-when-to-use-pointers-4f29256ddff34. Go实现百万WebSocket连接 https://mp.weixin.qq.com/s/nukISdSBwnaCKeQSxep8dg5. 为什么你下一个项目应该选择用Go https://medium.com/softkraft/why-choose-go-for-your-next-project-b4165ef5bef8编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
 
