@@ -147,7 +147,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-01-31
+- 1. GoCN 每日新闻（2020-01-31）
+
+- 2. 1. go语言并发原理和机制【二】 https://www.jianshu.com/p/c5e892a66929
+
+- 3. 2. DDD分层架构的三种模式 https://mp.weixin.qq.com/s/BAK4AjupwNW05nPUHRPILw
+
+- 4. 3. （译）浅谈 Kubernetes 中的服务发现 https://mp.weixin.qq.com/s/hCzfoYVaWq8ux6_1UoRfDw
+
+- 5. 4. 合集| 21 篇技术文章，带你从零入门 K8s https://mp.weixin.qq.com/s/6pS4GesPuRfFw1ly9GUL6Q
+
+- 6. 5. 五分钟用Docker快速搭建Go开发环境 https://mp.weixin.qq.com/s/weT6kIQCLPGzHWLyKS7ZVw
+
+- 7. 编辑: 何小云
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2020-01-30
 - 1. GoCN 每日新闻（2020-01-30）
 
