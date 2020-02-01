@@ -148,7 +148,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-01
+- 1. 1. Go1.15提案 https://blog.golang.org/go1.15-proposals2. Go sync.Cond剖析 https://segmentfault.com/a/11900000216670533. 使用serverless框架更好的部署go服务 https://dev.to/mthenw/a-better-way-of-deploying-go-services-with-serverless-framework-41c44. Golang入门-Golang包管理 https://juejin.im/post/5e34e29d5188254df564d3b35. 五分钟用Docker快速搭建Go开发环境 https://juejin.im/post/5e324caf6fb9a02fc5575b86编辑: samurai订阅新闻: http://tinyletter.com/gocnGoCN归档: https://gocn.vip/question/
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-01-31
 - 1. GoCN 每日新闻（2020-01-31）
 
