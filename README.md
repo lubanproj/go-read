@@ -149,7 +149,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-02
+- 1. 1. 调度系统设计精要 https://mp.weixin.qq.com/s/jI2ruzGLZRJmf9H49z3ojA2. golang实现流量控制操作 https://studygolang.com/articles/263833. GoLang-逃逸分析 https://www.jianshu.com/p/ad9dbc81a0aa4. 初识Go语言 https://mp.weixin.qq.com/s?__biz=MzI1MzYzMTI2Ng==&mid=2247484335&idx=1&sn=b8cd98f057e59f632875ce6b8230fdca5. [译]一切系统都是分布式的 https://arthurchiao.github.io/blog/everything-is-distributed-zh- 编辑: 罗发宣
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-02-01
 - 1. 1. Go1.15提案 https://blog.golang.org/go1.15-proposals2. Go sync.Cond剖析 https://segmentfault.com/a/11900000216670533. 使用serverless框架更好的部署go服务 https://dev.to/mthenw/a-better-way-of-deploying-go-services-with-serverless-framework-41c44. Golang入门-Golang包管理 https://juejin.im/post/5e34e29d5188254df564d3b35. 五分钟用Docker快速搭建Go开发环境 https://juejin.im/post/5e324caf6fb9a02fc5575b86编辑: samurai订阅新闻: http://tinyletter.com/gocnGoCN归档: https://gocn.vip/question/
 
