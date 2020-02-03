@@ -150,7 +150,13 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-03
+- 1. 1. Go 2020: 自Go 1.12版本以来的更新 https://speakerdeck.com/campoy/the-state-of-go-20202. gopls发布0.3.0版本，已实现基本IDE功能 https://github.com/golang/go/issues/33030#issuecomment-5808279973. 使用eBPF监测用户态应用 https://sematext.com/blog/ebpf-userland-apps/4. Go是如何将循环翻译成汇编的 https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b35. 微服务框架Micro发布2.0版本 https://medium.com/microhq/micro-v2-0-0-release-is-out-2950f5a82054* 编辑: 李俱顺Kevin* 订阅新闻: http://tinyletter.com/gocn* GoCN归档：https://gocn.vip/question/6721
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2020-02-02
 - 1. 1. 调度系统设计精要 https://mp.weixin.qq.com/s/jI2ruzGLZRJmf9H49z3ojA2. golang实现流量控制操作 https://studygolang.com/articles/263833. GoLang-逃逸分析 https://www.jianshu.com/p/ad9dbc81a0aa4. 初识Go语言 https://mp.weixin.qq.com/s?__biz=MzI1MzYzMTI2Ng==&mid=2247484335&idx=1&sn=b8cd98f057e59f632875ce6b8230fdca5. [译]一切系统都是分布式的 https://arthurchiao.github.io/blog/everything-is-distributed-zh- 编辑: 罗发宣
 
