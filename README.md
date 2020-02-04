@@ -151,7 +151,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-04
+- 1. GoCN 每日新闻 (2020-02-04)
+
+- 2. 1. [译]pkg.go.dev的未来规划 https://mp.weixin.qq.com/s/XQLsfBwy14XLQU9D4s4gGg
+
+- 3. 2. GraphQL Go 基于Golang实践 https://juejin.im/post/5e381dfee51d4526d87c5ddb
+
+- 4. 3. Go 语言设计与实现 https://draveness.me/golang/
+
+- 5. 4. Go 创建 Web 服务 https://www.gophersumit.com/series/web-server/
+
+- 6. 5. golang结构体指针解析 https://segmentfault.com/a/1190000021680265
+
+- 7. - 编辑: 傅小黑
+
+- 8. - 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2020-02-03
 - 1. 1. Go 2020: 自Go 1.12版本以来的更新 https://speakerdeck.com/campoy/the-state-of-go-20202. gopls发布0.3.0版本，已实现基本IDE功能 https://github.com/golang/go/issues/33030#issuecomment-5808279973. 使用eBPF监测用户态应用 https://sematext.com/blog/ebpf-userland-apps/4. Go是如何将循环翻译成汇编的 https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b35. 微服务框架Micro发布2.0版本 https://medium.com/microhq/micro-v2-0-0-release-is-out-2950f5a82054* 编辑: 李俱顺Kevin* 订阅新闻: http://tinyletter.com/gocn* GoCN归档：https://gocn.vip/question/6721
 
