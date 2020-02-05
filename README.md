@@ -152,7 +152,27 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-05
+- 1. GoCN 每日新闻 (2020-02-05)
+
+- 2. 1. Go 语言 Channel 实现原理精要 https://www.lbbniu.com/8256.html
+
+- 3. 2. Go1.14为time.Timer定时器带来巨幅性能提升 https://www.pengrl.com/p/20021
+
+- 4. 3. Go之读懂map的底层设计 http://blog.newbmiao.com/2020/02/04/dig101-golang-map.html
+
+- 5. 4. Fx: Golang中的依赖注入  https://blog.huyage.dev/posts/simple-dependency-injection-in-go/
+
+- 6. 5. （译）浅谈 Kubernetes 中的服务发现 https://mp.weixin.qq.com/s/hCzfoYVaWq8ux6_1UoRfDw
+
+- 7. - 编辑: yulibaozi
+
+- 8. - 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2020-02-04
 - 1. GoCN 每日新闻 (2020-02-04)
 
