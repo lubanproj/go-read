@@ -154,7 +154,40 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-07
+- 1. GoCN每日新闻(2020-02-07)
+
+- 2. 
+
+
+- 3. 
+1. Golang之禅 https://the-zen-of-go.netlify.com/
+
+- 4. 
+2. gorilla sessions中间件实践  https://jimmyislive.dev/posts/rememberme/  
+
+- 5. 
+3. 宜信微服务任务调度平台建设实践 https://www.infoq.cn/article/daqWGuVqySK65A6bEX2E
+
+- 6. 
+4. grabana: 用Go代码快速创建grafana dashboards https://github.com/K-Phoen/grabana
+
+- 7. 
+5. rose: 实现在HTML中嵌入和运行Go代码 https://gitlab.com/DevelopmentDuck/rose
+
+- 8. 
+
+
+- 9. 
+编辑: Razil
+
+- 10. 
+订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2020-02-06
 - 1. GoCN每日新闻(2020-02-06)1. Go 1.14 rc版本发布 https://tip.golang.org/doc/go1.142. Golang致命错误：并发写入map https://ashish.one/blogs/fatal-error-concurrent-map-writes3. Go实现的安全类型转换cast库 https://github.com/spf13/cast4. 用Go实现的贪吃蛇游戏 https://github.com/tristangoossens/snake-go5. 在Kubernetes中分析连续运行的Go应用程序 https://gianarb.it/blog/continuous-profiling-go-apps-in-kubernetes编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
