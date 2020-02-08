@@ -155,7 +155,50 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-08
+- 1. GoCN每日新闻(2020-02-08)
+
+- 2. 1. Go代码的高级调试技术 https://www.bilibili.com/video/av87482478/
+
+- 3. 2. Go中必须谈论的四个迷点 https://segmentfault.com/a/1190000021699341
+
+- 4. 3. Go 每日一库之 log https://mp.weixin.qq.com/s/MivVpGY1RJWf0ZFt7HjcFg
+
+- 5. 4. Golang还是Python？哪种语言更适合AI？https://developer.51cto.com/art/202002/610136.htm
+
+- 6. 5. golang 操作redis5大数据类型 https://segmentfault.com/a/1190000021702953
+
+- 7. 编辑: 马怀博 
+
+- 8. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2020-02-07
 - 1. GoCN每日新闻(2020-02-07)
 
