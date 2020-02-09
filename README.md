@@ -156,7 +156,25 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-09
+- 1. GoCN每日新闻(2020-02-09)
+
+- 2. 1. Go 并发与调度器的关系 https://medium.com/a-journey-with-go/go-concurrency-scheduler-affinity-3b678f490488
+
+- 3. 2. 对 Jaeger 追踪数据做分析 https://www.arp242.net/wasm-cli.html
+
+- 4. 4. Go 项目模板生成工具 go-starter https://github.com/adobe/go-starter
+
+- 5. 5. 技术债务墙 http://verraes.net/2020/01/wall-of-technical-debt/
+
+- 6. 编辑: lwhile
+
+- 7. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - 
+
 ### gocn_news_2020-02-08
 - 1. GoCN每日新闻(2020-02-08)
 
