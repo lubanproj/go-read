@@ -157,7 +157,29 @@
 
 
 
+
 ## gocn_news__2019
+### gocn_news_2020-02-10
+- 1. GoCN每日新闻(2020-02-10)
+
+- 2.  
+
+- 3. 1. 如果使用 Go 标准库制作个人 logo https://dev.to/andyhaskell/how-i-made-a-slick-personal-logo-with-go-s-standard-library-29j9
+
+- 4. 2. 记一次 golang 的内存泄露 https://www.cnblogs.com/CtripDBA/p/12289939.html
+
+- 5. 3. Go 每日一库之 logrus https://mp.weixin.qq.com/s/lO4hAjtwqY_YG3Q3Mz7qww
+
+- 6. 4. Excelize 发布 2.1.0 版本, Go 语言 Excel 文档基础库 https://segmentfault.com/a/1190000021713641
+
+- 7. 5. Kubernetes进阶：理解CNI和CNI插件 https://juejin.im/post/5e400116e51d4526c654b3a7
+
+- 8. 编辑: 宋佳洋
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
+
 ### gocn_news_2020-02-09
 - 1. GoCN每日新闻(2020-02-09)
 
