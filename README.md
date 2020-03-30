@@ -285,4 +285,15 @@
 </li>
 <li>我如何在 2020 年应用 Go <a href="https://dev.to/j4ng5y/how-i-do-go-application-configuration-in-2020-336b" rel="nofollow" target="_blank">https://dev.to/j4ng5y/how-i-do-go-application-configuration-in-2020-336b</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-02-19）</p></h3><ol>
+<li>使用 t.Cleanup 做测试收尾 <a href="https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/" rel="nofollow" target="_blank">https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/</a>
+</li>
+<li>Go 编程语言规范【译】<a href="https://moego.me/golang_spec.html" rel="nofollow" target="_blank">https://moego.me/golang_spec.html</a>
+</li>
+<li>select-case-default 忘记让出 CPU 的坑 <a href="https://mp.weixin.qq.com/s/zMZXd8DLtjhm06Q0lm1pcg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/zMZXd8DLtjhm06Q0lm1pcg</a>
+</li>
+<li>斗鱼配置管理中心 Minerva 的设计与实现 <a href="https://gocn.vip/topics/9794" rel="nofollow" target="_blank">https://gocn.vip/topics/9794</a>
+</li>
+<li>Go 语言是如何运行的-链接器 <a href="https://mp.weixin.qq.com/s/_2y7oLfYftRxH8YTEm0qMw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/_2y7oLfYftRxH8YTEm0qMw</a>
+</li>
 </ol><hr><br>
