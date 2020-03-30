@@ -4,15 +4,15 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<p>GoCN 每日新闻 (2020-03-29)</p><p>GoCN 每日新闻 (2020-03-26)</p><p>GoCN 每日新闻 (2020-03-23)</p><p>GoCN 每日新闻 (2020-03-22)</p><p>GoCN 每日新闻 (2020-03-21)</p><p>GoCN 每日新闻 (2020-03-20)</p><p>GoCN 每日新闻 (2020-03-19)</p><hr><ol>
-<li>使用 DynamoDB 在 Go 中构建无服务器 CRUD 服务 <a href="https://dev.to/wingkwong/building-serverless-crud-services-in-go-with-dynamodb-part-6-bonus-129i" rel="nofollow" target="_blank">https://dev.to/wingkwong/building-serverless-crud-services-in-go-with-dynamodb-part-6-bonus-129i</a>
+<p>GoCN 每日新闻 (2020-03-29)</p><p>GoCN 每日新闻 (2020-03-26)</p><p>GoCN 每日新闻 (2020-03-23)</p><p>GoCN 每日新闻 (2020-03-22)</p><p>GoCN 每日新闻 (2020-03-21)</p><p>GoCN 每日新闻 (2020-03-20)</p><p>GoCN 每日新闻 (2020-03-19)</p><p>GoCN 每日新闻（2020-03-18）</p><hr><ol>
+<li>CPU 性能、内存分析调试方法汇总 <a href="https://gocn.vip/topics/10054" rel="nofollow" target="_blank">https://gocn.vip/topics/10054</a>
 </li>
-<li>Golang 安全性方面 <a href="https://dev.to/pavanbelagatti/security-aspects-in-golang-and-more-12c" rel="nofollow" target="_blank">https://dev.to/pavanbelagatti/security-aspects-in-golang-and-more-12c</a>
+<li>深入理解 Go 语言的垃圾回收 <a href="https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector/" rel="nofollow" target="_blank">https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector/</a>
 </li>
-<li>在 OperationCode 上重构 Kubernetes 基础架构 <a href="https://itnext.io/refactoring-the-kubernetes-infrastructure-at-operationcode-229e391e3ad9" rel="nofollow" target="_blank">https://itnext.io/refactoring-the-kubernetes-infrastructure-at-operationcode-229e391e3ad9</a>
+<li>Go 调用原生 epoll 引起 event loop 阻塞问题 <a href="http://xiaorui.cc/archives/6758" rel="nofollow" target="_blank">http://xiaorui.cc/archives/6758</a>
 </li>
-<li>Golang 实现的即时通讯服务 <a href="https://github.com/tinode/chat" rel="nofollow" target="_blank">https://github.com/tinode/chat</a>
+<li>[译] Serverless 可观察性的最佳实践 <a href="https://mp.weixin.qq.com/s/rDuE1Q8BfG-fayEy7fd33A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/rDuE1Q8BfG-fayEy7fd33A</a>
 </li>
-<li>Go 的 BDD 测试框架 <a href="https://github.com/onsi/ginkgo" rel="nofollow" target="_blank">https://github.com/onsi/ginkgo</a>
+<li>K8s 安全之访问控制 <a href="https://gocn.vip/topics/10051" rel="nofollow" target="_blank">https://gocn.vip/topics/10051</a>
 </li>
 </ol><hr>
