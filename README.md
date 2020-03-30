@@ -190,4 +190,15 @@
 </li>
 <li>plot 一个绘图和数据可视化库 <a href="https://github.com/gonum/plot" rel="nofollow" target="_blank">https://github.com/gonum/plot</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-03-03）</p></h3><ol>
+<li>我要远离 Go <a href="https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride" rel="nofollow" target="_blank">https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride</a>
+</li>
+<li>Go 1.14 使用 AVX 指令集不兼容老款 Mac 设备 <a href="https://github.com/golang/go/issues/37459" rel="nofollow" target="_blank">https://github.com/golang/go/issues/37459</a>
+</li>
+<li>Protocol Buffers 的新 Go API <a href="https://blog.golang.org/a-new-go-api-for-protocol-buffers" rel="nofollow" target="_blank">https://blog.golang.org/a-new-go-api-for-protocol-buffers</a>
+</li>
+<li>Go 测试 HTTP 服务 <a href="https://ieftimov.com/post/testing-in-go-testing-http-servers/" rel="nofollow" target="_blank">https://ieftimov.com/post/testing-in-go-testing-http-servers/</a>
+</li>
+<li>可以运行 WASM 的 Go 库 <a href="https://github.com/wasmerio/go-ext-wasm" rel="nofollow" target="_blank">https://github.com/wasmerio/go-ext-wasm</a>
+</li>
 </ol><hr><br>
