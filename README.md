@@ -307,4 +307,14 @@
 </li>
 <li>pkg.go.dev 将会开源 <a href="https://groups.google.com/forum/#!msg/golang-dev/mfiPCtJ1BGU/OZ9cU3SgBgAJ" rel="nofollow" target="_blank">https://groups.google.com/forum/#! msg/golang-dev/mfiPCtJ1BGU/OZ9cU3SgBgAJ</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-13)</p></h3><ol>
+<li>Go 每日一库之 godotenv  <a href="https://segmentfault.com/a/1190000021735360" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021735360</a>
+</li>
+<li>五分钟学会使用 go modules（含在家办公使用技巧）<a href="https://mp.weixin.qq.com/s/AnSJUnvBFZeR75hLwRkWMg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/AnSJUnvBFZeR75hLwRkWMg</a>
+</li>
+<li>gRPC in ASP.NET Core 3.x -- Protocol Buffer, Go 语言的例子（上）  <a href="https://mp.weixin.qq.com/s/QBIYwA8ecgGcdHaa2Js0eQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/QBIYwA8ecgGcdHaa2Js0eQ</a>
+</li>
+<li>第一个 Go Micro 程序 <a href="https://zhuanlan.zhihu.com/p/104728408" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/104728408</a>
+</li>
+<li>一文看懂分布式系统的基本盘 <a href="https://mp.weixin.qq.com/s/4Q8IXZPy2lCQQjFrHPHjqg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/4Q8IXZPy2lCQQjFrHPHjqg</a> </li>
 </ol><hr><br>
