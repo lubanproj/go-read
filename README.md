@@ -168,4 +168,15 @@
 </li>
 <li>plik: 一款开源的临时文件上传系统 <a href="https://github.com/root-gg/plik" rel="nofollow" target="_blank">https://github.com/root-gg/plik</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-03-05)</p></h3><ol>
+<li>Goroutine 调度都涉及到哪些 <a href="https://medium.com/a-journey-with-go/go-what-does-a-goroutine-switch-actually-involve-394c202dddb7" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-what-does-a-goroutine-switch-actually-involve-394c202dddb7</a>
+</li>
+<li>Go 中检测 module 中更新操作库  <a href="https://github.com/rvflash/goup" rel="nofollow" target="_blank">https://github.com/rvflash/goup</a>
+</li>
+<li>Go 之 interface 调用的一个优化点 <a href="https://gocn.vip/topics/9946" rel="nofollow" target="_blank">https://gocn.vip/topics/9946</a>
+</li>
+<li>构建 Golang docker 镜像 <a href="https://bitfieldconsulting.com/blog/building-a-golang-docker-image" rel="nofollow" target="_blank">https://bitfieldconsulting.com/blog/building-a-golang-docker-image</a>
+</li>
+<li>Go 实现的一种用于安全高效地构建，更改和版本控制基础设施 Terraform <a href="https://github.com/hashicorp/terraform" rel="nofollow" target="_blank">https://github.com/hashicorp/terraform</a>
+</li>
 </ol><hr><br>
