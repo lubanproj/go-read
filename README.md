@@ -212,4 +212,13 @@
 </li>
 <li>Go 语言基础之接口 (面向对象编程下)  <a href="https://www.cnblogs.com/dabric/p/12375741.html" rel="nofollow" target="_blank">https://www.cnblogs.com/dabric/p/12375741.html</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-27)</p></h3><ol>
+<li>Go 为什么这么 “快”&nbsp;<a href="http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649745513&amp;idx=1&amp;sn=083a6a39a2a98b408a27b9be57ffbdc0" rel="nofollow" target="_blank">http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649745513&amp;idx=1&amp;sn=083a6a39a2a98b408a27b9be57ffbdc0</a>
+</li>
+<li>Go 语言基础之结构体 (面向对象编程上) <a href="http://www.cnblogs.com/dabric/p/12361979.html" rel="nofollow" target="_blank">http://www.cnblogs.com/dabric/p/12361979.html</a>
+</li>
+<li>微服务核心架构梳理 <a href="https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg</a>
+</li>
+<li>Golang channel 源码深度剖析 <a href="https://toutiao.io/k/3b8lqdg" rel="nofollow" target="_blank">https://toutiao.io/k/3b8lqdg</a>
+</li>
 </ol><hr><br>
