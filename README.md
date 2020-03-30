@@ -317,4 +317,15 @@
 <li>第一个 Go Micro 程序 <a href="https://zhuanlan.zhihu.com/p/104728408" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/104728408</a>
 </li>
 <li>一文看懂分布式系统的基本盘 <a href="https://mp.weixin.qq.com/s/4Q8IXZPy2lCQQjFrHPHjqg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/4Q8IXZPy2lCQQjFrHPHjqg</a> </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-12)</p></h3><ol>
+<li>GoCN 社区发布新版了 <a href="https://mp.weixin.qq.com/s/e9KxNziiHgAYMIffdzv3uA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/e9KxNziiHgAYMIffdzv3uA</a>
+</li>
+<li>关于 Go1.14，你一定想知道的性能提升与新特性 <a href="https://gocn.vip/topics/9611" rel="nofollow" target="_blank">https://gocn.vip/topics/9611</a>
+</li>
+<li>单元测试时模拟数据库 <a href="https://dev.to/pieohpah/mocking-database-in-go-55bo" rel="nofollow" target="_blank">https://dev.to/pieohpah/mocking-database-in-go-55bo</a>
+</li>
+<li>Go1.14 将内联 defer 提高性能 <a href="https://pengrl.com/p/20023" rel="nofollow" target="_blank">https://pengrl.com/p/20023</a>
+</li>
+<li>动手做 Go 并发：生产消费模式 <a href="https://medium.com/@mottakin/hands-on-go-concurrency-the-producer-consumer-pattern-c42aab4e3bd2" rel="nofollow" target="_blank">https://medium.com/@mottakin/hands-on-go-concurrency-the-producer-consumer-pattern-c42aab4e3bd2</a>
+</li>
 </ol><hr><br>
