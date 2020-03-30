@@ -274,4 +274,15 @@
 </li>
 <li>vectorsql: 一款类 ClickHouse 的 OLAP 型数据库 <a href="https://github.com/vectorengine/vectorsql" rel="nofollow" target="_blank">https://github.com/vectorengine/vectorsql</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-20)</p></h3><ol>
+<li>Golang 中切片与数组的不同 <a href="https://blog.golang.org/slices" rel="nofollow" target="_blank">https://blog.golang.org/slices</a>
+</li>
+<li>使用 Go 模拟 SSL 中断 <a href="https://medium.com/@noamt/simulating-ssl-outages-with-go-8f14e5ef0621" rel="nofollow" target="_blank">https://medium.com/@noamt/simulating-ssl-outages-with-go-8f14e5ef0621</a>
+</li>
+<li>Go 高级并发函数 <a href="https://encore.dev/blog/advanced-go-concurrency" rel="nofollow" target="_blank">https://encore.dev/blog/advanced-go-concurrency</a>
+</li>
+<li>Go 中基于 Unicode 字符的前缀树的实现 Gotri <a href="https://github.com/monirz/gotri" rel="nofollow" target="_blank">https://github.com/monirz/gotri</a>
+</li>
+<li>我如何在 2020 年应用 Go <a href="https://dev.to/j4ng5y/how-i-do-go-application-configuration-in-2020-336b" rel="nofollow" target="_blank">https://dev.to/j4ng5y/how-i-do-go-application-configuration-in-2020-336b</a>
+</li>
 </ol><hr><br>
