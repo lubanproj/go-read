@@ -232,4 +232,15 @@
 </li>
 <li>使用 gojsonq 来查询 JSON 字段 <a href="https://juejin.im/post/5e53e2efe51d4527196d5352" rel="nofollow" target="_blank">https://juejin.im/post/5e53e2efe51d4527196d5352</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-24)</p></h3><ol>
+<li>goim 中的 watchOps 在监听什么?  <a href="https://juejin.im/post/5e51834451882549554863e2" rel="nofollow" target="_blank">https://juejin.im/post/5e51834451882549554863e2</a>
+</li>
+<li>「译文」如何使用 Go 1.13 里的错误处理 <a href="https://gocn.vip/topics/9858" rel="nofollow" target="_blank">https://gocn.vip/topics/9858</a>
+</li>
+<li>如何"优雅"地发布自己的 go module 模块到 pkg.go.dev <a href="https://gocn.vip/topics/9829" rel="nofollow" target="_blank">https://gocn.vip/topics/9829</a>
+</li>
+<li>「开源发布」阿里开源的流量控制组件 Sentinel Golang 首个版本发布 <a href="https://gocn.vip/topics/9862" rel="nofollow" target="_blank">https://gocn.vip/topics/9862</a>
+</li>
+<li>一个易于与后端集成的 Go KV 存储的抽象层开源库  <a href="https://github.com/alash3al/goukv" rel="nofollow" target="_blank">https://github.com/alash3al/goukv</a>
+</li>
 </ol><hr><br>
