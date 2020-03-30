@@ -221,4 +221,15 @@
 </li>
 <li>Golang channel 源码深度剖析 <a href="https://toutiao.io/k/3b8lqdg" rel="nofollow" target="_blank">https://toutiao.io/k/3b8lqdg</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-26)</p></h3><ol>
+<li>Go1.14 正式发布 <a href="https://mp.weixin.qq.com/s/XJ_bLY-joSkwE28bjo53rw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/XJ_bLY-joSkwE28bjo53rw</a>
+</li>
+<li>Go1.14 基于信号的抢占式调度实现原理 <a href="https://gocn.vip/topics/9884" rel="nofollow" target="_blank">https://gocn.vip/topics/9884</a>
+</li>
+<li>Go 高级并发 <a href="https://gocn.vip/topics/9883" rel="nofollow" target="_blank">https://gocn.vip/topics/9883</a>
+</li>
+<li>从零开始入门 K8s <a href="https://gocn.vip/topics/9873" rel="nofollow" target="_blank">https://gocn.vip/topics/9873</a>
+</li>
+<li>使用 gojsonq 来查询 JSON 字段 <a href="https://juejin.im/post/5e53e2efe51d4527196d5352" rel="nofollow" target="_blank">https://juejin.im/post/5e53e2efe51d4527196d5352</a>
+</li>
 </ol><hr><br>
