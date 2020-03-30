@@ -343,4 +343,10 @@
 </li>
 <li> 技术债务墙 <a href="http://verraes.net/2020/01/wall-of-technical-debt/" rel="nofollow" target="_blank">http://verraes.net/2020/01/wall-of-technical-debt/</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-08)</p></h3><ol>
+<li><p>Go 代码的高级调试技术<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//player.bilibili.com/player.html?aid=87482478" allowfullscreen=""></iframe></span>/</p></li>
+<li><p>Go 中必须谈论的四个迷点 <a href="https://segmentfault.com/a/1190000021699341" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021699341</a></p></li>
+<li><p>Go 每日一库之 log <a href="https://mp.weixin.qq.com/s/MivVpGY1RJWf0ZFt7HjcFg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/MivVpGY1RJWf0ZFt7HjcFg</a></p></li>
+<li><p>Golang 还是 Python？哪种语言更适合 AI？<a href="https://developer.51cto.com/art/202002/610136.htm" rel="nofollow" target="_blank">https://developer.51cto.com/art/202002/610136.htm</a></p></li>
+<li><p>golang 操作 redis5 大数据类型 <a href="https://segmentfault.com/a/1190000021702953" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021702953</a></p></li>
 </ol><hr><br>
