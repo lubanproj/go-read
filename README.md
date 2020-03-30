@@ -125,4 +125,15 @@
 </li>
 <li>API 网关和服务网格的区别 <a href="https://mp.weixin.qq.com/s/cdRjQdgaA6Z9x8UZgGTN2Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/cdRjQdgaA6Z9x8UZgGTN2Q</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-03-09)</p></h3><ol>
+<li>Go 1.14 中值得关注的几个变化 <a href="https://tonybai.com/2020/03/08/some-changes-in-go-1-14" rel="nofollow" target="_blank">https://tonybai.com/2020/03/08/some-changes-in-go-1-14</a>
+</li>
+<li>go-mir v2.0.0 发布，用 Go 结构体标签定义 handler 路由信息的辅助库 <a href="https://www.oschina.net/news/113908/go-mir-2-0-released" rel="nofollow" target="_blank">https://www.oschina.net/news/113908/go-mir-2-0-released</a>
+</li>
+<li>Go 防缓存击穿——singleflight <a href="https://segmentfault.com/a/1190000021949846" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021949846</a>
+</li>
+<li>Go Web 编程--如何确保 Cookie 数据的安全传输 <a href="https://segmentfault.com/a/1190000021949077" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021949077</a>
+</li>
+<li>TCP&amp;UDP 端口扫描器开源项目 <a href="https://github.com/R4yGM/netscanner" rel="nofollow" target="_blank">https://github.com/R4yGM/netscanner</a>
+</li>
 </ol><hr><br>
