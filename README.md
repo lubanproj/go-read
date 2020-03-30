@@ -179,4 +179,15 @@
 </li>
 <li>Go 实现的一种用于安全高效地构建，更改和版本控制基础设施 Terraform <a href="https://github.com/hashicorp/terraform" rel="nofollow" target="_blank">https://github.com/hashicorp/terraform</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-03-04)</p></h3><ol>
+<li>Go Web 编程: 模板库应用指南 <a href="https://segmentfault.com/a/1190000021908290" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021908290</a>
+</li>
+<li>Go 项目推荐结构 <a href="https://github.com/golang-standards/project-layout" rel="nofollow" target="_blank">https://github.com/golang-standards/project-layout</a>
+</li>
+<li>Golang 开发调试入门 <a href="https://gocn.vip/topics/9936" rel="nofollow" target="_blank">https://gocn.vip/topics/9936</a>
+</li>
+<li>Kubernetes 网络模型进阶 <a href="https://gocn.vip/topics/9932" rel="nofollow" target="_blank">https://gocn.vip/topics/9932</a>
+</li>
+<li>plot 一个绘图和数据可视化库 <a href="https://github.com/gonum/plot" rel="nofollow" target="_blank">https://github.com/gonum/plot</a>
+</li>
 </ol><hr><br>
