@@ -157,4 +157,15 @@
 </li>
 <li>RPC 和线程 <a href="https://qtmuniao.com/2020/03/06/6-824-video-notes-2" rel="nofollow" target="_blank">https://qtmuniao.com/2020/03/06/6-824-video-notes-2</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-03-06)</p></h3><ol>
+<li>TIOBE 3 月榜单：Go 挤进前十 <a href="https://gocn.vip/topics/9950" rel="nofollow" target="_blank">https://gocn.vip/topics/9950</a>
+</li>
+<li>Go 的方法集详解 <a href="https://mp.weixin.qq.com/s/sWDrVL0EsHzCDNDpGtpT-A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/sWDrVL0EsHzCDNDpGtpT-A</a>
+</li>
+<li>Go 内存安全之边界检查 <a href="https://medium.com/a-journey-with-go/go-memory-safety-with-bounds-check-1397bef748b5" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-memory-safety-with-bounds-check-1397bef748b5</a>
+</li>
+<li>通过 kubeedge 点亮树莓派的 LED 灯 <a href="https://github.com/kubeedge/examples/tree/master/led-raspberrypi" rel="nofollow" target="_blank">https://github.com/kubeedge/examples/tree/master/led-raspberrypi</a>
+</li>
+<li>plik: 一款开源的临时文件上传系统 <a href="https://github.com/root-gg/plik" rel="nofollow" target="_blank">https://github.com/root-gg/plik</a>
+</li>
 </ol><hr><br>
