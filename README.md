@@ -328,4 +328,10 @@
 </li>
 <li>动手做 Go 并发：生产消费模式 <a href="https://medium.com/@mottakin/hands-on-go-concurrency-the-producer-consumer-pattern-c42aab4e3bd2" rel="nofollow" target="_blank">https://medium.com/@mottakin/hands-on-go-concurrency-the-producer-consumer-pattern-c42aab4e3bd2</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-02-10)</p></h3><ol>
+<li><p>如果使用 Go 标准库制作个人 logo <a href="https://dev.to/andyhaskell/how-i-made-a-slick-personal-logo-with-go-s-standard-library-29j9" rel="nofollow" target="_blank">https://dev.to/andyhaskell/how-i-made-a-slick-personal-logo-with-go-s-standard-library-29j9</a></p></li>
+<li><p>记一次 golang 的内存泄露 <a href="https://www.cnblogs.com/CtripDBA/p/12289939.html" rel="nofollow" target="_blank">https://www.cnblogs.com/CtripDBA/p/12289939.html</a></p></li>
+<li><p>Go 每日一库之 logrus <a href="https://mp.weixin.qq.com/s/lO4hAjtwqY_YG3Q3Mz7qww" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/lO4hAjtwqY_YG3Q3Mz7qww</a></p></li>
+<li><p>Excelize 发布 2.1.0 版本, Go 语言 Excel 文档基础库 <a href="https://segmentfault.com/a/1190000021713641" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021713641</a></p></li>
+<li><p>Kubernetes 进阶：理解 CNI 和 CNI 插件 <a href="https://juejin.im/post/5e400116e51d4526c654b3a7" rel="nofollow" target="_blank">https://juejin.im/post/5e400116e51d4526c654b3a7</a></p></li>
 </ol><hr><br>
