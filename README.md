@@ -296,4 +296,15 @@
 </li>
 <li>Go 语言是如何运行的-链接器 <a href="https://mp.weixin.qq.com/s/_2y7oLfYftRxH8YTEm0qMw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/_2y7oLfYftRxH8YTEm0qMw</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-02-18）</p></h3><ol>
+<li>7 天用 Go 动手写/从零实现分布式缓存 GeeCache <a href="https://segmentfault.com/a/1190000021771865" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000021771865</a>
+</li>
+<li>图解 Go 内存管理 <a href="https://deepu.tech/memory-management-in-golang/" rel="nofollow" target="_blank">https://deepu.tech/memory-management-in-golang/</a>
+</li>
+<li>Micro 微服务框架系列教程 <a href="https://itnext.io/micro-in-action-getting-started-a79916ae3cac" rel="nofollow" target="_blank">https://itnext.io/micro-in-action-getting-started-a79916ae3cac</a>
+</li>
+<li>国密算法库 <a href="https://pkg.go.dev/mod/github.com/tjfoc/gmsm" rel="nofollow" target="_blank">https://pkg.go.dev/mod/github.com/tjfoc/gmsm</a>
+</li>
+<li>pkg.go.dev 将会开源 <a href="https://groups.google.com/forum/#!msg/golang-dev/mfiPCtJ1BGU/OZ9cU3SgBgAJ" rel="nofollow" target="_blank">https://groups.google.com/forum/#! msg/golang-dev/mfiPCtJ1BGU/OZ9cU3SgBgAJ</a>
+</li>
 </ol><hr><br>
