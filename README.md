@@ -4,7 +4,20 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<h3><p>GoCN 每日新闻 (2020-03-29)</p></h3><ol>
+<br>
+
+<h3><p>GoCN 每日新闻（2020-03-31）</p></h3><ol>
+<li>Go 处理 DataFrames <a href="https://mungingdata.com/go/dataframes-gota-qframe/" rel="nofollow" target="_blank">https://mungingdata.com/go/dataframes-gota-qframe/</a>
+</li>
+<li>选择 Rust 还是 Go ？<a href="https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/" rel="nofollow" target="_blank">https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/</a>
+</li>
+<li>使用 Go 和 K8s 构建 todo api <a href="https://medium.com/@alexellisuk/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029" rel="nofollow" target="_blank">https://medium.com/@alexellisuk/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029</a>
+</li>
+<li>使用 GoAdmin 极速搭建 golang 应用管理后台 <a href="https://segmentfault.com/a/1190000022215579" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022215579</a>
+</li>
+<li>Golang HTTP 服务平滑重启及升级 <a href="https://mp.weixin.qq.com/s/F-bmQcRwJEFcRhpWYEm-wg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/F-bmQcRwJEFcRhpWYEm-wg</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-03-29)</p></h3><ol>
 <li>Go 编译器指南 <a href="https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/" rel="nofollow" target="_blank">https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/</a>
 </li>
 <li>从 gRPC 的重试策略说起 <a href="https://gocn.vip/topics/10135" rel="nofollow" target="_blank">https://gocn.vip/topics/10135</a>
@@ -502,15 +515,4 @@
 </li>
 <li>如何在调试期间找到 Goroutines <a href="https://blog.jetbrains.com/go/2020/03/03/how-to-find-goroutines-during-debugging/" rel="nofollow" target="_blank">https://blog.jetbrains.com/go/2020/03/03/how-to-find-goroutines-during-debugging/</a>
 </li>
-</ol><hr><h3><p>GoCN 每日新闻（2020-03-31）</p></h3><ol>
-<li>Go 处理 DataFrames <a href="https://mungingdata.com/go/dataframes-gota-qframe/" rel="nofollow" target="_blank">https://mungingdata.com/go/dataframes-gota-qframe/</a>
-</li>
-<li>选择 Rust 还是 Go ？<a href="https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/" rel="nofollow" target="_blank">https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/</a>
-</li>
-<li>使用 Go 和 K8s 构建 todo api <a href="https://medium.com/@alexellisuk/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029" rel="nofollow" target="_blank">https://medium.com/@alexellisuk/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029</a>
-</li>
-<li>使用 GoAdmin 极速搭建 golang 应用管理后台 <a href="https://segmentfault.com/a/1190000022215579" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022215579</a>
-</li>
-<li>Golang HTTP 服务平滑重启及升级 <a href="https://mp.weixin.qq.com/s/F-bmQcRwJEFcRhpWYEm-wg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/F-bmQcRwJEFcRhpWYEm-wg</a>
-</li>
-</ol><hr><br>
+</ol>
