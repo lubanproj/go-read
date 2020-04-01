@@ -405,4 +405,14 @@
 </li>
 <li>使用 Gorilla Mux 和 PostgreSQL 在 Go 中构建和测试 REST API <a href="https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql" rel="nofollow" target="_blank">https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql</a>
 </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-03-21)</p></h3><ol>
+<li>golang 快速入门 [5.3]-go 语言是如何运行的-内存分配 <a href="https://gocn.vip/topics/10078" rel="nofollow" target="_blank">https://gocn.vip/topics/10078</a> </li>
+<li>gorm 介绍与展望 <a href="https://gocn.vip/topics/10074" rel="nofollow" target="_blank">https://gocn.vip/topics/10074</a>
+</li>
+<li>OPA 重新定义规则引擎-入门篇 <a href="https://gocn.vip/topics/10055" rel="nofollow" target="_blank">https://gocn.vip/topics/10055</a>
+</li>
+<li>十分钟学会用 Go 编写 Web 中间件 <a href="https://mp.weixin.qq.com/s/3DwHTa-9Bjxei9woi1qeCw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/3DwHTa-9Bjxei9woi1qeCw</a>
+</li>
+<li>Golang 连接池的几种实现案例 <a href="https://mp.weixin.qq.com/s/qWfci0XCfuNCeAVBoCDW7A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/qWfci0XCfuNCeAVBoCDW7A</a>
+</li>
 </ol><hr><br>
