@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br>
+<br><h3><p>GoCN 每日新闻 (2020-04-02)</p></h3><ol>
+<li>Go 的 web 框架 Fiber <a href="https://dev.to/koddr/are-sure-what-your-lovely-web-framework-running-so-fast-2jl1" rel="nofollow" target="_blank">https://dev.to/koddr/are-sure-what-your-lovely-web-framework-running-so-fast-2jl1</a>
+</li>
+<li>轻松搭建基于 Serverless 的 Go 应用 <a href="https://segmentfault.com/a/1190000022232683" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022232683</a>
+</li>
+<li>Go 操作 mysql 的笔记 <a href="https://dev.to/alchermd/heroku-go-with-mysql-notes-1221" rel="nofollow" target="_blank">https://dev.to/alchermd/heroku-go-with-mysql-notes-1221</a>
+</li>
+<li>Go 常量学习-可视化指南 <a href="https://mp.weixin.qq.com/s/L6ysPUCyYhAwL6PsKXykhQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/L6ysPUCyYhAwL6PsKXykhQ</a>
+</li>
+<li>浅谈图数据库 <a href="https://gocn.vip/topics/10164" rel="nofollow" target="_blank">https://gocn.vip/topics/10164</a>
+</li>
+</ol><hr>
 <h3><p>GoCN 每日新闻（2020-03-31）</p></h3><ol>
 <li>Go 处理 DataFrames <a href="https://mungingdata.com/go/dataframes-gota-qframe/" rel="nofollow" target="_blank">https://mungingdata.com/go/dataframes-gota-qframe/</a>
 </li>
