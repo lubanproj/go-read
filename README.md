@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-04)</p></h3><ol>
+<li>Go 语言源码贡献官方指导文档 <a href="https://gocn.vip/topics/10185" rel="nofollow" target="_blank">https://gocn.vip/topics/10185</a>
+</li>
+<li>golang 中的四种类型转换总结 <a href="https://gocn.vip/topics/10178" rel="nofollow" target="_blank">https://gocn.vip/topics/10178</a>
+</li>
+<li>Go 程序进行可靠的性能测试 <a href="https://gocn.vip/topics/10133" rel="nofollow" target="_blank">https://gocn.vip/topics/10133</a>
+</li>
+<li>一文看懂 IO 多路复用 <a href="https://gocn.vip/topics/10090" rel="nofollow" target="_blank">https://gocn.vip/topics/10090</a>
+</li>
+<li>图解 kubernetes 控制器 Deployment 核心机制 <a href="https://gocn.vip/topics/10174" rel="nofollow" target="_blank">https://gocn.vip/topics/10174</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-03)</p></h3><ol>
 <li>快速生成 Kubebuilder 风格的 Go 代码 <a href="https://banzaicloud.com/blog/generating-go-code/" rel="nofollow" target="_blank">https://banzaicloud.com/blog/generating-go-code/</a>
 </li>
 <li>Gitea1.11.4 发布了，修复了 12 个 bug <a href="https://gocn.vip/topics/10177" rel="nofollow" target="_blank">https://gocn.vip/topics/10177</a>
