@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-03)</p></h3><ol>
+<li>快速生成 Kubebuilder 风格的 Go 代码 <a href="https://banzaicloud.com/blog/generating-go-code/" rel="nofollow" target="_blank">https://banzaicloud.com/blog/generating-go-code/</a>
+</li>
+<li>Gitea1.11.4 发布了，修复了 12 个 bug <a href="https://gocn.vip/topics/10177" rel="nofollow" target="_blank">https://gocn.vip/topics/10177</a>
+</li>
+<li>使用 sqlmock 给 gorm 应用编写单元测试 <a href="https://medium.com/better-programming/how-to-unit-test-a-gorm-application-with-sqlmock-97ee73e36526" rel="nofollow" target="_blank">https://medium.com/better-programming/how-to-unit-test-a-gorm-application-with-sqlmock-97ee73e36526</a>
+</li>
+<li>kaf: 一个很赞的 kafka 命令行工具 <a href="https://github.com/birdayz/kaf" rel="nofollow" target="_blank">https://github.com/birdayz/kaf</a>
+</li>
+<li>gorpc: 一个简单，易用，高性能，可插拔的微服务框架 <a href="https://gocn.vip/topics/10175" rel="nofollow" target="_blank">https://gocn.vip/topics/10175</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-02)</p></h3><ol>
 <li>Go 的 web 框架 Fiber <a href="https://dev.to/koddr/are-sure-what-your-lovely-web-framework-running-so-fast-2jl1" rel="nofollow" target="_blank">https://dev.to/koddr/are-sure-what-your-lovely-web-framework-running-so-fast-2jl1</a>
 </li>
 <li>轻松搭建基于 Serverless 的 Go 应用 <a href="https://segmentfault.com/a/1190000022232683" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022232683</a>
