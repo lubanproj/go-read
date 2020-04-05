@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-04)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-05)</p></h3><ol>
+<li>gops 是怎么和 Go 的运行时进行交互的？ <a href="https://mp.weixin.qq.com/s/pFq_N5nLsJZwbnvViKwsjQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pFq_N5nLsJZwbnvViKwsjQ</a>
+</li>
+<li>通过构建一个 tcp 协议来理解 Go 中的字节 <a href="https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/" rel="nofollow" target="_blank">https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/</a>
+</li>
+<li>生成 Kubebuilder 风格的 Go 代码 <a href="https://banzaicloud.com/blog/generating-go-code/" rel="nofollow" target="_blank">https://banzaicloud.com/blog/generating-go-code/</a>
+</li>
+<li>Go 中的享元模式 <a href="https://medium.com/better-programming/the-flyweight-pattern-in-go-a0712764195a" rel="nofollow" target="_blank">https://medium.com/better-programming/the-flyweight-pattern-in-go-a0712764195a</a>
+</li>
+<li>那些常见的并发模型相关知识 <a href="https://mp.weixin.qq.com/s/5ZFAC1IWOGqPB2mClU05uQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/5ZFAC1IWOGqPB2mClU05uQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-04)</p></h3><ol>
 <li>Go 语言源码贡献官方指导文档 <a href="https://gocn.vip/topics/10185" rel="nofollow" target="_blank">https://gocn.vip/topics/10185</a>
 </li>
 <li>golang 中的四种类型转换总结 <a href="https://gocn.vip/topics/10178" rel="nofollow" target="_blank">https://gocn.vip/topics/10178</a>
