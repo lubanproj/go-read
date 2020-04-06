@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-06)</p>
+<br><h3><p>GoCN 每日新闻 (2020-04-06)</p></h3><ol>
+<li>SOLID 原则（Go 版本）--了解实际问题 <a href="https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3" rel="nofollow" target="_blank">https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3</a>
+</li>
+<li>使用 Go 理解 mysql 的两阶段提交 <a href="https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw</a>
+</li>
+<li>Socket Server 的 N 种并发模型汇总 <a href="https://gocn.vip/topics/10192" rel="nofollow" target="_blank">https://gocn.vip/topics/10192</a>
+</li>
+<li>使用多年的 go pprof 检查内存泄漏的方法居然是错的?! <a href="https://gocn.vip/topics/10189" rel="nofollow" target="_blank">https://gocn.vip/topics/10189</a>
+</li>
+<li>Nuclei 一个基于配置的目标扫描工具 <a href="https://github.com/projectdiscovery/nuclei" rel="nofollow" target="_blank">https://github.com/projectdiscovery/nuclei</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-06)</p>
 
 <ol>
 <li>SOLID 原则（Go 版本）--了解实际问题 <a href="https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3" rel="nofollow" target="_blank">https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3</a>
