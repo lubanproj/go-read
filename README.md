@@ -4,7 +4,15 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-06)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-07)</p></h3><ol>
+<li>Go ssh client: <a href="https://github.com/melbahja/goph" rel="nofollow" target="_blank">https://github.com/melbahja/goph</a> </li>
+<li>Go 依赖包校验工具：<a href="https://github.com/rakyll/govalidate" rel="nofollow" target="_blank">https://github.com/rakyll/govalidate</a> </li>
+<li>打造云原生大型分布式监控系统 (二): Thanos 架构详解 <a href="https://gocn.vip/topics/10195" rel="nofollow" target="_blank">https://gocn.vip/topics/10195</a>
+</li>
+<li>2020 年六大容器应用趋势: <a href="https://mp.weixin.qq.com/s/r9y-q8PFhOg4mreW5U68sg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/r9y-q8PFhOg4mreW5U68sg</a> </li>
+<li>分布式 ID 生成方案：<a href="https://colobu.com/2020/02/21/ID-generator/" rel="nofollow" target="_blank">https://colobu.com/2020/02/21/ID-generator/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-06)</p></h3><ol>
 <li>SOLID 原则（Go 版本）--了解实际问题 <a href="https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3" rel="nofollow" target="_blank">https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3</a>
 </li>
 <li>使用 Go 理解 mysql 的两阶段提交 <a href="https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw</a>
