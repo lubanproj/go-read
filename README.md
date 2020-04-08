@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-07)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-08)</p></h3><ol>
+<li>Go 快速入门 [9.2]-深入数组用法、陷阱与编译时 <a href="https://gocn.vip/topics/10201" rel="nofollow" target="_blank">https://gocn.vip/topics/10201</a>
+</li>
+<li>从零开始入门 K8s | 理解 RuntimeClass 与使用多容器运行时 <a href="https://gocn.vip/topics/10199" rel="nofollow" target="_blank">https://gocn.vip/topics/10199</a>
+</li>
+<li>纯 Go 编写的桌面端 redis 命令行工具 <a href="https://gocn.vip/topics/10196" rel="nofollow" target="_blank">https://gocn.vip/topics/10196</a>
+</li>
+<li>使用 Fiber 快速创建 API <a href="https://dev.to/jozsefsallai/creating-fast-apis-in-go-using-fiber-59m9" rel="nofollow" target="_blank">https://dev.to/jozsefsallai/creating-fast-apis-in-go-using-fiber-59m9</a>
+</li>
+<li>使用堆的代价 <a href="https://medium.com/invalid-memory/golang-cost-of-using-the-heap-e70363469754" rel="nofollow" target="_blank">https://medium.com/invalid-memory/golang-cost-of-using-the-heap-e70363469754</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-07)</p></h3><ol>
 <li>Go ssh client: <a href="https://github.com/melbahja/goph" rel="nofollow" target="_blank">https://github.com/melbahja/goph</a> </li>
 <li>Go 依赖包校验工具：<a href="https://github.com/rakyll/govalidate" rel="nofollow" target="_blank">https://github.com/rakyll/govalidate</a> </li>
 <li>打造云原生大型分布式监控系统 (二): Thanos 架构详解 <a href="https://gocn.vip/topics/10195" rel="nofollow" target="_blank">https://gocn.vip/topics/10195</a>
