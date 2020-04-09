@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-09)</p></h3><ol>
+<li>Go1.14.2/Go1.13.10 发布  <a href="https://gocn.vip/topics/10217" rel="nofollow" target="_blank">https://gocn.vip/topics/10217</a>
+</li>
+<li>Go 实现 Raft 第四篇：持久化和调优  &nbsp;<a href="https://mp.weixin.qq.com/s/azdjVpeTHkr4knajmdPtgw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/azdjVpeTHkr4knajmdPtgw</a>
+</li>
+<li>数据结构和算法 (Golang 实现)(16) 常见数据结构-字典  &nbsp;<a href="https://segmentfault.com/a/1190000022288698" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022288698</a>
+</li>
+<li>Golang 实现 Redis(4): AOF 持久化与 AOF 重写  <a href="http://www.cnblogs.com/Finley/p/12663636.html" rel="nofollow" target="_blank">http://www.cnblogs.com/Finley/p/12663636.html</a>
+</li>
+<li>使用 golang 理解 mysql 的两阶段提交  <a href="http://www.cnblogs.com/yjf512/p/12651310.html" rel="nofollow" target="_blank">http://www.cnblogs.com/yjf512/p/12651310.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-08)</p></h3><ol>
 <li>Go 快速入门 [9.2]-深入数组用法、陷阱与编译时 <a href="https://gocn.vip/topics/10201" rel="nofollow" target="_blank">https://gocn.vip/topics/10201</a>
 </li>
 <li>从零开始入门 K8s | 理解 RuntimeClass 与使用多容器运行时 <a href="https://gocn.vip/topics/10199" rel="nofollow" target="_blank">https://gocn.vip/topics/10199</a>
