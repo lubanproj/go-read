@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-09)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-15)</p></h3><ol>
+<li>Goimports 详解 <a href="https://nikodoko.com/posts/goimports_explained/" rel="nofollow" target="_blank">https://nikodoko.com/posts/goimports_explained/</a>
+</li>
+<li>go mod vendor 使用 <a href="https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html" rel="nofollow" target="_blank">https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html</a>
+</li>
+<li>Golang CLOSE WAIT 分析 <a href="https://mp.weixin.qq.com/s/sqBdycaClUixZQPgKy52Pw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/sqBdycaClUixZQPgKy52Pw</a>
+</li>
+<li>使用 Go 构建神经网络 <a href="https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3" rel="nofollow" target="_blank">https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3</a>
+</li>
+<li>3 个减小 Docker 镜像的简单技巧 <a href="https://mp.weixin.qq.com/s/UCm27by8Ro7NzFflsPISCQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/UCm27by8Ro7NzFflsPISCQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-09)</p></h3><ol>
 <li>Go1.14.2/Go1.13.10 发布  <a href="https://gocn.vip/topics/10217" rel="nofollow" target="_blank">https://gocn.vip/topics/10217</a>
 </li>
 <li>Go 实现 Raft 第四篇：持久化和调优  &nbsp;<a href="https://mp.weixin.qq.com/s/azdjVpeTHkr4knajmdPtgw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/azdjVpeTHkr4knajmdPtgw</a>
