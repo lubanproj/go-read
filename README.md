@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-15)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-16)</p></h3><ol>
+<li>Go 编码指南 <a href="https://thanos.io/contributing/coding-style-guide.md/" rel="nofollow" target="_blank">https://thanos.io/contributing/coding-style-guide.md/</a>
+</li>
+<li>Go 实现的 SSO 和 OAuth 登录解决方案 <a href="https://github.com/vouch/vouch-proxy" rel="nofollow" target="_blank">https://github.com/vouch/vouch-proxy</a>
+</li>
+<li>Go 中的 bit 位和位运算符 <a href="https://segmentfault.com/a/1190000022384519" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022384519</a>
+</li>
+<li>线性回归 Go 语言实现 <a href="https://gocn.vip/topics/10254" rel="nofollow" target="_blank">https://gocn.vip/topics/10254</a>
+</li>
+<li>Go 语言踩坑记 panic 与 recover <a href="https://juejin.im/post/5e97263c6fb9a03c97754ab7" rel="nofollow" target="_blank">https://juejin.im/post/5e97263c6fb9a03c97754ab7</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-15)</p></h3><ol>
 <li>Goimports 详解 <a href="https://nikodoko.com/posts/goimports_explained/" rel="nofollow" target="_blank">https://nikodoko.com/posts/goimports_explained/</a>
 </li>
 <li>go mod vendor 使用 <a href="https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html" rel="nofollow" target="_blank">https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html</a>
