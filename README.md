@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-16)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-17)</p></h3><ol>
+<li>使用 Golang 和 WebRTC 实战开源云游戏 <a href="https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/" rel="nofollow" target="_blank">https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/</a>
+</li>
+<li>为 Go 构建动态的探针 <a href="https://blog.sqreen.com/dynamic-instrumentation-go/" rel="nofollow" target="_blank">https://blog.sqreen.com/dynamic-instrumentation-go/</a>
+</li>
+<li>Go Lisp 解析器 <a href="https://github.com/mattn/golisp" rel="nofollow" target="_blank">https://github.com/mattn/golisp</a>
+</li>
+<li>GeoDB:一款可持久化的地理数据库 <a href="https://github.com/autom8ter/geodb" rel="nofollow" target="_blank">https://github.com/autom8ter/geodb</a>
+</li>
+<li>testcase:一款 Go TDD 测试框架 <a href="https://github.com/adamluzsi/testcase" rel="nofollow" target="_blank">https://github.com/adamluzsi/testcase</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-16)</p></h3><ol>
 <li>Go 编码指南 <a href="https://thanos.io/contributing/coding-style-guide.md/" rel="nofollow" target="_blank">https://thanos.io/contributing/coding-style-guide.md/</a>
 </li>
 <li>Go 实现的 SSO 和 OAuth 登录解决方案 <a href="https://github.com/vouch/vouch-proxy" rel="nofollow" target="_blank">https://github.com/vouch/vouch-proxy</a>
