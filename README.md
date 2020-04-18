@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-17)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-18)</p></h3><ol>
+<li>Golang CLOSE WAIT 分析 <a href="https://gocn.vip/topics/10245" rel="nofollow" target="_blank">https://gocn.vip/topics/10245</a>
+</li>
+<li>MOSN 扩展机制解析 <a href="https://gocn.vip/topics/10248" rel="nofollow" target="_blank">https://gocn.vip/topics/10248</a>
+</li>
+<li>超详细 Go 语言源码目录说明 <a href="https://segmentfault.com/a/1190000022396146" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022396146</a>
+</li>
+<li>如何创建可测试的 Go 代码 <a href="https://engineering.kablamo.com.au/posts/2020/testing-go" rel="nofollow" target="_blank">https://engineering.kablamo.com.au/posts/2020/testing-go</a>
+</li>
+<li>根据 OpenAPI2（swagger）定义生成 Golang 客户端和服务器 <a href="https://github.com/ExperienceOne/apikit" rel="nofollow" target="_blank">https://github.com/ExperienceOne/apikit</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-17)</p></h3><ol>
 <li>使用 Golang 和 WebRTC 实战开源云游戏 <a href="https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/" rel="nofollow" target="_blank">https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/</a>
 </li>
 <li>为 Go 构建动态的探针 <a href="https://blog.sqreen.com/dynamic-instrumentation-go/" rel="nofollow" target="_blank">https://blog.sqreen.com/dynamic-instrumentation-go/</a>
