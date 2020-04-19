@@ -4,7 +4,16 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-18)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-19)</p></h3><ol>
+<li>记一次奇妙的 go-protobuf 包升级之旅 <a href="https://gocn.vip/topics/10269" rel="nofollow" target="_blank">https://gocn.vip/topics/10269</a>
+</li>
+<li>OPA 进阶-分布式利器 Bundle <a href="https://gocn.vip/topics/10268" rel="nofollow" target="_blank">https://gocn.vip/topics/10268</a>
+</li>
+<li>Slack 是如何做部署的 <a href="https://slack.engineering/deploys-at-slack-cd0d28c61701" rel="nofollow" target="_blank">https://slack.engineering/deploys-at-slack-cd0d28c61701</a>
+</li>
+<li>面向分层架构的 Go orm rel <a href="https://github.com/Fs02/rel" rel="nofollow" target="_blank">https://github.com/Fs02/rel</a> </li>
+<li>Go 中的元编程 <a href="https://levelup.gitconnected.com/metaprogram-in-go-5a2a7e989613" rel="nofollow" target="_blank">https://levelup.gitconnected.com/metaprogram-in-go-5a2a7e989613</a> </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-18)</p></h3><ol>
 <li>Golang CLOSE WAIT 分析 <a href="https://gocn.vip/topics/10245" rel="nofollow" target="_blank">https://gocn.vip/topics/10245</a>
 </li>
 <li>MOSN 扩展机制解析 <a href="https://gocn.vip/topics/10248" rel="nofollow" target="_blank">https://gocn.vip/topics/10248</a>
