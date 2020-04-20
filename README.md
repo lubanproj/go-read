@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-19)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-20)</p></h3><ol>
+<li>使用 Go 构建 JSON 解析器和查询工具 <a href="https://medium.com/@bradford_hamilton/building-a-json-parser-and-query-tool-with-go-8790beee239a" rel="nofollow" target="_blank">https://medium.com/@bradford_hamilton/building-a-json-parser-and-query-tool-with-go-8790beee239a</a>
+</li>
+<li>使用 Go 作为 Linux 的脚本语言 <a href="https://dev.to/ignatk/using-go-as-a-scripting-language-in-linux-4c8c" rel="nofollow" target="_blank">https://dev.to/ignatk/using-go-as-a-scripting-language-in-linux-4c8c</a>
+</li>
+<li>打造云原生大型分布式监控系统 (三): Thanos 部署与实践 <a href="https://gocn.vip/topics/10272" rel="nofollow" target="_blank">https://gocn.vip/topics/10272</a>
+</li>
+<li>从 graphql-go 转换到 gqlgen <a href="https://gocn.vip/topics/10265" rel="nofollow" target="_blank">https://gocn.vip/topics/10265</a>
+</li>
+<li>IOT 云平台开源项目之 go-ocf/cloud  <a href="https://github.com/go-ocf/cloud" rel="nofollow" target="_blank">https://github.com/go-ocf/cloud</a> </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-19)</p></h3><ol>
 <li>记一次奇妙的 go-protobuf 包升级之旅 <a href="https://gocn.vip/topics/10269" rel="nofollow" target="_blank">https://gocn.vip/topics/10269</a>
 </li>
 <li>OPA 进阶-分布式利器 Bundle <a href="https://gocn.vip/topics/10268" rel="nofollow" target="_blank">https://gocn.vip/topics/10268</a>
