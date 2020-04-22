@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-20)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-22)</p></h3><ol>
+<li>2020 中国 Go 开发者调查报告 <a href="https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg</a> </li>
+<li>记一次使用第三方库的坑 <a href="https://gocn.vip/topics/10280" rel="nofollow" target="_blank">https://gocn.vip/topics/10280</a>
+</li>
+<li>Argo 项目入驻 CNCF，一文解析 Kubernetes 原生工作流 <a href="https://gocn.vip/topics/10282" rel="nofollow" target="_blank">https://gocn.vip/topics/10282</a>
+</li>
+<li>我用 GO 写了一个 2D 的 RPG 游戏 <a href="https://dev.to/ajinkyax/i-built-a-2d-rpg-game-in-go-golang-iei" rel="nofollow" target="_blank">https://dev.to/ajinkyax/i-built-a-2d-rpg-game-in-go-golang-iei</a>
+</li>
+<li>使用 apitest 测试你的 API <a href="https://dev.to/codenation/testing-apis-in-golang-using-apitest-1860" rel="nofollow" target="_blank">https://dev.to/codenation/testing-apis-in-golang-using-apitest-1860</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-20)</p></h3><ol>
 <li>使用 Go 构建 JSON 解析器和查询工具 <a href="https://medium.com/@bradford_hamilton/building-a-json-parser-and-query-tool-with-go-8790beee239a" rel="nofollow" target="_blank">https://medium.com/@bradford_hamilton/building-a-json-parser-and-query-tool-with-go-8790beee239a</a>
 </li>
 <li>使用 Go 作为 Linux 的脚本语言 <a href="https://dev.to/ignatk/using-go-as-a-scripting-language-in-linux-4c8c" rel="nofollow" target="_blank">https://dev.to/ignatk/using-go-as-a-scripting-language-in-linux-4c8c</a>
