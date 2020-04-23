@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-04-23)</p></h3><ol>
+<li>golang 快速入门 [9.3]-精深奥妙的切片功夫  &nbsp;<a href="http://suo.im/5Xo3FZ" rel="nofollow" target="_blank">http://suo.im/5Xo3FZ</a>
+</li>
+<li>Go gRPC 进阶-go-grpc-middleware 使用（八） <a href="https://www.cnblogs.com/FireworksEasyCool/p/12750339.html" rel="nofollow" target="_blank">https://www.cnblogs.com/FireworksEasyCool/p/12750339.html</a>
+</li>
+<li>Golang context 源码阅读与分析  &nbsp;<a href="https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html" rel="nofollow" target="_blank">https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html</a>
+</li>
+<li>Go 使用 gdb 调试  &nbsp;<a href="https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html" rel="nofollow" target="_blank">https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html</a>
+</li>
+<li>淘宝云梯分布式计算平台架构  <a href="https://mp.weixin.qq.com/s/phFuqPdOY3r6k1JnPHBjww" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/phFuqPdOY3r6k1JnPHBjww</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-22)</p></h3><ol>
 <li>2020 中国 Go 开发者调查报告 <a href="https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg</a> </li>
 <li>记一次使用第三方库的坑 <a href="https://gocn.vip/topics/10280" rel="nofollow" target="_blank">https://gocn.vip/topics/10280</a>
 </li>
