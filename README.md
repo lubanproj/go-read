@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-04-23)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-03)</p></h3><ol>
+<li>Go 中的堆栈内联 <a href="https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go" rel="nofollow" target="_blank">https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go</a>
+</li>
+<li>纯 Go 和 Flutter 的分布式 RTC 系统 <a href="https://github.com/pion/ion" rel="nofollow" target="_blank">https://github.com/pion/ion</a>
+</li>
+<li>UDP 可靠协议 KCP 的 Go 语言实现 <a href="https://github.com/shaoyuan1943/gokcp" rel="nofollow" target="_blank">https://github.com/shaoyuan1943/gokcp</a>
+</li>
+<li>如何判断 Golang 接口是否实现 <a href="https://juejin.im/post/5eac17fc5188256d86196ebb" rel="nofollow" target="_blank">https://juejin.im/post/5eac17fc5188256d86196ebb</a>
+</li>
+<li>Go 内存管理 <a href="https://zhuanlan.zhihu.com/p/27807169" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/27807169</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-04-23)</p></h3><ol>
 <li>golang 快速入门 [9.3]-精深奥妙的切片功夫  &nbsp;<a href="http://suo.im/5Xo3FZ" rel="nofollow" target="_blank">http://suo.im/5Xo3FZ</a>
 </li>
 <li>Go gRPC 进阶-go-grpc-middleware 使用（八） <a href="https://www.cnblogs.com/FireworksEasyCool/p/12750339.html" rel="nofollow" target="_blank">https://www.cnblogs.com/FireworksEasyCool/p/12750339.html</a>
