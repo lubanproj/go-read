@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-04)</p></h3><ol>
+<li>记一次对 dubbo-go-hessian2 的性能优化 <a href="https://gocn.vip/topics/10339" rel="nofollow" target="_blank">https://gocn.vip/topics/10339</a>
+</li>
+<li>只需四步,后台化你的程序 <a href="https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/" rel="nofollow" target="_blank">https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/</a>
+</li>
+<li>使用 kubebuilder 快速搭建 k8s operator <a href="https://medium.com/@arbaazkhan083/building-kubernetes-operator-using-kubebuilder-bb52fbd8238" rel="nofollow" target="_blank">https://medium.com/@arbaazkhan083/building-kubernetes-operator-using-kubebuilder-bb52fbd8238</a>
+</li>
+<li>用 Go+React 实现游戏 Codenames <a href="https://github.com/rodohanna/OpenCodenames" rel="nofollow" target="_blank">https://github.com/rodohanna/OpenCodenames</a>
+</li>
+<li>chippy: 一款 Chip-8 模拟器 <a href="https://github.com/bradford-hamilton/chippy" rel="nofollow" target="_blank">https://github.com/bradford-hamilton/chippy</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-03)</p></h3><ol>
 <li>Go 中的堆栈内联 <a href="https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go" rel="nofollow" target="_blank">https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go</a>
 </li>
 <li>纯 Go 和 Flutter 的分布式 RTC 系统 <a href="https://github.com/pion/ion" rel="nofollow" target="_blank">https://github.com/pion/ion</a>
