@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-04)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-05)</p></h3><ol>
+<li>Goroutine 的创建与销毁 <a href="https://www.jianshu.com/p/181dc7845bb8" rel="nofollow" target="_blank">https://www.jianshu.com/p/181dc7845bb8</a>
+</li>
+<li>Golang Context 原理与实战 <a href="https://segmentfault.com/a/1190000022534841" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022534841</a>
+</li>
+<li>Go 语言 sync 包的应用详解 <a href="https://segmentfault.com/a/1190000022545889" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022545889</a>
+</li>
+<li>Go：defer 语句如何工作 <a href="https://medium.com/a-journey-with-go/go-how-does-defer-statement-work-1a9492689b6e" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-how-does-defer-statement-work-1a9492689b6e</a>
+</li>
+<li>Go：通过 GODEBUG 提升对协程的利用 <a href="https://medium.com/a-journey-with-go/go-improve-the-usage-of-your-goroutines-with-godebug-4d1f33970c33" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-improve-the-usage-of-your-goroutines-with-godebug-4d1f33970c33</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-04)</p></h3><ol>
 <li>记一次对 dubbo-go-hessian2 的性能优化 <a href="https://gocn.vip/topics/10339" rel="nofollow" target="_blank">https://gocn.vip/topics/10339</a>
 </li>
 <li>只需四步,后台化你的程序 <a href="https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/" rel="nofollow" target="_blank">https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/</a>
