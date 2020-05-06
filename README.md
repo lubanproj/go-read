@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-05)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-06)</p></h3><ol>
+<li>Go 1.15 将有什么变化 <a href="https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g550f852d27_228_0" rel="nofollow" target="_blank">https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g550f852d27_228_0</a>
+</li>
+<li>编写可测试的 Go 代码<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/q1FeRvC82j0" allowfullscreen=""></iframe></span>
+</li>
+<li>分布式 websocket 代理 dSock <a href="https://github.com/Cretezy/dSock" rel="nofollow" target="_blank">https://github.com/Cretezy/dSock</a>
+</li>
+<li>我优化 Go 编译器的旅程 <a href="https://segflow.github.io/post/go-compiler-optimization/" rel="nofollow" target="_blank">https://segflow.github.io/post/go-compiler-optimization/</a> </li>
+<li>在 Go 中嵌入结构和接口打破了模块化和语义版本控制 <a href="https://benma.github.io/2020/05/05/golang-embeding-structs-breaks-modularity.html" rel="nofollow" target="_blank">https://benma.github.io/2020/05/05/golang-embeding-structs-breaks-modularity.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-05)</p></h3><ol>
 <li>Goroutine 的创建与销毁 <a href="https://www.jianshu.com/p/181dc7845bb8" rel="nofollow" target="_blank">https://www.jianshu.com/p/181dc7845bb8</a>
 </li>
 <li>Golang Context 原理与实战 <a href="https://segmentfault.com/a/1190000022534841" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022534841</a>
