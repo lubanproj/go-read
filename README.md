@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-06)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-07)</p></h3><ol>
+<li>使用 Go 构建命令行接口 <a href="https://medium.com/@bijeshos/building-command-line-interfaces-using-go-ce6a75d60bf5" rel="nofollow" target="_blank">https://medium.com/@bijeshos/building-command-line-interfaces-using-go-ce6a75d60bf5</a>
+</li>
+<li>使用 pprof 收集采样信息 <a href="https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142</a>
+</li>
+<li>学会使用 context 取消 goroutine 执行的方法 <a href="https://mp.weixin.qq.com/s/rf5ZrDZKRJquW3T_1VvcYg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/rf5ZrDZKRJquW3T_1VvcYg</a>
+</li>
+<li>给 Gopher 使用的 WASM 虚拟机 <a href="https://github.com/mathetake/gasm" rel="nofollow" target="_blank">https://github.com/mathetake/gasm</a>
+</li>
+<li>深入 TLS/SSL 协议 <a href="https://juejin.im/post/5eb21f06e51d454d8e56abf3" rel="nofollow" target="_blank">https://juejin.im/post/5eb21f06e51d454d8e56abf3</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-06)</p></h3><ol>
 <li>Go 1.15 将有什么变化 <a href="https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g550f852d27_228_0" rel="nofollow" target="_blank">https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g550f852d27_228_0</a>
 </li>
 <li>编写可测试的 Go 代码<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/q1FeRvC82j0" allowfullscreen=""></iframe></span>
