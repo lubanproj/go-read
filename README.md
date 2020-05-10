@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-07)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-10)</p></h3><ol>
+<li>通过禁止比较来减少 Go 编译文件的大小 <a href="https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons" rel="nofollow" target="_blank">https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons</a>
+</li>
+<li>深入浅出 go ast <a href="https://nakabonne.dev/posts/take-a-walk-the-go-ast/" rel="nofollow" target="_blank">https://nakabonne.dev/posts/take-a-walk-the-go-ast/</a>
+</li>
+<li>命令行工具 for Go linters <a href="https://github.com/nakabonne/golintui" rel="nofollow" target="_blank">https://github.com/nakabonne/golintui</a>
+</li>
+<li>Go 实现的不可更改 kv 数据库 <a href="https://github.com/codenotary/immudb" rel="nofollow" target="_blank">https://github.com/codenotary/immudb</a>
+</li>
+<li>Go 如何作为脚本语言使用 <a href="https://www.infoq.com/news/2020/04/go-scripting-language/" rel="nofollow" target="_blank">https://www.infoq.com/news/2020/04/go-scripting-language/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-07)</p></h3><ol>
 <li>使用 Go 构建命令行接口 <a href="https://medium.com/@bijeshos/building-command-line-interfaces-using-go-ce6a75d60bf5" rel="nofollow" target="_blank">https://medium.com/@bijeshos/building-command-line-interfaces-using-go-ce6a75d60bf5</a>
 </li>
 <li>使用 pprof 收集采样信息 <a href="https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142</a>
