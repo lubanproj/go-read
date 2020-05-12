@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-10)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-12)</p></h3><ol>
+<li> 调试 golang 的 bug 以及性能问题的实践方法  &nbsp;&nbsp;<a href="http://team.jiunile.com/blog/2020/05/go-debug-practice.html" rel="nofollow" target="_blank">http://team.jiunile.com/blog/2020/05/go-debug-practice.html</a>
+</li>
+<li> 用 Go 替代 Python 在生产环境中进行数据分析  &nbsp;<a href="https://blog.csdn.net/shendl/article/details/106044415" rel="nofollow" target="_blank">https://blog.csdn.net/shendl/article/details/106044415</a>
+</li>
+<li> 使用 go race 排查 protobuf Marshal Panic   &nbsp;<a href="https://www.cyningsun.com/05-11-2020/proto-marshal-panic.html" rel="nofollow" target="_blank">https://www.cyningsun.com/05-11-2020/proto-marshal-panic.html</a>
+</li>
+<li> Go 语言中的类型断言是什么？ <a href="https://juejin.im/post/5eb8a2b15188256d3c52ddfc" rel="nofollow" target="_blank">https://juejin.im/post/5eb8a2b15188256d3c52ddfc</a>
+</li>
+<li> 酷家乐服务网格与 Serverless 落地情况 <a href="https://mp.weixin.qq.com/s/KNuQQkFdKsZL99ukReeLfQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/KNuQQkFdKsZL99ukReeLfQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-10)</p></h3><ol>
 <li>通过禁止比较来减少 Go 编译文件的大小 <a href="https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons" rel="nofollow" target="_blank">https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons</a>
 </li>
 <li>深入浅出 go ast <a href="https://nakabonne.dev/posts/take-a-walk-the-go-ast/" rel="nofollow" target="_blank">https://nakabonne.dev/posts/take-a-walk-the-go-ast/</a>
