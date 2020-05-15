@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-12)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-05-15)</h3><ol>
+<li>Go 1.14.3 和 Go 1.13.11 发布 <a href="https://mp.weixin.qq.com/s/rUaKoU08Xxc9pfXyO1f8Wg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/rUaKoU08Xxc9pfXyO1f8Wg</a>
+</li>
+<li>详解 Go 语言的计时器 <a href="https://segmentfault.com/a/1190000022646776" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022646776</a>
+</li>
+<li>微服务业务架构的探索 <a href="https://gocn.vip/topics/10388" rel="nofollow" target="_blank">https://gocn.vip/topics/10388</a> </li>
+<li>推荐一款超 Geek 的代码搜索工具！<a href="https://mp.weixin.qq.com/s/tJm0d1ZW3_9PViK3S8xgrw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/tJm0d1ZW3_9PViK3S8xgrw</a>
+</li>
+<li>Golang 性能优化实战 <a href="https://mp.weixin.qq.com/s/ogtRE_LbllN2Tla97LnFrQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ogtRE_LbllN2Tla97LnFrQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-12)</p></h3><ol>
 <li> 调试 golang 的 bug 以及性能问题的实践方法  &nbsp;&nbsp;<a href="http://team.jiunile.com/blog/2020/05/go-debug-practice.html" rel="nofollow" target="_blank">http://team.jiunile.com/blog/2020/05/go-debug-practice.html</a>
 </li>
 <li> 用 Go 替代 Python 在生产环境中进行数据分析  &nbsp;<a href="https://blog.csdn.net/shendl/article/details/106044415" rel="nofollow" target="_blank">https://blog.csdn.net/shendl/article/details/106044415</a>
