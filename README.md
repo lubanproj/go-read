@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-05-15)</h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-21)</p></h3><ol>
+<li>Go 中的循环是如何转为汇编的 <a href="https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3</a>
+</li>
+<li>Go 中的 Goroutine 和抢占 <a href="https://medium.com/a-journey-with-go/go-goroutine-and-preemption-d6bc2aa2f4b7" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-goroutine-and-preemption-d6bc2aa2f4b7</a>
+</li>
+<li>Rust 开发对 Go 印象 <a href="https://medium.com/better-programming/early-impressions-of-go-from-a-rust-programmer-f4fd1074c410" rel="nofollow" target="_blank">https://medium.com/better-programming/early-impressions-of-go-from-a-rust-programmer-f4fd1074c410</a>
+</li>
+<li>支持读写分离和嵌套复杂 SQL 的 Golang ORM 库 <a href="https://github.com/rushteam/gosql" rel="nofollow" target="_blank">https://github.com/rushteam/gosql</a>
+</li>
+<li>Go 中的构造函数 <a href="https://medium.com/@j7mbo/constructors-in-go-b1d1513e1c1d" rel="nofollow" target="_blank">https://medium.com/@j7mbo/constructors-in-go-b1d1513e1c1d</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-05-15)</h3><ol>
 <li>Go 1.14.3 和 Go 1.13.11 发布 <a href="https://mp.weixin.qq.com/s/rUaKoU08Xxc9pfXyO1f8Wg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/rUaKoU08Xxc9pfXyO1f8Wg</a>
 </li>
 <li>详解 Go 语言的计时器 <a href="https://segmentfault.com/a/1190000022646776" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022646776</a>
