@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-21)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-22)</p></h3><ol>
+<li>go-mysql-driver 的三个 bugs <a href="https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/" rel="nofollow" target="_blank">https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/</a>
+</li>
+<li>json 处理加速优化实战 <a href="https://klotzandrew.com/blog/speeding-up-json-processing-in-go" rel="nofollow" target="_blank">https://klotzandrew.com/blog/speeding-up-json-processing-in-go</a>
+</li>
+<li>dubbo-go 可信调用实现 <a href="https://gocn.vip/topics/10430" rel="nofollow" target="_blank">https://gocn.vip/topics/10430</a>
+</li>
+<li>olivia: 基于人工神经网络的聊天机器人 <a href="https://github.com/olivia-ai/olivia" rel="nofollow" target="_blank">https://github.com/olivia-ai/olivia</a>
+</li>
+<li>gosdlisp: Go lisp 解析器 <a href="https://github.com/d-tsuji/gosdlisp" rel="nofollow" target="_blank">https://github.com/d-tsuji/gosdlisp</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-21)</p></h3><ol>
 <li>Go 中的循环是如何转为汇编的 <a href="https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3</a>
 </li>
 <li>Go 中的 Goroutine 和抢占 <a href="https://medium.com/a-journey-with-go/go-goroutine-and-preemption-d6bc2aa2f4b7" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-goroutine-and-preemption-d6bc2aa2f4b7</a>
