@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-23)</p></h3><ol>
+<li>从零开始入门 K8s | 应用配置管理 <a href="https://gocn.vip/topics/10419" rel="nofollow" target="_blank">https://gocn.vip/topics/10419</a>
+</li>
+<li>sync.pool 源码阅读 <a href="https://gocn.vip/topics/10396" rel="nofollow" target="_blank">https://gocn.vip/topics/10396</a>
+</li>
+<li>我可能并不会使用 golang goroutine <a href="https://juejin.im/post/5ec72e0951882542f346e672" rel="nofollow" target="_blank">https://juejin.im/post/5ec72e0951882542f346e672</a>
+</li>
+<li>Go 中 LDAP 入门 <a href="https://cybernetist.com/2020/05/18/getting-started-with-go-ldap" rel="nofollow" target="_blank">https://cybernetist.com/2020/05/18/getting-started-with-go-ldap</a>
+</li>
+<li>在 Go 中构建由 Redis 支持的 REST API <a href="https://medium.com/@mhewedy_46874/building-rest-api-backed-by-redis-ae8ff4818460" rel="nofollow" target="_blank">https://medium.com/@mhewedy_46874/building-rest-api-backed-by-redis-ae8ff4818460</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-22)</p></h3><ol>
 <li>go-mysql-driver 的三个 bugs <a href="https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/" rel="nofollow" target="_blank">https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/</a>
 </li>
 <li>json 处理加速优化实战 <a href="https://klotzandrew.com/blog/speeding-up-json-processing-in-go" rel="nofollow" target="_blank">https://klotzandrew.com/blog/speeding-up-json-processing-in-go</a>
