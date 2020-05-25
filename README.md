@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-23)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-25)</p></h3><ol>
+<li>byte 数组和 io.Reader 对比 <a href="https://philpearl.github.io/post/reader" rel="nofollow" target="_blank">https://philpearl.github.io/post/reader</a>
+</li>
+<li>使用 Go、Websockets、Redis 构建聊天服务示例 <a href="https://medium.com/@mhewedy_46874/building-chat-service-in-golang-and-websockets-backed-by-redis-b42a8784636c" rel="nofollow" target="_blank">https://medium.com/@mhewedy_46874/building-chat-service-in-golang-and-websockets-backed-by-redis-b42a8784636c</a>
+</li>
+<li>Golang 源码学习：调度逻辑（一）初始化 <a href="https://www.cnblogs.com/flhs/p/12657348.html" rel="nofollow" target="_blank">https://www.cnblogs.com/flhs/p/12657348.html</a>
+</li>
+<li>一个基于 gRPC 的内存级 KV 缓存类库 <a href="https://github.com/knrt10/gRPC-cache" rel="nofollow" target="_blank">https://github.com/knrt10/gRPC-cache</a>
+</li>
+<li>一个基于 Go http 中间件的故障注入类库 <a href="https://github.com/github/go-fault" rel="nofollow" target="_blank">https://github.com/github/go-fault</a> </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-23)</p></h3><ol>
 <li>从零开始入门 K8s | 应用配置管理 <a href="https://gocn.vip/topics/10419" rel="nofollow" target="_blank">https://gocn.vip/topics/10419</a>
 </li>
 <li>sync.pool 源码阅读 <a href="https://gocn.vip/topics/10396" rel="nofollow" target="_blank">https://gocn.vip/topics/10396</a>
