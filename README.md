@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-05-25)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-05-26)</p></h3><ol>
+<li>Mr.Go 会客厅隆重上线，技术之余我们也聊聊成长 <a href="https://gocn.vip/topics/10442" rel="nofollow" target="_blank">https://gocn.vip/topics/10442</a><br>
+</li>
+<li>面试官让我用 channel 实现 sync 包里的同步锁，是不是故意为难我？ <a href="https://juejin.im/post/5ec604ea6fb9a047aa65e3b5" rel="nofollow" target="_blank">https://juejin.im/post/5ec604ea6fb9a047aa65e3b5</a><br>
+</li>
+<li>Go 有多快 <a href="https://medium.com/swlh/how-fast-is-golang-135c658205eb" rel="nofollow" target="_blank">https://medium.com/swlh/how-fast-is-golang-135c658205eb</a><br>
+</li>
+<li>使用 delve 调试 Go <a href="https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9</a><br>
+</li>
+<li>如何使用 Istio 进行多集群部署管理：多控制平面 <a href="https://gocn.vip/topics/10446" rel="nofollow" target="_blank">https://gocn.vip/topics/10446</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-05-25)</p></h3><ol>
 <li>byte 数组和 io.Reader 对比 <a href="https://philpearl.github.io/post/reader" rel="nofollow" target="_blank">https://philpearl.github.io/post/reader</a>
 </li>
 <li>使用 Go、Websockets、Redis 构建聊天服务示例 <a href="https://medium.com/@mhewedy_46874/building-chat-service-in-golang-and-websockets-backed-by-redis-b42a8784636c" rel="nofollow" target="_blank">https://medium.com/@mhewedy_46874/building-chat-service-in-golang-and-websockets-backed-by-redis-b42a8784636c</a>
