@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-06-06）</p></h3><ol>
+<li>基于 DDD 的 golang 实现 <a href="https://mp.weixin.qq.com/s/eAkPppXIWI-Ba-k2609PCg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/eAkPppXIWI-Ba-k2609PCg</a>
+</li>
+<li>基于 golang+lua 的 Web 日志安全分析系统 <a href="https://www.freebuf.com/sectool/238366.html" rel="nofollow" target="_blank">https://www.freebuf.com/sectool/238366.html</a>
+</li>
+<li>Go 并发编程里的数据竞争以及解决之道 <a href="https://mp.weixin.qq.com/s/PamOn3HGz3VHpIyGb5ZNaw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/PamOn3HGz3VHpIyGb5ZNaw</a>
+</li>
+<li>不要轻易使用 Alpine 镜像来构建 Docker 镜像 <a href="https://mp.weixin.qq.com/s/iI0PU6r5vpJ7Pl41b7d1aA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/iI0PU6r5vpJ7Pl41b7d1aA</a>
+</li>
+<li>使用 Go 开发的高并发网络扫描、服务探测工具 <a href="https://github.com/Adminisme/ServerScan" rel="nofollow" target="_blank">https://github.com/Adminisme/ServerScan</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-02)</p></h3><ol>
 <li>Go 1.14.4 和 1.13.12 版本发布 <a href="https://golangnews.org/2020/06/go-1-14-4-and-go-1-13-12-are-released/" rel="nofollow" target="_blank">https://golangnews.org/2020/06/go-1-14-4-and-go-1-13-12-are-released/</a>
 </li>
 <li>自动参数绑定中间件 <a href="https://gocn.vip/topics/10488" rel="nofollow" target="_blank">https://gocn.vip/topics/10488</a>
