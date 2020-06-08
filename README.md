@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-06-06）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-08)</p></h3><ol>
+<li>为什么容器内存占用居高不下，频频 OOM <a href="https://gocn.vip/topics/10510" rel="nofollow" target="_blank">https://gocn.vip/topics/10510</a>
+</li>
+<li>从入门到掉坑：Go 内存池/对象池技术介绍 <a href="https://mp.weixin.qq.com/s/SWfPV6tUC5olZgIdVabd3A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/SWfPV6tUC5olZgIdVabd3A</a>
+</li>
+<li>无需依赖包,在 Go 中实现 future <a href="https://appliedgo.net/futures/" rel="nofollow" target="_blank">https://appliedgo.net/futures/</a>
+</li>
+<li>字节跳动自研强一致在线 KV &amp;表格存储实践-下篇 <a href="https://mp.weixin.qq.com/s/DvUBnWBqb0XGnicKUb-iqg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/DvUBnWBqb0XGnicKUb-iqg</a>
+</li>
+<li>pike:通过 YAML 文件自动生成 gRPC CRUD 服务 <a href="https://github.com/sashabaranov/pike/" rel="nofollow" target="_blank">https://github.com/sashabaranov/pike/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-06-06）</p></h3><ol>
 <li>基于 DDD 的 golang 实现 <a href="https://mp.weixin.qq.com/s/eAkPppXIWI-Ba-k2609PCg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/eAkPppXIWI-Ba-k2609PCg</a>
 </li>
 <li>基于 golang+lua 的 Web 日志安全分析系统 <a href="https://www.freebuf.com/sectool/238366.html" rel="nofollow" target="_blank">https://www.freebuf.com/sectool/238366.html</a>
