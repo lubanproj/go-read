@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-09)</p></h3><ol>
+<li>Go CLIs 程序编写最佳实践 <a href="https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/" rel="nofollow" target="_blank">https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/</a>
+</li>
+<li>在 Go 中使用不可变数据 <a href="https://rauljordan.com/2020/05/25/immutability-patterns-in-go.html" rel="nofollow" target="_blank">https://rauljordan.com/2020/05/25/immutability-patterns-in-go.html</a>
+</li>
+<li>解刨 Go 中的命名和匿名对象 <a href="https://medium.com/@nikiforos_frees/named-and-anonymous-objects-in-go-2065b2635c2" rel="nofollow" target="_blank">https://medium.com/@nikiforos_frees/named-and-anonymous-objects-in-go-2065b2635c2</a>
+</li>
+<li>如何用 Go 编写一个支持并发的 FTP 服务器 <a href="https://medium.com/better-programming/how-to-write-a-concurrent-ftp-server-in-go-part-1-3904f2e3a9e5" rel="nofollow" target="_blank">https://medium.com/better-programming/how-to-write-a-concurrent-ftp-server-in-go-part-1-3904f2e3a9e5</a>
+</li>
+<li>鸭子类型、结构类型和名义类型 <a href="https://medium.com/higher-order-functions/duck-typing-vs-structural-typing-vs-nominal-typing-e0881860bf10" rel="nofollow" target="_blank">https://medium.com/higher-order-functions/duck-typing-vs-structural-typing-vs-nominal-typing-e0881860bf10</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-08)</p></h3><ol>
 <li>为什么容器内存占用居高不下，频频 OOM <a href="https://gocn.vip/topics/10510" rel="nofollow" target="_blank">https://gocn.vip/topics/10510</a>
 </li>
 <li>从入门到掉坑：Go 内存池/对象池技术介绍 <a href="https://mp.weixin.qq.com/s/SWfPV6tUC5olZgIdVabd3A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/SWfPV6tUC5olZgIdVabd3A</a>
