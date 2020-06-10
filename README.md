@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-09)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-10)</p></h3><ol>
+<li>理解 Go 语言中的 Context <a href="http://golang.iswbm.com/en/latest/c04/c04_09.html" rel="nofollow" target="_blank">http://golang.iswbm.com/en/latest/c04/c04_09.html</a>
+</li>
+<li>Go 并发之 atomic <a href="https://mp.weixin.qq.com/s/RvFWCMX8P3VxjJrZRJZzMQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/RvFWCMX8P3VxjJrZRJZzMQ</a>
+</li>
+<li>Go 语言 json 编码驼峰转下划线、下划线转驼峰 <a href="https://www.cnblogs.com/chenqionghe/p/13067596.html" rel="nofollow" target="_blank">https://www.cnblogs.com/chenqionghe/p/13067596.html</a>
+</li>
+<li>为什么提升 Go 项目的测试覆盖率有点难 <a href="https://mp.weixin.qq.com/s/5KMqKgHC7demT1WeqrAt6A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/5KMqKgHC7demT1WeqrAt6A</a>
+</li>
+<li>k8s+docker 部署 Golang 项目 <a href="https://www.lifengdi.com/archives/article/1966" rel="nofollow" target="_blank">https://www.lifengdi.com/archives/article/1966</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-09)</p></h3><ol>
 <li>Go CLIs 程序编写最佳实践 <a href="https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/" rel="nofollow" target="_blank">https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/</a>
 </li>
 <li>在 Go 中使用不可变数据 <a href="https://rauljordan.com/2020/05/25/immutability-patterns-in-go.html" rel="nofollow" target="_blank">https://rauljordan.com/2020/05/25/immutability-patterns-in-go.html</a>
