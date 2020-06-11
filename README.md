@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-10)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-11)</p></h3><ol>
+<li>Go 字符串转换优化 <a href="https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef</a>
+</li>
+<li>VS Code Go 插件迁移到 Go 团队维护 <a href="https://golang.blog/vscode-go" rel="nofollow" target="_blank">https://golang.blog/vscode-go</a> </li>
+<li>涂鸦智能 dubbo-go 亿级流量的实践与探索 <a href="https://gocn.vip/topics/10527" rel="nofollow" target="_blank">https://gocn.vip/topics/10527</a>
+</li>
+<li>2020 年 7 个值得推荐的在线学习课程 <a href="https://medium.com/javarevisited/7-online-courses-to-learn-golang-or-go-programming-languages-in-2020-f599a25cf14a" rel="nofollow" target="_blank">https://medium.com/javarevisited/7-online-courses-to-learn-golang-or-go-programming-languages-in-2020-f599a25cf14a</a>
+</li>
+<li>一个轻量的微服务/Web 服务框架 <a href="https://github.com/go-zepto/zepto" rel="nofollow" target="_blank">https://github.com/go-zepto/zepto</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-10)</p></h3><ol>
 <li>理解 Go 语言中的 Context <a href="http://golang.iswbm.com/en/latest/c04/c04_09.html" rel="nofollow" target="_blank">http://golang.iswbm.com/en/latest/c04/c04_09.html</a>
 </li>
 <li>Go 并发之 atomic <a href="https://mp.weixin.qq.com/s/RvFWCMX8P3VxjJrZRJZzMQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/RvFWCMX8P3VxjJrZRJZzMQ</a>
