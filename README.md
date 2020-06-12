@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-11)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-12)</p></h3><ol>
+<li>怎样优化一个 Go 服务以减少 40% 的 CPU 使用率？<a href="https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw</a>
+</li>
+<li>golang http 句柄泄露  <a href="https://www.sgfoot.com/curl/" rel="nofollow" target="_blank">https://www.sgfoot.com/curl/</a>
+</li>
+<li>golang 单点登录系统（go-sso）<a href="https://segmentfault.com/a/1190000022909135" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022909135</a> </li>
+<li>并发题的解题思路以及 Go 语言调度器工作原理 &nbsp;<a href="https://mp.weixin.qq.com/s/GhC2WDw3VHP91DrrFVCnag" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/GhC2WDw3VHP91DrrFVCnag</a>
+</li>
+<li>Kubernetes 已进入成熟期，而云原生时代则刚刚开始 <a href="https://mp.weixin.qq.com/s/I630oo7PLyi4JyKXYbI5Cg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/I630oo7PLyi4JyKXYbI5Cg</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-11)</p></h3><ol>
 <li>Go 字符串转换优化 <a href="https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef</a>
 </li>
 <li>VS Code Go 插件迁移到 Go 团队维护 <a href="https://golang.blog/vscode-go" rel="nofollow" target="_blank">https://golang.blog/vscode-go</a> </li>
