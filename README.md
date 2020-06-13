@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-12)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-13)  </p></h3><ol>
+<li>数据工程角度 go 与 python 的对比 <a href="https://chollinger.com/blog/2020/06/a-data-engineering-perspective-on-go-vs.-python-part-1/" rel="nofollow" target="_blank">https://chollinger.com/blog/2020/06/a-data-engineering-perspective-on-go-vs.-python-part-1/</a><br>
+</li>
+<li>Go 分布式 ID 生成系统，高性能、高可用、易扩展的 id 生成服务 <a href="https://gocn.vip/topics/10528" rel="nofollow" target="_blank">https://gocn.vip/topics/10528</a><br>
+</li>
+<li>曹大谈 dubbomesh:在 MOSN 中玩转 dubbo-go <a href="https://gocn.vip/topics/10551" rel="nofollow" target="_blank">https://gocn.vip/topics/10551</a><br>
+</li>
+<li>一个简短的 Go 哈希指南 <a href="https://medium.com/better-programming/a-short-guide-to-hashing-in-go-e8bb0173e97e" rel="nofollow" target="_blank">https://medium.com/better-programming/a-short-guide-to-hashing-in-go-e8bb0173e97e</a><br>
+</li>
+<li>Go1.15 发布 Beta1 版本 <a href="https://gocn.vip/topics/10541" rel="nofollow" target="_blank">https://gocn.vip/topics/10541</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-12)</p></h3><ol>
 <li>怎样优化一个 Go 服务以减少 40% 的 CPU 使用率？<a href="https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw</a>
 </li>
 <li>golang http 句柄泄露  <a href="https://www.sgfoot.com/curl/" rel="nofollow" target="_blank">https://www.sgfoot.com/curl/</a>
