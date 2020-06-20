@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-18)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-06-20）</p></h3><ol>
+<li>通过内存分配来学习 go 中的机制 <a href="https://juejin.im/post/5eec0ae251882565c236bf4b" rel="nofollow" target="_blank">https://juejin.im/post/5eec0ae251882565c236bf4b</a>
+</li>
+<li>暗黑破坏神 2 开源实现，基于 Go 开发引擎 <a href="https://github.com/OpenDiablo2/OpenDiablo2" rel="nofollow" target="_blank">https://github.com/OpenDiablo2/OpenDiablo2</a>
+</li>
+<li>Go 使用 GroupCache 作为分布式缓存 <a href="https://www.mailgun.com/blog/golangs-superior-cache-solution-memcached-redis/" rel="nofollow" target="_blank">https://www.mailgun.com/blog/golangs-superior-cache-solution-memcached-redis/</a>
+</li>
+<li>使用 Go 和 VSCodium 开发 GTK 应用 <a href="https://lupyuen.github.io/pinetime-rust-mynewt/articles/gotk3" rel="nofollow" target="_blank">https://lupyuen.github.io/pinetime-rust-mynewt/articles/gotk3</a>
+</li>
+<li>GORM 2.0 Release Note (Draft) <a href="https://github.com/go-gorm/gorm/wiki/GORM-V2-Release-Note-Draft-CN" rel="nofollow" target="_blank">https://github.com/go-gorm/gorm/wiki/GORM-V2-Release-Note-Draft-CN</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-18)</p></h3><ol>
 <li>说说 Go 语言里的空接口 <a href="https://mp.weixin.qq.com/s/33yi5qzq1r07s0dGRwjoEg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/33yi5qzq1r07s0dGRwjoEg</a>
 </li>
 <li>Go 语言的反射三定律 <a href="https://juejin.im/post/5eeab6c3f265da02e12b9daa" rel="nofollow" target="_blank">https://juejin.im/post/5eeab6c3f265da02e12b9daa</a>
