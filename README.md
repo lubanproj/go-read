@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-06-20）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-06-21）</p></h3><ol>
+<li>在双核 RISC-V 上玩转 Go 调度器 <a href="https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html" rel="nofollow" target="_blank">https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html</a>
+</li>
+<li>Kubernetes 服务部署最佳实践: 如何提高服务可用性 <a href="https://gocn.vip/topics/10589" rel="nofollow" target="_blank">https://gocn.vip/topics/10589</a>
+</li>
+<li>Prometheus 踩坑集锦 <a href="https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw</a>
+</li>
+<li>TiDB 异构数据库复制最佳实践 <a href="https://gocn.vip/topics/10586" rel="nofollow" target="_blank">https://gocn.vip/topics/10586</a>
+</li>
+<li>Golang 熔断器 <a href="https://blog.lpflpf.cn/passages/circuit-breaker/" rel="nofollow" target="_blank">https://blog.lpflpf.cn/passages/circuit-breaker/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-06-20）</p></h3><ol>
 <li>通过内存分配来学习 go 中的机制 <a href="https://juejin.im/post/5eec0ae251882565c236bf4b" rel="nofollow" target="_blank">https://juejin.im/post/5eec0ae251882565c236bf4b</a>
 </li>
 <li>暗黑破坏神 2 开源实现，基于 Go 开发引擎 <a href="https://github.com/OpenDiablo2/OpenDiablo2" rel="nofollow" target="_blank">https://github.com/OpenDiablo2/OpenDiablo2</a>
