@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-06-21）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-22)</p></h3><ol>
+<li>一个非侵入的 Go 事务管理库——工作原理 <a href="https://segmentfault.com/a/1190000022988368" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022988368</a>
+</li>
+<li>用 golang 实现的 GameBoy Color 模拟器 <a href="https://github.com/Akatsuki-py/Worldwide" rel="nofollow" target="_blank">https://github.com/Akatsuki-py/Worldwide</a>
+</li>
+<li>Go Make or New 详解 <a href="https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9" rel="nofollow" target="_blank">https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9</a>
+</li>
+<li>斗鱼 Juno 监控中心的设计与实现 <a href="https://gocn.vip/topics/10596" rel="nofollow" target="_blank">https://gocn.vip/topics/10596</a>
+</li>
+<li>Go 实现的 HTTP 中间件库 negroni github.com/urfave/negroni</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-06-21）</p></h3><ol>
 <li>在双核 RISC-V 上玩转 Go 调度器 <a href="https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html" rel="nofollow" target="_blank">https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html</a>
 </li>
 <li>Kubernetes 服务部署最佳实践: 如何提高服务可用性 <a href="https://gocn.vip/topics/10589" rel="nofollow" target="_blank">https://gocn.vip/topics/10589</a>
