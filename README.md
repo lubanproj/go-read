@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-23)</p></h3><ol>
+<li>使用 go-room 来实现边缘设备数据存储的版本管理 <a href="https://medium.com/adonmo-tech/go-room-5c1d4f46a77e" rel="nofollow" target="_blank">https://medium.com/adonmo-tech/go-room-5c1d4f46a77e</a>
+</li>
+<li>用测试来驱动学习 Go2 泛型<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/O4V-s9YntNk" allowfullscreen=""></iframe></span>
+</li>
+<li>在采用 K8s 之前您必须了解的 5 件事情 <a href="https://mp.weixin.qq.com/s/mKAEzQHAmNVv4DfYQQ5iug" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/mKAEzQHAmNVv4DfYQQ5iug</a>
+</li>
+<li>Serverless 的初心、现状和未来 <a href="https://gocn.vip/topics/10604" rel="nofollow" target="_blank">https://gocn.vip/topics/10604</a>
+</li>
+<li>基于 webrtc 传输,实现 grpc 通信 <a href="https://github.com/jsmouret/grpc-over-webrtc" rel="nofollow" target="_blank">https://github.com/jsmouret/grpc-over-webrtc</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-22)</p></h3><ol>
 <li>一个非侵入的 Go 事务管理库——工作原理 <a href="https://segmentfault.com/a/1190000022988368" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000022988368</a>
 </li>
 <li>用 golang 实现的 GameBoy Color 模拟器 <a href="https://github.com/Akatsuki-py/Worldwide" rel="nofollow" target="_blank">https://github.com/Akatsuki-py/Worldwide</a>
