@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-23)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-24)</p></h3><ol>
+<li>Gitea 1.12.0 and 1.12.1 are released <a href="https://blog.gitea.io/2020/06/gitea-1.12.0-and-1.12.1-are-released/" rel="nofollow" target="_blank">https://blog.gitea.io/2020/06/gitea-1.12.0-and-1.12.1-are-released/</a>
+</li>
+<li>CNCF 宣布首个中国原创项目 Harbor 毕业 <a href="https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg</a>
+</li>
+<li>抽丝剥茧—Go 哈希 Map 的鬼魅神功 <a href="https://mp.weixin.qq.com/s/EPq2cAR587h4P--Jj65fBw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/EPq2cAR587h4P--Jj65fBw</a>
+</li>
+<li>Golang 定时器底层实现深度剖析 <a href="https://gocn.vip/topics/10587" rel="nofollow" target="_blank">https://gocn.vip/topics/10587</a>
+</li>
+<li>Golang 技巧之默认值的设置 <a href="https://mp.weixin.qq.com/s/juvg95GFhuhK92s1XLDLnw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/juvg95GFhuhK92s1XLDLnw</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-23)</p></h3><ol>
 <li>使用 go-room 来实现边缘设备数据存储的版本管理 <a href="https://medium.com/adonmo-tech/go-room-5c1d4f46a77e" rel="nofollow" target="_blank">https://medium.com/adonmo-tech/go-room-5c1d4f46a77e</a>
 </li>
 <li>用测试来驱动学习 Go2 泛型<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/O4V-s9YntNk" allowfullscreen=""></iframe></span>
