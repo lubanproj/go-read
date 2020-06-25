@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-24)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-25)</p></h3><ol>
+<li>如何做压测 dbq vs sqlx vs gorm <a href="https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5" rel="nofollow" target="_blank">https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5</a>
+</li>
+<li>体验范型下的 Go 错误处理 <a href="https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html" rel="nofollow" target="_blank">https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html</a>
+</li>
+<li>功能全面的 Go 性能分析器 fgprof <a href="https://github.com/felixge/fgprof" rel="nofollow" target="_blank">https://github.com/felixge/fgprof</a>
+</li>
+<li>介绍如何在 Go 中生成和使用 kafka 消息 <a href="https://www.aaronraff.dev/blog/an-introduction-to-producing-and-consuming-kafka-messages-in-go" rel="nofollow" target="_blank">https://www.aaronraff.dev/blog/an-introduction-to-producing-and-consuming-kafka-messages-in-go</a>
+</li>
+<li>Go time 格式化的一个大坑 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeHasLocation" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeHasLocation</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-24)</p></h3><ol>
 <li>Gitea 1.12.0 and 1.12.1 are released <a href="https://blog.gitea.io/2020/06/gitea-1.12.0-and-1.12.1-are-released/" rel="nofollow" target="_blank">https://blog.gitea.io/2020/06/gitea-1.12.0-and-1.12.1-are-released/</a>
 </li>
 <li>CNCF 宣布首个中国原创项目 Harbor 毕业 <a href="https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg</a>
