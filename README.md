@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-25)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-26)</p></h3><ol>
+<li>简单高效的 Go Worker 池实现 <a href="https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb" rel="nofollow" target="_blank">https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb</a>
+</li>
+<li>Golang 限流器实现 <a href="https://blog.lpflpf.cn/passages/time-limiter" rel="nofollow" target="_blank">https://blog.lpflpf.cn/passages/time-limiter</a>
+</li>
+<li>Gox 语言中用代码绘图显示在图形界面中并让它实现自动旋转效果-GX39 <a href="https://www.jianshu.com/p/30c7b847e36d" rel="nofollow" target="_blank">https://www.jianshu.com/p/30c7b847e36d</a>
+</li>
+<li>一个用于从环境变量解析结构标记的类库 <a href="https://github.com/sethvargo/go-envconfig" rel="nofollow" target="_blank">https://github.com/sethvargo/go-envconfig</a>
+</li>
+<li>一个自定义 Go 包的 import path 的命令行工具 <a href="https://github.com/razonyang/gopkgs" rel="nofollow" target="_blank">https://github.com/razonyang/gopkgs</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-25)</p></h3><ol>
 <li>如何做压测 dbq vs sqlx vs gorm <a href="https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5" rel="nofollow" target="_blank">https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5</a>
 </li>
 <li>体验范型下的 Go 错误处理 <a href="https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html" rel="nofollow" target="_blank">https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html</a>
