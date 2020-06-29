@@ -4,7 +4,13 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-26)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-06-29)</p></h3><ol>
+<li>Golang 网络编程 &nbsp;&nbsp;&nbsp;<a href="http://www.cnblogs.com/ZhuChangwu/p/13198872.html" rel="nofollow" target="_blank">http://www.cnblogs.com/ZhuChangwu/p/13198872.html</a>
+</li>
+<li>&nbsp;msf stagers 开发不完全指北 (二) &nbsp;&nbsp;&nbsp;<a href="http://www.cnblogs.com/Akkuman/p/13202465.html" rel="nofollow" target="_blank">http://www.cnblogs.com/Akkuman/p/13202465.html</a>
+5.&nbsp;&nbsp;一次 K8S 容器内存占用居高不下的排查案例&nbsp;&nbsp;<a href="https://mp.weixin.qq.com/s/kCOfJ_BiK-AXFlJRLH9S1g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/kCOfJ_BiK-AXFlJRLH9S1g</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-26)</p></h3><ol>
 <li>简单高效的 Go Worker 池实现 <a href="https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb" rel="nofollow" target="_blank">https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb</a>
 </li>
 <li>Golang 限流器实现 <a href="https://blog.lpflpf.cn/passages/time-limiter" rel="nofollow" target="_blank">https://blog.lpflpf.cn/passages/time-limiter</a>
