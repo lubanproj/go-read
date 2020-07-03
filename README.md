@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-06-29)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-07-03)</h3><ol>
+<li>从别人的代码中学习 golang 系列--01 <a href="https://www.cnblogs.com/zhaof/p/13223912.html" rel="nofollow" target="_blank">https://www.cnblogs.com/zhaof/p/13223912.html</a>
+</li>
+<li>为 Gopher 准备的 Markdown 教程 <a href="https://mp.weixin.qq.com/s/8wz4U2DakVsU4tMoO-ultA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/8wz4U2DakVsU4tMoO-ultA</a>
+</li>
+<li>go-实现一个简单的 DSL 解释器 <a href="http://mrw.so/5trVX4" rel="nofollow" target="_blank">http://mrw.so/5trVX4</a>
+</li>
+<li>Kubernetes 入门实践--部署运行 Go 项目 <a href="https://mp.weixin.qq.com/s/uruu3qbpSLbTRJJRcWTYqg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/uruu3qbpSLbTRJJRcWTYqg</a>
+</li>
+<li>无聊却又很棒的 go! <a href="https://www.capitalone.com/tech/software-engineering/go-is-boring/" rel="nofollow" target="_blank">https://www.capitalone.com/tech/software-engineering/go-is-boring/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-06-29)</p></h3><ol>
 <li>Golang 网络编程 &nbsp;&nbsp;&nbsp;<a href="http://www.cnblogs.com/ZhuChangwu/p/13198872.html" rel="nofollow" target="_blank">http://www.cnblogs.com/ZhuChangwu/p/13198872.html</a>
 </li>
 <li>&nbsp;msf stagers 开发不完全指北 (二) &nbsp;&nbsp;&nbsp;<a href="http://www.cnblogs.com/Akkuman/p/13202465.html" rel="nofollow" target="_blank">http://www.cnblogs.com/Akkuman/p/13202465.html</a>
