@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-07-03)</h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-04)</p></h3><ol>
+<li>Go 实现百万级缓存服务 <a href="https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html" rel="nofollow" target="_blank">https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html</a>
+</li>
+<li>go-admin 管理系统脚手架视频教程 <a href="https://v2ex.com/t/687200#reply0" rel="nofollow" target="_blank">https://v2ex.com/t/687200#reply0</a>
+</li>
+<li>从零开始入门 K8s | 深入剖析 Linux 容器 <a href="https://gocn.vip/topics/10618" rel="nofollow" target="_blank">https://gocn.vip/topics/10618</a>
+</li>
+<li>使用 TiDB 作为 ZaloPay 商户平台核心数据库 <a href="https://gocn.vip/topics/10645" rel="nofollow" target="_blank">https://gocn.vip/topics/10645</a>
+</li>
+<li>字节跳动自研强一致在线 KV &amp;表格存储实践 - 上篇 <a href="https://mp.weixin.qq.com/s/jdPE9WClBuimIHVxJnwwUw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/jdPE9WClBuimIHVxJnwwUw</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-07-03)</h3><ol>
 <li>从别人的代码中学习 golang 系列--01 <a href="https://www.cnblogs.com/zhaof/p/13223912.html" rel="nofollow" target="_blank">https://www.cnblogs.com/zhaof/p/13223912.html</a>
 </li>
 <li>为 Gopher 准备的 Markdown 教程 <a href="https://mp.weixin.qq.com/s/8wz4U2DakVsU4tMoO-ultA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/8wz4U2DakVsU4tMoO-ultA</a>
