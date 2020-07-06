@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-04)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-07-06）</p></h3><ol>
+<li>Go Search Extension，快速在地址栏搜索 Go 文档的开源浏览器插件 <a href="https://gocn.vip/topics/10652" rel="nofollow" target="_blank">https://gocn.vip/topics/10652</a>
+</li>
+<li>Go 内存管理与预占位切片 <a href="https://benburkert.com/posts/padded-slices/" rel="nofollow" target="_blank">https://benburkert.com/posts/padded-slices/</a>
+</li>
+<li>从别人的代码中学习 golang 系列 <a href="https://mp.weixin.qq.com/s/CBe0H1nkghscNEmerxfIpw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/CBe0H1nkghscNEmerxfIpw</a>
+</li>
+<li>使用 govmomi 创建 VMware 虚拟机 <a href="https://juejin.im/post/5f01c0095188252e8d0dde68" rel="nofollow" target="_blank">https://juejin.im/post/5f01c0095188252e8d0dde68</a>
+</li>
+<li>新书《Go 语言编程之旅：一起用 Go 做项目》出版啦！ <a href="https://juejin.im/post/5f019b00f265da230807d92d" rel="nofollow" target="_blank">https://juejin.im/post/5f019b00f265da230807d92d</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-04)</p></h3><ol>
 <li>Go 实现百万级缓存服务 <a href="https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html" rel="nofollow" target="_blank">https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html</a>
 </li>
 <li>go-admin 管理系统脚手架视频教程 <a href="https://v2ex.com/t/687200#reply0" rel="nofollow" target="_blank">https://v2ex.com/t/687200#reply0</a>
