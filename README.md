@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-07-06）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-07-07）</p></h3><ol>
+<li>一款 go 语言测试覆盖率收集工具 <a href="https://gocn.vip/topics/10651" rel="nofollow" target="_blank">https://gocn.vip/topics/10651</a>
+</li>
+<li>通过 profiling 定位 golang 性能问题 - 内存篇 <a href="https://aimuke.github.io/go/2020/07/06/go-pprof-case/" rel="nofollow" target="_blank">https://aimuke.github.io/go/2020/07/06/go-pprof-case/</a>
+</li>
+<li>调试 Kubernetes 集群中的网络停顿问题 <a href="https://mp.weixin.qq.com/s/u5aEQhZTDtLrVdC8AO_ogQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/u5aEQhZTDtLrVdC8AO_ogQ</a>
+</li>
+<li>万级 K8s 集群背后 etcd 稳定性及性能优化实践 <a href="https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ</a>
+</li>
+<li>用 Go 从头实现一个迷你 Docker — Gocker <a href="https://mp.weixin.qq.com/s/P9bVFtXeduZ8Lv-0vFaXAg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/P9bVFtXeduZ8Lv-0vFaXAg</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-07-06）</p></h3><ol>
 <li>Go Search Extension，快速在地址栏搜索 Go 文档的开源浏览器插件 <a href="https://gocn.vip/topics/10652" rel="nofollow" target="_blank">https://gocn.vip/topics/10652</a>
 </li>
 <li>Go 内存管理与预占位切片 <a href="https://benburkert.com/posts/padded-slices/" rel="nofollow" target="_blank">https://benburkert.com/posts/padded-slices/</a>
