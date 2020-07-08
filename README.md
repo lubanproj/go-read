@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-07-07）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-08)</p></h3><ol>
+<li>Go 实现使用 SQL 查询 git 存储库 <a href="https://github.com/augmentable-dev/gitqlite" rel="nofollow" target="_blank">https://github.com/augmentable-dev/gitqlite</a>
+</li>
+<li>30 天学习 Go <a href="https://dev.to/canro91/let-s-go-learn-go-in-30-days-3dg9" rel="nofollow" target="_blank">https://dev.to/canro91/let-s-go-learn-go-in-30-days-3dg9</a>
+</li>
+<li>用 Go 编写的 Markdown 解析器 <a href="https://github.com/yuin/goldmark" rel="nofollow" target="_blank">https://github.com/yuin/goldmark</a>
+</li>
+<li>在 Go 中不使用 Cookies 进行服务器端跟踪 <a href="https://marvinblum.de/blog/server-side-tracking-without-cookies-in-go-OxdzmGZ1Bl" rel="nofollow" target="_blank">https://marvinblum.de/blog/server-side-tracking-without-cookies-in-go-OxdzmGZ1Bl</a>
+</li>
+<li>使用 go/analysis 包去修复你自己的代码 <a href="https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/" rel="nofollow" target="_blank">https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-07-07）</p></h3><ol>
 <li>一款 go 语言测试覆盖率收集工具 <a href="https://gocn.vip/topics/10651" rel="nofollow" target="_blank">https://gocn.vip/topics/10651</a>
 </li>
 <li>通过 profiling 定位 golang 性能问题 - 内存篇 <a href="https://aimuke.github.io/go/2020/07/06/go-pprof-case/" rel="nofollow" target="_blank">https://aimuke.github.io/go/2020/07/06/go-pprof-case/</a>
