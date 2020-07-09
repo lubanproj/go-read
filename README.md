@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-09)</p></h3><ol>
+<li>让你的模块保持兼容性 <a href="https://blog.golang.org/module-compatibility" rel="nofollow" target="_blank">https://blog.golang.org/module-compatibility</a>
+</li>
+<li>在 Go 中如何调用 c 共享库 <a href="https://medium.com/@manoj_gupta/how-to-use-c-shared-library-code-in-go-code-14ff9ce9c5da" rel="nofollow" target="_blank">https://medium.com/@manoj_gupta/how-to-use-c-shared-library-code-in-go-code-14ff9ce9c5da</a>
+</li>
+<li>用 Go 玩转嵌入式之使用 tinygo 驱动周边元件 <a href="http://suo.im/5WZo08" rel="nofollow" target="_blank">http://suo.im/5WZo08</a> </li>
+<li>进击的 Kubernetes 调度系统（一）：Kubernetes scheduling framework <a href="https://gocn.vip/topics/10665" rel="nofollow" target="_blank">https://gocn.vip/topics/10665</a>
+</li>
+<li>Go timers 的生命周期  <a href="https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-08)</p></h3><ol>
 <li>Go 实现使用 SQL 查询 git 存储库 <a href="https://github.com/augmentable-dev/gitqlite" rel="nofollow" target="_blank">https://github.com/augmentable-dev/gitqlite</a>
 </li>
 <li>30 天学习 Go <a href="https://dev.to/canro91/let-s-go-learn-go-in-30-days-3dg9" rel="nofollow" target="_blank">https://dev.to/canro91/let-s-go-learn-go-in-30-days-3dg9</a>
