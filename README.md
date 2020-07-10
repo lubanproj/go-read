@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-09)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-10)</p></h3><ol>
+<li>基于 Twirp RPC 的简易 JSON Api Gateway 实现 <a href="https://gocn.vip/topics/10660" rel="nofollow" target="_blank">https://gocn.vip/topics/10660</a>
+</li>
+<li>从这些角度看 GO 是一门糟糕的语言 <a href="https://pasztor.at/blog/go-is-terrible" rel="nofollow" target="_blank">https://pasztor.at/blog/go-is-terrible</a>
+</li>
+<li>Gox 语言中使用内存虚拟文件系统提升 IO 处理速度-GX43.1 <a href="https://www.jianshu.com/p/102b33f56cc7" rel="nofollow" target="_blank">https://www.jianshu.com/p/102b33f56cc7</a>
+</li>
+<li>使用 Delve 代替 Println 来调试 Go 程序 <a href="https://opensource.com/article/20/6/debug-go-delve" rel="nofollow" target="_blank">https://opensource.com/article/20/6/debug-go-delve</a>
+</li>
+<li>Go GC 怎么标记内存？颜色是什么含义？图解三色标记法 <a href="https://developer.51cto.com/art/202007/620659.htm" rel="nofollow" target="_blank">https://developer.51cto.com/art/202007/620659.htm</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-09)</p></h3><ol>
 <li>让你的模块保持兼容性 <a href="https://blog.golang.org/module-compatibility" rel="nofollow" target="_blank">https://blog.golang.org/module-compatibility</a>
 </li>
 <li>在 Go 中如何调用 c 共享库 <a href="https://medium.com/@manoj_gupta/how-to-use-c-shared-library-code-in-go-code-14ff9ce9c5da" rel="nofollow" target="_blank">https://medium.com/@manoj_gupta/how-to-use-c-shared-library-code-in-go-code-14ff9ce9c5da</a>
