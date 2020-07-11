@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-10)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-11)</p></h3><ol>
+<li>Dig101-Go 之深入理解 mutex <a href="https://gocn.vip/topics/10648" rel="nofollow" target="_blank">https://gocn.vip/topics/10648</a>
+</li>
+<li>Go 依赖注入框架 Dingo <a href="https://medium.com/@bykovskimichael/dingo-the-dependency-injection-framework-for-go-9b1f1d44c419" rel="nofollow" target="_blank">https://medium.com/@bykovskimichael/dingo-the-dependency-injection-framework-for-go-9b1f1d44c419</a>
+</li>
+<li>从数据工程师的视角看待 Go 与 Python 在数据流上的表现 <a href="https://chollinger.com/blog/2020/07/a-data-engineering-perspective-on-go-vs.-python-part-2-dataflow/" rel="nofollow" target="_blank">https://chollinger.com/blog/2020/07/a-data-engineering-perspective-on-go-vs.-python-part-2-dataflow/</a>
+</li>
+<li>为什么 Go 的错误处理很棒 <a href="https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html" rel="nofollow" target="_blank">https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html</a>
+</li>
+<li>两年后重新审视 Go 项目架构的简洁设计 <a href="https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/" rel="nofollow" target="_blank">https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-10)</p></h3><ol>
 <li>基于 Twirp RPC 的简易 JSON Api Gateway 实现 <a href="https://gocn.vip/topics/10660" rel="nofollow" target="_blank">https://gocn.vip/topics/10660</a>
 </li>
 <li>从这些角度看 GO 是一门糟糕的语言 <a href="https://pasztor.at/blog/go-is-terrible" rel="nofollow" target="_blank">https://pasztor.at/blog/go-is-terrible</a>
