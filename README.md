@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-11)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-12)</p></h3><ol>
+<li>Go 语言学习 - Understanding Lock <a href="https://juejin.im/post/5f09767cf265da22f955a364" rel="nofollow" target="_blank">https://juejin.im/post/5f09767cf265da22f955a364</a>
+</li>
+<li>Docker 搭建数据库高可用方案 PXC <a href="https://juejin.im/post/5f046195e51d45348675d048" rel="nofollow" target="_blank">https://juejin.im/post/5f046195e51d45348675d048</a>
+</li>
+<li>测试混乱情况下的 API 服务的 HTTP mocking 库 <a href="https://github.com/Trendyol/gaos" rel="nofollow" target="_blank">https://github.com/Trendyol/gaos</a>
+</li>
+<li>GopherCon 欧洲 2020 视频列表 <a href="https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG" rel="nofollow" target="_blank">https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG</a>
+</li>
+<li>Git 如何写出优雅的 Commit Message <a href="https://juejin.im/post/5f0818c15188252e906f8bac" rel="nofollow" target="_blank">https://juejin.im/post/5f0818c15188252e906f8bac</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-11)</p></h3><ol>
 <li>Dig101-Go 之深入理解 mutex <a href="https://gocn.vip/topics/10648" rel="nofollow" target="_blank">https://gocn.vip/topics/10648</a>
 </li>
 <li>Go 依赖注入框架 Dingo <a href="https://medium.com/@bykovskimichael/dingo-the-dependency-injection-framework-for-go-9b1f1d44c419" rel="nofollow" target="_blank">https://medium.com/@bykovskimichael/dingo-the-dependency-injection-framework-for-go-9b1f1d44c419</a>
