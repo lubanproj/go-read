@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-12)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-07-18)</h3><ol>
+<li>Go 指南：顶级 Go 框架、IDE 和工具列表 <a href="https://mp.weixin.qq.com/s/5q7G6BpeRohX4v2GvvZUAQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/5q7G6BpeRohX4v2GvvZUAQ</a>
+</li>
+<li>使用百度链的智能合约来落地公司业务场景 <a href="https://segmentfault.com/a/1190000023277089" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023277089</a>
+</li>
+<li>Go 程序启动过程 <a href="https://overstack.me/202007/go-program-startup-process.html" rel="nofollow" target="_blank">https://overstack.me/202007/go-program-startup-process.html</a>
+</li>
+<li>Kafka 导致重复消费原因和解决方案 <a href="https://segmentfault.com/a/1190000023282843" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023282843</a>
+</li>
+<li>踩坑记：Go 服务灵异 panic <a href="https://segmentfault.com/a/1190000023283854" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023283854</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-12)</p></h3><ol>
 <li>Go 语言学习 - Understanding Lock <a href="https://juejin.im/post/5f09767cf265da22f955a364" rel="nofollow" target="_blank">https://juejin.im/post/5f09767cf265da22f955a364</a>
 </li>
 <li>Docker 搭建数据库高可用方案 PXC <a href="https://juejin.im/post/5f046195e51d45348675d048" rel="nofollow" target="_blank">https://juejin.im/post/5f046195e51d45348675d048</a>
