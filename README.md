@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-07-18)</h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-07-21）</p></h3><ol>
+<li>Go + WASM 实现 Pong 游戏 <a href="https://dstoiko.github.io/posts/go-pong-wasm/" rel="nofollow" target="_blank">https://dstoiko.github.io/posts/go-pong-wasm/</a>
+</li>
+<li>Go-Gaurdian 实现 LDAP 认证 <a href="https://medium.com/@hajsanad/ldap-authentication-in-golang-using-go-guardian-6477eade2a8e" rel="nofollow" target="_blank">https://medium.com/@hajsanad/ldap-authentication-in-golang-using-go-guardian-6477eade2a8e</a>
+</li>
+<li>带参数的上下文 <a href="https://blog.merovius.de/2020/07/20/parametric-context.html" rel="nofollow" target="_blank">https://blog.merovius.de/2020/07/20/parametric-context.html</a>
+</li>
+<li>使用 pprof 和 expvar 监控 http 服务 <a href="https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/" rel="nofollow" target="_blank">https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/</a>
+</li>
+<li>推荐几个好用的 Go 包 <a href="https://www.golangprograms.com/go-programming-language-packages.html" rel="nofollow" target="_blank">https://www.golangprograms.com/go-programming-language-packages.html</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-07-18)</h3><ol>
 <li>Go 指南：顶级 Go 框架、IDE 和工具列表 <a href="https://mp.weixin.qq.com/s/5q7G6BpeRohX4v2GvvZUAQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/5q7G6BpeRohX4v2GvvZUAQ</a>
 </li>
 <li>使用百度链的智能合约来落地公司业务场景 <a href="https://segmentfault.com/a/1190000023277089" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023277089</a>
