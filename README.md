@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-07-21）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-07-22）</p></h3><ol>
+<li>io/fs 草案设计概述 <a href="https://www.reddit.com/r/golang/comments/hv976o/qa_iofs_draft_design/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/hv976o/qa_iofs_draft_design/</a>
+</li>
+<li>Gopher 读物清单 <a href="https://github.com/ardanlabs/gotraining/blob/master/reading/README.md" rel="nofollow" target="_blank">https://github.com/ardanlabs/gotraining/blob/master/reading/README.md</a>
+</li>
+<li>为什么 Go 的错误处理很棒？还是有人很喜欢 <a href="https://mp.weixin.qq.com/s/wYkta4h6OYUxKnlIZD7T_g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/wYkta4h6OYUxKnlIZD7T_g</a>
+</li>
+<li>go runtime debug 小技巧 <a href="https://mp.weixin.qq.com/s/eHpRCh6B1Y_urDwYWJcyDQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/eHpRCh6B1Y_urDwYWJcyDQ</a>
+</li>
+<li>query2metric 把 DB 查询转换为 prometheus 指标  <a href="https://github.com/yolossn/query2metric/" rel="nofollow" target="_blank">https://github.com/yolossn/query2metric/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-07-21）</p></h3><ol>
 <li>Go + WASM 实现 Pong 游戏 <a href="https://dstoiko.github.io/posts/go-pong-wasm/" rel="nofollow" target="_blank">https://dstoiko.github.io/posts/go-pong-wasm/</a>
 </li>
 <li>Go-Gaurdian 实现 LDAP 认证 <a href="https://medium.com/@hajsanad/ldap-authentication-in-golang-using-go-guardian-6477eade2a8e" rel="nofollow" target="_blank">https://medium.com/@hajsanad/ldap-authentication-in-golang-using-go-guardian-6477eade2a8e</a>
