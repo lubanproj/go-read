@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-07-22）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-23)</p></h3><ol>
+<li>bee 智能化代码生成器，一分钟实现前后端系统 <a href="https://gocn.vip/topics/10724" rel="nofollow" target="_blank">https://gocn.vip/topics/10724</a>
+</li>
+<li>Golang 中的表驱动测试 <a href="https://medium.com/@pliutau/table-driven-tests-in-go-5d7e230681da" rel="nofollow" target="_blank">https://medium.com/@pliutau/table-driven-tests-in-go-5d7e230681da</a>
+</li>
+<li>Golang 实现的 SMS 验证工具，轻松获取一次性 SMS 号码 <a href="https://github.com/upmasked/number-verifier" rel="nofollow" target="_blank">https://github.com/upmasked/number-verifier</a>
+</li>
+<li>函数——go 世界中的一等公民 <a href="https://segmentfault.com/a/1190000023340324" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023340324</a>
+</li>
+<li>Go 模糊测试草案 <a href="https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md" rel="nofollow" target="_blank">https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-07-22）</p></h3><ol>
 <li>io/fs 草案设计概述 <a href="https://www.reddit.com/r/golang/comments/hv976o/qa_iofs_draft_design/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/hv976o/qa_iofs_draft_design/</a>
 </li>
 <li>Gopher 读物清单 <a href="https://github.com/ardanlabs/gotraining/blob/master/reading/README.md" rel="nofollow" target="_blank">https://github.com/ardanlabs/gotraining/blob/master/reading/README.md</a>
