@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-23)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-24)</p></h3><ol>
+<li>Go 的泛型 <a href="https://www.capitalone.com/tech/software-engineering/generics-in-go/" rel="nofollow" target="_blank">https://www.capitalone.com/tech/software-engineering/generics-in-go/</a>
+</li>
+<li>前后端分离的 Web 应用如何在 k8s 上独立部署 <a href="https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/" rel="nofollow" target="_blank">https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/</a>
+</li>
+<li>使用 Go 语言连接 IRC 服务 <a href="https://dev.to/mnlwldr/connect-to-an-irc-server-with-golang-fj9" rel="nofollow" target="_blank">https://dev.to/mnlwldr/connect-to-an-irc-server-with-golang-fj9</a> </li>
+<li>使用 GoSDK 试玩 Azure 的 Data Explorer <a href="https://itnext.io/getting-started-with-azure-data-explorer-using-the-go-sdk-807c50bc8105" rel="nofollow" target="_blank">https://itnext.io/getting-started-with-azure-data-explorer-using-the-go-sdk-807c50bc8105</a>
+</li>
+<li>Docker registry GC 原理分析  <a href="https://mp.weixin.qq.com/s/D8BFeEcbwDiB5PhM824CvQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/D8BFeEcbwDiB5PhM824CvQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-23)</p></h3><ol>
 <li>bee 智能化代码生成器，一分钟实现前后端系统 <a href="https://gocn.vip/topics/10724" rel="nofollow" target="_blank">https://gocn.vip/topics/10724</a>
 </li>
 <li>Golang 中的表驱动测试 <a href="https://medium.com/@pliutau/table-driven-tests-in-go-5d7e230681da" rel="nofollow" target="_blank">https://medium.com/@pliutau/table-driven-tests-in-go-5d7e230681da</a>
