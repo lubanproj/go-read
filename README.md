@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-24)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-25)</p></h3><ol>
+<li>GoLand 2020.2 首个 RC 版本发布 <a href="https://www.oschina.net/news/117438/goland-2020-2-rc-released" rel="nofollow" target="_blank">https://www.oschina.net/news/117438/goland-2020-2-rc-released</a>
+</li>
+<li>goroutine 间的同步&amp;协作 <a href="https://www.cnblogs.com/win-for-life/p/13372984.html" rel="nofollow" target="_blank">https://www.cnblogs.com/win-for-life/p/13372984.html</a>
+</li>
+<li>Go 语言系列之手把手教你撸一个 ORM <a href="https://www.cnblogs.com/Tassdar/p/13373289.html" rel="nofollow" target="_blank">https://www.cnblogs.com/Tassdar/p/13373289.html</a>
+</li>
+<li>TiDB 为什么你需要混沌工程以及 Chaos Mesh® <a href="https://gocn.vip/topics/10688" rel="nofollow" target="_blank">https://gocn.vip/topics/10688</a>
+</li>
+<li>分布式作业管理系统 Asgard <a href="https://gocn.vip/topics/10591" rel="nofollow" target="_blank">https://gocn.vip/topics/10591</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-24)</p></h3><ol>
 <li>Go 的泛型 <a href="https://www.capitalone.com/tech/software-engineering/generics-in-go/" rel="nofollow" target="_blank">https://www.capitalone.com/tech/software-engineering/generics-in-go/</a>
 </li>
 <li>前后端分离的 Web 应用如何在 k8s 上独立部署 <a href="https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/" rel="nofollow" target="_blank">https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/</a>
