@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-25)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-26)</p></h3><ol>
+<li>优化 Go context 带参数下的使用体验 <a href="https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0" rel="nofollow" target="_blank">https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0</a>
+</li>
+<li>在 Go 中如何给所有请求添加 header <a href="https://developer20.com/add-header-to-every-request-in-go" rel="nofollow" target="_blank">https://developer20.com/add-header-to-every-request-in-go</a>
+</li>
+<li>结构化 Go gGRPC 微服务 <a href="https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0" rel="nofollow" target="_blank">https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0</a>
+</li>
+<li>无 cookie 模式下的服务端追踪 <a href="https://medium.com/dev-genius/server-side-tracking-without-cookies-in-go-44f3703331ba" rel="nofollow" target="_blank">https://medium.com/dev-genius/server-side-tracking-without-cookies-in-go-44f3703331ba</a>
+</li>
+<li>教你构造一个支持并发下载的下载器<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/vdhSk8vCx-k" allowfullscreen=""></iframe></span>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-25)</p></h3><ol>
 <li>GoLand 2020.2 首个 RC 版本发布 <a href="https://www.oschina.net/news/117438/goland-2020-2-rc-released" rel="nofollow" target="_blank">https://www.oschina.net/news/117438/goland-2020-2-rc-released</a>
 </li>
 <li>goroutine 间的同步&amp;协作 <a href="https://www.cnblogs.com/win-for-life/p/13372984.html" rel="nofollow" target="_blank">https://www.cnblogs.com/win-for-life/p/13372984.html</a>
