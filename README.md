@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-26)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-29)</p></h3><ol>
+<li>我在 Go 中犯的一些小错误 <a href="https://dev.to/hoelzro/a-little-mistake-i-made-in-go-4485" rel="nofollow" target="_blank">https://dev.to/hoelzro/a-little-mistake-i-made-in-go-4485</a>
+</li>
+<li>简单的 Go 命令行热编译工具 <a href="https://dev.to/longtime1116/simple-live-reloading-tool-for-writing-cli-applications-in-go-1262" rel="nofollow" target="_blank">https://dev.to/longtime1116/simple-live-reloading-tool-for-writing-cli-applications-in-go-1262</a>
+</li>
+<li>从零开始入门 K8s| 调度器的调度流程和算法介绍 <a href="https://gocn.vip/topics/10743" rel="nofollow" target="_blank">https://gocn.vip/topics/10743</a>
+</li>
+<li>在 Go 使用使用依赖注入搭建更好的软件 <a href="https://medium.com/effective-development/building-better-software-in-go-with-di-faf8301a9f84" rel="nofollow" target="_blank">https://medium.com/effective-development/building-better-software-in-go-with-di-faf8301a9f84</a>
+</li>
+<li>一款自我进化的微服务框架 <a href="https://medium.com/@jfeng45/a-self-evolved-microservice-framework-in-go-d9bf87c10ab0" rel="nofollow" target="_blank">https://medium.com/@jfeng45/a-self-evolved-microservice-framework-in-go-d9bf87c10ab0</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-26)</p></h3><ol>
 <li>优化 Go context 带参数下的使用体验 <a href="https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0" rel="nofollow" target="_blank">https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0</a>
 </li>
 <li>在 Go 中如何给所有请求添加 header <a href="https://developer20.com/add-header-to-every-request-in-go" rel="nofollow" target="_blank">https://developer20.com/add-header-to-every-request-in-go</a>
