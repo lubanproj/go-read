@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-29)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-07-30)</p></h3><ol>
+<li>分布式定时任务调度平台 <a href="https://github.com/labulaka521/crocodile" rel="nofollow" target="_blank">https://github.com/labulaka521/crocodile</a>
+</li>
+<li>Go-Micro 快速开发包 <a href="https://github.com/micro-in-cn/starter-kit" rel="nofollow" target="_blank">https://github.com/micro-in-cn/starter-kit</a>
+</li>
+<li>使用 Go+mondodb+jwt 实现用户注册和登陆 <a href="https://dormoshe.io/trending-news/user-registration-and-login-template-using-golang-mongodb-and-jwt-11895" rel="nofollow" target="_blank">https://dormoshe.io/trending-news/user-registration-and-login-template-using-golang-mongodb-and-jwt-11895</a>
+</li>
+<li>打造高可用实时事件驱动生态系统的挑战 <a href="https://www.infoq.com/articles/realtime-event-driven-ecosystem/" rel="nofollow" target="_blank">https://www.infoq.com/articles/realtime-event-driven-ecosystem/</a>
+</li>
+<li>Go 测试：模拟 redis <a href="https://itnext.io/golang-testing-mocking-redis-b48d09386c70" rel="nofollow" target="_blank">https://itnext.io/golang-testing-mocking-redis-b48d09386c70</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-29)</p></h3><ol>
 <li>我在 Go 中犯的一些小错误 <a href="https://dev.to/hoelzro/a-little-mistake-i-made-in-go-4485" rel="nofollow" target="_blank">https://dev.to/hoelzro/a-little-mistake-i-made-in-go-4485</a>
 </li>
 <li>简单的 Go 命令行热编译工具 <a href="https://dev.to/longtime1116/simple-live-reloading-tool-for-writing-cli-applications-in-go-1262" rel="nofollow" target="_blank">https://dev.to/longtime1116/simple-live-reloading-tool-for-writing-cli-applications-in-go-1262</a>
