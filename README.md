@@ -4,7 +4,16 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-07-30)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-08-02)</h3><ol>
+<li>Go 进阶 34:Chromedp 浏览器模拟和截图微服务 <a href="https://mojotv.cn/go/chromedp-example" rel="nofollow" target="_blank">https://mojotv.cn/go/chromedp-example</a> </li>
+<li>Go 语言系列 <a href="https://juejin.im/post/6854573215764152333" rel="nofollow" target="_blank">https://juejin.im/post/6854573215764152333</a>
+</li>
+<li>Docker 组件 go-event 源码学习 <a href="https://studygolang.com/articles/30112" rel="nofollow" target="_blank">https://studygolang.com/articles/30112</a>
+</li>
+<li>聊聊 dubbo-go 的 DefaultHealthChecker <a href="https://segmentfault.com/a/1190000023465702" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023465702</a>
+</li>
+<li>Golang 自定义结构体转 map <a href="https://studygolang.com/articles/30089" rel="nofollow" target="_blank">https://studygolang.com/articles/30089</a> </li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-07-30)</p></h3><ol>
 <li>分布式定时任务调度平台 <a href="https://github.com/labulaka521/crocodile" rel="nofollow" target="_blank">https://github.com/labulaka521/crocodile</a>
 </li>
 <li>Go-Micro 快速开发包 <a href="https://github.com/micro-in-cn/starter-kit" rel="nofollow" target="_blank">https://github.com/micro-in-cn/starter-kit</a>
