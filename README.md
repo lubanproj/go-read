@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-08-02)</h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-03)</p></h3><ol>
+<li>七天实现一个 go 应用 <a href="https://github.com/geektutu/7days-golang" rel="nofollow" target="_blank">https://github.com/geektutu/7days-golang</a>
+</li>
+<li>刀耕火种 Debug？为什么不使用 Juno <a href="https://gocn.vip/topics/10715" rel="nofollow" target="_blank">https://gocn.vip/topics/10715</a>
+</li>
+<li>分享一下自己在用的 go-dump 库 <a href="https://v2ex.com/t/691289" rel="nofollow" target="_blank">https://v2ex.com/t/691289</a>
+</li>
+<li>忘掉 Snowflake，感受一下性能高出 587 倍的全局唯一 ID 生成算法 <a href="https://juejin.im/post/5efefaaa6fb9a07e644ee60f" rel="nofollow" target="_blank">https://juejin.im/post/5efefaaa6fb9a07e644ee60f</a>
+</li>
+<li>「译文」Go 语言内存管理与分配 <a href="https://juejin.im/post/5f0479c05188252e332ea86d" rel="nofollow" target="_blank">https://juejin.im/post/5f0479c05188252e332ea86d</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-08-02)</h3><ol>
 <li>Go 进阶 34:Chromedp 浏览器模拟和截图微服务 <a href="https://mojotv.cn/go/chromedp-example" rel="nofollow" target="_blank">https://mojotv.cn/go/chromedp-example</a> </li>
 <li>Go 语言系列 <a href="https://juejin.im/post/6854573215764152333" rel="nofollow" target="_blank">https://juejin.im/post/6854573215764152333</a>
 </li>
