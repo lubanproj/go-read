@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-08-05）</p></h3><ol>
+<li>走进 Golang 之 Context 的使用 <a href="https://mp.weixin.qq.com/s/PvNAZsolNmKk_kTigoG2ZA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/PvNAZsolNmKk_kTigoG2ZA</a>
+</li>
+<li>Go 各种方式实现 HTTP Routing <a href="https://benhoyt.com/writings/go-routing/" rel="nofollow" target="_blank">https://benhoyt.com/writings/go-routing/</a>
+</li>
+<li>Go 发送 Email <a href="https://www.loginradius.com/engineering/blog/sending-emails-with-golang/" rel="nofollow" target="_blank">https://www.loginradius.com/engineering/blog/sending-emails-with-golang/</a>
+</li>
+<li>Go vs Rust 开发命令行工具 <a href="https://cuchi.me/posts/go-vs-rust" rel="nofollow" target="_blank">https://cuchi.me/posts/go-vs-rust</a>
+</li>
+<li>Go 分布式内存 K/V 缓存 <a href="https://github.com/buraksezer/olric" rel="nofollow" target="_blank">https://github.com/buraksezer/olric</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-03)</p></h3><ol>
 <li>七天实现一个 go 应用 <a href="https://github.com/geektutu/7days-golang" rel="nofollow" target="_blank">https://github.com/geektutu/7days-golang</a>
 </li>
 <li>刀耕火种 Debug？为什么不使用 Juno <a href="https://gocn.vip/topics/10715" rel="nofollow" target="_blank">https://gocn.vip/topics/10715</a>
