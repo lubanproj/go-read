@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-08-05）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-08-06）</p></h3><ol>
+<li>Go 调试器 Delve 快速入门<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/r033vEzL6a4" allowfullscreen=""></iframe></span>
+</li>
+<li>Nginx Ingress on TKE 部署最佳实践 <a href="https://mp.weixin.qq.com/s/NAwz4dlsPuJnqfWYBHkfGg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/NAwz4dlsPuJnqfWYBHkfGg</a>
+</li>
+<li>DBResolver 多数据库支持 <a href="https://github.com/go-gorm/dbresolver" rel="nofollow" target="_blank">https://github.com/go-gorm/dbresolver</a>
+</li>
+<li>从并发模式看 channel 使用技巧 <a href="https://mp.weixin.qq.com/s/nu26nqymHTH0Cwq89-Dfuw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/nu26nqymHTH0Cwq89-Dfuw</a>
+</li>
+<li>使用 Go 做音频开发: 生成第一段声音 <a href="https://dylanmeeus.github.io/posts/audio-from-scratch-pt1/" rel="nofollow" target="_blank">https://dylanmeeus.github.io/posts/audio-from-scratch-pt1/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-08-05）</p></h3><ol>
 <li>走进 Golang 之 Context 的使用 <a href="https://mp.weixin.qq.com/s/PvNAZsolNmKk_kTigoG2ZA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/PvNAZsolNmKk_kTigoG2ZA</a>
 </li>
 <li>Go 各种方式实现 HTTP Routing <a href="https://benhoyt.com/writings/go-routing/" rel="nofollow" target="_blank">https://benhoyt.com/writings/go-routing/</a>
