@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-08-06）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-07)</p></h3><ol>
+<li>Go 实现的轻量级的电子邮件包 <a href="https://github.com/mrz1836/go-mail" rel="nofollow" target="_blank">https://github.com/mrz1836/go-mail</a>
+</li>
+<li>Go 中的并发性-使用 channel 处理竞争条件 <a href="https://dev.to/spindriftboi/concurrency-in-go-using-channels-and-handling-race-conditions-3n24" rel="nofollow" target="_blank">https://dev.to/spindriftboi/concurrency-in-go-using-channels-and-handling-race-conditions-3n24</a>
+</li>
+<li>使用 Cobra 和 Go 构建多功能 CLI 工具 <a href="https://dev.to/lumexralph/building-a-multipurpose-cli-tool-with-cobra-and-go-2492" rel="nofollow" target="_blank">https://dev.to/lumexralph/building-a-multipurpose-cli-tool-with-cobra-and-go-2492</a>
+</li>
+<li>Go 中的并发性-使用 Goroutine 和 Wait Groups <a href="https://dev.to/spindriftboi/concurrency-in-go-using-goroutines-and-wait-groups-edi" rel="nofollow" target="_blank">https://dev.to/spindriftboi/concurrency-in-go-using-goroutines-and-wait-groups-edi</a>
+</li>
+<li>TiDB 的列式存储引擎是如何实现的 <a href="https://gocn.vip/topics/10794" rel="nofollow" target="_blank">https://gocn.vip/topics/10794</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-08-06）</p></h3><ol>
 <li>Go 调试器 Delve 快速入门<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/r033vEzL6a4" allowfullscreen=""></iframe></span>
 </li>
 <li>Nginx Ingress on TKE 部署最佳实践 <a href="https://mp.weixin.qq.com/s/NAwz4dlsPuJnqfWYBHkfGg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/NAwz4dlsPuJnqfWYBHkfGg</a>
