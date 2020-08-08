@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-07)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-08)</p></h3><ol>
+<li>Go 1.15 rc2 发布 <a href="https://groups.google.com/forum/#!msg/golang-announce/G3atWQdoyvw/03XzzSXgAAAJ" rel="nofollow" target="_blank">https://groups.google.com/forum/#! msg/golang-announce/G3atWQdoyvw/03XzzSXgAAAJ</a>
+</li>
+<li>Go trace 剖析 go1.14 异步抢占式调度 <a href="https://mp.weixin.qq.com/s/YVJh0wGlkGfymfY5u1iqTA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/YVJh0wGlkGfymfY5u1iqTA</a>
+</li>
+<li>基于 Go1.13 的逃逸分析介绍 <a href="https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890</a>
+</li>
+<li>Go 语言使用 AWS Lambda 上手指南 <a href="https://www.softkraft.co/aws-lambda-in-golang/" rel="nofollow" target="_blank">https://www.softkraft.co/aws-lambda-in-golang/</a>
+</li>
+<li>通过 Envoy 和 Protocol Buffers 实现类型安全的服务配置 <a href="https://medium.com/@subyraman/type-safe-server-configuration-with-envoy-and-protocol-buffers-dfdf47af00d5" rel="nofollow" target="_blank">https://medium.com/@subyraman/type-safe-server-configuration-with-envoy-and-protocol-buffers-dfdf47af00d5</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-07)</p></h3><ol>
 <li>Go 实现的轻量级的电子邮件包 <a href="https://github.com/mrz1836/go-mail" rel="nofollow" target="_blank">https://github.com/mrz1836/go-mail</a>
 </li>
 <li>Go 中的并发性-使用 channel 处理竞争条件 <a href="https://dev.to/spindriftboi/concurrency-in-go-using-channels-and-handling-race-conditions-3n24" rel="nofollow" target="_blank">https://dev.to/spindriftboi/concurrency-in-go-using-channels-and-handling-race-conditions-3n24</a>
