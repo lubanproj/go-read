@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-09)</p></h3><ol>
+<li>Go team 关于如何保持 Go Modules 兼容性的一些实践 <a href="https://juejin.im/post/6858570821904891912" rel="nofollow" target="_blank">https://juejin.im/post/6858570821904891912</a>
+</li>
+<li>Go: 互斥锁和饥饿 <a href="https://medium.com/a-journey-with-go/go-mutex-and-starvation-3f4f4e75ad50" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-mutex-and-starvation-3f4f4e75ad50</a>
+</li>
+<li>在 Go 语言中管理 Concurrency 的三种方法 <a href="https://blog.wu-boy.com/2020/08/three-ways-to-manage-concurrency-in-go" rel="nofollow" target="_blank">https://blog.wu-boy.com/2020/08/three-ways-to-manage-concurrency-in-go</a>
+</li>
+<li>实践总结：在 Java 中调用 Go 代码 <a href="https://liujiacai.net/blog/2020/08/08/go-meet-java" rel="nofollow" target="_blank">https://liujiacai.net/blog/2020/08/08/go-meet-java</a>
+</li>
+<li>Qmgo - 更好用的 Go 语言 MongoDB driver <a href="https://studygolang.com/articles/30175" rel="nofollow" target="_blank">https://studygolang.com/articles/30175</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-08)</p></h3><ol>
 <li>Go 1.15 rc2 发布 <a href="https://groups.google.com/forum/#!msg/golang-announce/G3atWQdoyvw/03XzzSXgAAAJ" rel="nofollow" target="_blank">https://groups.google.com/forum/#! msg/golang-announce/G3atWQdoyvw/03XzzSXgAAAJ</a>
 </li>
 <li>Go trace 剖析 go1.14 异步抢占式调度 <a href="https://mp.weixin.qq.com/s/YVJh0wGlkGfymfY5u1iqTA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/YVJh0wGlkGfymfY5u1iqTA</a>
