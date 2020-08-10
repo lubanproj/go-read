@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-09)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-10)</p></h3><ol>
+<li>如何编写可插拔的第三方 Go 插件 <a href="https://levelup.gitconnected.com/how-to-write-a-pluggable-third-party-component-in-go-a70357577fb4" rel="nofollow" target="_blank">https://levelup.gitconnected.com/how-to-write-a-pluggable-third-party-component-in-go-a70357577fb4</a>
+</li>
+<li>Go 桌面开发技术栈比较 Webview vs Lorca vs Electron <a href="https://maori.geek.nz/golang-desktop-app-webview-vs-lorca-vs-electron-a5e6b2869391?gi=da700a44c674" rel="nofollow" target="_blank">https://maori.geek.nz/golang-desktop-app-webview-vs-lorca-vs-electron-a5e6b2869391?gi=da700a44c674</a><br>
+</li>
+<li>如何在 go mysql server 中实现子查询 <a href="https://www.dolthub.com/blog/2020-08-05-implementing-subqueries/" rel="nofollow" target="_blank">https://www.dolthub.com/blog/2020-08-05-implementing-subqueries/</a>
+</li>
+<li>比 wget 和 cURL 更快的下载工具 got <a href="https://github.com/melbahja/got" rel="nofollow" target="_blank">https://github.com/melbahja/got</a>
+</li>
+<li>博客: 与 Ian Lance 聊聊 Go <a href="https://cppcast.com/ian-taylor-go/" rel="nofollow" target="_blank">https://cppcast.com/ian-taylor-go/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-09)</p></h3><ol>
 <li>Go team 关于如何保持 Go Modules 兼容性的一些实践 <a href="https://juejin.im/post/6858570821904891912" rel="nofollow" target="_blank">https://juejin.im/post/6858570821904891912</a>
 </li>
 <li>Go: 互斥锁和饥饿 <a href="https://medium.com/a-journey-with-go/go-mutex-and-starvation-3f4f4e75ad50" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-mutex-and-starvation-3f4f4e75ad50</a>
