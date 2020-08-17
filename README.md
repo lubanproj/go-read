@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-11)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-08-17)</h3><ol>
+<li>GoLand 2020.2.2 发布 <a href="https://www.oschina.net/news/117963/goland-2020-2-2-released" rel="nofollow" target="_blank">https://www.oschina.net/news/117963/goland-2020-2-2-released</a>
+</li>
+<li>Facebook 在 Golang 依赖注入的实现 <a href="https://www.cyhone.com/articles/facebookgo-inject/" rel="nofollow" target="_blank">https://www.cyhone.com/articles/facebookgo-inject/</a>
+</li>
+<li>给 WeaveNet 社区提 PR <a href="https://gobomb.github.io/post/debug-and-pr-for-weave/" rel="nofollow" target="_blank">https://gobomb.github.io/post/debug-and-pr-for-weave/</a>
+</li>
+<li>不要忽略 goroutine 的启动时间 <a href="https://mp.weixin.qq.com/s/35eJMHNoZ-Irr8Hq-mI67g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/35eJMHNoZ-Irr8Hq-mI67g</a>
+</li>
+<li>Go 中的 HTTP 请求之——HTTP1.1 请求流程分析 <a href="https://juejin.im/post/6861471535878651917" rel="nofollow" target="_blank">https://juejin.im/post/6861471535878651917</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-11)</p></h3><ol>
 <li>为什么 Go Module 比 GOPATH 快 <a href="https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj" rel="nofollow" target="_blank">https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj</a>
 </li>
 <li>Go 应用中记录日志 <a href="https://dev.to/fernandoocampo/logging-an-application-in-go-5ckk" rel="nofollow" target="_blank">https://dev.to/fernandoocampo/logging-an-application-in-go-5ckk</a>
