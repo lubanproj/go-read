@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-08-17)</h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-08-20）</p></h3><ol>
+<li>晓黑板 go-zero 微服务框架介绍 <a href="https://gocn.vip/topics/10845" rel="nofollow" target="_blank">https://gocn.vip/topics/10845</a>
+</li>
+<li>GoCenter 助力 Golang 全速前进 <a href="https://segmentfault.com/a/1190000023702543" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023702543</a>
+</li>
+<li>如何避免用动态语言的思维写 Go 代码 <a href="https://mp.weixin.qq.com/s/LqV7ODo7QCRykcFSRMRRgA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/LqV7ODo7QCRykcFSRMRRgA</a>
+</li>
+<li>关于 Golang 错误处理的一些思考​ <a href="https://mp.weixin.qq.com/s/KPrzPP797efFUKOTTfY1Ow" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/KPrzPP797efFUKOTTfY1Ow</a>
+</li>
+<li>Go 语言文件读取的一些总结 <a href="https://segmentfault.com/a/1190000023691973" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023691973</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-08-17)</h3><ol>
 <li>GoLand 2020.2.2 发布 <a href="https://www.oschina.net/news/117963/goland-2020-2-2-released" rel="nofollow" target="_blank">https://www.oschina.net/news/117963/goland-2020-2-2-released</a>
 </li>
 <li>Facebook 在 Golang 依赖注入的实现 <a href="https://www.cyhone.com/articles/facebookgo-inject/" rel="nofollow" target="_blank">https://www.cyhone.com/articles/facebookgo-inject/</a>
