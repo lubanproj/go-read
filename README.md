@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-08-20）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-22)</p></h3><ol>
+<li>Go 实现将文件批量插入，更新或删除到 Elasticsearch 工具 <a href="https://circleci.com/gh/gjbae1212/go-esworker" rel="nofollow" target="_blank">https://circleci.com/gh/gjbae1212/go-esworker</a>
+</li>
+<li>使用 Apache Kafka，Go 和 ksqlDB 构建 Telegram 机器人 <a href="https://dev.to/rmoff/building-a-telegram-bot-with-apache-kafka-go-and-ksqldb-4and" rel="nofollow" target="_blank">https://dev.to/rmoff/building-a-telegram-bot-with-apache-kafka-go-and-ksqldb-4and</a>
+</li>
+<li>Kong 微服务网关在 Kubernetes 的实践 <a href="https://segmentfault.com/a/1190000023716847" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023716847</a>
+</li>
+<li>基于 Go 实现的用于实时远程执行任务和命令的服务 <a href="https://github.com/eltaline/ctrl" rel="nofollow" target="_blank">https://github.com/eltaline/ctrl</a>
+</li>
+<li>在 Go 中查询字符串以构造解析器 <a href="https://medium.com/wesionary-team/reflections-tutorial-query-string-to-struct-parser-in-go-b2f858f99ea1" rel="nofollow" target="_blank">https://medium.com/wesionary-team/reflections-tutorial-query-string-to-struct-parser-in-go-b2f858f99ea1</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-08-20）</p></h3><ol>
 <li>晓黑板 go-zero 微服务框架介绍 <a href="https://gocn.vip/topics/10845" rel="nofollow" target="_blank">https://gocn.vip/topics/10845</a>
 </li>
 <li>GoCenter 助力 Golang 全速前进 <a href="https://segmentfault.com/a/1190000023702543" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023702543</a>
