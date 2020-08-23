@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-23)</p></h3><ol>
+<li>Go DiskQueue 源码阅读 <a href="https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html" rel="nofollow" target="_blank">https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html</a>
+</li>
+<li>Go: 使用 pprof 收集样本数据 <a href="https://mp.weixin.qq.com/s/HzhhF6nkMkFCv7nhtmBcBA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/HzhhF6nkMkFCv7nhtmBcBA</a>
+</li>
+<li>图解 Go 内存管理与内存清理 <a href="https://mp.weixin.qq.com/s/NTmE7GA429hfrYkySRsh4g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/NTmE7GA429hfrYkySRsh4g</a>
+</li>
+<li>分布式追踪不是银弹--正确使用分布式追踪和 APM 系统 <a href="https://mp.weixin.qq.com/s/-i-KP5JTd1mUiMMK0gVRDA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/-i-KP5JTd1mUiMMK0gVRDA</a>
+</li>
+<li>client-go 之 Reflector 源码分析 <a href="https://mp.weixin.qq.com/s/VLmIK8vcGNw7fI7xb1ZQCA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/VLmIK8vcGNw7fI7xb1ZQCA</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-22)</p></h3><ol>
 <li>Go 实现将文件批量插入，更新或删除到 Elasticsearch 工具 <a href="https://circleci.com/gh/gjbae1212/go-esworker" rel="nofollow" target="_blank">https://circleci.com/gh/gjbae1212/go-esworker</a>
 </li>
 <li>使用 Apache Kafka，Go 和 ksqlDB 构建 Telegram 机器人 <a href="https://dev.to/rmoff/building-a-telegram-bot-with-apache-kafka-go-and-ksqldb-4and" rel="nofollow" target="_blank">https://dev.to/rmoff/building-a-telegram-bot-with-apache-kafka-go-and-ksqldb-4and</a>
