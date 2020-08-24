@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-23)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-24)</p></h3><ol>
+<li>缓存击穿导致 golang 组件死锁的问题分享 <a href="https://mp.weixin.qq.com/s/XsCTQJWry2UUtAkM4OFbwA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/XsCTQJWry2UUtAkM4OFbwA</a>
+</li>
+<li>ElasticSearch Operator 工作原理浅析 <a href="https://blog.ihypo.net/15914637998255.html" rel="nofollow" target="_blank">https://blog.ihypo.net/15914637998255.html</a>
+</li>
+<li>在 vscode 中调试 go 代码 <a href="https://dev.to/nyxtom/debugging-in-go-in-vs-code-1c7f" rel="nofollow" target="_blank">https://dev.to/nyxtom/debugging-in-go-in-vs-code-1c7f</a>
+</li>
+<li>Go-Micro json/yaml/etcd 配置读取 <a href="https://juejin.im/post/6863826272200425480" rel="nofollow" target="_blank">https://juejin.im/post/6863826272200425480</a>
+</li>
+<li>csvstruct: csv 反序列化为结构体对象库  <a href="https://pkg.go.dev/github.com/artyom/csvstruct?tab=doc" rel="nofollow" target="_blank">https://pkg.go.dev/github.com/artyom/csvstruct?tab=doc</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-23)</p></h3><ol>
 <li>Go DiskQueue 源码阅读 <a href="https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html" rel="nofollow" target="_blank">https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html</a>
 </li>
 <li>Go: 使用 pprof 收集样本数据 <a href="https://mp.weixin.qq.com/s/HzhhF6nkMkFCv7nhtmBcBA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/HzhhF6nkMkFCv7nhtmBcBA</a>
