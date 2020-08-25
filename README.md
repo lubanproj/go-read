@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-24)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-25)</p></h3><ol>
+<li>踩了 Golang sync.Map 的一个坑 <a href="https://gocn.vip/topics/10860" rel="nofollow" target="_blank">https://gocn.vip/topics/10860</a>
+</li>
+<li>validator 库参数校验若干实用技巧 <a href="https://www.liwenzhou.com/posts/Go/validator_usages/" rel="nofollow" target="_blank">https://www.liwenzhou.com/posts/Go/validator_usages/</a>
+</li>
+<li>go 网络编程 <a href="https://www.jianshu.com/p/f8f247d003ee" rel="nofollow" target="_blank">https://www.jianshu.com/p/f8f247d003ee</a>
+</li>
+<li>Go 的有序 Map（使用泛型） <a href="https://medium.com/@rocketlaunchr.cloud/ordered-maps-for-go-using-generics-875ef3816c71" rel="nofollow" target="_blank">https://medium.com/@rocketlaunchr.cloud/ordered-maps-for-go-using-generics-875ef3816c71</a>
+</li>
+<li>GoLF 游戏引擎 <a href="https://github.com/bjatkin/golf-engine" rel="nofollow" target="_blank">https://github.com/bjatkin/golf-engine</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-24)</p></h3><ol>
 <li>缓存击穿导致 golang 组件死锁的问题分享 <a href="https://mp.weixin.qq.com/s/XsCTQJWry2UUtAkM4OFbwA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/XsCTQJWry2UUtAkM4OFbwA</a>
 </li>
 <li>ElasticSearch Operator 工作原理浅析 <a href="https://blog.ihypo.net/15914637998255.html" rel="nofollow" target="_blank">https://blog.ihypo.net/15914637998255.html</a>
