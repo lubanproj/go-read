@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-25)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-26)</p></h3><ol>
+<li>内存安全性与 Go <a href="https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727" rel="nofollow" target="_blank">https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727</a>
+</li>
+<li>在 Go 中试用 QUIC 和 WebTransport <a href="https://centrifugal.github.io/centrifugo/blog/quic_web_transport" rel="nofollow" target="_blank">https://centrifugal.github.io/centrifugo/blog/quic_web_transport</a> </li>
+<li>微服务的战争：按什么维度拆分服务 <a href="https://gocn.vip/topics/10861" rel="nofollow" target="_blank">https://gocn.vip/topics/10861</a>
+</li>
+<li>使用 Go 进行日志分析并生成 excel，再也不担心做日志分析了 <a href="https://mp.weixin.qq.com/s/PJFE-fJ_pt60H9XZlxBNpw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/PJFE-fJ_pt60H9XZlxBNpw</a>
+</li>
+<li>Go 实现的 traceroute 工具 <a href="https://github.com/kalbhor/tracesite" rel="nofollow" target="_blank">https://github.com/kalbhor/tracesite</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-25)</p></h3><ol>
 <li>踩了 Golang sync.Map 的一个坑 <a href="https://gocn.vip/topics/10860" rel="nofollow" target="_blank">https://gocn.vip/topics/10860</a>
 </li>
 <li>validator 库参数校验若干实用技巧 <a href="https://www.liwenzhou.com/posts/Go/validator_usages/" rel="nofollow" target="_blank">https://www.liwenzhou.com/posts/Go/validator_usages/</a>
