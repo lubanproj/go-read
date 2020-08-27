@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-26)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-08-27)</p></h3><ol>
+<li>将 CockroachDB 从 Dep 迁移到 Go Modules <a href="https://www.cockroachlabs.com/blog/dep-go-modules" rel="nofollow" target="_blank">https://www.cockroachlabs.com/blog/dep-go-modules</a>
+</li>
+<li>在 Go 中构建你自己的特性 <a href="https://levelup.gitconnected.com/build-your-own-future-in-go-f66c568e9a7a" rel="nofollow" target="_blank">https://levelup.gitconnected.com/build-your-own-future-in-go-f66c568e9a7a</a>
+</li>
+<li>接口隔离在 Go 中的应用 <a href="https://gianarb.it/blog/interface-segreation-in-action-with-go" rel="nofollow" target="_blank">https://gianarb.it/blog/interface-segreation-in-action-with-go</a>
+</li>
+<li>容量参数是如何破坏你的数据的 <a href="https://thenotexpert.com/how-innocent-capacity-parameter-can-destroy-your-data/" rel="nofollow" target="_blank">https://thenotexpert.com/how-innocent-capacity-parameter-can-destroy-your-data/</a>
+</li>
+<li>应用在 Lyft 上的一种新的实时路径匹配算法 <a href="https://eng.lyft.com/a-new-real-time-map-matching-algorithm-at-lyft-da593ab8b006" rel="nofollow" target="_blank">https://eng.lyft.com/a-new-real-time-map-matching-algorithm-at-lyft-da593ab8b006</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-26)</p></h3><ol>
 <li>内存安全性与 Go <a href="https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727" rel="nofollow" target="_blank">https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727</a>
 </li>
 <li>在 Go 中试用 QUIC 和 WebTransport <a href="https://centrifugal.github.io/centrifugo/blog/quic_web_transport" rel="nofollow" target="_blank">https://centrifugal.github.io/centrifugo/blog/quic_web_transport</a> </li>
