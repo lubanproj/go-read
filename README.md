@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-08-27)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-08-31)</h3><ol>
+<li>GORM v2 正式发布 <a href="https://gocn.vip/topics/10888" rel="nofollow" target="_blank">https://gocn.vip/topics/10888</a>
+</li>
+<li>微服务的战争：级联故障和雪崩 <a href="https://mp.weixin.qq.com/s/lfuGP-5L5e7efWiLn424CQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/lfuGP-5L5e7efWiLn424CQ</a>
+</li>
+<li>当 Kubernetes 遇到机密计算，阿里巴巴如何保护容器内数据的安全？ <a href="https://developer.aliyun.com/article/771142" rel="nofollow" target="_blank">https://developer.aliyun.com/article/771142</a>
+</li>
+<li>深入剖析 go 中字符串的编码问题——特殊字符的 string 怎么转 byte？ <a href="https://www.jianshu.com/p/34e6790a6503" rel="nofollow" target="_blank">https://www.jianshu.com/p/34e6790a6503</a>
+</li>
+<li>Golang 了解空接口 <a href="https://mp.weixin.qq.com/s/9CciL8ifi_Q_qfyNEPLNlg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/9CciL8ifi_Q_qfyNEPLNlg</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-08-27)</p></h3><ol>
 <li>将 CockroachDB 从 Dep 迁移到 Go Modules <a href="https://www.cockroachlabs.com/blog/dep-go-modules" rel="nofollow" target="_blank">https://www.cockroachlabs.com/blog/dep-go-modules</a>
 </li>
 <li>在 Go 中构建你自己的特性 <a href="https://levelup.gitconnected.com/build-your-own-future-in-go-f66c568e9a7a" rel="nofollow" target="_blank">https://levelup.gitconnected.com/build-your-own-future-in-go-f66c568e9a7a</a>
