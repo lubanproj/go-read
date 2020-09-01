@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-08-31)</h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-01)</p></h3><ol>
+<li>go-zero 微服务自动生成 <a href="https://gocn.vip/topics/10884" rel="nofollow" target="_blank">https://gocn.vip/topics/10884</a>
+</li>
+<li> Golang 标准库 sync.WaitGroup 解读 <a href="https://juejin.im/post/6866971615717457934" rel="nofollow" target="_blank">https://juejin.im/post/6866971615717457934</a>
+</li>
+<li>Golang HTTP 服务器实现原理 <a href="https://juejin.im/post/6867149633328513038" rel="nofollow" target="_blank">https://juejin.im/post/6867149633328513038</a>
+</li>
+<li>高效的关键词替换和敏感词过滤工具  <a href="https://v2ex.com/t/702937" rel="nofollow" target="_blank">https://v2ex.com/t/702937</a>
+</li>
+<li>微服务的战争：统一且标准化 <a href="https://mp.weixin.qq.com/s/0ZtR3e0NHGpwAswvNNhYKw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/0ZtR3e0NHGpwAswvNNhYKw</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-08-31)</h3><ol>
 <li>GORM v2 正式发布 <a href="https://gocn.vip/topics/10888" rel="nofollow" target="_blank">https://gocn.vip/topics/10888</a>
 </li>
 <li>微服务的战争：级联故障和雪崩 <a href="https://mp.weixin.qq.com/s/lfuGP-5L5e7efWiLn424CQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/lfuGP-5L5e7efWiLn424CQ</a>
