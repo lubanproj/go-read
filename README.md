@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-01)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-09-03）</p></h3><ol>
+<li>Go Dumpling！让导出数据更容易 <a href="https://segmentfault.com/a/1190000023879506" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023879506</a>
+</li>
+<li>Goroutine 是如何处理栈的？ <a href="https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html" rel="nofollow" target="_blank">https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html</a>
+</li>
+<li>PayPal 使用 Go 提升扩展性 <a href="https://go.dev/solutions/paypal/" rel="nofollow" target="_blank">https://go.dev/solutions/paypal/</a>
+</li>
+<li>使用整洁的架构重构 Go 项目 <a href="https://threedots.tech/post/introducing-clean-architecture/" rel="nofollow" target="_blank">https://threedots.tech/post/introducing-clean-architecture/</a>
+</li>
+<li>Go 如何申请对象内存大小 <a href="https://commaok.xyz/post/discovering-size-classes/" rel="nofollow" target="_blank">https://commaok.xyz/post/discovering-size-classes/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-01)</p></h3><ol>
 <li>go-zero 微服务自动生成 <a href="https://gocn.vip/topics/10884" rel="nofollow" target="_blank">https://gocn.vip/topics/10884</a>
 </li>
 <li> Golang 标准库 sync.WaitGroup 解读 <a href="https://juejin.im/post/6866971615717457934" rel="nofollow" target="_blank">https://juejin.im/post/6866971615717457934</a>
