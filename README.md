@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-09-03）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-04)</p></h3><ol>
+<li>go-zero 快速构建高并发微服务 <a href="https://github.com/tal-tech/go-zero" rel="nofollow" target="_blank">https://github.com/tal-tech/go-zero</a>
+</li>
+<li>逃逸分析介绍 <a href="https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890</a>
+</li>
+<li>内置函数优化 <a href="https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680</a>
+</li>
+<li>计时器的生命周期 <a href="https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a</a>
+</li>
+<li>go 中如何触发死锁？<a href="https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-09-03）</p></h3><ol>
 <li>Go Dumpling！让导出数据更容易 <a href="https://segmentfault.com/a/1190000023879506" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000023879506</a>
 </li>
 <li>Goroutine 是如何处理栈的？ <a href="https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html" rel="nofollow" target="_blank">https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html</a>
