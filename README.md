@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-04)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-05)</p></h3><ol>
+<li>Linux 调度器中的 PELT 算法浅析 <a href="https://mp.weixin.qq.com/s/pNZ9I88cjwIuErfP74RSHg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pNZ9I88cjwIuErfP74RSHg</a>
+</li>
+<li>图解 Go 内存管理器的内存分配策略 <a href="https://mp.weixin.qq.com/s/vK7ug7NC2VQaIBFe6FVNSQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/vK7ug7NC2VQaIBFe6FVNSQ</a> </li>
+<li>深度阅读之《Concurrency in Go》<a href="https://qcrao.com/2020/09/05/concurrency-in-go-reading-notes" rel="nofollow" target="_blank">https://qcrao.com/2020/09/05/concurrency-in-go-reading-notes</a>
+</li>
+<li>如何将单 master 升级为多 master 集群 <a href="https://mp.weixin.qq.com/s/whr-sUPly-ZrFSLs9Qrpuw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/whr-sUPly-ZrFSLs9Qrpuw</a>
+</li>
+<li>Nginx Ingress 高并发实践 <a href="https://mp.weixin.qq.com/s/FikIXjnW6PuYR5f_Dev8pQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/FikIXjnW6PuYR5f_Dev8pQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-04)</p></h3><ol>
 <li>go-zero 快速构建高并发微服务 <a href="https://github.com/tal-tech/go-zero" rel="nofollow" target="_blank">https://github.com/tal-tech/go-zero</a>
 </li>
 <li>逃逸分析介绍 <a href="https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890</a>
