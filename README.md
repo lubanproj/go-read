@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-05)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-06)</p></h3><ol>
+<li>K8s token 安全认证原理 <a href="https://medium.com/@hajsanad/kubernetes-token-review-and-authentication-56e06cc55ed3" rel="nofollow" target="_blank">https://medium.com/@hajsanad/kubernetes-token-review-and-authentication-56e06cc55ed3</a>
+</li>
+<li>活用 iota 以更高效地创建常量 <a href="https://medium.com/@balagetme/iota-create-effective-constants-in-golang-b399f94aac31" rel="nofollow" target="_blank">https://medium.com/@balagetme/iota-create-effective-constants-in-golang-b399f94aac31</a>
+</li>
+<li>Go 语言并发之道读后感-第二章 <a href="https://gocn.vip/topics/10913" rel="nofollow" target="_blank">https://gocn.vip/topics/10913</a>
+</li>
+<li>gravition: 一款基于 ZFS 的 KV 数据库 <a href="https://medium.com/deroproject/graviton-zfs-for-key-value-stores-4e48a4831a6a" rel="nofollow" target="_blank">https://medium.com/deroproject/graviton-zfs-for-key-value-stores-4e48a4831a6a</a>
+</li>
+<li>ion-sfu：webrtc sfu 的 Go 语言实现  <a href="https://github.com/pion/ion-sfu" rel="nofollow" target="_blank">https://github.com/pion/ion-sfu</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-05)</p></h3><ol>
 <li>Linux 调度器中的 PELT 算法浅析 <a href="https://mp.weixin.qq.com/s/pNZ9I88cjwIuErfP74RSHg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pNZ9I88cjwIuErfP74RSHg</a>
 </li>
 <li>图解 Go 内存管理器的内存分配策略 <a href="https://mp.weixin.qq.com/s/vK7ug7NC2VQaIBFe6FVNSQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/vK7ug7NC2VQaIBFe6FVNSQ</a> </li>
