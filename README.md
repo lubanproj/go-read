@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-06)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-07)</p></h3><ol>
+<li>用 Go 語言實戰 Limit Concurrency 方法 <a href="https://gocn.vip/topics/10930" rel="nofollow" target="_blank">https://gocn.vip/topics/10930</a>
+</li>
+<li>Go 语言 | goroutine 不只有基础的用法，还有这些你不知道的操作 <a href="https://mp.weixin.qq.com/s/T-vc9UjX66Uqso_tpayIKw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/T-vc9UjX66Uqso_tpayIKw</a>
+</li>
+<li>Go 语言 | 并发设计中的同步锁与 waitgroup 用法 <a href="https://mp.weixin.qq.com/s/0Fr1pcNr7wHyQcOBNX1CUw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/0Fr1pcNr7wHyQcOBNX1CUw</a>
+</li>
+<li>Go: gops 如何与 Go 运行时交互？ <a href="https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18</a>
+</li>
+<li>Golang 源码分析系列之官方 Context 包 <a href="https://juejin.im/post/6869211218993905678" rel="nofollow" target="_blank">https://juejin.im/post/6869211218993905678</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-06)</p></h3><ol>
 <li>K8s token 安全认证原理 <a href="https://medium.com/@hajsanad/kubernetes-token-review-and-authentication-56e06cc55ed3" rel="nofollow" target="_blank">https://medium.com/@hajsanad/kubernetes-token-review-and-authentication-56e06cc55ed3</a>
 </li>
 <li>活用 iota 以更高效地创建常量 <a href="https://medium.com/@balagetme/iota-create-effective-constants-in-golang-b399f94aac31" rel="nofollow" target="_blank">https://medium.com/@balagetme/iota-create-effective-constants-in-golang-b399f94aac31</a>
