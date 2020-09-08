@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-07)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-08)</p></h3><ol>
+<li>Go 1.15 中的新变化 <a href="https://www.loginradius.com/engineering/blog/what-is-the-new-go-1.15/" rel="nofollow" target="_blank">https://www.loginradius.com/engineering/blog/what-is-the-new-go-1.15/</a>
+</li>
+<li>使用对象构造函数提高 Go 代码的可靠性 <a href="https://deliveroo.engineering/2020/09/07/increase-the-reliability-of-a-golang-codebase-with-object-constructors.html" rel="nofollow" target="_blank">https://deliveroo.engineering/2020/09/07/increase-the-reliability-of-a-golang-codebase-with-object-constructors.html</a>
+</li>
+<li>来自 Go 官方的泛型使用例子 <a href="https://github.com/golang/go/tree/dev.go2go/src/cmd/go2go/testdata/go2path/src" rel="nofollow" target="_blank">https://github.com/golang/go/tree/dev.go2go/src/cmd/go2go/testdata/go2path/src</a> </li>
+<li>Go 中 BDD 的替代方法 <a href="https://levelup.gitconnected.com/an-alternative-approach-to-bdd-in-go-776bbbc24be9" rel="nofollow" target="_blank">https://levelup.gitconnected.com/an-alternative-approach-to-bdd-in-go-776bbbc24be9</a>
+</li>
+<li>通过重构 Go 项目介绍简洁架构模式 <a href="https://threedots.tech/post/introducing-clean-architecture/" rel="nofollow" target="_blank">https://threedots.tech/post/introducing-clean-architecture/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-07)</p></h3><ol>
 <li>用 Go 語言實戰 Limit Concurrency 方法 <a href="https://gocn.vip/topics/10930" rel="nofollow" target="_blank">https://gocn.vip/topics/10930</a>
 </li>
 <li>Go 语言 | goroutine 不只有基础的用法，还有这些你不知道的操作 <a href="https://mp.weixin.qq.com/s/T-vc9UjX66Uqso_tpayIKw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/T-vc9UjX66Uqso_tpayIKw</a>
