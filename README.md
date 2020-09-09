@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-09)</p></h3><ol>
+<li>为你的 Go 项目构建一个类似 Rails 的迁移运行器 <a href="https://medium.com/better-programming/build-a-rails-like-migration-runner-for-your-go-projects-b72f551597a3" rel="nofollow" target="_blank">https://medium.com/better-programming/build-a-rails-like-migration-runner-for-your-go-projects-b72f551597a3</a>
+</li>
+<li>Go 中高效、线程安全的 ID 生成方法汇总 <a href="https://dev.to/dextication/fast-thread-safe-id-generation-in-golang-38li" rel="nofollow" target="_blank">https://dev.to/dextication/fast-thread-safe-id-generation-in-golang-38li</a>
+</li>
+<li>DynamoDB 与 Go 系列 4 之索引 <a href="https://dev.to/jbszczepaniak/dynamodb-with-go-4-indexes-3doi" rel="nofollow" target="_blank">https://dev.to/jbszczepaniak/dynamodb-with-go-4-indexes-3doi</a>
+</li>
+<li>通过 MapReduce 降低服务响应时间 <a href="https://gocn.vip/topics/10941" rel="nofollow" target="_blank">https://gocn.vip/topics/10941</a>
+</li>
+<li>CGO 如何生成兼容 C 的结构体？ <a href="https://mp.weixin.qq.com/s/k2j2nJNvriJUIi4X10rQzw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/k2j2nJNvriJUIi4X10rQzw</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-08)</p></h3><ol>
 <li>Go 1.15 中的新变化 <a href="https://www.loginradius.com/engineering/blog/what-is-the-new-go-1.15/" rel="nofollow" target="_blank">https://www.loginradius.com/engineering/blog/what-is-the-new-go-1.15/</a>
 </li>
 <li>使用对象构造函数提高 Go 代码的可靠性 <a href="https://deliveroo.engineering/2020/09/07/increase-the-reliability-of-a-golang-codebase-with-object-constructors.html" rel="nofollow" target="_blank">https://deliveroo.engineering/2020/09/07/increase-the-reliability-of-a-golang-codebase-with-object-constructors.html</a>
