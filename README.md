@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-09)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-09-15)</h3><ol>
+<li>译文 Go: sysmon, Runtime Monitoring <a href="https://gocn.vip/topics/10977" rel="nofollow" target="_blank">https://gocn.vip/topics/10977</a>
+</li>
+<li>Go 服务迁到 K8s 后老抽风重启? 记一次完整的线上问题解决过程 <a href="https://mp.weixin.qq.com/s/mitu71qNjtfzFzB6nkmHJA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/mitu71qNjtfzFzB6nkmHJA</a>
+</li>
+<li>有想过如何为 Go 语言增加一个语句吗？ <a href="https://mp.weixin.qq.com/s/7J0CvKcUTuPCzzvOBxDKoA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/7J0CvKcUTuPCzzvOBxDKoA</a>
+</li>
+<li>Go 发起 HTTP2.0 请求流程分析 (后篇)——标头压缩 <a href="https://mp.weixin.qq.com/s/HTGg5HYRSVY-4-H9Sf1zww" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/HTGg5HYRSVY-4-H9Sf1zww</a>
+</li>
+<li>详解 Context 包，看这一篇就够了！！！ <a href="https://segmentfault.com/a/1190000024441501" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000024441501</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-09)</p></h3><ol>
 <li>为你的 Go 项目构建一个类似 Rails 的迁移运行器 <a href="https://medium.com/better-programming/build-a-rails-like-migration-runner-for-your-go-projects-b72f551597a3" rel="nofollow" target="_blank">https://medium.com/better-programming/build-a-rails-like-migration-runner-for-your-go-projects-b72f551597a3</a>
 </li>
 <li>Go 中高效、线程安全的 ID 生成方法汇总 <a href="https://dev.to/dextication/fast-thread-safe-id-generation-in-golang-38li" rel="nofollow" target="_blank">https://dev.to/dextication/fast-thread-safe-id-generation-in-golang-38li</a>
