@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-09-15)</h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-09-17）</p></h3><ol>
+<li>Go 的隐秘世界：Go 程序的启动和 runtime 初始化 <a href="https://zhuanlan.zhihu.com/p/241308426" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/241308426</a>
+</li>
+<li>写在 Dubbo go 的第五年 <a href="https://segmentfault.com/a/1190000024478768" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000024478768</a>
+</li>
+<li>Go GC 处理错误指针时崩溃 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoGCBadPointerPanics" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoGCBadPointerPanics</a>
+</li>
+<li>GORM V2 读操作 <a href="https://mp.weixin.qq.com/s/FQC4-yVtioJj0dZ0i8kibw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/FQC4-yVtioJj0dZ0i8kibw</a>
+</li>
+<li>gopls v0.5.0 发布 <a href="https://github.com/golang/tools/releases/tag/gopls%2Fv0.5.0" rel="nofollow" target="_blank">https://github.com/golang/tools/releases/tag/gopls%2Fv0.5.0</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-09-15)</h3><ol>
 <li>译文 Go: sysmon, Runtime Monitoring <a href="https://gocn.vip/topics/10977" rel="nofollow" target="_blank">https://gocn.vip/topics/10977</a>
 </li>
 <li>Go 服务迁到 K8s 后老抽风重启? 记一次完整的线上问题解决过程 <a href="https://mp.weixin.qq.com/s/mitu71qNjtfzFzB6nkmHJA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/mitu71qNjtfzFzB6nkmHJA</a>
