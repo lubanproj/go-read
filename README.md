@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-09-17）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-09-18）</p></h3><ol>
+<li>golang-dev : 实现泛型 <a href="https://www.reddit.com/r/golang/comments/iv4idd/golangdev_implementing_generics/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/iv4idd/golangdev_implementing_generics/</a>
+</li>
+<li>Golang 汇编入门知识总结 <a href="https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA</a>
+</li>
+<li>golang pprof 使用方法 <a href="https://www.jianshu.com/p/d801072ef333" rel="nofollow" target="_blank">https://www.jianshu.com/p/d801072ef333</a>
+</li>
+<li>记一次线上性能调优：火焰图是利器 <a href="https://mp.weixin.qq.com/s/smdpg0WPY_RIS2pH3Mh5-g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/smdpg0WPY_RIS2pH3Mh5-g</a>
+</li>
+<li>sync.RWMutex 功能的测试 <a href="https://gocn.vip/topics/10980" rel="nofollow" target="_blank">https://gocn.vip/topics/10980</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-09-17）</p></h3><ol>
 <li>Go 的隐秘世界：Go 程序的启动和 runtime 初始化 <a href="https://zhuanlan.zhihu.com/p/241308426" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/241308426</a>
 </li>
 <li>写在 Dubbo go 的第五年 <a href="https://segmentfault.com/a/1190000024478768" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000024478768</a>
