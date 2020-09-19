@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-09-18）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-19)</p></h3><ol>
+<li>Golang:sysmon，运行时监视 <a href="https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5" rel="nofollow" target="_blank">https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5</a>
+</li>
+<li>使用 eBPF 在线调试 Go 程序 <a href="https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/" rel="nofollow" target="_blank">https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/</a>
+</li>
+<li>Go 实现跨平台的蓝牙包 Bluetooth <a href="https://github.com/tinygo-org/bluetooth#go-bluetooth" rel="nofollow" target="_blank">https://github.com/tinygo-org/bluetooth#go-bluetooth</a>
+</li>
+<li>用 Go 语言编写的 RocksDB 启发式键值存储 <a href="https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/" rel="nofollow" target="_blank">https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/</a>
+</li>
+<li>TiDB HTAP 深度解读 <a href="https://gocn.vip/topics/11006" rel="nofollow" target="_blank">https://gocn.vip/topics/11006</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-09-18）</p></h3><ol>
 <li>golang-dev : 实现泛型 <a href="https://www.reddit.com/r/golang/comments/iv4idd/golangdev_implementing_generics/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/iv4idd/golangdev_implementing_generics/</a>
 </li>
 <li>Golang 汇编入门知识总结 <a href="https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA</a>
