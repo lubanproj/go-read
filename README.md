@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-19)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-09-20)</p></h3><ol>
+<li>Go 的 defer,panic 和 recover <a href="https://medium.com/@SachinKarve/defer-panic-and-recover-in-golang-44e2102d344c" rel="nofollow" target="_blank">https://medium.com/@SachinKarve/defer-panic-and-recover-in-golang-44e2102d344c</a><br>
+</li>
+<li>go runtime debug 小技巧 <a href="https://gocn.vip/topics/11010" rel="nofollow" target="_blank">https://gocn.vip/topics/11010</a><br>
+</li>
+<li>奇妙的 Go AST 包 <a href="https://medium.com/@riptidedata/cool-stuff-with-gos-ast-package-pt-2-e4d39ab7e9db" rel="nofollow" target="_blank">https://medium.com/@riptidedata/cool-stuff-with-gos-ast-package-pt-2-e4d39ab7e9db</a><br>
+</li>
+<li>Go 语法讲解: Blank Identifier<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/FKaMiSGmQoE" allowfullscreen=""></iframe></span><br>
+</li>
+<li>prisma: 类型安全地操作数据库  <a href="https://github.com/prisma/prisma-client-go" rel="nofollow" target="_blank">https://github.com/prisma/prisma-client-go</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-19)</p></h3><ol>
 <li>Golang:sysmon，运行时监视 <a href="https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5" rel="nofollow" target="_blank">https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5</a>
 </li>
 <li>使用 eBPF 在线调试 Go 程序 <a href="https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/" rel="nofollow" target="_blank">https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/</a>
