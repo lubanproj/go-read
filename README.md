@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-09-23)</p></h3><ol>
+<br><h3>GoCN 每日新闻 (2020-09-28)</h3><ol>
+<li>#Golang 源码系列 # 字符串查找源码剖析 <a href="https://juejin.im/post/6876260518105972749" rel="nofollow" target="_blank">https://juejin.im/post/6876260518105972749</a>
+</li>
+<li>面试题解析：这么一道 “简单” 的 Go 题，为什么结果出乎意料 <a href="https://mp.weixin.qq.com/s/fL51hHLyuEZVvsbLIddXGg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/fL51hHLyuEZVvsbLIddXGg</a>
+</li>
+<li>Go 二进制文件逆向分析从基础到进阶——Tips 与实战案例 <a href="https://www.anquanke.com/post/id/218674" rel="nofollow" target="_blank">https://www.anquanke.com/post/id/218674</a>
+</li>
+<li>一道比较运算符相关的面试题把我虐的体无完肤 <a href="https://mp.weixin.qq.com/s/xDV3yM-vPqWOEiks6mxKEw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/xDV3yM-vPqWOEiks6mxKEw</a>
+</li>
+<li>使用 JSON 时的惊讶和陷阱 <a href="https://www.alexedwards.net/blog/json-surprises-and-gotchas" rel="nofollow" target="_blank">https://www.alexedwards.net/blog/json-surprises-and-gotchas</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-09-23)</p></h3><ol>
 <li>GraphQL 是什么？在 Golang 中如何实现 <a href="https://medium.com/tunaiku-tech/what-is-graphql-and-how-is-it-implemented-in-golang-b2e7649529f1" rel="nofollow" target="_blank">https://medium.com/tunaiku-tech/what-is-graphql-and-how-is-it-implemented-in-golang-b2e7649529f1</a>
 </li>
 <li>Go 程序性能分析 <a href="https://segmentfault.com/a/1190000024541490" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000024541490</a>
