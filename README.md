@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3>GoCN 每日新闻 (2020-09-28)</h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-10-01）</p></h3><ol>
+<li>误用 io.Reader 造成百万美元损失 <a href="https://hackernoon.com/billion-dollar-mistake-in-go-ll1s3tkc" rel="nofollow" target="_blank">https://hackernoon.com/billion-dollar-mistake-in-go-ll1s3tkc</a>
+</li>
+<li>Go 程序自升级包 selfupdate <a href="https://github.com/minio/selfupdate" rel="nofollow" target="_blank">https://github.com/minio/selfupdate</a>
+</li>
+<li>加快 Go 的字符串匹配效率 <a href="https://boyter.org/posts/faster-literal-string-matching-in-go/" rel="nofollow" target="_blank">https://boyter.org/posts/faster-literal-string-matching-in-go/</a>
+</li>
+<li>Go 并发入门 <a href="https://medium.com/@yashaswi_nayak/go-a-tale-of-concurrency-a-beginners-guide-b8976b26feb" rel="nofollow" target="_blank">https://medium.com/@yashaswi_nayak/go-a-tale-of-concurrency-a-beginners-guide-b8976b26feb</a>
+</li>
+<li>Go Prosopal: Generics implementation - GC Shape Stenciling <a href="https://github.com/golang/proposal/blob/master/design/generics-implementation-gcshape.md" rel="nofollow" target="_blank">https://github.com/golang/proposal/blob/master/design/generics-implementation-gcshape.md</a>
+</li>
+</ol><hr><h3>GoCN 每日新闻 (2020-09-28)</h3><ol>
 <li>#Golang 源码系列 # 字符串查找源码剖析 <a href="https://juejin.im/post/6876260518105972749" rel="nofollow" target="_blank">https://juejin.im/post/6876260518105972749</a>
 </li>
 <li>面试题解析：这么一道 “简单” 的 Go 题，为什么结果出乎意料 <a href="https://mp.weixin.qq.com/s/fL51hHLyuEZVvsbLIddXGg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/fL51hHLyuEZVvsbLIddXGg</a>
