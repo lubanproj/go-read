@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-10-01）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-10-02)</p></h3><ol>
+<li>Go 中最快的模板解析器是什么? <a href="https://dev.to/kataras/what-s-the-fastest-template-parser-in-go-4bal" rel="nofollow" target="_blank">https://dev.to/kataras/what-s-the-fastest-template-parser-in-go-4bal</a>
+</li>
+<li>Go 中的构建器模式 <a href="https://dev.to/shubhamzanwar/builder-pattern-5839" rel="nofollow" target="_blank">https://dev.to/shubhamzanwar/builder-pattern-5839</a>
+</li>
+<li>Go：并发故事（初学者指南）<a href="https://medium.com/@yashaswi_nayak/go-a-tale-of-concurrency-a-beginners-guide-b8976b26feb" rel="nofollow" target="_blank">https://medium.com/@yashaswi_nayak/go-a-tale-of-concurrency-a-beginners-guide-b8976b26feb</a>
+</li>
+<li>Go 实现的轻量级的 Web 服务器 <a href="https://github.com/nielsAD/autoindex" rel="nofollow" target="_blank">https://github.com/nielsAD/autoindex</a>
+</li>
+<li>通过重构 Go 项目引入基本的 CQRS <a href="https://threedots.tech/post/basic-cqrs-in-go/" rel="nofollow" target="_blank">https://threedots.tech/post/basic-cqrs-in-go/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-10-01）</p></h3><ol>
 <li>误用 io.Reader 造成百万美元损失 <a href="https://hackernoon.com/billion-dollar-mistake-in-go-ll1s3tkc" rel="nofollow" target="_blank">https://hackernoon.com/billion-dollar-mistake-in-go-ll1s3tkc</a>
 </li>
 <li>Go 程序自升级包 selfupdate <a href="https://github.com/minio/selfupdate" rel="nofollow" target="_blank">https://github.com/minio/selfupdate</a>
