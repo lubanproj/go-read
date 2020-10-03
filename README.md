@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-10-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-10-03)</p></h3><ol>
+<li>Go 设计模式 15-策略模式<a href="https://lailin.xyz/post/strategy.html" rel="nofollow" target="_blank">https://lailin.xyz/post/strategy.html</a>
+</li>
+<li>Go 实现自定义语言的基础 - goyacc 简易入门 <a href="https://mp.weixin.qq.com/s/N1BOJKUZZ0hFyEAwuPn83w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/N1BOJKUZZ0hFyEAwuPn83w</a>
+</li>
+<li>错误 error 和异常 panic <a href="https://studygolang.com/articles/30971" rel="nofollow" target="_blank">https://studygolang.com/articles/30971</a>
+</li>
+<li>图解 kubernetes 容器实现容器健康检查 <a href="https://mp.weixin.qq.com/s/Pfj1GXM8vLxft3SoTkAFTQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Pfj1GXM8vLxft3SoTkAFTQ</a>
+</li>
+<li>Kubernetes 容器网络模型和典型实现 <a href="https://gocn.vip/topics/11035" rel="nofollow" target="_blank">https://gocn.vip/topics/11035</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-10-02)</p></h3><ol>
 <li>Go 中最快的模板解析器是什么? <a href="https://dev.to/kataras/what-s-the-fastest-template-parser-in-go-4bal" rel="nofollow" target="_blank">https://dev.to/kataras/what-s-the-fastest-template-parser-in-go-4bal</a>
 </li>
 <li>Go 中的构建器模式 <a href="https://dev.to/shubhamzanwar/builder-pattern-5839" rel="nofollow" target="_blank">https://dev.to/shubhamzanwar/builder-pattern-5839</a>
