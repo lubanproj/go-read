@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-10-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-10-04)</p></h3><ol>
+<li>使用 WebAssembly 操作 JS 教程 <a href="https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html" rel="nofollow" target="_blank">https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html</a><br>
+</li>
+<li>Go 函数的可读性与最佳实践<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/sK3eSCdyksM" allowfullscreen=""></iframe></span><br>
+</li>
+<li>Go modules replace 的工程实践 <a href="https://medium.com/@ckeyes88/go-modules-done-better-ae09783ae2f8" rel="nofollow" target="_blank">https://medium.com/@ckeyes88/go-modules-done-better-ae09783ae2f8</a><br>
+</li>
+<li>Go 程序是如何实现 Recover <a href="https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e" rel="nofollow" target="_blank">https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e</a><br>
+</li>
+<li>gvm: 多套 Go 语言环境管理神器  <a href="https://medium.com/the-programming-hub/the-secret-to-managing-multiple-go-environments-is-called-gvm-8069ad9dfdde" rel="nofollow" target="_blank">https://medium.com/the-programming-hub/the-secret-to-managing-multiple-go-environments-is-called-gvm-8069ad9dfdde</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-10-03)</p></h3><ol>
 <li>Go 设计模式 15-策略模式<a href="https://lailin.xyz/post/strategy.html" rel="nofollow" target="_blank">https://lailin.xyz/post/strategy.html</a>
 </li>
 <li>Go 实现自定义语言的基础 - goyacc 简易入门 <a href="https://mp.weixin.qq.com/s/N1BOJKUZZ0hFyEAwuPn83w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/N1BOJKUZZ0hFyEAwuPn83w</a>
