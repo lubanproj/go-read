@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-10-14)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-10-16）</p></h3><ol>
+<li>Golang 中的一些常识 <a href="https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw</a>
+</li>
+<li>使用人工智能优化 Golang 编译器 <a href="https://purewhite.io/2020/10/14/manual-intelligence-optimize-golang-compiler/" rel="nofollow" target="_blank">https://purewhite.io/2020/10/14/manual-intelligence-optimize-golang-compiler/</a>
+</li>
+<li>Go 编写 WASM 打砖块游戏 <a href="https://gweb.orsinium.dev/breakout/" rel="nofollow" target="_blank">https://gweb.orsinium.dev/breakout/</a>
+</li>
+<li>自定义 Go HTTP 客户端 <a href="https://rafallorenz.com/go/customize-http-client/" rel="nofollow" target="_blank">https://rafallorenz.com/go/customize-http-client/</a>
+</li>
+<li>go-zero 如何应对海量定时/延迟任务？ <a href="https://segmentfault.com/a/1190000037496480" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000037496480</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-10-14)</p></h3><ol>
 <li>Go 切片的一种有趣内存泄漏方式 <a href="https://mp.weixin.qq.com/s/NdsnNEpxcTQDX0LffuDzjQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/NdsnNEpxcTQDX0LffuDzjQ</a>
 </li>
 <li>Golang 并发模型之 GMP 浅尝 <a href="https://mp.weixin.qq.com/s/p_7qZH5Ix3vVJEvbPHyMng" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/p_7qZH5Ix3vVJEvbPHyMng</a>
