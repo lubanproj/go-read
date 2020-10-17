@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-10-16）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-10-17）</p></h3><ol>
+<li>Go 运行时调度器处理系统调用的巧妙方式 <a href="https://mp.weixin.qq.com/s/DxycOYH3pNpJFYdf6ESbhA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/DxycOYH3pNpJFYdf6ESbhA</a>
+</li>
+<li>高可用 Prometheus 的常见问题 <a href="https://mp.weixin.qq.com/s/x4EEXq6-6xv-lm-dAazcag" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/x4EEXq6-6xv-lm-dAazcag</a>
+</li>
+<li>限流中的漏桶和令牌桶算法 <a href="https://mp.weixin.qq.com/s/4SzZEUTmjwAAsH5Qd2GWLQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/4SzZEUTmjwAAsH5Qd2GWLQ</a>
+</li>
+<li>白话 Go 的垃圾回收原理 <a href="https://mp.weixin.qq.com/s/79mO4IhZ5cDQm4hbAdqOyQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/79mO4IhZ5cDQm4hbAdqOyQ</a>
+</li>
+<li>(译) 用 Notary 和 OPA 在 Kubernetes 上使用内容签名 <a href="https://mp.weixin.qq.com/s/js4KKNWNnfx32YJauU1f2Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/js4KKNWNnfx32YJauU1f2Q</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-10-16）</p></h3><ol>
 <li>Golang 中的一些常识 <a href="https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw</a>
 </li>
 <li>使用人工智能优化 Golang 编译器 <a href="https://purewhite.io/2020/10/14/manual-intelligence-optimize-golang-compiler/" rel="nofollow" target="_blank">https://purewhite.io/2020/10/14/manual-intelligence-optimize-golang-compiler/</a>
