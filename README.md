@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-10-17）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-10-18)</p></h3><ol>
+<li>关于 unsafe 包的使用研究 <a href="https://arxiv.org/pdf/2006.09973.pdf" rel="nofollow" target="_blank">https://arxiv.org/pdf/2006.09973.pdf</a><br>
+</li>
+<li>使用 BuildKit 构建容器镜像 <a href="https://mp.weixin.qq.com/s/UXUu0OeMWicU6CqYkcdfog" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/UXUu0OeMWicU6CqYkcdfog</a><br>
+</li>
+<li>是时候跟 Docker 说再见 <a href="https://dev.to/martinheinz/it-s-time-to-say-goodbye-to-docker-386h" rel="nofollow" target="_blank">https://dev.to/martinheinz/it-s-time-to-say-goodbye-to-docker-386h</a><br>
+</li>
+<li>Chronos: go 竞争探测器 <a href="https://github.com/amit-davidson/Chronos" rel="nofollow" target="_blank">https://github.com/amit-davidson/Chronos</a><br>
+</li>
+<li>glow: 酷炫的终端 markdown 阅读器  <a href="https://github.com/charmbracelet/glow" rel="nofollow" target="_blank">https://github.com/charmbracelet/glow</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-10-17）</p></h3><ol>
 <li>Go 运行时调度器处理系统调用的巧妙方式 <a href="https://mp.weixin.qq.com/s/DxycOYH3pNpJFYdf6ESbhA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/DxycOYH3pNpJFYdf6ESbhA</a>
 </li>
 <li>高可用 Prometheus 的常见问题 <a href="https://mp.weixin.qq.com/s/x4EEXq6-6xv-lm-dAazcag" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/x4EEXq6-6xv-lm-dAazcag</a>
