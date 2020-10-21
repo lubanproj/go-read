@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-10-20)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-10-21)</p></h3><ol>
+<li>Go 官方 2020 开发者调查问卷 <a href="https://blog.golang.org/survey2020" rel="nofollow" target="_blank">https://blog.golang.org/survey2020</a>
+</li>
+<li>深入理解最近的 Go 泛型提案<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/gIEPspmbMHM" allowfullscreen=""></iframe></span>
+</li>
+<li>为什么你应该避免在 main 中写大量代码 <a href="https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html" rel="nofollow" target="_blank">https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html</a>
+</li>
+<li>在 Go 中 mock http client <a href="https://dev.to/trashhalo/mocking-http-clients-in-go-3l9p" rel="nofollow" target="_blank">https://dev.to/trashhalo/mocking-http-clients-in-go-3l9p</a>
+</li>
+<li>为 Go 应用程序创建 Docker 映像 <a href="https://www.maragu.dk/blog/creating-a-docker-image-for-a-go-application/" rel="nofollow" target="_blank">https://www.maragu.dk/blog/creating-a-docker-image-for-a-go-application/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-10-20)</p></h3><ol>
 <li>Go 程序包开发，读简单配置文件 <a href="https://www.jianshu.com/p/0d585c68bc16" rel="nofollow" target="_blank">https://www.jianshu.com/p/0d585c68bc16</a>
 </li>
 <li>利用 Ghidra 逆向分析 Go 二进制程序 <a href="https://cujo.com/reverse-engineering-go-binaries-with-ghidra" rel="nofollow" target="_blank">https://cujo.com/reverse-engineering-go-binaries-with-ghidra</a>
