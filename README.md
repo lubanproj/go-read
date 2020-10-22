@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-10-21)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-10-22)</p></h3><ol>
+<li>如何在 Go 中编写递归嵌套函数 <a href="https://medium.com/@wexort/how-to-write-a-nested-function-in-go-3338c56526f3" rel="nofollow" target="_blank">https://medium.com/@wexort/how-to-write-a-nested-function-in-go-3338c56526f3</a>
+</li>
+<li>在 Go 聊天应用中使用 Redis/Sub <a href="https://dev.to/jeroendk/how-to-use-redis-pub-sub-in-go-chat-application-part-3-2h4c" rel="nofollow" target="_blank">https://dev.to/jeroendk/how-to-use-redis-pub-sub-in-go-chat-application-part-3-2h4c</a>
+</li>
+<li>HTTP2 服务器推送的第一次尝试 <a href="https://juejin.im/post/6885142509035454478" rel="nofollow" target="_blank">https://juejin.im/post/6885142509035454478</a>
+</li>
+<li>使用 kubecolor 颜色高亮 kubectl 输出 <a href="https://medium.com/@dty1er/colorize-kubectl-output-by-kubecolor-2c222af3163a" rel="nofollow" target="_blank">https://medium.com/@dty1er/colorize-kubectl-output-by-kubecolor-2c222af3163a</a>
+</li>
+<li>SSL 证书验证工具 cassler  <a href="https://github.com/msfidelis/cassler" rel="nofollow" target="_blank">https://github.com/msfidelis/cassler</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-10-21)</p></h3><ol>
 <li>Go 官方 2020 开发者调查问卷 <a href="https://blog.golang.org/survey2020" rel="nofollow" target="_blank">https://blog.golang.org/survey2020</a>
 </li>
 <li>深入理解最近的 Go 泛型提案<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/gIEPspmbMHM" allowfullscreen=""></iframe></span>
