@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-10-31）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-11-01）</p></h3><ol>
+<li>go-zero 如何应对海量定时/延迟任务 <a href="https://gocn.vip/topics/11071" rel="nofollow" target="_blank">https://gocn.vip/topics/11071</a>
+</li>
+<li>并发事件的优雅关闭 <a href="https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/" rel="nofollow" target="_blank">https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/</a>
+</li>
+<li>记一次由垃圾回收造成的诡异问题 <a href="https://gocn.vip/topics/11170" rel="nofollow" target="_blank">https://gocn.vip/topics/11170</a>
+</li>
+<li>为什么 Go 占用那么多的虚拟内存 <a href="https://gocn.vip/topics/11173" rel="nofollow" target="_blank">https://gocn.vip/topics/11173</a>
+</li>
+<li>知乎社区核心业务 Golang 化实践 <a href="https://mp.weixin.qq.com/s/10BBSbuk1mn3QC5AgI5sWA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/10BBSbuk1mn3QC5AgI5sWA</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-10-31）</p></h3><ol>
 <li>使用 Go 进行 io_uring 的动手实践 <a href="https://segmentfault.com/a/1190000037674497" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000037674497</a>
 </li>
 <li>Kubernetes 1.19：流量入口和路由的未来 <a href="https://www.cncf.io/blog/2020/10/29/kubernetes-1-19-the-future-of-traffic-ingress-and-routing/" rel="nofollow" target="_blank">https://www.cncf.io/blog/2020/10/29/kubernetes-1-19-the-future-of-traffic-ingress-and-routing/</a>
