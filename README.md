@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-11-01）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-02)</p></h3><ol>
+<li>dowork：通用任务队列系统 <a href="https://git.sr.ht/~sircmpwn/dowork" rel="nofollow" target="_blank">https://git.sr.ht/~sircmpwn/dowork</a>
+</li>
+<li>Go 实现的 Scan,直接将数据库, sql 行扫描到结构等基本类型 <a href="https://github.com/blockloop/scan" rel="nofollow" target="_blank">https://github.com/blockloop/scan</a>
+</li>
+<li>Go Oracle 客户端 <a href="https://github.com/sijms/go-ora" rel="nofollow" target="_blank">https://github.com/sijms/go-ora</a>
+</li>
+<li>Go 中的哈希表实现 <a href="https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553" rel="nofollow" target="_blank">https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553</a>
+</li>
+<li>go 模块，可美化控制台输出 <a href="https://github.com/pterm/pterm" rel="nofollow" target="_blank">https://github.com/pterm/pterm</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-11-01）</p></h3><ol>
 <li>go-zero 如何应对海量定时/延迟任务 <a href="https://gocn.vip/topics/11071" rel="nofollow" target="_blank">https://gocn.vip/topics/11071</a>
 </li>
 <li>并发事件的优雅关闭 <a href="https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/" rel="nofollow" target="_blank">https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/</a>
