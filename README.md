@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-03)</p></h3><ol>
+<li>go-zero 是如何追踪你的请求链路？ <a href="https://gocn.vip/topics/11185" rel="nofollow" target="_blank">https://gocn.vip/topics/11185</a>
+</li>
+<li>Go 语言反射（reflect）及应用 <a href="https://www.cnblogs.com/l1ng14/p/13921985.html" rel="nofollow" target="_blank">https://www.cnblogs.com/l1ng14/p/13921985.html</a>
+</li>
+<li>Dubbo-go 源码笔记（一）Server 端开启服务过程 <a href="https://gocn.vip/topics/11187" rel="nofollow" target="_blank">https://gocn.vip/topics/11187</a>
+</li>
+<li>Go 的自定义静态分析 <a href="https://rauljordan.com/2020/11/01/custom-static-analysis-in-go-part-1.html" rel="nofollow" target="_blank">https://rauljordan.com/2020/11/01/custom-static-analysis-in-go-part-1.html</a>
+</li>
+<li>Go mocking 技巧 <a href="https://dmv.myhatchpad.com/insight/mocking-techniques-for-go/" rel="nofollow" target="_blank">https://dmv.myhatchpad.com/insight/mocking-techniques-for-go/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-02)</p></h3><ol>
 <li>dowork：通用任务队列系统 <a href="https://git.sr.ht/~sircmpwn/dowork" rel="nofollow" target="_blank">https://git.sr.ht/~sircmpwn/dowork</a>
 </li>
 <li>Go 实现的 Scan,直接将数据库, sql 行扫描到结构等基本类型 <a href="https://github.com/blockloop/scan" rel="nofollow" target="_blank">https://github.com/blockloop/scan</a>
