@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-04)</p></h3><ol>
+<li>也许是最简洁版本，一篇文章上手 Go 语言 <a href="https://blog.51cto.com/14977574/2546576" rel="nofollow" target="_blank">https://blog.51cto.com/14977574/2546576</a>
+</li>
+<li>深入理解 golang：内存分配原理 <a href="https://www.cnblogs.com/jiujuan/p/13922551.html" rel="nofollow" target="_blank">https://www.cnblogs.com/jiujuan/p/13922551.html</a>
+</li>
+<li>Go 语言在极小硬件上的运用（三）<a href="https://developer.51cto.com/art/202011/630644.htm" rel="nofollow" target="_blank">https://developer.51cto.com/art/202011/630644.htm</a>
+</li>
+<li>Go 语言中的 gRPC 基础入门 <a href="https://mp.weixin.qq.com/s/jju6S6Qnsk7k0_-Q9WgkxQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/jju6S6Qnsk7k0_-Q9WgkxQ</a>
+</li>
+<li>Go Wasm IDE：使用 WebAssembly 在浏览器中编译 Go <a href="https://github.com/johnstarich/go-wasm" rel="nofollow" target="_blank">https://github.com/johnstarich/go-wasm</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-03)</p></h3><ol>
 <li>go-zero 是如何追踪你的请求链路？ <a href="https://gocn.vip/topics/11185" rel="nofollow" target="_blank">https://gocn.vip/topics/11185</a>
 </li>
 <li>Go 语言反射（reflect）及应用 <a href="https://www.cnblogs.com/l1ng14/p/13921985.html" rel="nofollow" target="_blank">https://www.cnblogs.com/l1ng14/p/13921985.html</a>
