@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-04)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-05)</p></h3><ol>
+<li>使用 jemalloc 在 Go 中手动管理内存 <a href="https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/" rel="nofollow" target="_blank">https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/</a>
+</li>
+<li>如何使用插件构建 Go 程序 <a href="https://medium.com/swlh/how-to-build-extensible-go-applications-with-plugins-97ad657f9a62" rel="nofollow" target="_blank">https://medium.com/swlh/how-to-build-extensible-go-applications-with-plugins-97ad657f9a62</a>
+</li>
+<li>像专家一样分析你的 Go 代码 <a href="https://medium.com/swlh/go-profile-your-code-like-a-master-1505be38fdba" rel="nofollow" target="_blank">https://medium.com/swlh/go-profile-your-code-like-a-master-1505be38fdba</a>
+</li>
+<li>Go Mocking 技术栈<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/LEnXBueFBzk" allowfullscreen=""></iframe></span>
+</li>
+<li>使用 NATS 作为实时计算系统的消息传递技术 <a href="https://medium.com/cogito-engineering/using-nats-as-a-messaging-technology-for-real-time-compute-systems-b3b90594e81e" rel="nofollow" target="_blank">https://medium.com/cogito-engineering/using-nats-as-a-messaging-technology-for-real-time-compute-systems-b3b90594e81e</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-04)</p></h3><ol>
 <li>也许是最简洁版本，一篇文章上手 Go 语言 <a href="https://blog.51cto.com/14977574/2546576" rel="nofollow" target="_blank">https://blog.51cto.com/14977574/2546576</a>
 </li>
 <li>深入理解 golang：内存分配原理 <a href="https://www.cnblogs.com/jiujuan/p/13922551.html" rel="nofollow" target="_blank">https://www.cnblogs.com/jiujuan/p/13922551.html</a>
