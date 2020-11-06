@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-05)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-06)</p></h3><ol>
+<li>在 Go 中编写支持并发的 Each, Map、Select 方法 <a href="https://dev.to/ltvengineering/writing-concurrent-each-map-select-methods-in-go-4l97" rel="nofollow" target="_blank">https://dev.to/ltvengineering/writing-concurrent-each-map-select-methods-in-go-4l97</a>
+</li>
+<li>使用 DDD、CQRS 和 Clean Architecture 来重构 Go 项目 <a href="https://threedots.tech/post/ddd-cqrs-clean-architecture-combined" rel="nofollow" target="_blank">https://threedots.tech/post/ddd-cqrs-clean-architecture-combined</a>
+</li>
+<li>提前试用将在 Go1.16 中发布的内嵌静态资源功能 <a href="https://mp.weixin.qq.com/s/SiCTV7R2wA_I2nCQkC3GGQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/SiCTV7R2wA_I2nCQkC3GGQ</a>
+</li>
+<li>Prometheus TSDB（第 4 讲）：持久块和索引 <a href="https://ganeshvernekar.com/blog/prometheus-tsdb-persistent-block-and-its-index" rel="nofollow" target="_blank">https://ganeshvernekar.com/blog/prometheus-tsdb-persistent-block-and-its-index</a>
+</li>
+<li>Go 进程指标的另一个可视化工具 <a href="https://github.com/nakabonne/gosivy" rel="nofollow" target="_blank">https://github.com/nakabonne/gosivy</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-05)</p></h3><ol>
 <li>使用 jemalloc 在 Go 中手动管理内存 <a href="https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/" rel="nofollow" target="_blank">https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/</a>
 </li>
 <li>如何使用插件构建 Go 程序 <a href="https://medium.com/swlh/how-to-build-extensible-go-applications-with-plugins-97ad657f9a62" rel="nofollow" target="_blank">https://medium.com/swlh/how-to-build-extensible-go-applications-with-plugins-97ad657f9a62</a>
