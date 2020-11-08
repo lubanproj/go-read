@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-06)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-08)</p></h3><ol>
+<li>重度使用 Go 的 “后遗症”，你有吗？ <a href="https://gocn.vip/topics/11207" rel="nofollow" target="_blank">https://gocn.vip/topics/11207</a>
+</li>
+<li>Go 基础入门 <a href="https://medium.com/better-programming/go-4f365468dbd5" rel="nofollow" target="_blank">https://medium.com/better-programming/go-4f365468dbd5</a>
+</li>
+<li>Go 中的指针 <a href="https://dev.to/shaikhul/pointers-in-go-54o9" rel="nofollow" target="_blank">https://dev.to/shaikhul/pointers-in-go-54o9</a>
+</li>
+<li>你知道 Go 语言参数传递是传值还是传引用吗？ <a href="https://juejin.im/post/6892678846223974407" rel="nofollow" target="_blank">https://juejin.im/post/6892678846223974407</a>
+</li>
+<li>Golang 分布式异步工作流 —— Temporal 实战指南 <a href="https://gocn.vip/topics/11208" rel="nofollow" target="_blank">https://gocn.vip/topics/11208</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-06)</p></h3><ol>
 <li>在 Go 中编写支持并发的 Each, Map、Select 方法 <a href="https://dev.to/ltvengineering/writing-concurrent-each-map-select-methods-in-go-4l97" rel="nofollow" target="_blank">https://dev.to/ltvengineering/writing-concurrent-each-map-select-methods-in-go-4l97</a>
 </li>
 <li>使用 DDD、CQRS 和 Clean Architecture 来重构 Go 项目 <a href="https://threedots.tech/post/ddd-cqrs-clean-architecture-combined" rel="nofollow" target="_blank">https://threedots.tech/post/ddd-cqrs-clean-architecture-combined</a>
