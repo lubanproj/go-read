@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-11-15）</p></h3><ol>
+<li>play-with-go.dev 基于浏览器的交互式 Go 学习平台 <a href="https://play-with-go.dev/" rel="nofollow" target="_blank">https://play-with-go.dev/</a>
+</li>
+<li>理解 Go 语言的 nil <a href="https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA</a>
+</li>
+<li>Go 好与不好的实践 <a href="https://pmihaylov.com/good-and-bad-practices/" rel="nofollow" target="_blank">https://pmihaylov.com/good-and-bad-practices/</a>
+</li>
+<li>Go 结构体内存占用分析 <a href="https://medium.com/orijtech-developers/efficient-struct-packing-guided-pass-for-go-92255872ec72" rel="nofollow" target="_blank">https://medium.com/orijtech-developers/efficient-struct-packing-guided-pass-for-go-92255872ec72</a>
+</li>
+<li>代码中敏感数据检测工具 <a href="https://github.com/americanexpress/earlybird" rel="nofollow" target="_blank">https://github.com/americanexpress/earlybird</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-08)</p></h3><ol>
 <li>重度使用 Go 的 “后遗症”，你有吗？ <a href="https://gocn.vip/topics/11207" rel="nofollow" target="_blank">https://gocn.vip/topics/11207</a>
 </li>
 <li>Go 基础入门 <a href="https://medium.com/better-programming/go-4f365468dbd5" rel="nofollow" target="_blank">https://medium.com/better-programming/go-4f365468dbd5</a>
