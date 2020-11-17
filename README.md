@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-11-15）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-17)</p></h3><ol>
+<li>Fiber vs Echo <a href="https://dev.to/andreidascalu/fiber-vs-echo-a-developer-point-4lo3" rel="nofollow" target="_blank">https://dev.to/andreidascalu/fiber-vs-echo-a-developer-point-4lo3</a>
+</li>
+<li>使用 Golang 中的标准 SQL 包连接到 Postgres <a href="https://dev.to/bitsmonkey/connecting-to-postgres-with-standard-sql-package-in-golang-hmh" rel="nofollow" target="_blank">https://dev.to/bitsmonkey/connecting-to-postgres-with-standard-sql-package-in-golang-hmh</a>
+</li>
+<li>将项目从 panic 转变到错误 <a href="https://www.dolthub.com/blog/2020-11-16-panics-to-errors/" rel="nofollow" target="_blank">https://www.dolthub.com/blog/2020-11-16-panics-to-errors/</a>
+</li>
+<li>Conds 的优点 <a href="https://lukechampine.com/cond.html" rel="nofollow" target="_blank">https://lukechampine.com/cond.html</a>
+</li>
+<li>Go 单元测试的简单模拟模式 <a href="https://www.dudley.codes/posts/2020.11.16-golang-mocking-pattern/" rel="nofollow" target="_blank">https://www.dudley.codes/posts/2020.11.16-golang-mocking-pattern/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-11-15）</p></h3><ol>
 <li>play-with-go.dev 基于浏览器的交互式 Go 学习平台 <a href="https://play-with-go.dev/" rel="nofollow" target="_blank">https://play-with-go.dev/</a>
 </li>
 <li>理解 Go 语言的 nil <a href="https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA</a>
