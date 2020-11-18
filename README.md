@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-17)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-11-18)</p></h3><ol>
+<li>你真的懂 Go Reslice 吗 <a href="https://mp.weixin.qq.com/s/H3UzcKX2-Q4ywD_RJvMmEA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/H3UzcKX2-Q4ywD_RJvMmEA</a><br>
+</li>
+<li>通过 kubebuilder 开发一个 k8s controller <a href="https://dev.to/ishankhare07/writing-a-simple-kubernetes-controller-in-go-with-kubebuilder-ib8" rel="nofollow" target="_blank">https://dev.to/ishankhare07/writing-a-simple-kubernetes-controller-in-go-with-kubebuilder-ib8</a><br>
+</li>
+<li>[新手向] 没有 docker,如何在 linux 裸机上部署 go web 应用 <a href="https://dev.to/koddr/how-to-deploy-golang-application-on-any-gnu-linux-system-but-without-docker-59m1" rel="nofollow" target="_blank">https://dev.to/koddr/how-to-deploy-golang-application-on-any-gnu-linux-system-but-without-docker-59m1</a><br>
+</li>
+<li>C++ 调用 Go 方法的字符串传递问题及解决方案 <a href="https://www.cnblogs.com/huaweiyun/p/13998446.html" rel="nofollow" target="_blank">https://www.cnblogs.com/huaweiyun/p/13998446.html</a><br>
+</li>
+<li>k0s: 最小体积的发行版 k8s <a href="https://github.com/k0sproject/k0s" rel="nofollow" target="_blank">https://github.com/k0sproject/k0s</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-17)</p></h3><ol>
 <li>Fiber vs Echo <a href="https://dev.to/andreidascalu/fiber-vs-echo-a-developer-point-4lo3" rel="nofollow" target="_blank">https://dev.to/andreidascalu/fiber-vs-echo-a-developer-point-4lo3</a>
 </li>
 <li>使用 Golang 中的标准 SQL 包连接到 Postgres <a href="https://dev.to/bitsmonkey/connecting-to-postgres-with-standard-sql-package-in-golang-hmh" rel="nofollow" target="_blank">https://dev.to/bitsmonkey/connecting-to-postgres-with-standard-sql-package-in-golang-hmh</a>
