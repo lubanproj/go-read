@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-11-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-11-30）</p></h3><ol>
+<li>从 Go 分析 Struct 对齐如何影响内存使用量 <a href="https://mp.weixin.qq.com/s/ULsU5f4UA2gq2GIiUALD2w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ULsU5f4UA2gq2GIiUALD2w</a>
+</li>
+<li>Go 大数据生态开源项目 CDS 中 ClickHouse 使用的建表方案 <a href="https://mp.weixin.qq.com/s/mwFRWudMsHP6k_p4MVSjPA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/mwFRWudMsHP6k_p4MVSjPA</a>
+</li>
+<li>godog: Golang BDD 框架 <a href="https://github.com/cucumber/godog" rel="nofollow" target="_blank">https://github.com/cucumber/godog</a>
+</li>
+<li>please: Go 实现的跨语言构建系统 <a href="https://github.com/thought-machine/please" rel="nofollow" target="_blank">https://github.com/thought-machine/please</a>
+</li>
+<li>如何在 12 个小时，搞定日志监控？ <a href="https://mp.weixin.qq.com/s/6Bjr1PUAC98IIaxBFcECNw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/6Bjr1PUAC98IIaxBFcECNw</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-11-22)</p></h3><ol>
 <li>关于 WebAssembly 的 Go、JavaScript 基准测试 <a href="https://medium.com/vacatronics/webassembly-in-go-vs-javascript-a-benchmark-6deb28f24e9d" rel="nofollow" target="_blank">https://medium.com/vacatronics/webassembly-in-go-vs-javascript-a-benchmark-6deb28f24e9d</a>
 </li>
 <li>服务注册中心 | 记一次 Consul 故障分析与优化 <a href="https://juejin.cn/post/6897790831273771021" rel="nofollow" target="_blank">https://juejin.cn/post/6897790831273771021</a>
