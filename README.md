@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-11-30）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-01)</p></h3><ol>
+<li>Go DIY 一个圣诞广播 <a href="https://dev.to/levelupkoodarit/diy-christmas-radio-31k4" rel="nofollow" target="_blank">https://dev.to/levelupkoodarit/diy-christmas-radio-31k4</a>
+</li>
+<li>Go 实现文本准换语音通话 <a href="https://dev.to/vonagedev/text-to-speech-voice-calls-with-go-1h7m" rel="nofollow" target="_blank">https://dev.to/vonagedev/text-to-speech-voice-calls-with-go-1h7m</a>
+</li>
+<li>在 Go kit 下通过 Grpc 构建微服务 <a href="https://dev.to/junereycasuga/go-grpc-with-go-kit-3gab" rel="nofollow" target="_blank">https://dev.to/junereycasuga/go-grpc-with-go-kit-3gab</a>
+</li>
+<li>Golang error 浅析 <a href="https://www.jianshu.com/p/606d0e60c58d" rel="nofollow" target="_blank">https://www.jianshu.com/p/606d0e60c58d</a>
+</li>
+<li>Golang 语言 Web 框架 beego v2 之写操作 <a href="https://mp.weixin.qq.com/s/2yUuMucrogX38Xg9VG4coA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/2yUuMucrogX38Xg9VG4coA</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-11-30）</p></h3><ol>
 <li>从 Go 分析 Struct 对齐如何影响内存使用量 <a href="https://mp.weixin.qq.com/s/ULsU5f4UA2gq2GIiUALD2w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ULsU5f4UA2gq2GIiUALD2w</a>
 </li>
 <li>Go 大数据生态开源项目 CDS 中 ClickHouse 使用的建表方案 <a href="https://mp.weixin.qq.com/s/mwFRWudMsHP6k_p4MVSjPA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/mwFRWudMsHP6k_p4MVSjPA</a>
