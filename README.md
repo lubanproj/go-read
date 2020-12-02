@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-01)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-02)</p></h3><ol>
+<li>深度理解 Istio 如何路由 TCP 流量 <a href="https://mp.weixin.qq.com/s/SBqnWs6QFEVSWily44xL3w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/SBqnWs6QFEVSWily44xL3w</a>
+</li>
+<li>使用 blackbox exporter 实现域名证书过期监控 <a href="https://mp.weixin.qq.com/s/ZdQ0GgsB7FW8k9KOcEIJ-w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ZdQ0GgsB7FW8k9KOcEIJ-w</a>
+</li>
+<li>Golang 程序性能分析（一）pprof 和 go-torch <a href="https://mp.weixin.qq.com/s/Ceu4zZ5tY2fNWizffoy0Ow" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Ceu4zZ5tY2fNWizffoy0Ow</a>
+</li>
+<li>Go netpoller 网络模型之源码全面解析 <a href="https://mp.weixin.qq.com/s/HNPeffn08QovQwtUH1qkbQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/HNPeffn08QovQwtUH1qkbQ</a>
+</li>
+<li>必须要学的 Go 进程诊断工具 gops <a href="https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-01)</p></h3><ol>
 <li>Go DIY 一个圣诞广播 <a href="https://dev.to/levelupkoodarit/diy-christmas-radio-31k4" rel="nofollow" target="_blank">https://dev.to/levelupkoodarit/diy-christmas-radio-31k4</a>
 </li>
 <li>Go 实现文本准换语音通话 <a href="https://dev.to/vonagedev/text-to-speech-voice-calls-with-go-1h7m" rel="nofollow" target="_blank">https://dev.to/vonagedev/text-to-speech-voice-calls-with-go-1h7m</a>
