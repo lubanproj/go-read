@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-03)</p></h3><ol>
+<li>Kubernetes 要弃用 docker 了，我们该怎么办？ <a href="https://mp.weixin.qq.com/s/i8WbzGrH0lvBXJhYxlzCoA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/i8WbzGrH0lvBXJhYxlzCoA</a><br>
+</li>
+<li>ChaosMesh®技术内幕-如何注入 I/O 故障？ <a href="https://gocn.vip/topics/11333" rel="nofollow" target="_blank">https://gocn.vip/topics/11333</a><br>
+</li>
+<li>使用 monsoon 对 http 服务进行渗透测试 <a href="https://blog.redteam-pentesting.de/2020/introducing-monsoon/" rel="nofollow" target="_blank">https://blog.redteam-pentesting.de/2020/introducing-monsoon/</a><br>
+</li>
+<li>Kubernetes 调度详解 <a href="https://mp.weixin.qq.com/s/Gh78VEjjyTlcq5ydlrBFEA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Gh78VEjjyTlcq5ydlrBFEA</a><br>
+</li>
+<li>tcpprobe: 网络服务监控器 <a href="https://github.com/mehrdadrad/tcpprobe" rel="nofollow" target="_blank">https://github.com/mehrdadrad/tcpprobe</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-02)</p></h3><ol>
 <li>深度理解 Istio 如何路由 TCP 流量 <a href="https://mp.weixin.qq.com/s/SBqnWs6QFEVSWily44xL3w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/SBqnWs6QFEVSWily44xL3w</a>
 </li>
 <li>使用 blackbox exporter 实现域名证书过期监控 <a href="https://mp.weixin.qq.com/s/ZdQ0GgsB7FW8k9KOcEIJ-w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ZdQ0GgsB7FW8k9KOcEIJ-w</a>
