@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-07)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-11)</p></h3><ol>
+<li>Go 进阶训练营 第 4 课 Go 工程化实践  <a href="https://juejin.cn/post/6904595334693912584" rel="nofollow" target="_blank">https://juejin.cn/post/6904595334693912584</a>
+</li>
+<li>项目改用 GoModules 管理依赖的方法和经验总结 <a href="https://mp.weixin.qq.com/s/xtvTUl2IZFQ79dSR_m-b7A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/xtvTUl2IZFQ79dSR_m-b7A</a>
+</li>
+<li>Golang 实现 Paxos 分布式共识算法 <a href="https://mp.weixin.qq.com/s/4q-63pZodAGjsSpOsOL2Fg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/4q-63pZodAGjsSpOsOL2Fg</a>
+</li>
+<li>使用 Apple Virtualization.framework 在 Go 中创建虚拟机并运行基于 Linux 的操作系统 <a href="https://github.com/Code-Hex/vz" rel="nofollow" target="_blank">https://github.com/Code-Hex/vz</a>
+</li>
+<li>Go 语言中观察 GC 的几种方式 <a href="https://juejin.cn/post/6904280087668097038" rel="nofollow" target="_blank">https://juejin.cn/post/6904280087668097038</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-07)</p></h3><ol>
 <li>Go1.6 将支持 Apple silicon M1 芯片<a href="https://gocn.vip/topics/11349" rel="nofollow" target="_blank">https://gocn.vip/topics/11349</a>
 </li>
 <li>Go 与 Java 的并发比较 <a href="https://medium.com/the-legend/golang-vs-java-concurrency-351ca5a845cb" rel="nofollow" target="_blank">https://medium.com/the-legend/golang-vs-java-concurrency-351ca5a845cb</a>
