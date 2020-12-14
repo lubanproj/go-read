@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-11)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-14)</p></h3><ol>
+<li>理解 Go 并发以及调度器亲和性 <a href="https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w</a>
+</li>
+<li>900W+ 数据，从 17s 到 300ms <a href="https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA</a>
+</li>
+<li>揭密容器环境下 Golang 回收子进程的运行机制 <a href="https://mp.weixin.qq.com/s/3HsqtHwWReX1S3ggP2_owg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/3HsqtHwWReX1S3ggP2_owg</a>
+</li>
+<li>fasthttp 快在哪里 <a href="https://mp.weixin.qq.com/s/2Fnr5HmslIohZuao_wEoMQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/2Fnr5HmslIohZuao_wEoMQ</a>
+</li>
+<li>Go 语言中观察 GC 的几种方式 <a href="https://juejin.cn/post/6904280087668097038" rel="nofollow" target="_blank">https://juejin.cn/post/6904280087668097038</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-11)</p></h3><ol>
 <li>Go 进阶训练营 第 4 课 Go 工程化实践  <a href="https://juejin.cn/post/6904595334693912584" rel="nofollow" target="_blank">https://juejin.cn/post/6904595334693912584</a>
 </li>
 <li>项目改用 GoModules 管理依赖的方法和经验总结 <a href="https://mp.weixin.qq.com/s/xtvTUl2IZFQ79dSR_m-b7A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/xtvTUl2IZFQ79dSR_m-b7A</a>
