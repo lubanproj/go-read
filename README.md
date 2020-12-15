@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-14)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-12-15）</p></h3><ol>
+<li>Go 标准库 xml 语法解析循环漏洞 <a href="https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/" rel="nofollow" target="_blank">https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/</a>
+</li>
+<li>期待已久的 beego2.0 来了，最简单易用的企业级应用开发框架 <a href="https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ</a>
+</li>
+<li>最简单的 K8S 部署文件编写姿势，没有之一！ <a href="https://gocn.vip/topics/11380" rel="nofollow" target="_blank">https://gocn.vip/topics/11380</a>
+</li>
+<li>Gmqtt——Go 语言实现的 MQTT broker <a href="https://juejin.cn/post/6905898448743038990" rel="nofollow" target="_blank">https://juejin.cn/post/6905898448743038990</a>
+</li>
+<li>使用 Go 程序编写 Docker 镜像打包和推送 <a href="https://www.loginradius.com/blog/async/build-push-docker-images-golang/" rel="nofollow" target="_blank">https://www.loginradius.com/blog/async/build-push-docker-images-golang/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-14)</p></h3><ol>
 <li>理解 Go 并发以及调度器亲和性 <a href="https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w</a>
 </li>
 <li>900W+ 数据，从 17s 到 300ms <a href="https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA</a>
