@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-12-15）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-12-16）</p></h3><ol>
+<li>Go netpoller 原生网络模型之源码全面揭秘 <a href="https://mp.weixin.qq.com/s/Ie0ZRlVVwZQf7B0ZCXdYLQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Ie0ZRlVVwZQf7B0ZCXdYLQ</a>
+</li>
+<li>BPF and Go: Modern forms of introspection in Linux <a href="https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223" rel="nofollow" target="_blank">https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223</a>
+</li>
+<li>Google 鼓励的 13 条代码审查标准 <a href="https://mp.weixin.qq.com/s/Zn3LKi6aN-jQcHecU7441w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Zn3LKi6aN-jQcHecU7441w</a>
+</li>
+<li>Kubernetes 如何使用 Nginx-Ingress 实现蓝绿和金丝雀发布 <a href="https://mp.weixin.qq.com/s/SAE4IvjVPVV1dfS4ZXwzbQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/SAE4IvjVPVV1dfS4ZXwzbQ</a>
+</li>
+<li>CockroachDB errors 系列文章（一）：errors 的问题 <a href="https://mp.weixin.qq.com/s/S_04n2Uzse3VwptCH9gpow" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/S_04n2Uzse3VwptCH9gpow</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-12-15）</p></h3><ol>
 <li>Go 标准库 xml 语法解析循环漏洞 <a href="https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/" rel="nofollow" target="_blank">https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/</a>
 </li>
 <li>期待已久的 beego2.0 来了，最简单易用的企业级应用开发框架 <a href="https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ</a>
