@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-12-16）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-17)</p></h3><ol>
+<li>对比 Python 学习 Go- 高级数据结构 <a href="https://segmentfault.com/a/1190000038498305" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000038498305</a>
+</li>
+<li>实时 Golang 运行时统计信息可视化分析器  <a href="https://github.com/go-echarts/statsview" rel="nofollow" target="_blank">https://github.com/go-echarts/statsview</a>
+</li>
+<li>Go 实现的用于调整和转换远程图像的大小的独立服务器 imgproxy <a href="https://github.com/imgproxy/imgproxy" rel="nofollow" target="_blank">https://github.com/imgproxy/imgproxy</a>
+</li>
+<li>在 Go 中安全的构建 Elasticsearch 的搜索查询 <a href="https://dev.to/taqkarim/safely-construct-elasticsearch-queries-w-golang-4ff3" rel="nofollow" target="_blank">https://dev.to/taqkarim/safely-construct-elasticsearch-queries-w-golang-4ff3</a>
+</li>
+<li>在 Go 中使用 Afero 去 mock 文件系统 <a href="https://dev.to/drpaneas/mocking-the-filesystem-in-go-using-afero-ok4" rel="nofollow" target="_blank">https://dev.to/drpaneas/mocking-the-filesystem-in-go-using-afero-ok4</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-12-16）</p></h3><ol>
 <li>Go netpoller 原生网络模型之源码全面揭秘 <a href="https://mp.weixin.qq.com/s/Ie0ZRlVVwZQf7B0ZCXdYLQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Ie0ZRlVVwZQf7B0ZCXdYLQ</a>
 </li>
 <li>BPF and Go: Modern forms of introspection in Linux <a href="https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223" rel="nofollow" target="_blank">https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223</a>
