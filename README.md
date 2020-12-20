@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-17)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-20)</p></h3><ol>
+<li>了解 Go 的内存分配 <a href="https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d" rel="nofollow" target="_blank">https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d</a>
+</li>
+<li>使用 Go 和 Postgres 分页的 4 种方式 <a href="https://dev.to/bxcodec/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-4kph" rel="nofollow" target="_blank">https://dev.to/bxcodec/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-4kph</a>
+</li>
+<li>如何调试运行 Go 程程序的 Docker 容器 <a href="https://mayurkhante786.medium.com/how-to-debug-docker-container-running-go-golang-application-e999cdbf24f4" rel="nofollow" target="_blank">https://mayurkhante786.medium.com/how-to-debug-docker-container-running-go-golang-application-e999cdbf24f4</a>
+</li>
+<li>使用 PromQL 探索你的指标 <a href="https://promlabs.com/blog/2020/12/17/promql-queries-for-exploring-your-metrics" rel="nofollow" target="_blank">https://promlabs.com/blog/2020/12/17/promql-queries-for-exploring-your-metrics</a>
+</li>
+<li>高效的像素差异比较工具 <a href="https://github.com/n7olkachev/imgdiff" rel="nofollow" target="_blank">https://github.com/n7olkachev/imgdiff</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-17)</p></h3><ol>
 <li>对比 Python 学习 Go- 高级数据结构 <a href="https://segmentfault.com/a/1190000038498305" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000038498305</a>
 </li>
 <li>实时 Golang 运行时统计信息可视化分析器  <a href="https://github.com/go-echarts/statsview" rel="nofollow" target="_blank">https://github.com/go-echarts/statsview</a>
