@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-20)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2020-12-28）</p></h3><ol>
+<li>Go netpoller 原生网络模型之源码全面揭秘 <a href="https://strikefreedom.top/go-netpoll-io-multiplexing-reactor" rel="nofollow" target="_blank">https://strikefreedom.top/go-netpoll-io-multiplexing-reactor</a>
+</li>
+<li>Golang 语言的值验证库 Validator 怎么使用？ <a href="https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg</a>
+</li>
+<li>反向 Go 二进制文件 <a href="https://x0r19x91.gitlab.io/post/reversing-go-part-1/" rel="nofollow" target="_blank">https://x0r19x91.gitlab.io/post/reversing-go-part-1/</a>
+</li>
+<li>Grafana Tempo 分布式跟踪系统存储后端 <a href="https://github.com/grafana/tempo" rel="nofollow" target="_blank">https://github.com/grafana/tempo</a>
+</li>
+<li>利用 Watermill 实现 Golang CQRS <a href="https://segmentfault.com/a/1190000038689477" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000038689477</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-20)</p></h3><ol>
 <li>了解 Go 的内存分配 <a href="https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d" rel="nofollow" target="_blank">https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d</a>
 </li>
 <li>使用 Go 和 Postgres 分页的 4 种方式 <a href="https://dev.to/bxcodec/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-4kph" rel="nofollow" target="_blank">https://dev.to/bxcodec/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-4kph</a>
