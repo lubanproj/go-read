@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2020-12-28）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-30)</p></h3><ol>
+<li>用于 Go 的浏览器内置 IDE <a href="https://github.com/JohnStarich/go-wasm" rel="nofollow" target="_blank">https://github.com/JohnStarich/go-wasm</a>
+</li>
+<li>基于 go-ethereum 实现的火币客户端 <a href="https://github.com/HuobiGroup/huobi-eco-chain" rel="nofollow" target="_blank">https://github.com/HuobiGroup/huobi-eco-chain</a>
+</li>
+<li>如何构建 Go 命令行项目 <a href="https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/" rel="nofollow" target="_blank">https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/</a>
+</li>
+<li>我如何使用 pprof 在 Golang 应用中发现内存泄漏 <a href="https://tusharsheth.medium.com/how-i-found-memory-leaks-in-the-golang-app-using-pprof-56e5d55363ba" rel="nofollow" target="_blank">https://tusharsheth.medium.com/how-i-found-memory-leaks-in-the-golang-app-using-pprof-56e5d55363ba</a>
+</li>
+<li>Go 实现的实时消息服务器 Beaver <a href="https://github.com/Clivern/Beaver" rel="nofollow" target="_blank">https://github.com/Clivern/Beaver</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2020-12-28）</p></h3><ol>
 <li>Go netpoller 原生网络模型之源码全面揭秘 <a href="https://strikefreedom.top/go-netpoll-io-multiplexing-reactor" rel="nofollow" target="_blank">https://strikefreedom.top/go-netpoll-io-multiplexing-reactor</a>
 </li>
 <li>Golang 语言的值验证库 Validator 怎么使用？ <a href="https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg</a>
