@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-30)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2020-12-31)</p></h3><ol>
+<li>Goland 2020.3.1 发布,支持 M1 芯片 <a href="https://blog.jetbrains.com/go/2020/12/30/goland-2020-3-1-is-out/" rel="nofollow" target="_blank">https://blog.jetbrains.com/go/2020/12/30/goland-2020-3-1-is-out/</a>
+</li>
+<li>Go 的 unsafe 字符串驻留 (string interning) 实践 <a href="https://mdlayher.com/blog/unsafe-string-interning-in-go/" rel="nofollow" target="_blank">https://mdlayher.com/blog/unsafe-string-interning-in-go/</a>
+</li>
+<li>当 Go struct 遇上 Mutex <a href="https://gocn.vip/topics/11453" rel="nofollow" target="_blank">https://gocn.vip/topics/11453</a>
+</li>
+<li>微服务架构中的熔断器设计与实现（ Golang 版）<a href="https://mp.weixin.qq.com/s/DGRnUhyv6SS_E36ZQKGpPA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/DGRnUhyv6SS_E36ZQKGpPA</a>
+</li>
+<li>Kubernetes 探针详解！ <a href="https://mp.weixin.qq.com/s/djxuuiZZT-f52vkF8nsWNA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/djxuuiZZT-f52vkF8nsWNA</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-30)</p></h3><ol>
 <li>用于 Go 的浏览器内置 IDE <a href="https://github.com/JohnStarich/go-wasm" rel="nofollow" target="_blank">https://github.com/JohnStarich/go-wasm</a>
 </li>
 <li>基于 go-ethereum 实现的火币客户端 <a href="https://github.com/HuobiGroup/huobi-eco-chain" rel="nofollow" target="_blank">https://github.com/HuobiGroup/huobi-eco-chain</a>
