@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2020-12-31)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-01)</p></h3><ol>
+<li>告诉你神奇的 Go 内建函数源码在哪里 <a href="https://gocn.vip/topics/11413" rel="nofollow" target="_blank">https://gocn.vip/topics/11413</a>
+</li>
+<li>并发编程 -- 用 SingleFlight 合并重复请求 <a href="https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q</a>
+</li>
+<li>Golang 官方关于单元测试方法的一些建议 <a href="http://www.lyyyuna.com/2021/01/01/go-unit-test-comments" rel="nofollow" target="_blank">http://www.lyyyuna.com/2021/01/01/go-unit-test-comments</a>
+</li>
+<li>Golang 之微服务为什么发现不了<a href="https://segmentfault.com/a/1190000038772024" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000038772024</a>
+</li>
+<li>解密 Go 语言之反射 Reflect <a href="https://developer.51cto.com/art/202012/638179.htm" rel="nofollow" target="_blank">https://developer.51cto.com/art/202012/638179.htm</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2020-12-31)</p></h3><ol>
 <li>Goland 2020.3.1 发布,支持 M1 芯片 <a href="https://blog.jetbrains.com/go/2020/12/30/goland-2020-3-1-is-out/" rel="nofollow" target="_blank">https://blog.jetbrains.com/go/2020/12/30/goland-2020-3-1-is-out/</a>
 </li>
 <li>Go 的 unsafe 字符串驻留 (string interning) 实践 <a href="https://mdlayher.com/blog/unsafe-string-interning-in-go/" rel="nofollow" target="_blank">https://mdlayher.com/blog/unsafe-string-interning-in-go/</a>
