@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-01)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-02)</p></h3><ol>
+<li>我与 sync.Once 的爱恨纠缠 <a href="https://gocn.vip/topics/11456" rel="nofollow" target="_blank">https://gocn.vip/topics/11456</a>
+</li>
+<li>Go 中的线程安全 <a href="https://pmihaylov.com/thread-safety-concerns-go/" rel="nofollow" target="_blank">https://pmihaylov.com/thread-safety-concerns-go/</a>
+</li>
+<li>Go 端到端测试工具 gnomock <a href="https://github.com/orlangure/gnomock" rel="nofollow" target="_blank">https://github.com/orlangure/gnomock</a>
+</li>
+<li>改进你的 Go 测试代码<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/sRffQKZfkds" allowfullscreen></iframe></span>
+</li>
+<li>四舍五入在 Go 语言中为何如此困难 <a href="https://blog.thinkeridea.com/202101/go/round.html" rel="nofollow" target="_blank">https://blog.thinkeridea.com/202101/go/round.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-01)</p></h3><ol>
 <li>告诉你神奇的 Go 内建函数源码在哪里 <a href="https://gocn.vip/topics/11413" rel="nofollow" target="_blank">https://gocn.vip/topics/11413</a>
 </li>
 <li>并发编程 -- 用 SingleFlight 合并重复请求 <a href="https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q</a>
