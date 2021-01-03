@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-03)</p></h3><ol>
+<li>如何正确处理 Golang 中的数据库错误 <a href="https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek" rel="nofollow" target="_blank">https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek</a>
+</li>
+<li>Go 在 Sublime Text3 的配置 <a href="https://dev.to/vuong/go-in-sublime-text-3-hb5" rel="nofollow" target="_blank">https://dev.to/vuong/go-in-sublime-text-3-hb5</a>
+</li>
+<li>最应该读的 20 本 Go 语言书籍 <a href="https://golangexample.com/20-golang-books" rel="nofollow" target="_blank">https://golangexample.com/20-golang-books</a>
+</li>
+<li>Go 语言版的简易 MQTT broker 库 <a href="https://github.com/c16a/hermes" rel="nofollow" target="_blank">https://github.com/c16a/hermes</a>
+</li>
+<li>针对边缘计算的边缘容器管理系统 <a href="https://github.com/superedge/superedge" rel="nofollow" target="_blank">https://github.com/superedge/superedge</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-02)</p></h3><ol>
 <li>我与 sync.Once 的爱恨纠缠 <a href="https://gocn.vip/topics/11456" rel="nofollow" target="_blank">https://gocn.vip/topics/11456</a>
 </li>
 <li>Go 中的线程安全 <a href="https://pmihaylov.com/thread-safety-concerns-go/" rel="nofollow" target="_blank">https://pmihaylov.com/thread-safety-concerns-go/</a>
