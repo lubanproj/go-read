@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-01-13）</p></h3><ol>
+<li>关于将泛型添加到 Go 中的建议 <a href="https://blog.golang.org/generics-proposal" rel="nofollow" target="_blank">https://blog.golang.org/generics-proposal</a>
+</li>
+<li>Go and CPU Caches <a href="https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592" rel="nofollow" target="_blank">https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592</a>
+</li>
+<li>浅谈 go-zero 中批处理的设计 <a href="https://juejin.cn/post/6916898431353126919" rel="nofollow" target="_blank">https://juejin.cn/post/6916898431353126919</a>
+</li>
+<li>解密 Go 语言之通道 channel <a href="https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ</a>
+</li>
+<li>Go 的工作窃取调度 <a href="https://rakyll.org/scheduler/" rel="nofollow" target="_blank">https://rakyll.org/scheduler/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-03)</p></h3><ol>
 <li>如何正确处理 Golang 中的数据库错误 <a href="https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek" rel="nofollow" target="_blank">https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek</a>
 </li>
 <li>Go 在 Sublime Text3 的配置 <a href="https://dev.to/vuong/go-in-sublime-text-3-hb5" rel="nofollow" target="_blank">https://dev.to/vuong/go-in-sublime-text-3-hb5</a>
