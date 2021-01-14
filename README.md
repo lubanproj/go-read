@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-01-13）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-14)</p></h3><ol>
+<li>包的分层，而不是分组 <a href="https://www.gobeyond.dev/packages-as-layers/" rel="nofollow" target="_blank">https://www.gobeyond.dev/packages-as-layers/</a>
+</li>
+<li>Go 实现的色标库 <a href="https://github.com/mazznoer/colorgrad" rel="nofollow" target="_blank">https://github.com/mazznoer/colorgrad</a>
+</li>
+<li>基于 Github 自动部署 Go Web 服务 <a href="https://github.com/ironpeakservices/iron-chart-go" rel="nofollow" target="_blank">https://github.com/ironpeakservices/iron-chart-go</a>
+</li>
+<li>Go 实现 io/fs 文件系统 <a href="https://github.com/jhchabran/gistfs" rel="nofollow" target="_blank">https://github.com/jhchabran/gistfs</a>
+</li>
+<li>5 分钟内学习 Go <a href="https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510" rel="nofollow" target="_blank">https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-01-13）</p></h3><ol>
 <li>关于将泛型添加到 Go 中的建议 <a href="https://blog.golang.org/generics-proposal" rel="nofollow" target="_blank">https://blog.golang.org/generics-proposal</a>
 </li>
 <li>Go and CPU Caches <a href="https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592" rel="nofollow" target="_blank">https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592</a>
