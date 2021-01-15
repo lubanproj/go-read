@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-14)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-16)</p></h3><ol>
+<li>epoll 在 Golang 中的应用 <a href="https://segmentfault.com/a/1190000038994423" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000038994423</a>
+</li>
+<li>Go netpoller 原生网络模型之源码全面揭秘 <a href="https://mp.weixin.qq.com/s/3kqVry3uV6BeMei8WjGN4g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/3kqVry3uV6BeMei8WjGN4g</a>
+</li>
+<li>Go 并发编程 (十) 深入理解 Channel <a href="https://lailin.xyz/post/go-training-week3-channel.html" rel="nofollow" target="_blank">https://lailin.xyz/post/go-training-week3-channel.html</a>
+</li>
+<li>Go 指针的使用限制和突破之路 <a href="https://mp.weixin.qq.com/s/SpVTl64W1Exy8fuN15-kmA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/SpVTl64W1Exy8fuN15-kmA</a>
+</li>
+<li>深入理解 Go Context <a href="http://www.cnblogs.com/itbsl/p/14277002.html" rel="nofollow" target="_blank">http://www.cnblogs.com/itbsl/p/14277002.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-14)</p></h3><ol>
 <li>包的分层，而不是分组 <a href="https://www.gobeyond.dev/packages-as-layers/" rel="nofollow" target="_blank">https://www.gobeyond.dev/packages-as-layers/</a>
 </li>
 <li>Go 实现的色标库 <a href="https://github.com/mazznoer/colorgrad" rel="nofollow" target="_blank">https://github.com/mazznoer/colorgrad</a>
