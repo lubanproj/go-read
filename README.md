@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-16)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-17)</p></h3><ol>
+<li>如何优化 Go HTTP client 的性能 <a href="https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/" rel="nofollow" target="_blank">https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/</a>
+</li>
+<li>优化 SQLite 在 Go 中的性能 <a href="https://turriate.com/articles/making-sqlite-faster-in-go" rel="nofollow" target="_blank">https://turriate.com/articles/making-sqlite-faster-in-go</a>
+</li>
+<li>Go 依赖包影响检测工具 GTA <a href="https://www.digitalocean.com/blog/gta-detecting-affected-dependent-go-packages" rel="nofollow" target="_blank">https://www.digitalocean.com/blog/gta-detecting-affected-dependent-go-packages</a>
+</li>
+<li>从 Go 代码中抽离业务逻辑的实践 <a href="https://developer20.com/extracting-the-business-logic-project/" rel="nofollow" target="_blank">https://developer20.com/extracting-the-business-logic-project/</a>
+</li>
+<li>软件包的僵尸依赖 <a href="https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8" rel="nofollow" target="_blank">https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-16)</p></h3><ol>
 <li>epoll 在 Golang 中的应用 <a href="https://segmentfault.com/a/1190000038994423" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000038994423</a>
 </li>
 <li>Go netpoller 原生网络模型之源码全面揭秘 <a href="https://mp.weixin.qq.com/s/3kqVry3uV6BeMei8WjGN4g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/3kqVry3uV6BeMei8WjGN4g</a>
