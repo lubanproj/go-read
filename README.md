@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-17)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-18)</p></h3><ol>
+<li>在 Go 中打造基于事件的调度器 <a href="https://medium.com/wesionary-team/building-basic-event-scheduler-in-go-134c19f77f84" rel="nofollow" target="_blank">https://medium.com/wesionary-team/building-basic-event-scheduler-in-go-134c19f77f84</a>
+</li>
+<li>在你的项目中使用 Uber 的 Zip <a href="https://medium.com/@gustavo.nabakseixas/go-using-uber-zap-in-your-application-135756f23bdc" rel="nofollow" target="_blank">https://medium.com/@gustavo.nabakseixas/go-using-uber-zap-in-your-application-135756f23bdc</a>
+</li>
+<li>在 Go 1.16 中使用 HTTP 提供压缩静态资源服务 <a href="https://dev.to/vearutop/serving-compressed-static-assets-with-http-in-go-1-16-55bb" rel="nofollow" target="_blank">https://dev.to/vearutop/serving-compressed-static-assets-with-http-in-go-1-16-55bb</a>
+</li>
+<li>Go 的 Pipe 应用场景，往服务器提交 multipart 请求 <a href="https://segmentfault.com/a/1190000039005031" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039005031</a>
+</li>
+<li>聊聊 gorm 的 OnConflict <a href="https://segmentfault.com/a/1190000039006695" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039006695</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-17)</p></h3><ol>
 <li>如何优化 Go HTTP client 的性能 <a href="https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/" rel="nofollow" target="_blank">https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/</a>
 </li>
 <li>优化 SQLite 在 Go 中的性能 <a href="https://turriate.com/articles/making-sqlite-faster-in-go" rel="nofollow" target="_blank">https://turriate.com/articles/making-sqlite-faster-in-go</a>
