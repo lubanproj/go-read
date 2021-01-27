@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-18)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-27)</p></h3><ol>
+<li>Go internal ABI specification <a href="https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md" rel="nofollow" target="_blank">https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md</a>
+</li>
+<li>Error vs Exception，对比 Go 和 C++ <a href="https://dr-knz.net/go-errors-vs-exceptions-2020.html" rel="nofollow" target="_blank">https://dr-knz.net/go-errors-vs-exceptions-2020.html</a>
+</li>
+<li>采访 Anderson Queiroz：Go 是 21 世纪最完美的语言 <a href="https://hackernoon.com/interview-with-anderson-queiroz-golang-is-the-perfect-language-for-the-21st-century-xmc433jo" rel="nofollow" target="_blank">https://hackernoon.com/interview-with-anderson-queiroz-golang-is-the-perfect-language-for-the-21st-century-xmc433jo</a>
+</li>
+<li>Go 时间处理库 <a href="https://github.com/golang-module/carbon" rel="nofollow" target="_blank">https://github.com/golang-module/carbon</a>
+</li>
+<li>在 Go 项目中优雅的使用 gorm v2 <a href="https://segmentfault.com/a/1190000039097157" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039097157</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-18)</p></h3><ol>
 <li>在 Go 中打造基于事件的调度器 <a href="https://medium.com/wesionary-team/building-basic-event-scheduler-in-go-134c19f77f84" rel="nofollow" target="_blank">https://medium.com/wesionary-team/building-basic-event-scheduler-in-go-134c19f77f84</a>
 </li>
 <li>在你的项目中使用 Uber 的 Zip <a href="https://medium.com/@gustavo.nabakseixas/go-using-uber-zap-in-your-application-135756f23bdc" rel="nofollow" target="_blank">https://medium.com/@gustavo.nabakseixas/go-using-uber-zap-in-your-application-135756f23bdc</a>
