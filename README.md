@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-27)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-28)</p></h3><ol>
+<li>在 Go 1.16 版本使用 Embed <a href="https://lakefs.io/working-with-embed-in-go/" rel="nofollow" target="_blank">https://lakefs.io/working-with-embed-in-go/</a>
+</li>
+<li>Go 实现的基于分布式块的视频代码转换器 <a href="https://github.com/bkenio/tidal" rel="nofollow" target="_blank">https://github.com/bkenio/tidal</a>
+</li>
+<li>大型本地数据中心网络启动服务器 <a href="https://github.com/cybozu-go/sabakan" rel="nofollow" target="_blank">https://github.com/cybozu-go/sabakan</a>
+</li>
+<li>Go 实现的获取外汇汇率和货币转换 API <a href="https://github.com/peterhellberg/fixer" rel="nofollow" target="_blank">https://github.com/peterhellberg/fixer</a>
+</li>
+<li>Golang 语言的标准库 log 包怎么使用 <a href="https://mp.weixin.qq.com/s/_R-xcuyHOc_iCx2Bd_pA5w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/_R-xcuyHOc_iCx2Bd_pA5w</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-27)</p></h3><ol>
 <li>Go internal ABI specification <a href="https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md" rel="nofollow" target="_blank">https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md</a>
 </li>
 <li>Error vs Exception，对比 Go 和 C++ <a href="https://dr-knz.net/go-errors-vs-exceptions-2020.html" rel="nofollow" target="_blank">https://dr-knz.net/go-errors-vs-exceptions-2020.html</a>
