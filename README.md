@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-28)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-29)</p></h3><ol>
+<li>Go 1.16 rc1 released <a href="https://groups.google.com/g/golang-announce/c/U_FUHY4wuSc/m/3_Vw3oqpAgAJ?pli=1" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/U_FUHY4wuSc/m/3_Vw3oqpAgAJ?pli=1</a>
+</li>
+<li>一文吃透 Go 语言解密之上下文 context <a href="https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw</a>
+</li>
+<li>分布式延时任务调度系统设计与 golang 实现 <a href="https://mp.weixin.qq.com/s/bDb1xY2CFT0bIgOUWpoROA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/bDb1xY2CFT0bIgOUWpoROA</a>
+</li>
+<li>Go 精妙的互斥锁设计 <a href="https://mp.weixin.qq.com/s/j0NCgrU6M8ps0zIOkOT3FQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/j0NCgrU6M8ps0zIOkOT3FQ</a>
+</li>
+<li>如何将 Containerd 用作 Kubernetes runtime <a href="https://www.upyun.com/tech/article/611/1.html" rel="nofollow" target="_blank">https://www.upyun.com/tech/article/611/1.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-28)</p></h3><ol>
 <li>在 Go 1.16 版本使用 Embed <a href="https://lakefs.io/working-with-embed-in-go/" rel="nofollow" target="_blank">https://lakefs.io/working-with-embed-in-go/</a>
 </li>
 <li>Go 实现的基于分布式块的视频代码转换器 <a href="https://github.com/bkenio/tidal" rel="nofollow" target="_blank">https://github.com/bkenio/tidal</a>
