@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-29)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-30)</p></h3><ol>
+<li>Go JWT 实战 <a href="https://webdevstation.com/posts/user-authentication-with-go-using-jwt-token/" rel="nofollow" target="_blank">https://webdevstation.com/posts/user-authentication-with-go-using-jwt-token/</a>
+</li>
+<li>详解 Go 中内存分配源码实现 <a href="https://www.cnblogs.com/luozhiyun/p/14349331.html" rel="nofollow" target="_blank">https://www.cnblogs.com/luozhiyun/p/14349331.html</a>
+</li>
+<li>将 Go 对象暴露给 C 引用 <a href="https://tinyzimmer.github.io/posts/exporting-gobject-from-go/" rel="nofollow" target="_blank">https://tinyzimmer.github.io/posts/exporting-gobject-from-go/</a> </li>
+<li>使用 multipart/form-data 实现文件的上传与下载 <a href="https://tonybai.com/2021/01/16/upload-and-download-file-using-multipart-form-over-http/" rel="nofollow" target="_blank">https://tonybai.com/2021/01/16/upload-and-download-file-using-multipart-form-over-http/</a>
+</li>
+<li>Go 中使用 JSON 时,如何区分空字段和未设置字段 <a href="https://segmentfault.com/a/1190000039110327" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039110327</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-29)</p></h3><ol>
 <li>Go 1.16 rc1 released <a href="https://groups.google.com/g/golang-announce/c/U_FUHY4wuSc/m/3_Vw3oqpAgAJ?pli=1" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/U_FUHY4wuSc/m/3_Vw3oqpAgAJ?pli=1</a>
 </li>
 <li>一文吃透 Go 语言解密之上下文 context <a href="https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw</a>
