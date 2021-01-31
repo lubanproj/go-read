@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-30)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-01-31)</p></h3><ol>
+<li>Go 1.16 的两个实用更新 <a href="https://benhoyt.com/writings/go-readdir/" rel="nofollow" target="_blank">https://benhoyt.com/writings/go-readdir/</a>
+</li>
+<li>拥抱 Go 类型系统 <a href="https://www.gopherguides.com/articles/embracing-the-go-type-system" rel="nofollow" target="_blank">https://www.gopherguides.com/articles/embracing-the-go-type-system</a>
+</li>
+<li>可视化 Go 程序性能数据 <a href="https://nakabonne.dev/posts/gosivy/" rel="nofollow" target="_blank">https://nakabonne.dev/posts/gosivy/</a>
+</li>
+<li>不要给 Go 代码使用 LGPL <a href="https://www.makeworld.gq/2021/01/lgpl_go.html" rel="nofollow" target="_blank">https://www.makeworld.gq/2021/01/lgpl_go.html</a>
+</li>
+<li>数据库是如何使用 mmap 的 <a href="https://brunocalza.me/but-how-exactly-databases-use-mmap/" rel="nofollow" target="_blank">https://brunocalza.me/but-how-exactly-databases-use-mmap/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-30)</p></h3><ol>
 <li>Go JWT 实战 <a href="https://webdevstation.com/posts/user-authentication-with-go-using-jwt-token/" rel="nofollow" target="_blank">https://webdevstation.com/posts/user-authentication-with-go-using-jwt-token/</a>
 </li>
 <li>详解 Go 中内存分配源码实现 <a href="https://www.cnblogs.com/luozhiyun/p/14349331.html" rel="nofollow" target="_blank">https://www.cnblogs.com/luozhiyun/p/14349331.html</a>
