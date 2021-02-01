@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-01-31)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-01)</p></h3><ol>
+<li>永远不要在不知道如何停止的情况下启动一个 goroutine <a href="https://www.cyningsun.com/01-31-2021/go-concurrency-goroutine-exit.html" rel="nofollow" target="_blank">https://www.cyningsun.com/01-31-2021/go-concurrency-goroutine-exit.html</a>
+</li>
+<li>Go 看源码必会知识之 unsafe 包 <a href="https://mp.weixin.qq.com/s/nPWvqaQiQ6Z0TaPoqg3t2Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/nPWvqaQiQ6Z0TaPoqg3t2Q</a>
+</li>
+<li>分布式任务调度系统之任务编排及工作流实现原理与 golang 实践 <a href="https://mp.weixin.qq.com/s/1epE7Ls1yyqRiKnopAzugA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/1epE7Ls1yyqRiKnopAzugA</a>
+</li>
+<li>详解并发编程基础之原子操作 (atomic 包) <a href="https://mp.weixin.qq.com/s/PQ06eL8kMWoGXodpnyjNcA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/PQ06eL8kMWoGXodpnyjNcA</a>
+</li>
+<li>来了解一下 K8S 的 Operator 模式 <a href="https://mp.weixin.qq.com/s/r2sxN4lEHwYNJCGeN8Pukw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/r2sxN4lEHwYNJCGeN8Pukw</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-01-31)</p></h3><ol>
 <li>Go 1.16 的两个实用更新 <a href="https://benhoyt.com/writings/go-readdir/" rel="nofollow" target="_blank">https://benhoyt.com/writings/go-readdir/</a>
 </li>
 <li>拥抱 Go 类型系统 <a href="https://www.gopherguides.com/articles/embracing-the-go-type-system" rel="nofollow" target="_blank">https://www.gopherguides.com/articles/embracing-the-go-type-system</a>
