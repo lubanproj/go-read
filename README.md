@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-01)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-02)</p></h3><ol>
+<li>在 VS Code Go 扩展中默认启用 Gopls <a href="https://blog.golang.org/gopls-vscode-go" rel="nofollow" target="_blank">https://blog.golang.org/gopls-vscode-go</a>
+</li>
+<li>一个摄像头多条流 <a href="https://medium.com/an-idea/there-can-be-only-one-one-camera-multiple-streams-7a1142a35905" rel="nofollow" target="_blank">https://medium.com/an-idea/there-can-be-only-one-one-camera-multiple-streams-7a1142a35905</a>
+</li>
+<li>Rust FFI 和 Go FFI（cgo）对比 <a href="https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6" rel="nofollow" target="_blank">https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6</a>
+</li>
+<li>Go - 实现项目内链路追踪 <a href="https://segmentfault.com/a/1190000039146970" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039146970</a>
+</li>
+<li>node-fluent-ffmpeg Go 语言版本 <a href="https://github.com/modfy/go-fluent-ffmpeg" rel="nofollow" target="_blank">https://github.com/modfy/go-fluent-ffmpeg</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-01)</p></h3><ol>
 <li>永远不要在不知道如何停止的情况下启动一个 goroutine <a href="https://www.cyningsun.com/01-31-2021/go-concurrency-goroutine-exit.html" rel="nofollow" target="_blank">https://www.cyningsun.com/01-31-2021/go-concurrency-goroutine-exit.html</a>
 </li>
 <li>Go 看源码必会知识之 unsafe 包 <a href="https://mp.weixin.qq.com/s/nPWvqaQiQ6Z0TaPoqg3t2Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/nPWvqaQiQ6Z0TaPoqg3t2Q</a>
