@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-03)</p></h3><ol>
+<li>18 张图解密新时代内存分配器 TCMalloc <a href="https://juejin.cn/post/6924899045353881608" rel="nofollow" target="_blank">https://juejin.cn/post/6924899045353881608</a>
+</li>
+<li>使用 MAC API 来开发 MAC APP <a href="https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6" rel="nofollow" target="_blank">https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6</a>
+</li>
+<li>详解 Go 内联优化 <a href="https://juejin.cn/post/6924249254752059406" rel="nofollow" target="_blank">https://juejin.cn/post/6924249254752059406</a>
+</li>
+<li>如何发布一个新的 Modules <a href="https://juejin.cn/post/6923740678736314375" rel="nofollow" target="_blank">https://juejin.cn/post/6923740678736314375</a>
+</li>
+<li>快速开发一个 graphql 应用 <a href="https://github.com/ohler55/graphql-test-tool/blob/develop/example/solid-quick.md" rel="nofollow" target="_blank">https://github.com/ohler55/graphql-test-tool/blob/develop/example/solid-quick.md</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-02)</p></h3><ol>
 <li>在 VS Code Go 扩展中默认启用 Gopls <a href="https://blog.golang.org/gopls-vscode-go" rel="nofollow" target="_blank">https://blog.golang.org/gopls-vscode-go</a>
 </li>
 <li>一个摄像头多条流 <a href="https://medium.com/an-idea/there-can-be-only-one-one-camera-multiple-streams-7a1142a35905" rel="nofollow" target="_blank">https://medium.com/an-idea/there-can-be-only-one-one-camera-multiple-streams-7a1142a35905</a>
