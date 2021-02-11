@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-02-11)</p></h3><ol>
+<li>Go 泛型方案被接受 <a href="https://github.com/golang/go/issues/43651#issuecomment-776944155" rel="nofollow" target="_blank">https://github.com/golang/go/issues/43651#issuecomment-776944155</a>
+</li>
+<li>分布式事务框架 seata-golang 接入指南 <a href="https://mp.weixin.qq.com/s/cwkfYA2rgNIbHom5Yoeizg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/cwkfYA2rgNIbHom5Yoeizg</a>
+</li>
+<li>Go 与 Swift 对比 <a href="https://techbiason.com/go-vs-swift/" rel="nofollow" target="_blank">https://techbiason.com/go-vs-swift/</a>
+</li>
+<li>为什么 Go 编译这么快 <a href="https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86" rel="nofollow" target="_blank">https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86</a>
+</li>
+<li>手撸 golang 行为型设计模式 中介者模式 <a href="https://segmentfault.com/a/1190000039202770" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039202770</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-03)</p></h3><ol>
 <li>18 张图解密新时代内存分配器 TCMalloc <a href="https://juejin.cn/post/6924899045353881608" rel="nofollow" target="_blank">https://juejin.cn/post/6924899045353881608</a>
 </li>
 <li>使用 MAC API 来开发 MAC APP <a href="https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6" rel="nofollow" target="_blank">https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6</a>
