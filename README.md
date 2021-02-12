@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-02-11)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-12)</p></h3><ol>
+<li>Golang 汇编器快速上手指南 <a href="https://golang.org/doc/asm" rel="nofollow" target="_blank">https://golang.org/doc/asm</a>
+2.在 VS Code Go 扩展中启用 Gopls <a href="https://blog.golang.org/gopls-vscode-go" rel="nofollow" target="_blank">https://blog.golang.org/gopls-vscode-go</a>
+</li>
+<li>Go 实现的 HDFS 客户端 <a href="https://github.com/colinmarc/hdfs" rel="nofollow" target="_blank">https://github.com/colinmarc/hdfs</a>
+</li>
+<li>使用 Go，html 和 javascript 快速构建动态 Web 应用程序的模板 <a href="https://github.com/adnaan/gomodest-template" rel="nofollow" target="_blank">https://github.com/adnaan/gomodest-template</a>
+</li>
+<li>Go 实现的简历剪裁工具 Resume <a href="https://github.com/penguingovernor/go-resume" rel="nofollow" target="_blank">https://github.com/penguingovernor/go-resume</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-02-11)</p></h3><ol>
 <li>Go 泛型方案被接受 <a href="https://github.com/golang/go/issues/43651#issuecomment-776944155" rel="nofollow" target="_blank">https://github.com/golang/go/issues/43651#issuecomment-776944155</a>
 </li>
 <li>分布式事务框架 seata-golang 接入指南 <a href="https://mp.weixin.qq.com/s/cwkfYA2rgNIbHom5Yoeizg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/cwkfYA2rgNIbHom5Yoeizg</a>
