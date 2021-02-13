@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-12)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-13)</p></h3><ol>
+<li>Golang sync.Cond 条件变量源码分析 <a href="https://www.cyhone.com/articles/golang-sync-cond/" rel="nofollow" target="_blank">https://www.cyhone.com/articles/golang-sync-cond/</a>
+</li>
+<li>Go 工程化 (一) 架构整洁之道阅读笔记 <a href="https://lailin.xyz/post/go-training-week4-clean-arch.html" rel="nofollow" target="_blank">https://lailin.xyz/post/go-training-week4-clean-arch.html</a>
+</li>
+<li>Go embed 简明教程 <a href="https://colobu.com/2021/01/17/go-embed-tutorial/" rel="nofollow" target="_blank">https://colobu.com/2021/01/17/go-embed-tutorial/</a>
+</li>
+<li>Golang 汇编器快速上手指南 <a href="https://mp.weixin.qq.com/s/ibdEHnAdC51e25ofAQ-uCA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ibdEHnAdC51e25ofAQ-uCA</a>
+</li>
+<li>Golang WaitGroup 原理深度剖析 <a href="https://mp.weixin.qq.com/s/CkSd2aldYaoLbd-IKhkpWg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/CkSd2aldYaoLbd-IKhkpWg</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-12)</p></h3><ol>
 <li>Golang 汇编器快速上手指南 <a href="https://golang.org/doc/asm" rel="nofollow" target="_blank">https://golang.org/doc/asm</a>
 2.在 VS Code Go 扩展中启用 Gopls <a href="https://blog.golang.org/gopls-vscode-go" rel="nofollow" target="_blank">https://blog.golang.org/gopls-vscode-go</a>
 </li>
