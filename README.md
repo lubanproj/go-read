@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-13)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-15)</p></h3><ol>
+<li>Go 结构体内存优化指南 <a href="https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61" rel="nofollow" target="_blank">https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61</a>
+</li>
+<li>Go 1.16 中的 module retract 特性 <a href="https://golangtutorial.dev/tips/retract-go-module-versions/" rel="nofollow" target="_blank">https://golangtutorial.dev/tips/retract-go-module-versions/</a>
+</li>
+<li>用 Go 带你了解缓冲池的工作原理 <a href="https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/" rel="nofollow" target="_blank">https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/</a>
+</li>
+<li>BoltDB 作者讲述他为何要开发 Litestream <a href="https://litestream.io/blog/why-i-built-litestream/" rel="nofollow" target="_blank">https://litestream.io/blog/why-i-built-litestream/</a>
+</li>
+<li>Go 官方最新的依赖管理指南 <a href="https://golang.org/doc/modules/managing-dependencies" rel="nofollow" target="_blank">https://golang.org/doc/modules/managing-dependencies</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-13)</p></h3><ol>
 <li>Golang sync.Cond 条件变量源码分析 <a href="https://www.cyhone.com/articles/golang-sync-cond/" rel="nofollow" target="_blank">https://www.cyhone.com/articles/golang-sync-cond/</a>
 </li>
 <li>Go 工程化 (一) 架构整洁之道阅读笔记 <a href="https://lailin.xyz/post/go-training-week4-clean-arch.html" rel="nofollow" target="_blank">https://lailin.xyz/post/go-training-week4-clean-arch.html</a>
