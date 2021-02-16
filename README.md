@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-15)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-16)</p></h3><ol>
+<li>在浏览器中部署 Go HTTP 服务器 <a href="https://github.com/nlepage/go-wasm-http-server" rel="nofollow" target="_blank">https://github.com/nlepage/go-wasm-http-server</a>
+</li>
+<li>在 Go 中开发可用于生产的 REST API <a href="https://tutorialedge.net/courses/go-rest-api-course/" rel="nofollow" target="_blank">https://tutorialedge.net/courses/go-rest-api-course/</a>
+</li>
+<li>内联函数和编译器对 Go 代码的优化 <a href="https://mp.weixin.qq.com/s/Or4FmVAf9nvMQzPct87Ecw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Or4FmVAf9nvMQzPct87Ecw</a>
+</li>
+<li>使用 Go 语言编写的使用 K6 工具进行 Web 应用程序负载测试的简便方法 <a href="https://webdevstation.com/posts/an-easy-way-to-loadtest-your-web-apps/" rel="nofollow" target="_blank">https://webdevstation.com/posts/an-easy-way-to-loadtest-your-web-apps/</a>
+</li>
+<li>pdfcpu：Go PDF 处理器 <a href="https://github.com/pdfcpu/pdfcpu" rel="nofollow" target="_blank">https://github.com/pdfcpu/pdfcpu</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-15)</p></h3><ol>
 <li>Go 结构体内存优化指南 <a href="https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61" rel="nofollow" target="_blank">https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61</a>
 </li>
 <li>Go 1.16 中的 module retract 特性 <a href="https://golangtutorial.dev/tips/retract-go-module-versions/" rel="nofollow" target="_blank">https://golangtutorial.dev/tips/retract-go-module-versions/</a>
