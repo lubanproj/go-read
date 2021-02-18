@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-16)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-18)</p></h3><ol>
+<li>微服务架构中的延迟任务 <a href="https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7" rel="nofollow" target="_blank">https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7</a>
+</li>
+<li>如何在 Go 中构建一个线程安全的队列 <a href="https://dev.to/har130798/how-to-build-a-thread-safe-queue-in-go-lbh" rel="nofollow" target="_blank">https://dev.to/har130798/how-to-build-a-thread-safe-queue-in-go-lbh</a> </li>
+<li>手撸 Go 基本数据结构与算法哈希表 <a href="https://segmentfault.com/a/1190000039219752" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039219752</a>
+</li>
+<li>如何在 Go 中使用 MQTT <a href="https://levelup.gitconnected.com/how-to-use-mqtt-with-go-89c617915774" rel="nofollow" target="_blank">https://levelup.gitconnected.com/how-to-use-mqtt-with-go-89c617915774</a>
+</li>
+<li>一个高效、正确的图像抖动处理类库 <a href="https://github.com/makeworld-the-better-one/dither" rel="nofollow" target="_blank">https://github.com/makeworld-the-better-one/dither</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-16)</p></h3><ol>
 <li>在浏览器中部署 Go HTTP 服务器 <a href="https://github.com/nlepage/go-wasm-http-server" rel="nofollow" target="_blank">https://github.com/nlepage/go-wasm-http-server</a>
 </li>
 <li>在 Go 中开发可用于生产的 REST API <a href="https://tutorialedge.net/courses/go-rest-api-course/" rel="nofollow" target="_blank">https://tutorialedge.net/courses/go-rest-api-course/</a>
