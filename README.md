@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-18)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-22)</p></h3><ol>
+<li>一文完全掌握 Go math/rand <a href="https://gocn.vip/topics/11689" rel="nofollow" target="_blank">https://gocn.vip/topics/11689</a>
+</li>
+<li>详解 Go 语言调度循环源码实现 [Go 15.7 源码] <a href="https://www.luozhiyun.com/archives/448" rel="nofollow" target="_blank">https://www.luozhiyun.com/archives/448</a>
+</li>
+<li>使用适配器模式解耦 Go 应用的功能库 <a href="https://www.hildeberto.com/2021/02/adapter-design-pattern-golang.html" rel="nofollow" target="_blank">https://www.hildeberto.com/2021/02/adapter-design-pattern-golang.html</a>
+</li>
+<li>Go 中的 SSRF 攻防战 <a href="https://isites.github.io/timeline/go-ssrf/" rel="nofollow" target="_blank">https://isites.github.io/timeline/go-ssrf/</a>
+</li>
+<li>go-frodokem: Frodokem 算法的 Go 实现 <a href="https://github.com/kuking/go-frodokem/" rel="nofollow" target="_blank">https://github.com/kuking/go-frodokem/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-18)</p></h3><ol>
 <li>微服务架构中的延迟任务 <a href="https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7" rel="nofollow" target="_blank">https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7</a>
 </li>
 <li>如何在 Go 中构建一个线程安全的队列 <a href="https://dev.to/har130798/how-to-build-a-thread-safe-queue-in-go-lbh" rel="nofollow" target="_blank">https://dev.to/har130798/how-to-build-a-thread-safe-queue-in-go-lbh</a> </li>
