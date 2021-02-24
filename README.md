@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-24)</p></h3><ol>
+<li>TiDB 条分缕析 Raft 算法 <a href="https://gocn.vip/topics/11698" rel="nofollow" target="_blank">https://gocn.vip/topics/11698</a>
+</li>
+<li>Go 高效截取字符串的一些思考 <a href="https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ</a>
+</li>
+<li>什么是大端序和小端序，为什么要有字节序 <a href="https://mp.weixin.qq.com/s/ri2tt4nvEJub-wEsh0WPPA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ri2tt4nvEJub-wEsh0WPPA</a>
+</li>
+<li>从 go-chi 框架撤回所有主版本聊 Go1.16 的新特性 <a href="https://mp.weixin.qq.com/s/mBJ3hQ6oR1V9YtdXpkTnow" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/mBJ3hQ6oR1V9YtdXpkTnow</a>
+</li>
+<li>Go 工程化 依赖注入框架 wire <a href="https://lailin.xyz/post/go-training-week4-wire.html" rel="nofollow" target="_blank">https://lailin.xyz/post/go-training-week4-wire.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-22)</p></h3><ol>
 <li>一文完全掌握 Go math/rand <a href="https://gocn.vip/topics/11689" rel="nofollow" target="_blank">https://gocn.vip/topics/11689</a>
 </li>
 <li>详解 Go 语言调度循环源码实现 [Go 15.7 源码] <a href="https://www.luozhiyun.com/archives/448" rel="nofollow" target="_blank">https://www.luozhiyun.com/archives/448</a>
