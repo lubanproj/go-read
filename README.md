@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-24)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-26)</p></h3><ol>
+<li>探索 "io/fs" 提高测试性能和可测试性 <a href="https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance" rel="nofollow" target="_blank">https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance</a>
+</li>
+<li>Go 还是需要泛型的 <a href="https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ</a>
+</li>
+<li>用 Go 实现事件驱动应用 <a href="https://engineering.linecorp.com/zh-hant/blog/20210226-golang-event-driven" rel="nofollow" target="_blank">https://engineering.linecorp.com/zh-hant/blog/20210226-golang-event-driven</a>
+</li>
+<li>Great video about Pointers in Go <a href="https://www.reddit.com/r/golang/comments/lsb9jc/great_video_about_pointers_in_go/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/lsb9jc/great_video_about_pointers_in_go/</a>
+</li>
+<li>JSON 互操作性漏洞探析 <a href="https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities" rel="nofollow" target="_blank">https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-24)</p></h3><ol>
 <li>TiDB 条分缕析 Raft 算法 <a href="https://gocn.vip/topics/11698" rel="nofollow" target="_blank">https://gocn.vip/topics/11698</a>
 </li>
 <li>Go 高效截取字符串的一些思考 <a href="https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ</a>
