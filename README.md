@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-26)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-02-27)</p></h3><ol>
+<li>Golang 指针讲解<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/sTFJtxJXkaY" allowfullscreen></iframe></span>
+</li>
+<li>Go 实现都配置管理 cli COGS <a href="https://github.com/Bestowinc/cogs/" rel="nofollow" target="_blank">https://github.com/Bestowinc/cogs/</a>
+</li>
+<li>golang os.File 的加密替换文件，存储的文件将具有 768 位加密 <a href="https://github.com/kuking/seof" rel="nofollow" target="_blank">https://github.com/kuking/seof</a>
+</li>
+<li>go 实现的快速，安全，可靠的系统备份 <a href="https://github.com/Clivern/Walrus" rel="nofollow" target="_blank">https://github.com/Clivern/Walrus</a>
+</li>
+<li>Jupyter 交互的 Go 编程 <a href="https://github.com/yunabe/lgo" rel="nofollow" target="_blank">https://github.com/yunabe/lgo</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-26)</p></h3><ol>
 <li>探索 "io/fs" 提高测试性能和可测试性 <a href="https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance" rel="nofollow" target="_blank">https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance</a>
 </li>
 <li>Go 还是需要泛型的 <a href="https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ</a>
