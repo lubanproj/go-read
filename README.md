@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-02-27)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-01)</p></h3><ol>
+<li>常用的分布式唯一 ID 生成方案 <a href="https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg</a>
+</li>
+<li>高并发系统的限流策略：漏桶和令牌桶 (附源码剖析) <a href="https://mp.weixin.qq.com/s/fURwiSTeEE_Wvc95Q_fHnA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/fURwiSTeEE_Wvc95Q_fHnA</a>
+</li>
+<li>Golang 语言怎么处理错误？ <a href="https://mp.weixin.qq.com/s/DUvLkO5tLUCOp2IeVjgbeg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/DUvLkO5tLUCOp2IeVjgbeg</a>
+</li>
+<li>Kubernetes 节点资源不足的高效管理 <a href="https://medium.com/kubernetes-tutorials/efficient-node-out-of-resource-management-in-kubernetes-67f158da6e59" rel="nofollow" target="_blank">https://medium.com/kubernetes-tutorials/efficient-node-out-of-resource-management-in-kubernetes-67f158da6e59</a>
+</li>
+<li>简单的本地 go git-crypt 实现 <a href="https://github.com/jbuchbinder/go-git-crypt" rel="nofollow" target="_blank">https://github.com/jbuchbinder/go-git-crypt</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-02-27)</p></h3><ol>
 <li>Golang 指针讲解<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/sTFJtxJXkaY" allowfullscreen></iframe></span>
 </li>
 <li>Go 实现都配置管理 cli COGS <a href="https://github.com/Bestowinc/cogs/" rel="nofollow" target="_blank">https://github.com/Bestowinc/cogs/</a>
