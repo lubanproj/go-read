@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-01)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-02)</p></h3><ol>
+<li>寻找 Go 依赖中的那个邪恶包 <a href="https://michenriksen.com/blog/finding-evil-go-packages/" rel="nofollow" target="_blank">https://michenriksen.com/blog/finding-evil-go-packages/</a>
+</li>
+<li>使用 Go + Kqueue 实现一个简单的 TCP Server <a href="https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah" rel="nofollow" target="_blank">https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah</a>
+</li>
+<li>感受下适配器模式的优势 <a href="https://www.hildeberto.com/2021/02/adapter-go-redis.html" rel="nofollow" target="_blank">https://www.hildeberto.com/2021/02/adapter-go-redis.html</a>
+</li>
+<li>用 Go 实现 NATs 模式下的实时订阅 <a href="https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371" rel="nofollow" target="_blank">https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371</a>
+</li>
+<li>Go 范型使用介绍 <a href="https://quii.gitbook.io/learn-go-with-tests/meta/intro-to-generics" rel="nofollow" target="_blank">https://quii.gitbook.io/learn-go-with-tests/meta/intro-to-generics</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-01)</p></h3><ol>
 <li>常用的分布式唯一 ID 生成方案 <a href="https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg</a>
 </li>
 <li>高并发系统的限流策略：漏桶和令牌桶 (附源码剖析) <a href="https://mp.weixin.qq.com/s/fURwiSTeEE_Wvc95Q_fHnA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/fURwiSTeEE_Wvc95Q_fHnA</a>
