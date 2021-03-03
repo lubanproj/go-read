@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-03)</p></h3><ol>
+<li>比 panic 更好的错误处理方式 <a href="https://tiemma.medium.com/why-is-go-panicking-31ba2351986b" rel="nofollow" target="_blank">https://tiemma.medium.com/why-is-go-panicking-31ba2351986b</a>
+</li>
+<li>golang 实现京东支付 v2 版本 <a href="https://segmentfault.com/a/1190000039322439" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039322439</a>
+</li>
+<li>空结构体引发的大型打脸现场  <a href="https://mp.weixin.qq.com/s/dNeCIwmPei2jEWGF6AuWQw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/dNeCIwmPei2jEWGF6AuWQw</a>
+</li>
+<li>TiDB 5.0 跨中心部署能力初探 | 中心化还是去中心化？揭秘 TiDB 5.0 事务分布式授时模块 <a href="https://gocn.vip/topics/11727" rel="nofollow" target="_blank">https://gocn.vip/topics/11727</a> </li>
+<li>一个 Go 编写的简易文本编辑器 <a href="https://github.com/hibiken/mini" rel="nofollow" target="_blank">https://github.com/hibiken/mini</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-02)</p></h3><ol>
 <li>寻找 Go 依赖中的那个邪恶包 <a href="https://michenriksen.com/blog/finding-evil-go-packages/" rel="nofollow" target="_blank">https://michenriksen.com/blog/finding-evil-go-packages/</a>
 </li>
 <li>使用 Go + Kqueue 实现一个简单的 TCP Server <a href="https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah" rel="nofollow" target="_blank">https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah</a>
