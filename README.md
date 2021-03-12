@@ -4,7 +4,19 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-03-12）</p></h3><ol>
+<li>Go 1.16.2 and Go 1.15.10 发布
+<a href="https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM</a>
+</li>
+<li>WebAssembly + Go 系列（2）WASI，WebAssembly 不止于 Web <a href="https://segmentfault.com/a/1190000039397525" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039397525</a>
+</li>
+<li>Dolt 像 Git 一样操作数据库 <a href="https://github.com/dolthub/dolt" rel="nofollow" target="_blank">https://github.com/dolthub/dolt</a>
+</li>
+<li>有道 Kubernetes 容器 API 监控系统设计和实践 <a href="https://segmentfault.com/a/1190000039390685" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039390685</a>
+</li>
+<li>Go 一步步实现 TLS 双向认证 <a href="https://venilnoronha.io/a-step-by-step-guide-to-mtls-in-go" rel="nofollow" target="_blank">https://venilnoronha.io/a-step-by-step-guide-to-mtls-in-go</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-03)</p></h3><ol>
 <li>比 panic 更好的错误处理方式 <a href="https://tiemma.medium.com/why-is-go-panicking-31ba2351986b" rel="nofollow" target="_blank">https://tiemma.medium.com/why-is-go-panicking-31ba2351986b</a>
 </li>
 <li>golang 实现京东支付 v2 版本 <a href="https://segmentfault.com/a/1190000039322439" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039322439</a>
