@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-03-12）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-03-13）</p></h3><ol>
+<li>对抗僵尸依赖 <a href="https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8" rel="nofollow" target="_blank">https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8</a>
+</li>
+<li>入门 Go 和 eBPF <a href="https://networkop.co.uk/post/2021-03-ebpf-intro/" rel="nofollow" target="_blank">https://networkop.co.uk/post/2021-03-ebpf-intro/</a>
+</li>
+<li>掌握 Go HTML Templates <a href="https://philipptanlak.com/mastering-html-templates-in-go-the-fundamentals/" rel="nofollow" target="_blank">https://philipptanlak.com/mastering-html-templates-in-go-the-fundamentals/</a>
+</li>
+<li>如何使用 Golang 处理 MySQL 的 binlog <a href="https://zhuanlan.zhihu.com/p/335964345" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/335964345</a>
+</li>
+<li>使用 SQL 查询文件系统 <a href="https://github.com/kashav/fsql" rel="nofollow" target="_blank">https://github.com/kashav/fsql</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-03-12）</p></h3><ol>
 <li>Go 1.16.2 and Go 1.15.10 发布
 <a href="https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM</a>
 </li>
