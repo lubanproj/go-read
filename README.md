@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-03-13）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-14)</p></h3><ol>
+<li>Go 编写的带有实时分析器的负载测试工具 <a href="https://www.reddit.com/r/golang/comments/m4j04y/a_load_testing_tool_with_a_realtime_analyzer/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/m4j04y/a_load_testing_tool_with_a_realtime_analyzer/</a>
+</li>
+<li>我如何在 Go 中构建 Web 前端 <a href="https://philipptanlak.com/web-frontends-in-go/" rel="nofollow" target="_blank">https://philipptanlak.com/web-frontends-in-go/</a>
+</li>
+<li>Go maps 和 switches <a href="https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html" rel="nofollow" target="_blank">https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html</a>
+</li>
+<li>为什么我们不使用 Docker <a href="https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html" rel="nofollow" target="_blank">https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html</a>
+</li>
+<li>Rust vs Go 为什么他们在一起会更好 <a href="https://thenewstack.io/rust-vs-go-why-theyre-better-together/" rel="nofollow" target="_blank">https://thenewstack.io/rust-vs-go-why-theyre-better-together/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-03-13）</p></h3><ol>
 <li>对抗僵尸依赖 <a href="https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8" rel="nofollow" target="_blank">https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8</a>
 </li>
 <li>入门 Go 和 eBPF <a href="https://networkop.co.uk/post/2021-03-ebpf-intro/" rel="nofollow" target="_blank">https://networkop.co.uk/post/2021-03-ebpf-intro/</a>
