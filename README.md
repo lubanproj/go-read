@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-14)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-15)</p></h3><ol>
+<li>让 json 解析更简单高效的 GJSON <a href="https://gocn.vip/topics/11778" rel="nofollow" target="_blank">https://gocn.vip/topics/11778</a>
+</li>
+<li>使用观察者模式来观察本地文件的修改 <a href="https://www.hildeberto.com/2021/03/observer-design-pattern-golang.html" rel="nofollow" target="_blank">https://www.hildeberto.com/2021/03/observer-design-pattern-golang.html</a>
+</li>
+<li>"go build -X" 的妙用 <a href="https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw</a>
+</li>
+<li>Kubernetes 稳定性保障手册（极简版) <a href="https://mp.weixin.qq.com/s/DK1BfzY-Ou-_xB6aGO6yTw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/DK1BfzY-Ou-_xB6aGO6yTw</a>
+</li>
+<li>tiktik: tiktok 终端客户端 <a href="https://github.com/irevenko/tiktik" rel="nofollow" target="_blank">https://github.com/irevenko/tiktik</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-14)</p></h3><ol>
 <li>Go 编写的带有实时分析器的负载测试工具 <a href="https://www.reddit.com/r/golang/comments/m4j04y/a_load_testing_tool_with_a_realtime_analyzer/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/m4j04y/a_load_testing_tool_with_a_realtime_analyzer/</a>
 </li>
 <li>我如何在 Go 中构建 Web 前端 <a href="https://philipptanlak.com/web-frontends-in-go/" rel="nofollow" target="_blank">https://philipptanlak.com/web-frontends-in-go/</a>
