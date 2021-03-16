@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-15)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-16)</p></h3><ol>
+<li>NBIO 第二弹 —— 支持 Non-Blocking HTTP 1.x <a href="https://gocn.vip/topics/11779" rel="nofollow" target="_blank">https://gocn.vip/topics/11779</a>
+</li>
+<li>还在用 crontab? 分布式定时任务了解一下 <a href="https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ</a>
+</li>
+<li>Go 空结构体引发的大型打脸现场 <a href="https://mp.weixin.qq.com/s/lZMZroOhqvDKDCEsaGPfrQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/lZMZroOhqvDKDCEsaGPfrQ</a>
+</li>
+<li>用 Go 看到进程中发生的系统调用 <a href="https://mp.weixin.qq.com/s/b9TlrMU8skpIlpmk5ph-4A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/b9TlrMU8skpIlpmk5ph-4A</a>
+</li>
+<li>如何优雅地关闭 Kubernetes 集群中的 Pod <a href="https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33" rel="nofollow" target="_blank">https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-15)</p></h3><ol>
 <li>让 json 解析更简单高效的 GJSON <a href="https://gocn.vip/topics/11778" rel="nofollow" target="_blank">https://gocn.vip/topics/11778</a>
 </li>
 <li>使用观察者模式来观察本地文件的修改 <a href="https://www.hildeberto.com/2021/03/observer-design-pattern-golang.html" rel="nofollow" target="_blank">https://www.hildeberto.com/2021/03/observer-design-pattern-golang.html</a>
