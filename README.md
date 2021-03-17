@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-16)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-17)</p></h3><ol>
+<li>Go 中新的安全政策提案 <a href="https://github.com/golang/go/issues/44918" rel="nofollow" target="_blank">https://github.com/golang/go/issues/44918</a>
+</li>
+<li>大多数情况下可读性更重要 <a href="https://bitfieldconsulting.com/golang/slower" rel="nofollow" target="_blank">https://bitfieldconsulting.com/golang/slower</a>
+</li>
+<li>Go mod 中版本管理的权衡 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesGoVersionWhy" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesGoVersionWhy</a>
+</li>
+<li>gRPC 长链接实践指南 <a href="https://dev.bitolog.com/grpc-long-lived-streaming/" rel="nofollow" target="_blank">https://dev.bitolog.com/grpc-long-lived-streaming/</a>
+</li>
+<li>硬核论文:自动检测和修复 Go 中的并发错误 <a href="https://songlh.github.io/paper/gcatch.pdf" rel="nofollow" target="_blank">https://songlh.github.io/paper/gcatch.pdf</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-16)</p></h3><ol>
 <li>NBIO 第二弹 —— 支持 Non-Blocking HTTP 1.x <a href="https://gocn.vip/topics/11779" rel="nofollow" target="_blank">https://gocn.vip/topics/11779</a>
 </li>
 <li>还在用 crontab? 分布式定时任务了解一下 <a href="https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ</a>
