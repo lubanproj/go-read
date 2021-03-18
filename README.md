@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-17)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-18)</p></h3><ol>
+<li>Go 中的单元测试 mock 我是如何做的 <a href="https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp" rel="nofollow" target="_blank">https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp</a>
+</li>
+<li>如何测试使用了 time.Now() 的函数 <a href="https://medium.com/go-for-punks/how-to-test-functions-that-use-time-now-ea4f2453d430" rel="nofollow" target="_blank">https://medium.com/go-for-punks/how-to-test-functions-that-use-time-now-ea4f2453d430</a>
+</li>
+<li>GoPath 模式和 GoMoudle 模式的相爱相杀 <a href="https://segmentfault.com/a/1190000039650091" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039650091</a>
+</li>
+<li>在 vscode 中 go 编码发生的问题整理 <a href="https://segmentfault.com/a/1190000039657544" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039657544</a>
+</li>
+<li>一个 Go 编写的高效图片像素化工具 <a href="https://github.com/eleby/pixelizer" rel="nofollow" target="_blank">https://github.com/eleby/pixelizer</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-17)</p></h3><ol>
 <li>Go 中新的安全政策提案 <a href="https://github.com/golang/go/issues/44918" rel="nofollow" target="_blank">https://github.com/golang/go/issues/44918</a>
 </li>
 <li>大多数情况下可读性更重要 <a href="https://bitfieldconsulting.com/golang/slower" rel="nofollow" target="_blank">https://bitfieldconsulting.com/golang/slower</a>
