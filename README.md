@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-18)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-20)</p></h3><ol>
+<li>依赖注入工具代码生成器 wire <a href="https://gocn.vip/topics/11802" rel="nofollow" target="_blank">https://gocn.vip/topics/11802</a>
+</li>
+<li>使用 mux 改变中间件的行为 <a href="https://dev.to/juanpabloaj/changing-the-middleware-behavior-with-mux-1818" rel="nofollow" target="_blank">https://dev.to/juanpabloaj/changing-the-middleware-behavior-with-mux-1818</a>
+</li>
+<li>Golang 变量遮蔽——Shadowing <a href="https://juejin.cn/post/6941284330425548807" rel="nofollow" target="_blank">https://juejin.cn/post/6941284330425548807</a>
+</li>
+<li>我如何在 go 中 mock 单元测试 <a href="https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp" rel="nofollow" target="_blank">https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp</a>
+</li>
+<li>50 个基础面试问题 <a href="https://dev.to/educative/crack-the-top-50-golang-interview-questions-384i" rel="nofollow" target="_blank">https://dev.to/educative/crack-the-top-50-golang-interview-questions-384i</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-18)</p></h3><ol>
 <li>Go 中的单元测试 mock 我是如何做的 <a href="https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp" rel="nofollow" target="_blank">https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp</a>
 </li>
 <li>如何测试使用了 time.Now() 的函数 <a href="https://medium.com/go-for-punks/how-to-test-functions-that-use-time-now-ea4f2453d430" rel="nofollow" target="_blank">https://medium.com/go-for-punks/how-to-test-functions-that-use-time-now-ea4f2453d430</a>
