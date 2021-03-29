@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-20)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-03-29）</p></h3><ol>
+<li>Golang 语言中的非类型安全指针 <a href="https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ</a>
+</li>
+<li>Goroutine 泄漏防治神器 goleak <a href="https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ</a>
+</li>
+<li>Go 实现的联合 GraphQL 网关 <a href="https://movio.co/blog/building-a-new-api-platform-for-movio/" rel="nofollow" target="_blank">https://movio.co/blog/building-a-new-api-platform-for-movio/</a>
+</li>
+<li>我的 Go 最基础总结 <a href="https://towardsdev.com/learning-golang-9297e2eee49a" rel="nofollow" target="_blank">https://towardsdev.com/learning-golang-9297e2eee49a</a>
+</li>
+<li>Go 的黑暗角落 <a href="https://rytisbiel.com/2021/03/06/darker-corners-of-go/" rel="nofollow" target="_blank">https://rytisbiel.com/2021/03/06/darker-corners-of-go/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-20)</p></h3><ol>
 <li>依赖注入工具代码生成器 wire <a href="https://gocn.vip/topics/11802" rel="nofollow" target="_blank">https://gocn.vip/topics/11802</a>
 </li>
 <li>使用 mux 改变中间件的行为 <a href="https://dev.to/juanpabloaj/changing-the-middleware-behavior-with-mux-1818" rel="nofollow" target="_blank">https://dev.to/juanpabloaj/changing-the-middleware-behavior-with-mux-1818</a>
