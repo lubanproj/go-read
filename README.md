@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-03-29）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-03-30）</p></h3><ol>
+<li>内存管理设计精要 <a href="https://mp.weixin.qq.com/s/ytm8UiulueXgFALPjdlGrQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ytm8UiulueXgFALPjdlGrQ</a>
+</li>
+<li>Go 网络包默认值下的陷阱 <a href="https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/" rel="nofollow" target="_blank">https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/</a>
+</li>
+<li>该如何为 Kubernetes 定制特性 <a href="https://mp.weixin.qq.com/s/0XZa2KBubdNtN6sJTonluA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/0XZa2KBubdNtN6sJTonluA</a>
+</li>
+<li>Go 应用优化指北 <a href="https://mp.weixin.qq.com/s/ZTWJjbXfWygUD8Js-fTaBQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ZTWJjbXfWygUD8Js-fTaBQ</a>
+</li>
+<li>Go 中的"优雅"的错误处理 <a href="https://juejin.cn/post/6944996155277672478" rel="nofollow" target="_blank">https://juejin.cn/post/6944996155277672478</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-03-29）</p></h3><ol>
 <li>Golang 语言中的非类型安全指针 <a href="https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ</a>
 </li>
 <li>Goroutine 泄漏防治神器 goleak <a href="https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ</a>
