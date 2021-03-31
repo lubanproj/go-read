@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-03-30）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-03-31)</p></h3><ol>
+<li>Go 如何知道 time.Now 的时间 <a href="https://tpaschalis.github.io/golang-time-now/" rel="nofollow" target="_blank">https://tpaschalis.github.io/golang-time-now/</a>
+</li>
+<li>构建一个超简约的 Docker 镜像运行 Golang App <a href="https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0" rel="nofollow" target="_blank">https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0</a>
+</li>
+<li>Go 中集合的高阶函数 <a href="https://sergio-franco.me/posts/higher-order-collections/" rel="nofollow" target="_blank">https://sergio-franco.me/posts/higher-order-collections/</a>
+</li>
+<li>go 实现的 url 短链接服务 <a href="https://github.com/adhocore/urlsh" rel="nofollow" target="_blank">https://github.com/adhocore/urlsh</a>
+</li>
+<li>go 实现的构建虚拟网络工具 <a href="https://github.com/gravitl/netmaker" rel="nofollow" target="_blank">https://github.com/gravitl/netmaker</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-03-30）</p></h3><ol>
 <li>内存管理设计精要 <a href="https://mp.weixin.qq.com/s/ytm8UiulueXgFALPjdlGrQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ytm8UiulueXgFALPjdlGrQ</a>
 </li>
 <li>Go 网络包默认值下的陷阱 <a href="https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/" rel="nofollow" target="_blank">https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/</a>
