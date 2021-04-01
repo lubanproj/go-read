@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-03-31)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-01)</p></h3><ol>
+<li>Go 语言中常见的几种反模式 [译] <a href="https://gocn.vip/topics/11857" rel="nofollow" target="_blank">https://gocn.vip/topics/11857</a>
+</li>
+<li>最好的 Go IDE 和工具 <a href="https://www.mindinventory.com/blog/golang-ide-tools-for-go-development/" rel="nofollow" target="_blank">https://www.mindinventory.com/blog/golang-ide-tools-for-go-development/</a>
+</li>
+<li>如何编译调试 Go runtime 源码 <a href="https://www.luozhiyun.com/archives/506" rel="nofollow" target="_blank">https://www.luozhiyun.com/archives/506</a>
+</li>
+<li>使用 VScode 调试 Kubernetes 中的 Go 微服务 <a href="https://blog.getambassador.io/debugging-go-microservices-in-kubernetes-with-vscode-a36beb48ef1" rel="nofollow" target="_blank">https://blog.getambassador.io/debugging-go-microservices-in-kubernetes-with-vscode-a36beb48ef1</a>
+</li>
+<li>simgo: Go 离散事件仿真库 <a href="https://github.com/fschuetz04/simgo" rel="nofollow" target="_blank">https://github.com/fschuetz04/simgo</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-03-31)</p></h3><ol>
 <li>Go 如何知道 time.Now 的时间 <a href="https://tpaschalis.github.io/golang-time-now/" rel="nofollow" target="_blank">https://tpaschalis.github.io/golang-time-now/</a>
 </li>
 <li>构建一个超简约的 Docker 镜像运行 Golang App <a href="https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0" rel="nofollow" target="_blank">https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0</a>
