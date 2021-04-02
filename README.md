@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-01)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-02)</p></h3><ol>
+<li>Golang 语言的编程技巧之类型 <a href="https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw</a>
+</li>
+<li>context 使用不当引发的一个 bug <a href="https://mp.weixin.qq.com/s/FkgPzlwJtVUvCL_O7M-_jw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/FkgPzlwJtVUvCL_O7M-_jw</a>
+</li>
+<li>Go 函数闭包底层实现 <a href="https://mp.weixin.qq.com/s/w5aq4PuLG1tT57nRzuzaFw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/w5aq4PuLG1tT57nRzuzaFw</a>
+</li>
+<li>go 中 semaphore 源码解读 <a href="https://boilingfrog.github.io/2021/04/02/semaphore/" rel="nofollow" target="_blank">https://boilingfrog.github.io/2021/04/02/semaphore/</a>
+</li>
+<li>你能用 Go 写段代码判断当前系统的存储方式吗？ <a href="https://mp.weixin.qq.com/s/ffEsTpO-tyNZFR5navAbdA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ffEsTpO-tyNZFR5navAbdA</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-01)</p></h3><ol>
 <li>Go 语言中常见的几种反模式 [译] <a href="https://gocn.vip/topics/11857" rel="nofollow" target="_blank">https://gocn.vip/topics/11857</a>
 </li>
 <li>最好的 Go IDE 和工具 <a href="https://www.mindinventory.com/blog/golang-ide-tools-for-go-development/" rel="nofollow" target="_blank">https://www.mindinventory.com/blog/golang-ide-tools-for-go-development/</a>
