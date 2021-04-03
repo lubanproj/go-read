@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-03)</p></h3><ol>
+<li>Go map vs switch <a href="https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html" rel="nofollow" target="_blank">https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html</a>
+</li>
+<li>Go nil 类型的理论与实践 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf</a>
+</li>
+<li>Go http handler 的小细节 <a href="https://vladimir.varank.in/notes/2021/03/little-things-of-go-http-handlers/" rel="nofollow" target="_blank">https://vladimir.varank.in/notes/2021/03/little-things-of-go-http-handlers/</a>
+</li>
+<li>一个 Go module 的生命流程 <a href="https://jayconrod.com/posts/118/life-of-a-go-module" rel="nofollow" target="_blank">https://jayconrod.com/posts/118/life-of-a-go-module</a>
+</li>
+<li>Go 自动测试实践 <a href="https://dev.to/salesforceeng/intro-to-automated-testing-in-go-4mjl" rel="nofollow" target="_blank">https://dev.to/salesforceeng/intro-to-automated-testing-in-go-4mjl</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-02)</p></h3><ol>
 <li>Golang 语言的编程技巧之类型 <a href="https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw</a>
 </li>
 <li>context 使用不当引发的一个 bug <a href="https://mp.weixin.qq.com/s/FkgPzlwJtVUvCL_O7M-_jw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/FkgPzlwJtVUvCL_O7M-_jw</a>
