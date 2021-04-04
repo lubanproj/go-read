@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-04)</p></h3><ol>
+<li>针对前端开发者的 Go 入门指南 <a href="https://medium.com/star-gazers/golang-for-frontend-developers-beginner-guide-to-golang-87aa036b932f" rel="nofollow" target="_blank">https://medium.com/star-gazers/golang-for-frontend-developers-beginner-guide-to-golang-87aa036b932f</a>
+</li>
+<li>系统受控 - 如何自动化集成测试 <a href="https://medium.com/bumble-tech/system-under-control-how-to-automate-integration-tests-52383be28d07" rel="nofollow" target="_blank">https://medium.com/bumble-tech/system-under-control-how-to-automate-integration-tests-52383be28d07</a>
+</li>
+<li>Go 与 RabbitMQ 集成示例 <a href="https://dev.to/koddr/working-with-rabbitmq-in-golang-by-examples-2dcn" rel="nofollow" target="_blank">https://dev.to/koddr/working-with-rabbitmq-in-golang-by-examples-2dcn</a>
+</li>
+<li>成为更好的 Gopher 值得收藏的一些书签 <a href="https://dev.to/rubenwap/must-bookmarks-to-become-good-in-go-ln8" rel="nofollow" target="_blank">https://dev.to/rubenwap/must-bookmarks-to-become-good-in-go-ln8</a>
+</li>
+<li>Go 包依赖分析工具 <a href="https://github.com/adonovan/spaghetti" rel="nofollow" target="_blank">https://github.com/adonovan/spaghetti</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-03)</p></h3><ol>
 <li>Go map vs switch <a href="https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html" rel="nofollow" target="_blank">https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html</a>
 </li>
 <li>Go nil 类型的理论与实践 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf</a>
