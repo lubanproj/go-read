@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-04)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-17)</p></h3><ol>
+<li>Golang 实现的 iOS 设备通信工具 <a href="https://github.com/electricbubble/gidevice" rel="nofollow" target="_blank">https://github.com/electricbubble/gidevice</a>
+</li>
+<li>在 Go 共享对象下的 python 更快 <a href="https://blog.kchung.co/faster-python-with-go-shared-objects/" rel="nofollow" target="_blank">https://blog.kchung.co/faster-python-with-go-shared-objects/</a>
+</li>
+<li>什么是 “同步条件” <a href="https://dtyler.io/articles/2021/04/13/sync_cond/" rel="nofollow" target="_blank">https://dtyler.io/articles/2021/04/13/sync_cond/</a>
+</li>
+<li>Encore 用于构建分布式系统的 Go 框架 <a href="https://github.com/encoredev/encore" rel="nofollow" target="_blank">https://github.com/encoredev/encore</a>
+</li>
+<li>Go 中的 URL 解码 <a href="https://gosamples.dev/url-decode/" rel="nofollow" target="_blank">https://gosamples.dev/url-decode/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-04)</p></h3><ol>
 <li>针对前端开发者的 Go 入门指南 <a href="https://medium.com/star-gazers/golang-for-frontend-developers-beginner-guide-to-golang-87aa036b932f" rel="nofollow" target="_blank">https://medium.com/star-gazers/golang-for-frontend-developers-beginner-guide-to-golang-87aa036b932f</a>
 </li>
 <li>系统受控 - 如何自动化集成测试 <a href="https://medium.com/bumble-tech/system-under-control-how-to-automate-integration-tests-52383be28d07" rel="nofollow" target="_blank">https://medium.com/bumble-tech/system-under-control-how-to-automate-integration-tests-52383be28d07</a>
