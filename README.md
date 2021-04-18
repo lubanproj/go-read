@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-17)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-18)</p></h3><ol>
+<li>Go 测试的考验与困难 <a href="https://changelog.com/gotime/174" rel="nofollow" target="_blank">https://changelog.com/gotime/174</a>
+</li>
+<li>教你自定义 Go 代码静态分析工具 <a href="https://developer20.com/custom-go-linter/" rel="nofollow" target="_blank">https://developer20.com/custom-go-linter/</a>
+</li>
+<li>Go 简洁架构示例 <a href="https://github.com/bxcodec/go-clean-arch" rel="nofollow" target="_blank">https://github.com/bxcodec/go-clean-arch</a>
+</li>
+<li>支持多种协议的转发代理工具 glider <a href="https://github.com/nadoo/glider" rel="nofollow" target="_blank">https://github.com/nadoo/glider</a>
+</li>
+<li>Go 设计模式之策略模式 <a href="https://triumph-job.medium.com/strategy-design-pattern-in-golang-722e1b145c5f" rel="nofollow" target="_blank">https://triumph-job.medium.com/strategy-design-pattern-in-golang-722e1b145c5f</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-17)</p></h3><ol>
 <li>Golang 实现的 iOS 设备通信工具 <a href="https://github.com/electricbubble/gidevice" rel="nofollow" target="_blank">https://github.com/electricbubble/gidevice</a>
 </li>
 <li>在 Go 共享对象下的 python 更快 <a href="https://blog.kchung.co/faster-python-with-go-shared-objects/" rel="nofollow" target="_blank">https://blog.kchung.co/faster-python-with-go-shared-objects/</a>
