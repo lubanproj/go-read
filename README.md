@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-18)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-20)</p></h3><ol>
+<li>TiDB 深度解读 Chaos Mesh <a href="https://gocn.vip/topics/11945" rel="nofollow" target="_blank">https://gocn.vip/topics/11945</a>
+</li>
+<li>Go 语言控制 CPU 占用率呈正弦曲线 <a href="https://juejin.cn/post/6953034008351473678" rel="nofollow" target="_blank">https://juejin.cn/post/6953034008351473678</a>
+</li>
+<li>如何在 Go 中优雅使用 packages <a href="https://jonathanseow.medium.com/working-with-packages-in-golang-5f247f49090f" rel="nofollow" target="_blank">https://jonathanseow.medium.com/working-with-packages-in-golang-5f247f49090f</a>
+</li>
+<li>理解 NSQ consumer <a href="https://eriyantovetanusi.medium.com/nsq-consumer-101-b815267b5fec" rel="nofollow" target="_blank">https://eriyantovetanusi.medium.com/nsq-consumer-101-b815267b5fec</a>
+</li>
+<li>Triangula: 基于遗传算法的低多边形效果工具 <a href="https://github.com/RH12503/Triangula" rel="nofollow" target="_blank">https://github.com/RH12503/Triangula</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-18)</p></h3><ol>
 <li>Go 测试的考验与困难 <a href="https://changelog.com/gotime/174" rel="nofollow" target="_blank">https://changelog.com/gotime/174</a>
 </li>
 <li>教你自定义 Go 代码静态分析工具 <a href="https://developer20.com/custom-go-linter/" rel="nofollow" target="_blank">https://developer20.com/custom-go-linter/</a>
