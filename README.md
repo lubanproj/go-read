@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-20)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-21)</p></h3><ol>
+<li>如何在 Go 中构建可配置的责任链 <a href="https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2" rel="nofollow" target="_blank">https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2</a>
+</li>
+<li>i/o timeout ， 希望你不要踩到这个 net/http 包的坑 <a href="https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q</a>
+</li>
+<li>嗯，你觉得 Go 在什么时候会抢占 P？ <a href="https://mp.weixin.qq.com/s/WAPogwLJ2BZvrquoKTQXzg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/WAPogwLJ2BZvrquoKTQXzg</a>
+</li>
+<li>9 款最佳开源网络监控工具 <a href="https://www.metricfire.com/blog/9-best-open-source-network-monitoring-tools" rel="nofollow" target="_blank">https://www.metricfire.com/blog/9-best-open-source-network-monitoring-tools</a>
+</li>
+<li>简单的边缘代理服务器 <a href="https://github.com/umputun/reproxy" rel="nofollow" target="_blank">https://github.com/umputun/reproxy</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-20)</p></h3><ol>
 <li>TiDB 深度解读 Chaos Mesh <a href="https://gocn.vip/topics/11945" rel="nofollow" target="_blank">https://gocn.vip/topics/11945</a>
 </li>
 <li>Go 语言控制 CPU 占用率呈正弦曲线 <a href="https://juejin.cn/post/6953034008351473678" rel="nofollow" target="_blank">https://juejin.cn/post/6953034008351473678</a>
