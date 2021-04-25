@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-21)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-04-25)</p></h3><ol>
+<li>rpcx 支持 websocket 协议了! <a href="https://colobu.com/2021/04/11/support-websocket-in-rpcx/" rel="nofollow" target="_blank">https://colobu.com/2021/04/11/support-websocket-in-rpcx/</a>
+</li>
+<li>Go 1.17 将允许将切片转换成数组指针 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoConvertSliceToArray" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoConvertSliceToArray</a>
+</li>
+<li>interface 的类型断言是如何实现 <a href="https://segmentfault.com/a/119000003989416" rel="nofollow" target="_blank">https://segmentfault.com/a/119000003989416</a>
+</li>
+<li>有趣的面试题：Go 语言中 nil 的比较结果 <a href="https://segmentfault.com/a/1190000039894167" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000039894167</a>
+</li>
+<li>Uber 基于 GPU 的开源实时分析引擎 aresdb <a href="https://github.com/uber/aresdb" rel="nofollow" target="_blank">https://github.com/uber/aresdb</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-21)</p></h3><ol>
 <li>如何在 Go 中构建可配置的责任链 <a href="https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2" rel="nofollow" target="_blank">https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2</a>
 </li>
 <li>i/o timeout ， 希望你不要踩到这个 net/http 包的坑 <a href="https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q</a>
