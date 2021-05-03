@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-04-25)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-05-03）</p></h3><ol>
+<li>Go 与 WebAssembly <a href="https://www.bradcypert.com/an-introduction-to-targeting-web-assembly-with-golang/" rel="nofollow" target="_blank">https://www.bradcypert.com/an-introduction-to-targeting-web-assembly-with-golang/</a>
+</li>
+<li>配置 VSCode 和 Docker 开发调试 Go <a href="https://dev.to/andreidascalu/setup-go-with-vscode-in-docker-for-debugging-24ch" rel="nofollow" target="_blank">https://dev.to/andreidascalu/setup-go-with-vscode-in-docker-for-debugging-24ch</a>
+</li>
+<li>Proposal: Go 漏洞数据库 <a href="https://go.googlesource.com/proposal/+/master/design/draft-vulndb.md" rel="nofollow" target="_blank">https://go.googlesource.com/proposal/+/master/design/draft-vulndb.md</a>
+</li>
+<li>Go Modules 速查表 <a href="https://encore.dev/guide/go.mod" rel="nofollow" target="_blank">https://encore.dev/guide/go.mod</a>
+</li>
+<li>使用 knative 部署 serverless 服务 <a href="https://aymen-segni.com/index.php/2020/07/22/deploying-your-serverless-services-on-kubernetes-using-knative/" rel="nofollow" target="_blank">https://aymen-segni.com/index.php/2020/07/22/deploying-your-serverless-services-on-kubernetes-using-knative/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-04-25)</p></h3><ol>
 <li>rpcx 支持 websocket 协议了! <a href="https://colobu.com/2021/04/11/support-websocket-in-rpcx/" rel="nofollow" target="_blank">https://colobu.com/2021/04/11/support-websocket-in-rpcx/</a>
 </li>
 <li>Go 1.17 将允许将切片转换成数组指针 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoConvertSliceToArray" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoConvertSliceToArray</a>
