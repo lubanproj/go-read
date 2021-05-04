@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-05-03）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-05-04）</p></h3><ol>
+<li>pprof 的原理与实现 <a href="https://mp.weixin.qq.com/s/to1g7mk8JuFapDbnqhsFPw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/to1g7mk8JuFapDbnqhsFPw</a>
+</li>
+<li>深入 Go 语言 defer 实现原理 <a href="https://www.luozhiyun.com/archives/523" rel="nofollow" target="_blank">https://www.luozhiyun.com/archives/523</a>
+</li>
+<li>新细节，Go 1.17 将允许切片转换为数组指针 <a href="https://mp.weixin.qq.com/s/v1czjzlUsaSQTpAOG9Ub3w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/v1czjzlUsaSQTpAOG9Ub3w</a>
+</li>
+<li>Promtail Pipeline 日志处理配置 <a href="https://mp.weixin.qq.com/s/PPNa7CYk6aaYDcvH9eTw1w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/PPNa7CYk6aaYDcvH9eTw1w</a>
+</li>
+<li>文章转视频 text-to-video <a href="https://github.com/leoython/text-to-video" rel="nofollow" target="_blank">https://github.com/leoython/text-to-video</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-05-03）</p></h3><ol>
 <li>Go 与 WebAssembly <a href="https://www.bradcypert.com/an-introduction-to-targeting-web-assembly-with-golang/" rel="nofollow" target="_blank">https://www.bradcypert.com/an-introduction-to-targeting-web-assembly-with-golang/</a>
 </li>
 <li>配置 VSCode 和 Docker 开发调试 Go <a href="https://dev.to/andreidascalu/setup-go-with-vscode-in-docker-for-debugging-24ch" rel="nofollow" target="_blank">https://dev.to/andreidascalu/setup-go-with-vscode-in-docker-for-debugging-24ch</a>
