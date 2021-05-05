@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-05-04）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-05-05)</p></h3><ol>
+<li>Golang 中的错误处理 <a href="https://gabrieltanner.org/blog/golang-error-handling-definitive-guide" rel="nofollow" target="_blank">https://gabrieltanner.org/blog/golang-error-handling-definitive-guide</a>
+</li>
+<li>Go 实现的测试覆盖率分析工具 <a href="https://github.com/kjellkvinge/gocover" rel="nofollow" target="_blank">https://github.com/kjellkvinge/gocover</a>
+</li>
+<li>用于构建现代 API 的 golang 框架 <a href="https://github.com/gocondor/gocondor" rel="nofollow" target="_blank">https://github.com/gocondor/gocondor</a>
+</li>
+<li>Go 中实现的构建 pipelines 工具 <a href="https://github.com/goyek/goyek" rel="nofollow" target="_blank">https://github.com/goyek/goyek</a>
+</li>
+<li>使用 React 和 Go 实现无限滚动 <a href="https://dev.to/josh2604/scroll-infinito-con-react-js-y-go-3112" rel="nofollow" target="_blank">https://dev.to/josh2604/scroll-infinito-con-react-js-y-go-3112</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-05-04）</p></h3><ol>
 <li>pprof 的原理与实现 <a href="https://mp.weixin.qq.com/s/to1g7mk8JuFapDbnqhsFPw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/to1g7mk8JuFapDbnqhsFPw</a>
 </li>
 <li>深入 Go 语言 defer 实现原理 <a href="https://www.luozhiyun.com/archives/523" rel="nofollow" target="_blank">https://www.luozhiyun.com/archives/523</a>
