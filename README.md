@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-05-05)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-05-08)</p></h3><ol>
+<li>Go 枚举最佳实践 <a href="https://marcofranssen.nl/how-to-do-enums-in-go" rel="nofollow" target="_blank">https://marcofranssen.nl/how-to-do-enums-in-go</a>
+</li>
+<li>如何使用 Proto.Cluster 做高可用 <a href="https://proto.actor/docs/cluster/intro/clusterintro/" rel="nofollow" target="_blank">https://proto.actor/docs/cluster/intro/clusterintro/</a>
+</li>
+<li>在 Go 中实现声明式校验 <a href="https://hackernoon.com/golang-declarative-validation-made-similar-to-ruby-on-rails-1d2z34c0" rel="nofollow" target="_blank">https://hackernoon.com/golang-declarative-validation-made-similar-to-ruby-on-rails-1d2z34c0</a>
+</li>
+<li>Go 中的无分支编码 <a href="https://mattnakama.com/blog/go-branchless-coding/" rel="nofollow" target="_blank">https://mattnakama.com/blog/go-branchless-coding/</a>
+</li>
+<li>不要 mock 数据库连接 <a href="https://qvault.io/clean-code/writing-good-unit-tests-dont-mock-database-connections/" rel="nofollow" target="_blank">https://qvault.io/clean-code/writing-good-unit-tests-dont-mock-database-connections/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-05-05)</p></h3><ol>
 <li>Golang 中的错误处理 <a href="https://gabrieltanner.org/blog/golang-error-handling-definitive-guide" rel="nofollow" target="_blank">https://gabrieltanner.org/blog/golang-error-handling-definitive-guide</a>
 </li>
 <li>Go 实现的测试覆盖率分析工具 <a href="https://github.com/kjellkvinge/gocover" rel="nofollow" target="_blank">https://github.com/kjellkvinge/gocover</a>
