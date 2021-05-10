@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-05-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-05-10)</p></h3><ol>
+<li>利用 NATS JetStream 构建分布式事件流系统 <a href="https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13" rel="nofollow" target="_blank">https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13</a>
+</li>
+<li>100 行 Golang 代码构建一个简单的终端仿真器 <a href="https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go" rel="nofollow" target="_blank">https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go</a>
+</li>
+<li>编写简单的 CLI 程序：Python vs Go <a href="https://dev.to/jidicula/writing-a-simple-cli-program-python-vs-go-59kf" rel="nofollow" target="_blank">https://dev.to/jidicula/writing-a-simple-cli-program-python-vs-go-59kf</a>
+</li>
+<li>如何使用 Go，Maroto 和 GoFakeIt 创建 PDF <a href="https://dev.to/divrhino/creating-a-pdf-with-go-maroto-gofakeit-3c7m" rel="nofollow" target="_blank">https://dev.to/divrhino/creating-a-pdf-with-go-maroto-gofakeit-3c7m</a>
+</li>
+<li>一个用 Go 编写的类似 cowsay 的开源程序 weebsay <a href="https://github.com/irevenko/weebsay" rel="nofollow" target="_blank">https://github.com/irevenko/weebsay</a><br>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-05-08)</p></h3><ol>
 <li>Go 枚举最佳实践 <a href="https://marcofranssen.nl/how-to-do-enums-in-go" rel="nofollow" target="_blank">https://marcofranssen.nl/how-to-do-enums-in-go</a>
 </li>
 <li>如何使用 Proto.Cluster 做高可用 <a href="https://proto.actor/docs/cluster/intro/clusterintro/" rel="nofollow" target="_blank">https://proto.actor/docs/cluster/intro/clusterintro/</a>
