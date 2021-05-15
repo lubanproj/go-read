@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-05-13)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-05-15)</p></h3><ol>
+<li>golang 并发底层实现竟然都是它！！！ <a href="https://mp.weixin.qq.com/s/7BeLEzqmA1IR-rjVig0Qbw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/7BeLEzqmA1IR-rjVig0Qbw</a>
+</li>
+<li>golang 编写的 GBA 模拟器 <a href="https://github.com/pokemium/magia" rel="nofollow" target="_blank">https://github.com/pokemium/magia</a>
+</li>
+<li>漫谈 Go 语言编译器（01）<a href="https://mp.weixin.qq.com/s/0q0k8gGX56SBKJvfMquQkQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/0q0k8gGX56SBKJvfMquQkQ</a>
+</li>
+<li>semaphore 的原理与实现 <a href="https://mp.weixin.qq.com/s/GB649snXQ5rDF2BXO9V55Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/GB649snXQ5rDF2BXO9V55Q</a>
+</li>
+<li>pprof++：具有硬件性能监控的 Go 探查器 <a href="https://eng.uber.com/pprof-go-profiler" rel="nofollow" target="_blank">https://eng.uber.com/pprof-go-profiler</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-05-13)</p></h3><ol>
 <li>译文 Go 的抢占式调度 <a href="https://gocn.vip/topics/12062" rel="nofollow" target="_blank">https://gocn.vip/topics/12062</a>
 </li>
 <li>深度解密 Go 语言之基于信号的抢占式调度 <a href="https://mp.weixin.qq.com/s/ESfbVoCGUIdpwFOfGyvz1w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/ESfbVoCGUIdpwFOfGyvz1w</a>
