@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-05-21)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-05-22)</p></h3><ol>
+<li>利用 eBPF 支撑大规模 Kubernetes Service <a href="https://mp.weixin.qq.com/s/BJHzU4LxLdLnNzOnAqIptg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/BJHzU4LxLdLnNzOnAqIptg</a>
+</li>
+<li>Golang 中的适配器设计模式 <a href="https://www.smartscribs.com/adapter-design-pattern-in-golang/" rel="nofollow" target="_blank">https://www.smartscribs.com/adapter-design-pattern-in-golang/</a>
+</li>
+<li>【深度】阿里巴巴万级规模 K8s 集群全局高可用体系之美 <a href="https://gocn.vip/topics/12079" rel="nofollow" target="_blank">https://gocn.vip/topics/12079</a>
+</li>
+<li>假如 Go 能说话，听听 GMP 的心声 <a href="https://mp.weixin.qq.com/s/Tgf-JU9YDume4jRHex65NA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Tgf-JU9YDume4jRHex65NA</a>
+</li>
+<li>小函数的调用开销需要考虑吗? <a href="https://mp.weixin.qq.com/s/nW0Cye1G_A72fm7MuBAM1A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/nW0Cye1G_A72fm7MuBAM1A</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-05-21)</p></h3><ol>
 <li>golang 中的 AES 加密解密<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/Q2jsrhDS-JA" allowfullscreen></iframe></span>
 </li>
 <li>Go 中实现的加密货币机器人 <a href="https://github.com/rodrigo-brito/ninjabot" rel="nofollow" target="_blank">https://github.com/rodrigo-brito/ninjabot</a>
