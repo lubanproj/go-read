@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-05-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-05-24)</p></h3><ol>
+<li>懂得取舍才是缓存设计的真谛 <a href="https://my.oschina.net/kevwan/blog/5056791" rel="nofollow" target="_blank">https://my.oschina.net/kevwan/blog/5056791</a>
+</li>
+<li>immudb v1.0 released <a href="https://www.codenotary.com/blog/immudb-release-1-0/" rel="nofollow" target="_blank">https://www.codenotary.com/blog/immudb-release-1-0/</a>
+</li>
+<li>你知道 Goroutine 是怎么来的吗？ <a href="https://mp.weixin.qq.com/s/DZavvanPnRwZMPU-5_wOeg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/DZavvanPnRwZMPU-5_wOeg</a>
+</li>
+<li>分布式链路跟踪中的 traceid 和 spanid 代表什么？ <a href="https://mp.weixin.qq.com/s/eKbFYwnH4vwgWm6_5sWs3w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/eKbFYwnH4vwgWm6_5sWs3w</a>
+</li>
+<li>Dart Flutter 数据库 ObjectBox 1.0 版本 <a href="https://objectbox.io/dart-flutter-database-1_0-release/" rel="nofollow" target="_blank">https://objectbox.io/dart-flutter-database-1_0-release/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-05-22)</p></h3><ol>
 <li>利用 eBPF 支撑大规模 Kubernetes Service <a href="https://mp.weixin.qq.com/s/BJHzU4LxLdLnNzOnAqIptg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/BJHzU4LxLdLnNzOnAqIptg</a>
 </li>
 <li>Golang 中的适配器设计模式 <a href="https://www.smartscribs.com/adapter-design-pattern-in-golang/" rel="nofollow" target="_blank">https://www.smartscribs.com/adapter-design-pattern-in-golang/</a>
