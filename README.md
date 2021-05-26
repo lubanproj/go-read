@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-05-24)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-05-26)</p></h3><ol>
+<li>如何运行并行功能测试 <a href="https://medium.com/fiverr-engineering/running-parallel-functional-tests-2f6609bfbf4e" rel="nofollow" target="_blank">https://medium.com/fiverr-engineering/running-parallel-functional-tests-2f6609bfbf4e</a>
+</li>
+<li>Go 中一些不曾注意的点 <a href="https://arash-cordi.medium.com/dark-corners-of-go-4e29aafcd4b9" rel="nofollow" target="_blank">https://arash-cordi.medium.com/dark-corners-of-go-4e29aafcd4b9</a>
+</li>
+<li>如何像专家一样编写 Golang 基准测试 <a href="https://hackernoon.com/how-to-write-benchmarks-in-golang-like-an-expert-0w1834gs" rel="nofollow" target="_blank">https://hackernoon.com/how-to-write-benchmarks-in-golang-like-an-expert-0w1834gs</a>
+</li>
+<li>详解 Go 空结构体的 3 种使用场景 <a href="https://mp.weixin.qq.com/s/zbYIdB0HlYwYSQRXFFpqSg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/zbYIdB0HlYwYSQRXFFpqSg</a>
+</li>
+<li>Promtheus rules lint 工具 <a href="https://github.com/cloudflare/pint" rel="nofollow" target="_blank">https://github.com/cloudflare/pint</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-05-24)</p></h3><ol>
 <li>懂得取舍才是缓存设计的真谛 <a href="https://my.oschina.net/kevwan/blog/5056791" rel="nofollow" target="_blank">https://my.oschina.net/kevwan/blog/5056791</a>
 </li>
 <li>immudb v1.0 released <a href="https://www.codenotary.com/blog/immudb-release-1-0/" rel="nofollow" target="_blank">https://www.codenotary.com/blog/immudb-release-1-0/</a>
