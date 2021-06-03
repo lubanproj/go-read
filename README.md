@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-05-26)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-03)</p></h3><ol>
+<li>基于 cdp 协议开发的浏览器自动化工具 rod  <a href="https://go-rod.github.io/i18n/zh-CN/#/get-started/README" rel="nofollow" target="_blank">https://go-rod.github.io/i18n/zh-CN/#/get-started/README</a>
+</li>
+<li>Go 重构和转换工具  <a href="https://github.com/uber-go/gopatch#gopatch" rel="nofollow" target="_blank">https://github.com/uber-go/gopatch#gopatch</a>
+3.开发小应用的 jetbrains 插件 tinygo   <a href="https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/" rel="nofollow" target="_blank">https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/</a>
+</li>
+<li>使用 httputil 反向代理工具将 grpc rest &amp; html 绑定到一个端口上  <a href="https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7" rel="nofollow" target="_blank">https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7</a>
+</li>
+<li>Pre-commit-golang 支持 revive 了 <a href="https://github.com/TekWizely/pre-commit-golang/releases/tag/v0.8.3" rel="nofollow" target="_blank">https://github.com/TekWizely/pre-commit-golang/releases/tag/v0.8.3</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-05-26)</p></h3><ol>
 <li>如何运行并行功能测试 <a href="https://medium.com/fiverr-engineering/running-parallel-functional-tests-2f6609bfbf4e" rel="nofollow" target="_blank">https://medium.com/fiverr-engineering/running-parallel-functional-tests-2f6609bfbf4e</a>
 </li>
 <li>Go 中一些不曾注意的点 <a href="https://arash-cordi.medium.com/dark-corners-of-go-4e29aafcd4b9" rel="nofollow" target="_blank">https://arash-cordi.medium.com/dark-corners-of-go-4e29aafcd4b9</a>
