@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-03)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-06-06）</p></h3><ol>
+<li>详解 Go 团队不建议用的 unsafe.Pointer <a href="https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA</a>
+</li>
+<li>新 Goland 插件支持 TinyGo <a href="https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/" rel="nofollow" target="_blank">https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/</a>
+</li>
+<li>使用 go-i18n 实现国际化 <a href="https://lokalise.com/blog/go-internationalization-using-go-i18n/" rel="nofollow" target="_blank">https://lokalise.com/blog/go-internationalization-using-go-i18n/</a>
+</li>
+<li>awesome-go-orms <a href="https://github.com/d-tsuji/awesome-go-orms" rel="nofollow" target="_blank">https://github.com/d-tsuji/awesome-go-orms</a>
+</li>
+<li>Go 实现终端 slide 展示工具 <a href="https://github.com/maaslalani/slides" rel="nofollow" target="_blank">https://github.com/maaslalani/slides</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-03)</p></h3><ol>
 <li>基于 cdp 协议开发的浏览器自动化工具 rod  <a href="https://go-rod.github.io/i18n/zh-CN/#/get-started/README" rel="nofollow" target="_blank">https://go-rod.github.io/i18n/zh-CN/#/get-started/README</a>
 </li>
 <li>Go 重构和转换工具  <a href="https://github.com/uber-go/gopatch#gopatch" rel="nofollow" target="_blank">https://github.com/uber-go/gopatch#gopatch</a>
