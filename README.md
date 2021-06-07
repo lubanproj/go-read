@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-06-06）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-06-07）</p></h3><ol>
+<li>Code Review 引发的 Golang Memory Model 深入思考 <a href="https://juejin.cn/post/6970513766509182984" rel="nofollow" target="_blank">https://juejin.cn/post/6970513766509182984</a>
+</li>
+<li>Go 高性能系列教程之一：基准测试 <a href="https://gocn.vip/topics/12126" rel="nofollow" target="_blank">https://gocn.vip/topics/12126</a>
+</li>
+<li>监控是手段，而不是目的  <a href="https://www.robustperception.io/monitoring-is-a-means-not-an-end" rel="nofollow" target="_blank">https://www.robustperception.io/monitoring-is-a-means-not-an-end</a>
+</li>
+<li>Calico 路由反射模式权威指南 <a href="https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2ALff09g" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2ALff09g</a>
+</li>
+<li>从栈上理解 Go 语言函数调用 <a href="https://www.cnblogs.com/luozhiyun/p/14844710.html" rel="nofollow" target="_blank">https://www.cnblogs.com/luozhiyun/p/14844710.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-06-06）</p></h3><ol>
 <li>详解 Go 团队不建议用的 unsafe.Pointer <a href="https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA</a>
 </li>
 <li>新 Goland 插件支持 TinyGo <a href="https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/" rel="nofollow" target="_blank">https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/</a>
