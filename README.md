@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-06-07）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-08)</p></h3><ol>
+<li>在 Golang 中创建自定义应用程序 logger <a href="https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5" rel="nofollow" target="_blank">https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5</a>
+</li>
+<li>在 Go 1.16+ 中构建 GUI 桌面应用程序 <a href="https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go" rel="nofollow" target="_blank">https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go</a>
+</li>
+<li>Go 实现为以太坊智能合约创建绑定 <a href="https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/" rel="nofollow" target="_blank">https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/</a>
+</li>
+<li>Go 中简单、可定制、分级且高效的日志记录 <a href="https://github.com/ermanimer/log" rel="nofollow" target="_blank">https://github.com/ermanimer/log</a>
+</li>
+<li>Go 实现的发送原始 HTTP 请求的基准测试和压力测试工具 <a href="https://github.com/utkusen/reqstress" rel="nofollow" target="_blank">https://github.com/utkusen/reqstress</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-06-07）</p></h3><ol>
 <li>Code Review 引发的 Golang Memory Model 深入思考 <a href="https://juejin.cn/post/6970513766509182984" rel="nofollow" target="_blank">https://juejin.cn/post/6970513766509182984</a>
 </li>
 <li>Go 高性能系列教程之一：基准测试 <a href="https://gocn.vip/topics/12126" rel="nofollow" target="_blank">https://gocn.vip/topics/12126</a>
