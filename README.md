@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-10)</p></h3><ol>
+<li>Go Runtime 的调度器 <a href="https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg</a>
+</li>
+<li>一文讲懂服务的优雅重启和更新 <a href="https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w</a>
+</li>
+<li>你不知道的 Go 之 pprof <a href="https://mp.weixin.qq.com/s/pSD2k1uNH9WFZumw24I4uQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pSD2k1uNH9WFZumw24I4uQ</a>
+</li>
+<li>源码剖析 Go 语言的 timer <a href="https://mp.weixin.qq.com/s/GwY6650MNF07MOb79-A-jQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/GwY6650MNF07MOb79-A-jQ</a>
+</li>
+<li>一文教你搞懂 Go 中栈操作 <a href="https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-08)</p></h3><ol>
 <li>在 Golang 中创建自定义应用程序 logger <a href="https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5" rel="nofollow" target="_blank">https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5</a>
 </li>
 <li>在 Go 1.16+ 中构建 GUI 桌面应用程序 <a href="https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go" rel="nofollow" target="_blank">https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go</a>
