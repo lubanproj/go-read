@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-10)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-11)</p></h3><ol>
+<li>Go 1.17 beta 1 发布 (泛型支持) <a href="https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ" rel="nofollow" target="_blank">https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ</a> </li>
+<li>如何使用 GitHub Actions 自动发布你的 Go 二进制应用 <a href="https://web3.coach/golang-github-actions-release-binaries-tutorial" rel="nofollow" target="_blank">https://web3.coach/golang-github-actions-release-binaries-tutorial</a>
+</li>
+<li>Go、WebAssembly、HTTP 请求和 Promises <a href="https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html" rel="nofollow" target="_blank">https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html</a>
+</li>
+<li>GraphQL 聚合网关 Bramble <a href="https://github.com/movio/bramble" rel="nofollow" target="_blank">https://github.com/movio/bramble</a>
+</li>
+<li>最后测试开发模式介绍 <a href="https://bitfieldconsulting.com/golang/test-last-development" rel="nofollow" target="_blank">https://bitfieldconsulting.com/golang/test-last-development</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-10)</p></h3><ol>
 <li>Go Runtime 的调度器 <a href="https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg</a>
 </li>
 <li>一文讲懂服务的优雅重启和更新 <a href="https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w</a>
