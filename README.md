@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-11)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-23)</p></h3><ol>
+<li>如何在 Go 中正确使用基本身份验证 <a href="https://www.alexedwards.net/blog/basic-authentication-in-go" rel="nofollow" target="_blank">https://www.alexedwards.net/blog/basic-authentication-in-go</a>
+</li>
+<li>Go 处理错误的方式 <a href="https://www.bacancytechnology.com/blog/golang-error-handling" rel="nofollow" target="_blank">https://www.bacancytechnology.com/blog/golang-error-handling</a>
+</li>
+<li>Go 实现的用于与源代码一起版本控制数据的工具 <a href="https://github.com/kevin-hanselman/dud/" rel="nofollow" target="_blank">https://github.com/kevin-hanselman/dud/</a>
+</li>
+<li>GO 抓取网页信息 <a href="https://javarustacean.wordpress.com/2021/06/21/web-scrapping-in-go/" rel="nofollow" target="_blank">https://javarustacean.wordpress.com/2021/06/21/web-scrapping-in-go/</a>
+</li>
+<li>Go 实时 Web UI 和终端显示的高性能 HTTP 基准测试工具 <a href="https://github.com/six-ddc/plow" rel="nofollow" target="_blank">https://github.com/six-ddc/plow</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-11)</p></h3><ol>
 <li>Go 1.17 beta 1 发布 (泛型支持) <a href="https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ" rel="nofollow" target="_blank">https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ</a> </li>
 <li>如何使用 GitHub Actions 自动发布你的 Go 二进制应用 <a href="https://web3.coach/golang-github-actions-release-binaries-tutorial" rel="nofollow" target="_blank">https://web3.coach/golang-github-actions-release-binaries-tutorial</a>
 </li>
