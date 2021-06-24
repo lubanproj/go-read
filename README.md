@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-23)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-24)</p></h3><ol>
+<li>使用 Go 泛型的函数式编程 <a href="https://gocn.vip/topics/12233" rel="nofollow" target="_blank">https://gocn.vip/topics/12233</a>
+</li>
+<li>一文读懂 eBPF 对 Kubernetes 可观测的重要性 <a href="https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg</a>
+</li>
+<li>Golang 语言中的 channel 实现原理 <a href="https://mp.weixin.qq.com/s/6Q4lqlIBWl2g-EqU-M-rHw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/6Q4lqlIBWl2g-EqU-M-rHw</a>
+</li>
+<li>Go 性能工具小抄 <a href="https://gocn.vip/topics/12198" rel="nofollow" target="_blank">https://gocn.vip/topics/12198</a>
+</li>
+<li>23 种设计模式的 Go 语言实现（二）<a href="https://bbs.huaweicloud.com/blogs/280291" rel="nofollow" target="_blank">https://bbs.huaweicloud.com/blogs/280291</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-23)</p></h3><ol>
 <li>如何在 Go 中正确使用基本身份验证 <a href="https://www.alexedwards.net/blog/basic-authentication-in-go" rel="nofollow" target="_blank">https://www.alexedwards.net/blog/basic-authentication-in-go</a>
 </li>
 <li>Go 处理错误的方式 <a href="https://www.bacancytechnology.com/blog/golang-error-handling" rel="nofollow" target="_blank">https://www.bacancytechnology.com/blog/golang-error-handling</a>
