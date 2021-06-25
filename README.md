@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-24)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-25)</p></h3><ol>
+<li>项目中如何内嵌 Submodule <a href="https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2" rel="nofollow" target="_blank">https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2</a>
+</li>
+<li>Go 语言微服务开发快速上手指南 <a href="https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845" rel="nofollow" target="_blank">https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845</a>
+</li>
+<li>为你的 Go 应用创建轻量级 Docker 镜像 <a href="http://www.cnblogs.com/you-men/p/14929232.html" rel="nofollow" target="_blank">http://www.cnblogs.com/you-men/p/14929232.html</a>
+</li>
+<li>TDD 是如何帮助我们更好地开发 Go 代码,原理与实践 <a href="https://changelog.com/gotime/185" rel="nofollow" target="_blank">https://changelog.com/gotime/185</a>
+</li>
+<li>Google 提出开源软件漏洞处理框架 <a href="https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html" rel="nofollow" target="_blank">https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-24)</p></h3><ol>
 <li>使用 Go 泛型的函数式编程 <a href="https://gocn.vip/topics/12233" rel="nofollow" target="_blank">https://gocn.vip/topics/12233</a>
 </li>
 <li>一文读懂 eBPF 对 Kubernetes 可观测的重要性 <a href="https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg</a>
