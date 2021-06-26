@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-25)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-06-26)</p></h3><ol>
+<li>Go 1.17 弃用了 'go get'的传统用法 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet</a>
+</li>
+<li>用 Go 复制 MySQL 所有功能的替代品 <a href="https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/" rel="nofollow" target="_blank">https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/</a>
+</li>
+<li>在你的 Android 手机上运行 Golang 程序 <a href="https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ</a>
+</li>
+<li>分布式锁实现原理与最佳实践 <a href="https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw</a>
+</li>
+<li>Go 语言的 IO 库那么多，我该怎么选？<a href="https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-25)</p></h3><ol>
 <li>项目中如何内嵌 Submodule <a href="https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2" rel="nofollow" target="_blank">https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2</a>
 </li>
 <li>Go 语言微服务开发快速上手指南 <a href="https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845" rel="nofollow" target="_blank">https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845</a>
