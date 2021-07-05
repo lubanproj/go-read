@@ -4,7 +4,21 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-06-26)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-07-05)</p></h3><ol>
+<li>自建的视频网站管理器，支持 b 站，YouTube  <a href="https://github.com/horahoradev/horahora" rel="nofollow" target="_blank">https://github.com/horahoradev/horahora</a>
+
+<ol>
+<li>  golang pipeline 实战 <a href="https://itnext.io/golang-pipeline-in-practise-6007dafbb85f" rel="nofollow" target="_blank">https://itnext.io/golang-pipeline-in-practise-6007dafbb85f</a>
+</li>
+<li>简单 web 框架 dragon  <a href="https://github.com/azerothyang/dragon" rel="nofollow" target="_blank">https://github.com/azerothyang/dragon</a>
+</li>
+<li> golang 实现的 spotify 客户端  <a href="https://github.com/brianstrauch/spotify-cli" rel="nofollow" target="_blank">https://github.com/brianstrauch/spotify-cli</a>
+</li>
+<li> mock mongo-go-driver  <a href="https://medium.com/@victor.neuret/mocking-the-official-mongo-golang-driver-5aad5b226a78" rel="nofollow" target="_blank">https://medium.com/@victor.neuret/mocking-the-official-mongo-golang-driver-5aad5b226a78</a>
+</li>
+</ol>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-06-26)</p></h3><ol>
 <li>Go 1.17 弃用了 'go get'的传统用法 <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet" rel="nofollow" target="_blank">https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet</a>
 </li>
 <li>用 Go 复制 MySQL 所有功能的替代品 <a href="https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/" rel="nofollow" target="_blank">https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/</a>
