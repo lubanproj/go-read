@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-07-05)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-07-08）</p></h3><ol>
+<li>私有化仓库的 GO 模块使用实践 <a href="https://zhuanlan.zhihu.com/p/384621827" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/384621827</a>
+</li>
+<li>Go 阅读清单 <a href="https://github.com/qichengzx/gopher-reading-list-zh_CN" rel="nofollow" target="_blank">https://github.com/qichengzx/gopher-reading-list-zh_CN</a>
+</li>
+<li>sync.RWMutex 实现和使用说明 <a href="https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba" rel="nofollow" target="_blank">https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba</a>
+</li>
+<li>Go 使用 WasmEdge 嵌入 WASM <a href="https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/" rel="nofollow" target="_blank">https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/</a>
+</li>
+<li>go-doudou 去中心化微服务敏捷开发框架 <a href="https://github.com/unionj-cloud/go-doudou" rel="nofollow" target="_blank">https://github.com/unionj-cloud/go-doudou</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-07-05)</p></h3><ol>
 <li>自建的视频网站管理器，支持 b 站，YouTube  <a href="https://github.com/horahoradev/horahora" rel="nofollow" target="_blank">https://github.com/horahoradev/horahora</a>
 
 <ol>
