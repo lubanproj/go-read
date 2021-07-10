@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-07-08）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-07-10）</p></h3><ol>
+<li>简单灵活的 Go 健康检查库 <a href="https://github.com/alexliesenfeld/health" rel="nofollow" target="_blank">https://github.com/alexliesenfeld/health</a>
+</li>
+<li>Go 的 WorkerPools 实现<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/1iBj5qVyfQA" allowfullscreen></iframe></span>
+</li>
+<li>硬件内存模型 <a href="https://research.swtch.com/hwmm" rel="nofollow" target="_blank">https://research.swtch.com/hwmm</a>
+</li>
+<li>从头编写一个时间序列的数据库引擎 <a href="https://nakabonne.dev/posts/write-tsdb-from-scratch/" rel="nofollow" target="_blank">https://nakabonne.dev/posts/write-tsdb-from-scratch/</a>
+</li>
+<li>Go 实现的一个快速的 HTML 有害内容 XSS 清除库 <a href="https://github.com/microcosm-cc/bluemonday" rel="nofollow" target="_blank">https://github.com/microcosm-cc/bluemonday</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-07-08）</p></h3><ol>
 <li>私有化仓库的 GO 模块使用实践 <a href="https://zhuanlan.zhihu.com/p/384621827" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/384621827</a>
 </li>
 <li>Go 阅读清单 <a href="https://github.com/qichengzx/gopher-reading-list-zh_CN" rel="nofollow" target="_blank">https://github.com/qichengzx/gopher-reading-list-zh_CN</a>
