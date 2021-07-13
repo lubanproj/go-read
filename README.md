@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-07-10）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-07-13)</p></h3><ol>
+<li>Go 1.16.6 and Go 1.15.14 are released <a href="https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ</a>
+</li>
+<li>更新 Go 内存模型 <a href="https://research.swtch.com/gomm" rel="nofollow" target="_blank">https://research.swtch.com/gomm</a>
+</li>
+<li>Go 依赖注入：为什么把 dig 迁移到 wire <a href="https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA</a>
+</li>
+<li>编程模式之 Go 如何实现装饰器 <a href="https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg</a>
+</li>
+<li>Go 不是 C，所以没有极快的方法来合并切片 <a href="https://github.com/go101/go101/wiki/Go-is-not-C,-so-there-is-not-an-extreme-fast-way-to-merge-slices" rel="nofollow" target="_blank">https://github.com/go101/go101/wiki/Go-is-not-C,-so-there-is-not-an-extreme-fast-way-to-merge-slices</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-07-10）</p></h3><ol>
 <li>简单灵活的 Go 健康检查库 <a href="https://github.com/alexliesenfeld/health" rel="nofollow" target="_blank">https://github.com/alexliesenfeld/health</a>
 </li>
 <li>Go 的 WorkerPools 实现<span class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="//www.youtube.com/embed/1iBj5qVyfQA" allowfullscreen></iframe></span>
