@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-07-13)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-07-15)</p></h3><ol>
+<li>编写高质量的 Go benchmarks 并不容易 <a href="https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy" rel="nofollow" target="_blank">https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy</a>
+</li>
+<li>安全计数的多种方式 <a href="https://brunocalza.me/there-are-many-ways-to-safely-count/" rel="nofollow" target="_blank">https://brunocalza.me/there-are-many-ways-to-safely-count/</a>
+</li>
+<li>Go 中的流水线模式 <a href="https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/" rel="nofollow" target="_blank">https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/</a>
+</li>
+<li>探究 sync.RWMutex <a href="https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba#d1f6-c1e9f1b394e4" rel="nofollow" target="_blank">https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba#d1f6-c1e9f1b394e4</a>
+</li>
+<li>轻量级依赖注入框架 di <a href="https://github.com/go-tk/di" rel="nofollow" target="_blank">https://github.com/go-tk/di</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-07-13)</p></h3><ol>
 <li>Go 1.16.6 and Go 1.15.14 are released <a href="https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ</a>
 </li>
 <li>更新 Go 内存模型 <a href="https://research.swtch.com/gomm" rel="nofollow" target="_blank">https://research.swtch.com/gomm</a>
