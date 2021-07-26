@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-07-15)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-07-26）</p></h3><ol>
+<li>Go 中的.NET LINQ 功能 <a href="https://github.com/ahmetb/go-linq" rel="nofollow" target="_blank">https://github.com/ahmetb/go-linq</a>
+</li>
+<li>在 Go 中构建事件驱动的应用程序 <a href="https://github.com/ThreeDotsLabs/watermill/" rel="nofollow" target="_blank">https://github.com/ThreeDotsLabs/watermill/</a>
+</li>
+<li>Go 实现的 protobuf 文件生成器 <a href="https://github.com/p1gd0g/rediloper" rel="nofollow" target="_blank">https://github.com/p1gd0g/rediloper</a>
+</li>
+<li>Go 用于带注释的 TODO 注释的静态代码分析器 <a href="https://github.com/preslavmihaylov/todocheck/tree/v0.4.0" rel="nofollow" target="_blank">https://github.com/preslavmihaylov/todocheck/tree/v0.4.0</a>
+</li>
+<li>Go 语言的调试器 Delve <a href="https://github.com/go-delve/delve" rel="nofollow" target="_blank">https://github.com/go-delve/delve</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-07-15)</p></h3><ol>
 <li>编写高质量的 Go benchmarks 并不容易 <a href="https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy" rel="nofollow" target="_blank">https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy</a>
 </li>
 <li>安全计数的多种方式 <a href="https://brunocalza.me/there-are-many-ways-to-safely-count/" rel="nofollow" target="_blank">https://brunocalza.me/there-are-many-ways-to-safely-count/</a>
