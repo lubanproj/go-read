@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-07-26）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-07-28)</p></h3><ol>
+<li>Go 经典阻塞式 TCP 协议流解析的实践 <a href="https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go" rel="nofollow" target="_blank">https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go</a>
+</li>
+<li>学会使用 GDB 调试 Go 代码 <a href="https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ</a>
+</li>
+<li>【译】GitHub 为 Go 社区带来供应链安全功能 <a href="https://gocn.vip/topics/12386" rel="nofollow" target="_blank">https://gocn.vip/topics/12386</a>
+</li>
+<li>Go cmd 服务无法退出的小坑 <a href="https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A</a>
+</li>
+<li>powerproto: 一款多功能 proto 工具 <a href="https://github.com/storyicon/powerproto" rel="nofollow" target="_blank">https://github.com/storyicon/powerproto</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-07-26）</p></h3><ol>
 <li>Go 中的.NET LINQ 功能 <a href="https://github.com/ahmetb/go-linq" rel="nofollow" target="_blank">https://github.com/ahmetb/go-linq</a>
 </li>
 <li>在 Go 中构建事件驱动的应用程序 <a href="https://github.com/ThreeDotsLabs/watermill/" rel="nofollow" target="_blank">https://github.com/ThreeDotsLabs/watermill/</a>
