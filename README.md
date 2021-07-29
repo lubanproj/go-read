@@ -4,7 +4,17 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-07-28)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-07-29)</p></h3><ol>
+<li>端到端追踪的三种方式 <a href="https://rakyll.medium.com/three-ways-to-trace-end-to-end-f61181d6db63" rel="nofollow" target="_blank">https://rakyll.medium.com/three-ways-to-trace-end-to-end-f61181d6db63</a> </li>
+<li>分布式系统的 “脑裂” 到底是个什么玩意？ <a href="https://segmentfault.com/a/1190000040420527" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000040420527</a>
+</li>
+<li>一个有趣的 Go 内存问题 <a href="https://boyter.org/posts/interesting-go-memory-issue/" rel="nofollow" target="_blank">https://boyter.org/posts/interesting-go-memory-issue/</a>
+</li>
+<li>我们是如何构建 EGO 的 <a href="https://github.com/edgelesssys/ego" rel="nofollow" target="_blank">https://github.com/edgelesssys/ego</a>
+</li>
+<li>如何设计短网址系统? <a href="https://juejin.cn/post/6990270005749219359" rel="nofollow" target="_blank">https://juejin.cn/post/6990270005749219359</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-07-28)</p></h3><ol>
 <li>Go 经典阻塞式 TCP 协议流解析的实践 <a href="https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go" rel="nofollow" target="_blank">https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go</a>
 </li>
 <li>学会使用 GDB 调试 Go 代码 <a href="https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ</a>
