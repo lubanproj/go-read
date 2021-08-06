@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-07-29)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-08-06)</p></h3><ol>
+<li>一个交互式的 mysql/postgresql 客户端  <a href="https://github.com/danvergara/dblab" rel="nofollow" target="_blank">https://github.com/danvergara/dblab</a>
+</li>
+<li>一个 C 转换为 Go 的工具  <a href="https://github.com/gotranspile/cxgo" rel="nofollow" target="_blank">https://github.com/gotranspile/cxgo</a>
+</li>
+<li>golang 是怎么计算 len 的  <a href="https://tpaschalis.github.io/golang-len/" rel="nofollow" target="_blank">https://tpaschalis.github.io/golang-len/</a>
+</li>
+<li>Go 语言 css 解析器  <a href="https://github.com/mmcdole/gofeed" rel="nofollow" target="_blank">https://github.com/mmcdole/gofeed</a>
+</li>
+<li>Go 语言与科学  <a href="http://kestrel.nmt.edu/~raymond/software/go_notes/go.html" rel="nofollow" target="_blank">http://kestrel.nmt.edu/~raymond/software/go_notes/go.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-07-29)</p></h3><ol>
 <li>端到端追踪的三种方式 <a href="https://rakyll.medium.com/three-ways-to-trace-end-to-end-f61181d6db63" rel="nofollow" target="_blank">https://rakyll.medium.com/three-ways-to-trace-end-to-end-f61181d6db63</a> </li>
 <li>分布式系统的 “脑裂” 到底是个什么玩意？ <a href="https://segmentfault.com/a/1190000040420527" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000040420527</a>
 </li>
