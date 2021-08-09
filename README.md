@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-08-06)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-08-09)</p></h3><ol>
+<li>编写与优化 Go 代码 (一) <a href="https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw</a>
+</li>
+<li>译｜What “accept interfaces, return structs” means in Go <a href="https://www.cyningsun.com/08-08-2021/go-accept-interfaces-return-structs.html" rel="nofollow" target="_blank">https://www.cyningsun.com/08-08-2021/go-accept-interfaces-return-structs.html</a>
+</li>
+<li>Golang 语言中怎么提升 JSON 编解码的性能？ <a href="https://mp.weixin.qq.com/s/wkqk1cgYKWnbIsHqoTA5UA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/wkqk1cgYKWnbIsHqoTA5UA</a>
+</li>
+<li>HTTP context 生命周期 <a href="https://developer20.com/http-connection-livetime/" rel="nofollow" target="_blank">https://developer20.com/http-connection-livetime/</a>
+</li>
+<li>Golang 实现 RTP <a href="https://segmentfault.com/a/1190000040483316" rel="nofollow" target="_blank">https://segmentfault.com/a/1190000040483316</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-08-06)</p></h3><ol>
 <li>一个交互式的 mysql/postgresql 客户端  <a href="https://github.com/danvergara/dblab" rel="nofollow" target="_blank">https://github.com/danvergara/dblab</a>
 </li>
 <li>一个 C 转换为 Go 的工具  <a href="https://github.com/gotranspile/cxgo" rel="nofollow" target="_blank">https://github.com/gotranspile/cxgo</a>
