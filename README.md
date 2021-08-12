@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-08-09)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-08-12)</p></h3><ol>
+<li>手把手 Golang 实现静态图像与视频流人脸识别 <a href="https://blog.csdn.net/agora_cloud/article/details/119522891" rel="nofollow" target="_blank">https://blog.csdn.net/agora_cloud/article/details/119522891</a>
+</li>
+<li>Golang 中如何正确的使用 sarama 包操作 Kafka？ <a href="https://www.cnblogs.com/wishFreedom/p/15131600.html" rel="nofollow" target="_blank">https://www.cnblogs.com/wishFreedom/p/15131600.html</a>
+</li>
+<li>nil == nil 是 true 吗？ <a href="https://www.pixelstech.net/article/1628407126-Will-nil-==-nil-be-true-in-GoLang" rel="nofollow" target="_blank">https://www.pixelstech.net/article/1628407126-Will-nil-==-nil-be-true-in-GoLang</a>
+</li>
+<li>Golang 实现 RTP <a href="https://blog.csdn.net/agora_cloud/article/details/119495522" rel="nofollow" target="_blank">https://blog.csdn.net/agora_cloud/article/details/119495522</a>
+</li>
+<li>使用 Golang 实践 BDD 风格测试 <a href="https://levelup.gitconnected.com/implementation-of-behavioral-driven-development-bdd-using-golang-d33073243722" rel="nofollow" target="_blank">https://levelup.gitconnected.com/implementation-of-behavioral-driven-development-bdd-using-golang-d33073243722</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-08-09)</p></h3><ol>
 <li>编写与优化 Go 代码 (一) <a href="https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw</a>
 </li>
 <li>译｜What “accept interfaces, return structs” means in Go <a href="https://www.cyningsun.com/08-08-2021/go-accept-interfaces-return-structs.html" rel="nofollow" target="_blank">https://www.cyningsun.com/08-08-2021/go-accept-interfaces-return-structs.html</a>
