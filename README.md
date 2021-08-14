@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-08-12)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-08-14)</p></h3><ol>
+<li>Go Web 应用中常见的反模式 <a href="https://www.4async.com/2021/08/common-anti-patterns-in-go-web-applications/" rel="nofollow" target="_blank">https://www.4async.com/2021/08/common-anti-patterns-in-go-web-applications/</a>
+</li>
+<li>什么是事件建模 <a href="https://www.4async.com/2021/07/introducing-event-modeling/" rel="nofollow" target="_blank">https://www.4async.com/2021/07/introducing-event-modeling/</a>
+</li>
+<li>译文 Go 语言是如何计算 len() 的? <a href="https://gocn.vip/topics/12437" rel="nofollow" target="_blank">https://gocn.vip/topics/12437</a>
+</li>
+<li>把命令包装进 Go <a href="https://developer20.com/wrapping-commands-with-go/" rel="nofollow" target="_blank">https://developer20.com/wrapping-commands-with-go/</a>
+</li>
+<li>C 到 Go 的代码转换工具 cxgo <a href="https://github.com/gotranspile/cxgo" rel="nofollow" target="_blank">https://github.com/gotranspile/cxgo</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-08-12)</p></h3><ol>
 <li>手把手 Golang 实现静态图像与视频流人脸识别 <a href="https://blog.csdn.net/agora_cloud/article/details/119522891" rel="nofollow" target="_blank">https://blog.csdn.net/agora_cloud/article/details/119522891</a>
 </li>
 <li>Golang 中如何正确的使用 sarama 包操作 Kafka？ <a href="https://www.cnblogs.com/wishFreedom/p/15131600.html" rel="nofollow" target="_blank">https://www.cnblogs.com/wishFreedom/p/15131600.html</a>
