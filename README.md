@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-08-14)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-08-24）</p></h3><ol>
+<li>[警惕] 请勿滥用 goroutine <a href="https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ</a>
+</li>
+<li>译｜There Are No Reference Types in Go <a href="https://www.cyningsun.com/08-23-2021/there-are-no-reference-types-in-go-cn.html" rel="nofollow" target="_blank">https://www.cyningsun.com/08-23-2021/there-are-no-reference-types-in-go-cn.html</a>
+</li>
+<li>分久必合，golang.org 将成为历史！ <a href="https://mp.weixin.qq.com/s/g_T_MO03G2n_N4HmO1DcCg" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/g_T_MO03G2n_N4HmO1DcCg</a>
+</li>
+<li>Golang 的字符编码与 regexp <a href="https://juejin.cn/post/6999523994558791687" rel="nofollow" target="_blank">https://juejin.cn/post/6999523994558791687</a>
+</li>
+<li>Gitea 1.15.0 is released <a href="https://blog.gitea.io/2021/08/gitea-1.15.0-is-released/" rel="nofollow" target="_blank">https://blog.gitea.io/2021/08/gitea-1.15.0-is-released/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-08-14)</p></h3><ol>
 <li>Go Web 应用中常见的反模式 <a href="https://www.4async.com/2021/08/common-anti-patterns-in-go-web-applications/" rel="nofollow" target="_blank">https://www.4async.com/2021/08/common-anti-patterns-in-go-web-applications/</a>
 </li>
 <li>什么是事件建模 <a href="https://www.4async.com/2021/07/introducing-event-modeling/" rel="nofollow" target="_blank">https://www.4async.com/2021/07/introducing-event-modeling/</a>
