@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-08-24）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-08-26）</p></h3><ol>
+<li>Go 实现的基于 Raft 和 RESP 协议的分布式磁盘存储系统 <a href="https://github.com/gitsrc/IceFireDB" rel="nofollow" target="_blank">https://github.com/gitsrc/IceFireDB</a>
+</li>
+<li>用 Go 实现的自托管 Torrent 客户端 <a href="https://github.com/varbhat/exatorrent" rel="nofollow" target="_blank">https://github.com/varbhat/exatorrent</a>
+</li>
+<li>Go 的全功能测试框架！断言、模拟、输入测试、输出捕获 <a href="https://github.com/MarvinJWendt/testza" rel="nofollow" target="_blank">https://github.com/MarvinJWendt/testza</a>
+</li>
+<li>Go 实现一个使用你的 Wi-Fi 登录详细信息创建二维码 <a href="https://github.com/reugn/wifiqr" rel="nofollow" target="_blank">https://github.com/reugn/wifiqr</a>
+</li>
+<li>通过 key 分析 Redis 中的内存使用情况 <a href="https://dclg.net/posts/2021-08-16---Redis-inventory/redis-inventory" rel="nofollow" target="_blank">https://dclg.net/posts/2021-08-16---Redis-inventory/redis-inventory</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-08-24）</p></h3><ol>
 <li>[警惕] 请勿滥用 goroutine <a href="https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ</a>
 </li>
 <li>译｜There Are No Reference Types in Go <a href="https://www.cyningsun.com/08-23-2021/there-are-no-reference-types-in-go-cn.html" rel="nofollow" target="_blank">https://www.cyningsun.com/08-23-2021/there-are-no-reference-types-in-go-cn.html</a>
