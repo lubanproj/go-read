@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-08-26）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-08-27)</p></h3><ol>
+<li>cobra 强大的 cli 命令工具 <a href="https://mp.weixin.qq.com/s/fW2XBXDA9t89oCjjDKaGwA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/fW2XBXDA9t89oCjjDKaGwA</a>
+</li>
+<li>Go 存储基础—“文件” 被偷偷修改？来，给它装个监控！ <a href="https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ</a>
+</li>
+<li>使用 lambda 和 Go 编写一个可水平伸缩的应用 <a href="https://arielorozco.com/build-scalable-applications-with-aws-lambda-and-go" rel="nofollow" target="_blank">https://arielorozco.com/build-scalable-applications-with-aws-lambda-and-go</a>
+</li>
+<li>使用 entviz 通过代码自动生成实体联系模型图 <a href="https://entgo.io/blog/2021/08/26/visualizing-your-data-graph-using-entviz/" rel="nofollow" target="_blank">https://entgo.io/blog/2021/08/26/visualizing-your-data-graph-using-entviz/</a>
+</li>
+<li>udpsocket: 基于 UDP 的虚拟有状态连接库 <a href="https://github.com/theredrad/udpsocket" rel="nofollow" target="_blank">https://github.com/theredrad/udpsocket</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-08-26）</p></h3><ol>
 <li>Go 实现的基于 Raft 和 RESP 协议的分布式磁盘存储系统 <a href="https://github.com/gitsrc/IceFireDB" rel="nofollow" target="_blank">https://github.com/gitsrc/IceFireDB</a>
 </li>
 <li>用 Go 实现的自托管 Torrent 客户端 <a href="https://github.com/varbhat/exatorrent" rel="nofollow" target="_blank">https://github.com/varbhat/exatorrent</a>
