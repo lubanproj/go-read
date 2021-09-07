@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-08-27)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-09-07）</p></h3><ol>
+<li>微服务架构下的熔断框架：hystrix-go <a href="https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw</a>
+</li>
+<li>使用 Delve 调试远程 Go 应用 <a href="https://juejin.cn/post/7004731872735395877" rel="nofollow" target="_blank">https://juejin.cn/post/7004731872735395877</a>
+</li>
+<li>AWS Kinesis Firehose - 使用 Go 存储 JSON 到 AWS S3 Parquet <a href="https://medium.com/@starchycornet33/aws-kinesis-firehose-json-to-parquet-using-golang-for-columnar-based-queries-753a783c371c" rel="nofollow" target="_blank">https://medium.com/@starchycornet33/aws-kinesis-firehose-json-to-parquet-using-golang-for-columnar-based-queries-753a783c371c</a>
+</li>
+<li>Bun - 简单高效的 PostgreSQL/MySQL/SQLite 客户端 <a href="https://bun.uptrace.dev/" rel="nofollow" target="_blank">https://bun.uptrace.dev/</a>
+</li>
+<li>Fuzz 测试实践 <a href="https://www.dolthub.com/blog/2021-08-30-unleash-the-fuzz/" rel="nofollow" target="_blank">https://www.dolthub.com/blog/2021-08-30-unleash-the-fuzz/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-08-27)</p></h3><ol>
 <li>cobra 强大的 cli 命令工具 <a href="https://mp.weixin.qq.com/s/fW2XBXDA9t89oCjjDKaGwA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/fW2XBXDA9t89oCjjDKaGwA</a>
 </li>
 <li>Go 存储基础—“文件” 被偷偷修改？来，给它装个监控！ <a href="https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ</a>
