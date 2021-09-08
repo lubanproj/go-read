@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-09-07）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-09-08）</p></h3><ol>
+<li>理解真实项目中的 Go 并发 Bug <a href="https://gocn.vip/topics/12529" rel="nofollow" target="_blank">https://gocn.vip/topics/12529</a>
+</li>
+<li>Go Test 的一些小建议 <a href="https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02" rel="nofollow" target="_blank">https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02</a>
+</li>
+<li>Go 应用中优雅处理 Error 的几个技巧 <a href="https://mp.weixin.qq.com/s/Gnkyba2OjFnwxObqjlBePw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/Gnkyba2OjFnwxObqjlBePw</a>
+</li>
+<li>深入理解 CNI（容器网络接口）<a href="https://mp.weixin.qq.com/s/z9-F4Oamnnlyuj5ARoMt_Q" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/z9-F4Oamnnlyuj5ARoMt_Q</a>
+</li>
+<li>GO 编程模式: 泛型编程 <a href="https://coolshell.cn/articles/21615.html" rel="nofollow" target="_blank">https://coolshell.cn/articles/21615.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-09-07）</p></h3><ol>
 <li>微服务架构下的熔断框架：hystrix-go <a href="https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw</a>
 </li>
 <li>使用 Delve 调试远程 Go 应用 <a href="https://juejin.cn/post/7004731872735395877" rel="nofollow" target="_blank">https://juejin.cn/post/7004731872735395877</a>
