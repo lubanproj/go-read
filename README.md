@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-09-08）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-09-09）</p></h3><ol>
+<li>Golang 强行关闭 TCP 连接 <a href="https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6" rel="nofollow" target="_blank">https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6</a>
+</li>
+<li>Golang 中的 DIY 调试器 <a href="https://poonai.github.io/posts/how-debuggers-works-part1/" rel="nofollow" target="_blank">https://poonai.github.io/posts/how-debuggers-works-part1/</a>
+</li>
+<li>Go 中的第一个通用链表 <a href="https://github.com/1995parham/linkedlist.go" rel="nofollow" target="_blank">https://github.com/1995parham/linkedlist.go</a>
+</li>
+<li>在 Go 中使用 redis 和 lua 脚本 <a href="https://xitonix.io/go-lua-and-redis/" rel="nofollow" target="_blank">https://xitonix.io/go-lua-and-redis/</a>
+</li>
+<li>Go1.17 测试中添加的新功能 <a href="https://khanakia.medium.com/go-1-17-new-features-added-to-testing-9a8862cb03c0" rel="nofollow" target="_blank">https://khanakia.medium.com/go-1-17-new-features-added-to-testing-9a8862cb03c0</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-09-08）</p></h3><ol>
 <li>理解真实项目中的 Go 并发 Bug <a href="https://gocn.vip/topics/12529" rel="nofollow" target="_blank">https://gocn.vip/topics/12529</a>
 </li>
 <li>Go Test 的一些小建议 <a href="https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02" rel="nofollow" target="_blank">https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02</a>
