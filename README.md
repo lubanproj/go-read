@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-09-09）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-09-10)</p></h3><ol>
+<li>Go1.17.1 与 Go 1.16.8 发布 <a href="https://groups.google.com/g/golang-announce/c/dx9d7IOseHw" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/dx9d7IOseHw</a>
+</li>
+<li>Go1.17 go get 指令的更新 <a href="https://khanakia.medium.com/golang-go-get-updated-in-go-1-17-8e0c905bdb1f" rel="nofollow" target="_blank">https://khanakia.medium.com/golang-go-get-updated-in-go-1-17-8e0c905bdb1f</a>
+</li>
+<li>Go1.17 sync/atomic 包中 CompareAndSwap 的改变 <a href="https://khanakia.medium.com/go-1-17-whats-changed-sync-atomic-package-and-compareandswap-4b714f49342b" rel="nofollow" target="_blank">https://khanakia.medium.com/go-1-17-whats-changed-sync-atomic-package-and-compareandswap-4b714f49342b</a>
+</li>
+<li>在 Go 语言中实战 DDD <a href="https://levelup.gitconnected.com/practical-ddd-in-golang-domain-event-de02ad492989" rel="nofollow" target="_blank">https://levelup.gitconnected.com/practical-ddd-in-golang-domain-event-de02ad492989</a>
+</li>
+<li>使用 Go 语言编写一个《我的世界》<a href="https://preettheman.medium.com/lets-build-minecraft-with-go-d813755f159b" rel="nofollow" target="_blank">https://preettheman.medium.com/lets-build-minecraft-with-go-d813755f159b</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-09-09）</p></h3><ol>
 <li>Golang 强行关闭 TCP 连接 <a href="https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6" rel="nofollow" target="_blank">https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6</a>
 </li>
 <li>Golang 中的 DIY 调试器 <a href="https://poonai.github.io/posts/how-debuggers-works-part1/" rel="nofollow" target="_blank">https://poonai.github.io/posts/how-debuggers-works-part1/</a>
