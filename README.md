@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-09-10)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-09-21）</p></h3><ol>
+<li>讨论 Go 标准库 API 如何支持泛型 <a href="https://github.com/golang/go/discussions/48287" rel="nofollow" target="_blank">https://github.com/golang/go/discussions/48287</a>
+</li>
+<li>Go 实践 DDD 领域驱动设计系列文章 <a href="https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629" rel="nofollow" target="_blank">https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629</a>
+</li>
+<li>Golang 五种原子性操作的用法详解 <a href="https://mp.weixin.qq.com/s/W48sjzxwjPYKgcY8DavBYA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/W48sjzxwjPYKgcY8DavBYA</a>
+</li>
+<li>Go 1.18 合并对 Fuzz 测试原生支持的代码 <a href="https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5" rel="nofollow" target="_blank">https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5</a>
+</li>
+<li>Capoae 恶意软件利用软件漏洞安装 Go 挖矿程序 <a href="https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html" rel="nofollow" target="_blank">https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-09-10)</p></h3><ol>
 <li>Go1.17.1 与 Go 1.16.8 发布 <a href="https://groups.google.com/g/golang-announce/c/dx9d7IOseHw" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/dx9d7IOseHw</a>
 </li>
 <li>Go1.17 go get 指令的更新 <a href="https://khanakia.medium.com/golang-go-get-updated-in-go-1-17-8e0c905bdb1f" rel="nofollow" target="_blank">https://khanakia.medium.com/golang-go-get-updated-in-go-1-17-8e0c905bdb1f</a>
