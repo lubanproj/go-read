@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-09-21）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-09-22)</p></h3><ol>
+<li>行为准则更新 <a href="https://go.dev/blog/conduct-2021" rel="nofollow" target="_blank">https://go.dev/blog/conduct-2021</a>
+</li>
+<li>在 Go 中使用 Failpoint 注入故障 <a href="https://www.luozhiyun.com/archives/595" rel="nofollow" target="_blank">https://www.luozhiyun.com/archives/595</a>
+</li>
+<li>日志库输出策略的设计模式小考 <a href="https://zhuanlan.zhihu.com/p/411747859" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/411747859</a>
+</li>
+<li>驯服 go 内存使用，避免用 rust 重写 <a href="https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust" rel="nofollow" target="_blank">https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust</a>
+</li>
+<li>go-test-trace: 测试时生成 tracing <a href="https://github.com/rakyll/go-test-trace" rel="nofollow" target="_blank">https://github.com/rakyll/go-test-trace</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-09-21）</p></h3><ol>
 <li>讨论 Go 标准库 API 如何支持泛型 <a href="https://github.com/golang/go/discussions/48287" rel="nofollow" target="_blank">https://github.com/golang/go/discussions/48287</a>
 </li>
 <li>Go 实践 DDD 领域驱动设计系列文章 <a href="https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629" rel="nofollow" target="_blank">https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629</a>
