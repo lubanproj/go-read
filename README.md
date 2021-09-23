@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-09-22)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-09-23）</p></h3><ol>
+<li>Go 实现关于 Web 应用程序的单点登录多因素门户 <a href="https://github.com/authelia/authelia" rel="nofollow" target="_blank">https://github.com/authelia/authelia</a>
+</li>
+<li>ffmpeg-to-webrtc 演示了如何使用 Go 实现的 pion 将视频从 ffmpeg 发送到您的浏览器 <a href="https://github.com/ashellunts/ffmpeg-to-webrtc" rel="nofollow" target="_blank">https://github.com/ashellunts/ffmpeg-to-webrtc</a>
+</li>
+<li>简单、零依赖的 Go 调度库 <a href="https://github.com/reugn/go-quartz" rel="nofollow" target="_blank">https://github.com/reugn/go-quartz</a>
+</li>
+<li>在 Go 中实现通用过滤器功能 <a href="https://preslav.me/2021/09/22/implementing-a-generic-filter-function-in-golang/" rel="nofollow" target="_blank">https://preslav.me/2021/09/22/implementing-a-generic-filter-function-in-golang/</a>
+</li>
+<li>Go 实现的用于安全拆分和分发您的私钥的实验性工具 <a href="https://github.com/Dentrax/cocert" rel="nofollow" target="_blank">https://github.com/Dentrax/cocert</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-09-22)</p></h3><ol>
 <li>行为准则更新 <a href="https://go.dev/blog/conduct-2021" rel="nofollow" target="_blank">https://go.dev/blog/conduct-2021</a>
 </li>
 <li>在 Go 中使用 Failpoint 注入故障 <a href="https://www.luozhiyun.com/archives/595" rel="nofollow" target="_blank">https://www.luozhiyun.com/archives/595</a>
