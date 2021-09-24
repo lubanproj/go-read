@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-09-23）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-09-24)</p></h3><ol>
+<li>Go 有别于其他语言的 10 个特性 <a href="https://itnext.io/10-features-of-go-that-set-it-apart-from-other-languages-89337e5ee551" rel="nofollow" target="_blank">https://itnext.io/10-features-of-go-that-set-it-apart-from-other-languages-89337e5ee551</a>
+</li>
+<li>Go1.17.1 开始 go get 将不再支持安装可执行文件 <a href="https://jinxankit.medium.com/deprecation-of-go-get-in-golang-1-17-1-2da764d613e1" rel="nofollow" target="_blank">https://jinxankit.medium.com/deprecation-of-go-get-in-golang-1-17-1-2da764d613e1</a>
+</li>
+<li>slices 包将增加泛型排序方法 <a href="https://github.com/golang/go/issues/47619" rel="nofollow" target="_blank">https://github.com/golang/go/issues/47619</a>
+</li>
+<li>基于 wasm 的在线 Go-playgroud <a href="https://go-playground-wasm.vercel.app/" rel="nofollow" target="_blank">https://go-playground-wasm.vercel.app/</a>
+</li>
+<li>将先进的 Go 并发设计模式到数据管道设计 <a href="https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4" rel="nofollow" target="_blank">https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-09-23）</p></h3><ol>
 <li>Go 实现关于 Web 应用程序的单点登录多因素门户 <a href="https://github.com/authelia/authelia" rel="nofollow" target="_blank">https://github.com/authelia/authelia</a>
 </li>
 <li>ffmpeg-to-webrtc 演示了如何使用 Go 实现的 pion 将视频从 ffmpeg 发送到您的浏览器 <a href="https://github.com/ashellunts/ffmpeg-to-webrtc" rel="nofollow" target="_blank">https://github.com/ashellunts/ffmpeg-to-webrtc</a>
