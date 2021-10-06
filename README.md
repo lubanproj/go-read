@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-09-24)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-10-06)</p></h3><ol>
+<li>为 Go 应用添加 Prometheus 监控指标 <a href="https://mp.weixin.qq.com/s/QrZo4_Ejpa3CEFCB79EIYA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/QrZo4_Ejpa3CEFCB79EIYA</a>
+</li>
+<li>Go 语言之父谈 Go 编程语言与环境 <a href="https://tonybai.com/2021/10/06/the-go-programming-language-and-environment/" rel="nofollow" target="_blank">https://tonybai.com/2021/10/06/the-go-programming-language-and-environment/</a>
+</li>
+<li>Go 常见错误集锦之混淆了 slice 中的长度 和容量  <a href="https://gocn.vip/topics/17342" rel="nofollow" target="_blank">https://gocn.vip/topics/17342</a>
+</li>
+<li>架构设计的新思路，《架构之道》读书笔记 <a href="https://mp.weixin.qq.com/s/oKOu_OfLdK8Mp7pMCceexQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/oKOu_OfLdK8Mp7pMCceexQ</a>
+</li>
+<li>PromQL 查询之 rate 函数的使用 <a href="https://mp.weixin.qq.com/s/7z8n3abX9k39YL5kCopJqQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/7z8n3abX9k39YL5kCopJqQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-09-24)</p></h3><ol>
 <li>Go 有别于其他语言的 10 个特性 <a href="https://itnext.io/10-features-of-go-that-set-it-apart-from-other-languages-89337e5ee551" rel="nofollow" target="_blank">https://itnext.io/10-features-of-go-that-set-it-apart-from-other-languages-89337e5ee551</a>
 </li>
 <li>Go1.17.1 开始 go get 将不再支持安装可执行文件 <a href="https://jinxankit.medium.com/deprecation-of-go-get-in-golang-1-17-1-2da764d613e1" rel="nofollow" target="_blank">https://jinxankit.medium.com/deprecation-of-go-get-in-golang-1-17-1-2da764d613e1</a>
