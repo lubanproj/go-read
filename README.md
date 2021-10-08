@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-10-06)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-10-08)</p></h3><ol>
+<li>理解 Go 切片的 cap 和 len <a href="https://gosamples.dev/capacity-and-length/" rel="nofollow" target="_blank">https://gosamples.dev/capacity-and-length/</a>
+</li>
+<li>Go1.17.2 与 1.16.9 更新,修复安全问题 <a href="https://groups.google.com/g/golang-announce/c/AEBu9j7yj5A" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/AEBu9j7yj5A</a>
+</li>
+<li>Go 将增加新的网络地址包 netip <a href="https://github.com/golang/go/issues/46518" rel="nofollow" target="_blank">https://github.com/golang/go/issues/46518</a>
+</li>
+<li>bunrouter: 一款高效且灵活的 http router 框架 <a href="https://bunrouter.uptrace.dev/" rel="nofollow" target="_blank">https://bunrouter.uptrace.dev/</a>
+</li>
+<li>sat:一款轻便的 WebAssembly 计算模块  <a href="https://github.com/suborbital/sat" rel="nofollow" target="_blank">https://github.com/suborbital/sat</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-10-06)</p></h3><ol>
 <li>为 Go 应用添加 Prometheus 监控指标 <a href="https://mp.weixin.qq.com/s/QrZo4_Ejpa3CEFCB79EIYA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/QrZo4_Ejpa3CEFCB79EIYA</a>
 </li>
 <li>Go 语言之父谈 Go 编程语言与环境 <a href="https://tonybai.com/2021/10/06/the-go-programming-language-and-environment/" rel="nofollow" target="_blank">https://tonybai.com/2021/10/06/the-go-programming-language-and-environment/</a>
