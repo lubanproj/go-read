@@ -4,7 +4,24 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-10-08)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-10-15)</p></h3><ol>
+<li> 使用 go-metrics 在 Go 应用中增加度量<a href="https://mp.weixin.qq.com/s/sCGGwKjVnFsFQQk5fXw8sw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/sCGGwKjVnFsFQQk5fXw8sw</a>
+</li>
+<li> 简单身份认证服务器你 <a href="https://github.com/reugn/auth-server" rel="nofollow" target="_blank">https://github.com/reugn/auth-server</a> </li>
+<li> goreleaser 支持 Mac 统一二进制（arm64 和 amd64) 了 <a href="https://goreleaser.com/customization/universalbinaries/" rel="nofollow" target="_blank">https://goreleaser.com/customization/universalbinaries/</a>
+</li>
+<li> go 更安全的枚举 <a href="https://threedots.tech/post/safer-enums-in-go/" rel="nofollow" target="_blank">https://threedots.tech/post/safer-enums-in-go/</a>
+</li>
+<li> 把 asci 输出转化为 svg  <a href="https://github.com/wader/ansisvg" rel="nofollow" target="_blank">https://github.com/wader/ansisvg</a>
+</li>
+<li>编辑: 阿章</li>
+<li>订阅新闻: <a href="http://tinyletter.com/gocn" rel="nofollow" target="_blank">http://tinyletter.com/gocn</a>
+</li>
+<li>招聘专区: <a href="https://gocn.vip/jobs" rel="nofollow" target="_blank">https://gocn.vip/jobs</a>
+</li>
+<li>GOCN 归档 <a href="https://gocn.vip/topics/17396" rel="nofollow" target="_blank">https://gocn.vip/topics/17396</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-10-08)</p></h3><ol>
 <li>理解 Go 切片的 cap 和 len <a href="https://gosamples.dev/capacity-and-length/" rel="nofollow" target="_blank">https://gosamples.dev/capacity-and-length/</a>
 </li>
 <li>Go1.17.2 与 1.16.9 更新,修复安全问题 <a href="https://groups.google.com/g/golang-announce/c/AEBu9j7yj5A" rel="nofollow" target="_blank">https://groups.google.com/g/golang-announce/c/AEBu9j7yj5A</a>
