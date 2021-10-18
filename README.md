@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-10-15)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-10-18)</p></h3><ol>
+<li>Tailscale 公司的 Go linker 优化 <a href="https://tailscale.com/blog/go-linker/" rel="nofollow" target="_blank">https://tailscale.com/blog/go-linker/</a>
+</li>
+<li>Go 一些外部库的性能测试 <a href="https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a" rel="nofollow" target="_blank">https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a</a>
+</li>
+<li>BFE Ingress Controller 正式发布！ <a href="https://mp.weixin.qq.com/s/7eia0WM9kbEBXKMPSlOT3A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/7eia0WM9kbEBXKMPSlOT3A</a>
+</li>
+<li>Golang 语言极简 HTTP 客户端 GoRequest <a href="https://mp.weixin.qq.com/s/vvzu_KDejpQ4rJUsT2wD_A" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/vvzu_KDejpQ4rJUsT2wD_A</a>
+</li>
+<li>听说，99% 的 Go 程序员都被 defer 坑过 <a href="https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-10-15)</p></h3><ol>
 <li> 使用 go-metrics 在 Go 应用中增加度量<a href="https://mp.weixin.qq.com/s/sCGGwKjVnFsFQQk5fXw8sw" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/sCGGwKjVnFsFQQk5fXw8sw</a>
 </li>
 <li> 简单身份认证服务器你 <a href="https://github.com/reugn/auth-server" rel="nofollow" target="_blank">https://github.com/reugn/auth-server</a> </li>
