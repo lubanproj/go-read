@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-10-18)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-10-19)</p></h3><ol>
+<li>一套优雅的 Go 错误问题解决方案 <a href="https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ</a>
+</li>
+<li>基于 tcpdump 原理手写抓包程序 <a href="https://mp.weixin.qq.com/s/8B5sjrufaGWBYgjqvw6GlQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/8B5sjrufaGWBYgjqvw6GlQ</a>
+</li>
+<li>Go 开源说第十七期 分布式事务 DTM <a href="https://mp.weixin.qq.com/s/5jAIHaIpO-Dk4F2kJzWQAQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/5jAIHaIpO-Dk4F2kJzWQAQ</a>
+</li>
+<li>在 GO 中, 你不需要用于文件遍历的开源库 <a href="https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations" rel="nofollow" target="_blank">https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations</a>
+</li>
+<li>WebAssembly 能够快速执行的原因 <a href="https://zhuanlan.zhihu.com/p/422541443" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/422541443</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-10-18)</p></h3><ol>
 <li>Tailscale 公司的 Go linker 优化 <a href="https://tailscale.com/blog/go-linker/" rel="nofollow" target="_blank">https://tailscale.com/blog/go-linker/</a>
 </li>
 <li>Go 一些外部库的性能测试 <a href="https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a" rel="nofollow" target="_blank">https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a</a>
