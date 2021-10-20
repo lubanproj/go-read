@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-10-19)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻（2021-10-20）</p></h3><ol>
+<li>Golang 实现的中以隐私为重点的开源客户数据平台 <a href="https://github.com/rudderlabs/rudder-server" rel="nofollow" target="_blank">https://github.com/rudderlabs/rudder-server</a>
+</li>
+<li>Golang 中你不需要用于文件遍历的库 <a href="https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations" rel="nofollow" target="_blank">https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations</a>
+</li>
+<li>为什么你应该在 Go 中使用专用的构造函数 <a href="https://web3.coach/golang-why-you-should-use-constructors" rel="nofollow" target="_blank">https://web3.coach/golang-why-you-should-use-constructors</a>
+</li>
+<li>高性能 Redis-Server 多线程框架，基于 rawepoll 模型 <a href="https://github.com/IceFireDB/redhub" rel="nofollow" target="_blank">https://github.com/IceFireDB/redhub</a>
+</li>
+<li>Go 在 flow 中的开发 <a href="https://susamn.medium.com/be-in-the-flow-with-idiomatic-go-development-58058326bffe" rel="nofollow" target="_blank">https://susamn.medium.com/be-in-the-flow-with-idiomatic-go-development-58058326bffe</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-10-19)</p></h3><ol>
 <li>一套优雅的 Go 错误问题解决方案 <a href="https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ</a>
 </li>
 <li>基于 tcpdump 原理手写抓包程序 <a href="https://mp.weixin.qq.com/s/8B5sjrufaGWBYgjqvw6GlQ" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/8B5sjrufaGWBYgjqvw6GlQ</a>
