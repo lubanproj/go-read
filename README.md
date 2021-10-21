@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻（2021-10-20）</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-10-21)</p></h3><ol>
+<li>Go+ 1.0 发布会干货分享 <a href="https://mp.weixin.qq.com/s/pMRAaqChxj_Aw45EnagoUA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pMRAaqChxj_Aw45EnagoUA</a>
+</li>
+<li>casbin: 一款用户权限控制库 <a href="https://ridouku.medium.com/casbin-an-alternative-to-validate-user-permissions-fd21fadc2b3a" rel="nofollow" target="_blank">https://ridouku.medium.com/casbin-an-alternative-to-validate-user-permissions-fd21fadc2b3a</a>
+</li>
+<li>HTTP 开发与单测的一些模式 <a href="https://itnext.io/some-patterns-for-http-and-unit-testing-in-go-221097a0597b" rel="nofollow" target="_blank">https://itnext.io/some-patterns-for-http-and-unit-testing-in-go-221097a0597b</a>
+</li>
+<li>snaky: 使用 Go 编写的终端贪吃蛇游戏 <a href="https://github.com/twiny/snaky" rel="nofollow" target="_blank">https://github.com/twiny/snaky</a>
+</li>
+<li>软件设计原则在 Go 开发的实践 <a href="https://medium.com/prysmatic-labs/software-design-principles-applied-to-go-48c1dacfc37f" rel="nofollow" target="_blank">https://medium.com/prysmatic-labs/software-design-principles-applied-to-go-48c1dacfc37f</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻（2021-10-20）</p></h3><ol>
 <li>Golang 实现的中以隐私为重点的开源客户数据平台 <a href="https://github.com/rudderlabs/rudder-server" rel="nofollow" target="_blank">https://github.com/rudderlabs/rudder-server</a>
 </li>
 <li>Golang 中你不需要用于文件遍历的库 <a href="https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations" rel="nofollow" target="_blank">https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations</a>
