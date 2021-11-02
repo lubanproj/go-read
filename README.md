@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-10-21)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-11-02)</p></h3><ol>
+<li>在 Go 项目中基于本地内存缓存的实现及应用 <a href="https://gocn.vip/topics/17441" rel="nofollow" target="_blank">https://gocn.vip/topics/17441</a>
+</li>
+<li>定位并修复 Go 中的内存泄漏 <a href="https://gocn.vip/topics/17437" rel="nofollow" target="_blank">https://gocn.vip/topics/17437</a>
+</li>
+<li>Kubernetes 网络方案——炫酷的 Cilium <a href="https://zhuanlan.zhihu.com/p/415695076" rel="nofollow" target="_blank">https://zhuanlan.zhihu.com/p/415695076</a>
+</li>
+<li>proposal: spec: 禁止在字符串文字中使用 LTR/RTL 字符？ <a href="https://github.com/golang/go/issues/20209" rel="nofollow" target="_blank">https://github.com/golang/go/issues/20209</a>
+</li>
+<li>Gopher 圣诞日历 <a href="https://golang.christmas/" rel="nofollow" target="_blank">https://golang.christmas/</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-10-21)</p></h3><ol>
 <li>Go+ 1.0 发布会干货分享 <a href="https://mp.weixin.qq.com/s/pMRAaqChxj_Aw45EnagoUA" rel="nofollow" target="_blank">https://mp.weixin.qq.com/s/pMRAaqChxj_Aw45EnagoUA</a>
 </li>
 <li>casbin: 一款用户权限控制库 <a href="https://ridouku.medium.com/casbin-an-alternative-to-validate-user-permissions-fd21fadc2b3a" rel="nofollow" target="_blank">https://ridouku.medium.com/casbin-an-alternative-to-validate-user-permissions-fd21fadc2b3a</a>
