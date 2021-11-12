@@ -4,7 +4,18 @@
 
 ## [gocn_news__2019](https://github.com/lubanproj/go_read/blob/master/GoCN_news_2019.md)
 
-<br><h3><p>GoCN 每日新闻 (2021-11-02)</p></h3><ol>
+<br><h3><p>GoCN 每日新闻 (2021-11-12)</p></h3><ol>
+<li> 官方的 2021go 开发者调查 <a href="https://go.dev/blog/survey2021" rel="nofollow" target="_blank">https://go.dev/blog/survey2021</a>
+</li>
+<li> 错误 nil check 失败在 Group.Wait 上 <a href="https://github.com/hashicorp/go-multierror/issues/57" rel="nofollow" target="_blank">https://github.com/hashicorp/go-multierror/issues/57</a>
+</li>
+<li> 当 key 是动态的时候如何序列化 json 为 Struct <a href="https://www.reddit.com/r/golang/comments/qrgswp/struct_for_json_where_key_is_variable/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/qrgswp/struct_for_json_where_key_is_variable/</a>
+</li>
+<li>  go 语言 native UI 绑定<a href="https://www.reddit.com/r/golang/comments/qr8lkm/are_there_native_bindings_for_native_ui/" rel="nofollow" target="_blank">https://www.reddit.com/r/golang/comments/qr8lkm/are_there_native_bindings_for_native_ui/</a>
+</li>
+<li>在浏览器里签名、验证、加密、解密 JPG 使用 go wasm pwa <a href="https://github.com/pojntfx/keygaen" rel="nofollow" target="_blank">https://github.com/pojntfx/keygaen</a>
+</li>
+</ol><hr><h3><p>GoCN 每日新闻 (2021-11-02)</p></h3><ol>
 <li>在 Go 项目中基于本地内存缓存的实现及应用 <a href="https://gocn.vip/topics/17441" rel="nofollow" target="_blank">https://gocn.vip/topics/17441</a>
 </li>
 <li>定位并修复 Go 中的内存泄漏 <a href="https://gocn.vip/topics/17437" rel="nofollow" target="_blank">https://gocn.vip/topics/17437</a>
